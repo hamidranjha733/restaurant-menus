@@ -1,0 +1,263 @@
+{
+  "slug": "texas-roadhouse-menu",
+  "brand": "Texas Roadhouse",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/texas-roadhouse-menu/",
+
+  "seo": {
+    "meta_title": "Texas Roadhouse Menu With Prices & Calories (2026)",
+    "meta_description": "Full Texas Roadhouse menu with prices for 2026. Hand-cut steaks, ribs, combos, chicken, seafood, sides, kids meals and desserts. Prices vary by location.",
+    "h1": "Texas Roadhouse Menu With Prices (2026)",
+    "primary_keyword": "texas roadhouse menu with prices",
+    "keyword_volume": 37000,
+    "keyword_kd": 0
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location, time, and current promotions. Last updated October 2026.",
+
+  "intro": "Texas Roadhouse is an American steakhouse known for hand-cut steaks, fall-off-the-bone ribs, made-from-scratch sides, and fresh-baked bread with cinnamon butter. Below is the full Texas Roadhouse menu with prices for 2026, broken down by category. Every steak and entree comes with your choice of two sides.",
+
+  "menu": [
+    {
+      "category": "Just For Starters",
+      "items": [
+        { "name": "Cactus Blossom", "size": "", "price": "$7.99" },
+        { "name": "Fried Pickles", "size": "", "price": "$6.99" },
+        { "name": "Rattlesnake Bites", "size": "", "price": "$7.99" },
+        { "name": "Tater Skins", "size": "", "price": "$7.99" },
+        { "name": "Grilled Shrimp Appetizer", "size": "", "price": "$7.99" },
+        { "name": "Boneless Buffalo Wings", "size": "", "price": "$9.99" },
+        { "name": "Cheese Fries", "size": "", "price": "$8.99" },
+        { "name": "Killer Ribs", "size": "", "price": "$11.99" },
+        { "name": "Texas Red Chili", "size": "Cup", "price": "$3.99" },
+        { "name": "Texas Red Chili", "size": "Bowl", "price": "$4.99" },
+        { "name": "Combo Appetizer", "size": "", "price": "$12.99" },
+        { "name": "Queso", "size": "", "price": "$6.99" }
+      ]
+    },
+    {
+      "category": "Hand-Cut Steaks",
+      "note": "Served with your choice of two sides.",
+      "items": [
+        { "name": "Hand-Cut Sirloin", "size": "6 oz", "price": "$13.99" },
+        { "name": "Hand-Cut Sirloin", "size": "8 oz", "price": "$15.99" },
+        { "name": "Hand-Cut Sirloin", "size": "11 oz", "price": "$18.99" },
+        { "name": "Hand-Cut Sirloin", "size": "16 oz", "price": "$22.99" },
+        { "name": "New York Strip", "size": "8 oz", "price": "$17.49" },
+        { "name": "New York Strip", "size": "12 oz", "price": "$21.99" },
+        { "name": "Dallas Filet", "size": "6 oz", "price": "$21.99" },
+        { "name": "Dallas Filet", "size": "8 oz", "price": "$24.99" },
+        { "name": "Porterhouse T-Bone", "size": "", "price": "$32.99" },
+        { "name": "Road Kill", "size": "", "price": "$12.49" },
+        { "name": "Steak Kabob", "size": "", "price": "$14.99" },
+        { "name": "Ft. Worth Ribeye", "size": "12 oz", "price": "$22.49" },
+        { "name": "Ft. Worth Ribeye", "size": "14 oz", "price": "$24.49" },
+        { "name": "Ft. Worth Ribeye", "size": "16 oz", "price": "$26.49" },
+        { "name": "Bone-In Ribeye", "size": "", "price": "$29.49" },
+        { "name": "Filet Medallions", "size": "", "price": "$21.99" }
+      ]
+    },
+    {
+      "category": "Fall-Off-The-Bone Ribs",
+      "items": [
+        { "name": "Slab Ribs", "size": "Half", "price": "$17.99" },
+        { "name": "Slab Ribs", "size": "Full", "price": "$22.99" }
+      ]
+    },
+    {
+      "category": "Texas Size Combos",
+      "note": "Served with your choice of two sides.",
+      "items": [
+        { "name": "Grilled BBQ Chicken & Ribs", "size": "", "price": "$20.49" },
+        { "name": "Grilled BBQ Chicken & Sirloin", "size": "6 oz", "price": "$22.99" },
+        { "name": "Chicken Critters & Ribs", "size": "", "price": "$17.99" },
+        { "name": "Chicken Critters & Sirloin", "size": "6 oz", "price": "$19.99" },
+        { "name": "Sirloin & Ribs", "size": "6 oz", "price": "$22.99" },
+        { "name": "Sirloin & Ribs", "size": "8 oz", "price": "$24.99" },
+        { "name": "Sirloin & Grilled Shrimp", "size": "6 oz", "price": "$20.99" },
+        { "name": "Sirloin & Grilled Shrimp", "size": "8 oz", "price": "$22.99" },
+        { "name": "Ribeye & Ribs", "size": "12 oz", "price": "$29.99" },
+        { "name": "Ribeye & Grilled Shrimp", "size": "12 oz", "price": "$27.99" },
+        { "name": "Filet & Ribs", "size": "6 oz", "price": "$29.49" },
+        { "name": "Filet & Grilled Shrimp", "size": "6 oz", "price": "$27.49" }
+      ]
+    },
+    {
+      "category": "Dockside Favorites",
+      "items": [
+        { "name": "Grilled Salmon", "size": "5 oz", "price": "$15.99" },
+        { "name": "Grilled Salmon", "size": "8 oz", "price": "$19.99" },
+        { "name": "Fried Catfish", "size": "3 pcs", "price": "$14.99" },
+        { "name": "Fried Catfish", "size": "4 pcs", "price": "$16.99" },
+        { "name": "Grilled Shrimp", "size": "", "price": "$16.99" }
+      ]
+    },
+    {
+      "category": "Chicken Specialties",
+      "items": [
+        { "name": "Country Fried Chicken", "size": "", "price": "$14.49" },
+        { "name": "Grilled BBQ Chicken", "size": "", "price": "$13.99" },
+        { "name": "Chicken Critters", "size": "", "price": "$13.99" },
+        { "name": "Portobello Mushroom Chicken", "size": "", "price": "$15.49" },
+        { "name": "Smothered Chicken", "size": "", "price": "$14.99" },
+        { "name": "Herb Crusted Chicken", "size": "", "price": "$14.49" }
+      ]
+    },
+    {
+      "category": "Country Dinners",
+      "items": [
+        { "name": "Grilled Pork Chops", "size": "Single", "price": "$13.99" },
+        { "name": "Grilled Pork Chops", "size": "Double", "price": "$16.99" },
+        { "name": "Pulled Pork Dinner", "size": "", "price": "$13.99" },
+        { "name": "Country Fried Sirloin", "size": "", "price": "$14.99" },
+        { "name": "Beef Tips", "size": "", "price": "$14.99" },
+        { "name": "Country Vegetable Plate", "size": "", "price": "$10.99" }
+      ]
+    },
+    {
+      "category": "Salads",
+      "items": [
+        { "name": "Grilled Chicken Salad", "size": "", "price": "$13.99" },
+        { "name": "Grilled Salmon Salad", "size": "", "price": "$15.49" },
+        { "name": "Chicken Caesar Salad", "size": "", "price": "$13.99" },
+        { "name": "Salmon Caesar Salad", "size": "", "price": "$15.49" },
+        { "name": "Chicken Critter Salad", "size": "", "price": "$13.99" },
+        { "name": "Steakhouse Filet Salad", "size": "", "price": "$16.99" },
+        { "name": "House Salad", "size": "", "price": "$4.99" },
+        { "name": "Caesar Salad", "size": "", "price": "$4.99" }
+      ]
+    },
+    {
+      "category": "Burgers & Sandwiches",
+      "items": [
+        { "name": "All-American Cheeseburger", "size": "", "price": "$11.99" },
+        { "name": "Bacon Cheeseburger", "size": "", "price": "$12.99" },
+        { "name": "Smokehouse Burger", "size": "", "price": "$13.49" },
+        { "name": "Pulled Pork Sandwich", "size": "", "price": "$12.49" },
+        { "name": "BBQ Chicken Sandwich", "size": "", "price": "$12.99" },
+        { "name": "Mushroom Jack Chicken Sandwich", "size": "", "price": "$13.49" }
+      ]
+    },
+    {
+      "category": "Sides & Extras",
+      "items": [
+        { "name": "Baked Potato", "size": "", "price": "$2.99" },
+        { "name": "Sweet Potato", "size": "", "price": "$2.99" },
+        { "name": "Steak Fries", "size": "", "price": "$2.99" },
+        { "name": "Mashed Potatoes", "size": "", "price": "$2.99" },
+        { "name": "Buttered Corn", "size": "", "price": "$2.99" },
+        { "name": "Steamed Broccoli", "size": "", "price": "$2.99" },
+        { "name": "Steamed Vegetables", "size": "", "price": "$2.99" },
+        { "name": "Green Beans", "size": "", "price": "$2.99" },
+        { "name": "Seasoned Rice", "size": "", "price": "$2.99" },
+        { "name": "Sauteed Onions", "size": "", "price": "$2.99" },
+        { "name": "Sauteed Mushrooms", "size": "", "price": "$2.99" },
+        { "name": "Grilled Shrimp Sidekick", "size": "", "price": "$7.99" },
+        { "name": "Kraft Macaroni & Cheese", "size": "", "price": "$3.98" },
+        { "name": "Extra Fresh-Baked Bread", "size": "Half Dozen", "price": "$2.49" },
+        { "name": "Extra Fresh-Baked Bread", "size": "Dozen", "price": "$4.99" },
+        { "name": "Extra Honey Cinnamon Butter", "size": "", "price": "$1.99" }
+      ]
+    },
+    {
+      "category": "Kids & Ranger Meals",
+      "items": [
+        { "name": "All-Beef Hot Dog", "size": "Original", "price": "$4.99" },
+        { "name": "All-Beef Hot Dog", "size": "Chili & Cheddar", "price": "$5.49" },
+        { "name": "Kraft Macaroni & Cheese", "size": "", "price": "$4.99" },
+        { "name": "Mini Cheeseburgers", "size": "", "price": "$6.49" },
+        { "name": "Jr. Chicken Tenders", "size": "", "price": "$6.99" },
+        { "name": "Grilled Chicken", "size": "", "price": "$6.99" },
+        { "name": "Lil' Dillo Steak Bites", "size": "", "price": "$7.99" },
+        { "name": "Ranger Meal - Chicken Critters Basket", "size": "", "price": "$8.99" },
+        { "name": "Ranger Meal - Andy's Steak", "size": "", "price": "$10.99" },
+        { "name": "Ranger Meal - Ranger Rib Basket", "size": "", "price": "$10.99" }
+      ]
+    },
+    {
+      "category": "Family Packs (Legendary Features)",
+      "items": [
+        { "name": "Family Sized Chicken Critters", "size": "", "price": "$39.99" },
+        { "name": "Family Sized BBQ Chicken", "size": "", "price": "$39.99" },
+        { "name": "Family Sized Pulled Pork", "size": "", "price": "$39.99" },
+        { "name": "Family Sized Beef Tips", "size": "", "price": "$44.99" },
+        { "name": "Family Sized Sirloins", "size": "", "price": "$49.99" },
+        { "name": "Family Sized Ribs", "size": "", "price": "$59.99" }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        { "name": "Granny's Apple Classic", "size": "", "price": "$6.99" },
+        { "name": "Strawberry Cheesecake", "size": "", "price": "$6.99" },
+        { "name": "Big Ol' Brownie", "size": "", "price": "$6.99" }
+      ]
+    },
+    {
+      "category": "Drinks & Beverages",
+      "items": [
+        { "name": "Fountain Drink (Coca-Cola, Diet Coke, Sprite, Dr Pepper, etc.)", "size": "20 oz", "price": "$1.99" },
+        { "name": "Specialty Lemonade (Wild Strawberry, Blue Crush, Red Raspberry)", "size": "20 oz", "price": "$2.49" },
+        { "name": "Iced Tea / Sweet Tea", "size": "20 oz", "price": "$1.99" },
+        { "name": "Flavored Iced Tea / Sweet Tea", "size": "20 oz", "price": "$2.49" },
+        { "name": "Iced Tea / Sweet Tea / Lemonade", "size": "Half Gallon", "price": "$3.49" },
+        { "name": "Iced Tea / Sweet Tea / Lemonade", "size": "Gallon", "price": "$5.99" }
+      ]
+    }
+  ],
+
+  "popular_items": [
+    "Cactus Blossom",
+    "Rattlesnake Bites",
+    "Bone-In Ribeye",
+    "Hand-Cut Sirloin",
+    "Fall-Off-The-Bone Ribs"
+  ],
+
+  "faqs": [
+    {
+      "q": "What are the most popular items at Texas Roadhouse?",
+      "a": "The most popular items are the Cactus Blossom appetizer, Rattlesnake Bites, the Bone-In Ribeye, the hand-cut sirloin, and the fall-off-the-bone ribs."
+    },
+    {
+      "q": "Do Texas Roadhouse steaks come with sides?",
+      "a": "Yes. Every steak and entree comes with your choice of two made-from-scratch sides, plus fresh-baked bread with cinnamon butter."
+    },
+    {
+      "q": "What is the cheapest steak at Texas Roadhouse?",
+      "a": "The Road Kill (chopped steak) is the lowest-priced steak at around $12.49, followed by the 6 oz Hand-Cut Sirloin at about $13.99."
+    },
+    {
+      "q": "Does Texas Roadhouse have a secret menu?",
+      "a": "No. Texas Roadhouse does not have a secret menu. All items are listed on their regular menu."
+    },
+    {
+      "q": "Does Texas Roadhouse offer any discounts?",
+      "a": "Yes. Joining the free VIP Club gets you coupons and a birthday reward. Military veterans and first responders get 10% off year-round, and veterans often receive a free meal on Veterans Day. Texas Roadhouse does not offer a senior discount."
+    },
+    {
+      "q": "Does Texas Roadhouse have a lunch menu?",
+      "a": "Yes. Many locations offer lunch specials and smaller lunch portions at lower prices during weekday lunch hours."
+    }
+  ],
+
+  "internal_links": [
+    "outback-steakhouse-menu",
+    "longhorn-steakhouse-menu",
+    "applebees-menu",
+    "chilis-menu",
+    "cheesecake-factory-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Texas Roadhouse."
+  },
+
+  "_data_notes": {
+    "price_source": "Verified from an established menu-prices publication (human-authored). Base figures reflect US national-typical pricing.",
+    "accuracy": "Texas Roadhouse does not publish official prices centrally; prices vary by location. Treat all prices as typical/approximate and always display the price_disclaimer.",
+    "calories": "Per-item calories intentionally left out to avoid unverified numbers. If needed, pull from the official Texas Roadhouse nutrition guide before adding a calories field per item."
+  }
+}
