@@ -1,42 +1,22 @@
 [
   {
-    "name": "Fast Food",
-    "slug": "fast-food",
-    "description": "Burgers, fries, value menus and drive-thru combos from the big US fast food chains."
+    "name": "Burgers & Shakes",
+    "slug": "burgers-shakes",
+    "description": "Burger chains and shake shops: burgers, fries, combos, value menus and shakes, with prices."
+  },
+  {
+    "name": "Chicken & Fast Food",
+    "slug": "chicken-fast-food",
+    "description": "Fried chicken, tenders, wings, Mexican fast food and other quick-service chains, with full menu prices."
+  },
+  {
+    "name": "Pizza Coffee & Subs",
+    "slug": "pizza-coffee-subs",
+    "description": "Pizza chains, coffee shops and sub sandwich chains: prices by size, sides, drinks and deals."
   },
   {
     "name": "Breakfast & Dining",
     "slug": "breakfast-dining",
     "description": "Sit-down restaurants, steakhouses, diners and breakfast chains, with full menu prices."
-  },
-  {
-    "name": "Chicken",
-    "slug": "chicken",
-    "description": "Fried chicken, tenders, wings and chicken sandwich chains."
-  },
-  {
-    "name": "Pizza",
-    "slug": "pizza",
-    "description": "Pizza chains: pies by size, sides, wings and deals."
-  },
-  {
-    "name": "Mexican",
-    "slug": "mexican",
-    "description": "Tacos, burritos, bowls and other Mexican and Tex-Mex chains."
-  },
-  {
-    "name": "Sandwiches & Subs",
-    "slug": "sandwiches-subs",
-    "description": "Sub shops, delis and sandwich chains, with prices by size."
-  },
-  {
-    "name": "Coffee & Drinks",
-    "slug": "coffee-drinks",
-    "description": "Coffee chains, drive-thru drink stands, smoothies and tea."
-  },
-  {
-    "name": "Desserts & Ice Cream",
-    "slug": "desserts-ice-cream",
-    "description": "Ice cream, frozen custard, donuts and dessert chains."
   }
 ]
