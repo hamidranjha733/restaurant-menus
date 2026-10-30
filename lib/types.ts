@@ -6,12 +6,29 @@ export interface MenuItem {
   size: string;
   /** "$12.99" */
   price: string;
+  /** Digits only, e.g. "2250". "" or missing when there is no reliable figure; never estimate. */
+  calories?: string;
 }
 
 export interface MenuSection {
   category: string;
+  /** Short paragraph under the section heading. */
+  intro?: string;
+  /** One-line note under the section heading (e.g. "Served with two sides."). */
   note?: string;
   items: MenuItem[];
+}
+
+export interface IncludedBox {
+  title: string;
+  rows: { label: string; detail: string }[];
+}
+
+export interface MakeAtHome {
+  title: string;
+  intro?: string;
+  /** Each card links to an Amazon search for `amazon_search`. */
+  cards: { name: string; blurb: string; amazon_search: string }[];
 }
 
 export interface Faq {
@@ -38,7 +55,18 @@ export interface Brand {
   last_updated: string;
   price_disclaimer: string;
   intro: string;
+  /** Short direct answer shown in a box near the top. */
+  quick_answer?: string;
+  /** A current deal, shown as a callout. */
+  hot_deal?: string;
+  /** "What comes with every meal" table. */
+  included_box?: IncludedBox;
   menu: MenuSection[];
+  /** Amazon product cards. Links carry AMAZON_ASSOCIATE_TAG from site.config.ts when set. */
+  make_at_home?: MakeAtHome;
+  /** Editorial notes for sourcing a hero photo; not rendered yet. */
+  hero_image_query?: string;
+  hero_image_note?: string;
   popular_items?: string[];
   faqs?: Faq[];
   /** Slugs of other brand pages. Ones without a JSON file yet are skipped until they exist. */

@@ -283,3 +283,88 @@ main.wrap {
 .faq p {
   margin-top: 0;
 }
+
+.muted {
+  color: var(--muted);
+}
+
+.menu-table .num {
+  text-align: right;
+  white-space: nowrap;
+}
+
+.included-table tbody th {
+  width: 45%;
+}
+
+/* Quick answer and hot deal callouts */
+.callout {
+  border-radius: var(--radius);
+  padding: 0.8rem 1rem;
+  margin: 1rem 0;
+  border: 1px solid var(--line);
+  background: var(--surface);
+}
+
+.callout p {
+  margin: 0;
+}
+
+.callout .callout-label {
+  font-weight: 800;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.25rem;
+}
+
+.quick-answer {
+  border-left: 4px solid var(--price);
+}
+
+.quick-answer .callout-label {
+  color: var(--price);
+}
+
+.hot-deal {
+  border-left: 4px solid var(--accent);
+  background: var(--accent-soft);
+}
+
+.hot-deal .callout-label {
+  color: var(--accent);
+}
+
+/* Make at home product cards */
+.product-grid {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.product-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 0.9rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+.product-card-name {
+  font-weight: 700;
+}
+
+.product-card-blurb {
+  font-size: 0.92rem;
+  color: var(--muted);
+  flex: 1;
+}
+
+.product-card a {
+  font-weight: 600;
+}

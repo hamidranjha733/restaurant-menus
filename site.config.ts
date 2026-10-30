@@ -24,6 +24,12 @@ export const SEARCH_CONSOLE_VERIFICATION = "";
  */
 export const INDEXING = false;
 
+/**
+ * Amazon Associates tracking ID (e.g. "yoursite-20") for the "make at home" product cards.
+ * Empty = cards link to plain Amazon searches and no affiliate disclosure is shown.
+ */
+export const AMAZON_ASSOCIATE_TAG = "";
+
 /** URL prefix for brand menu pages and the hub: /menu/ and /menu/<slug>/. */
 export const MENU_BASE = "/menu";
 

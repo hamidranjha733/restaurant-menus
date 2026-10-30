@@ -46,6 +46,9 @@ export const priceNumber = (price: string) => Number(price.replace("$", ""));
 /** "Hand-Cut Sirloin (6 oz)" */
 export const itemLabel = (name: string, size: string) => (size ? `${name} (${size})` : name);
 
+/** "2250" -> "2,250" */
+export const formatCalories = (calories: string) => Number(calories).toLocaleString("en-US");
+
 /** "2026-10" -> "October 2026"; "2026-10-05" -> "October 5, 2026" */
 export function formatDate(value: string): string {
   const [y, m, d] = value.split("-").map(Number);
@@ -83,6 +86,7 @@ export function brandJsonLd(brand: Brand) {
           "@type": "MenuItem",
           name: itemLabel(item.name, item.size),
           offers: { "@type": "Offer", price: priceNumber(item.price).toFixed(2), priceCurrency: "USD" },
+          ...(item.calories ? { nutrition: { "@type": "NutritionInformation", calories: `${item.calories} calories` } } : {}),
         })),
       })),
     },

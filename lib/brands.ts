@@ -9,7 +9,8 @@ const BRANDS_DIR = path.join(process.cwd(), "data", "brands");
 export const CATEGORIES: Category[] = categoriesJson;
 
 const PRICE_RE = /^\$\d{1,4}(\.\d{2})?$/;
-const DATE_RE = /^\d{4}-\d{2}(-\d{2})?$/;
+const CALORIES_RE = /^\d{1,5}$/;
+const DATE_RE =/^\d{4}-\d{2}(-\d{2})?$/;
 const SLUG_RE = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 
 /**
@@ -43,9 +44,18 @@ function validate(b: Brand, file: string): string[] {
       need(item.name, `an item in "${section.category}" has no name`);
       need(typeof item.size === "string", `"${item.name}" needs a size ("" if none)`);
       need(PRICE_RE.test(item.price ?? ""), `"${item.name}" price "${item.price}" must look like $12.99`);
+      need(!item.calories || CALORIES_RE.test(item.calories), `"${item.name}" calories "${item.calories}" must be digits only, or ""`);
     }
   }
   for (const faq of b.faqs ?? []) need(faq.q && faq.a, "every FAQ needs q and a");
+  if (b.included_box) {
+    need(b.included_box.title && b.included_box.rows?.length, "included_box needs a title and at least one row");
+    for (const row of b.included_box.rows ?? []) need(row.label && row.detail, "every included_box row needs label and detail");
+  }
+  if (b.make_at_home) {
+    need(b.make_at_home.title && b.make_at_home.cards?.length, "make_at_home needs a title and at least one card");
+    for (const card of b.make_at_home.cards ?? []) need(card.name && card.blurb && card.amazon_search, "every make_at_home card needs name, blurb and amazon_search");
+  }
   return errors;
 }
 

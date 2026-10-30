@@ -1,8 +1,9 @@
 import { notFound } from "next/navigation";
+import { AMAZON_ASSOCIATE_TAG } from "@/site.config";
 import { BrandList } from "@/components/BrandList";
 import { Breadcrumbs, JsonLd } from "@/components/Layout";
 import { brandPath, categoryPath, getBrand, getBrands, getCategory, getRelatedBrands } from "@/lib/brands";
-import { brandCrumbs, brandJsonLd, formatDate, pageMetadata, priceNumber } from "@/lib/seo";
+import { brandCrumbs, brandJsonLd, formatCalories, formatDate, pageMetadata, priceNumber } from "@/lib/seo";
 import type { MenuSection } from "@/lib/types";
 
 export const dynamicParams = false;
@@ -32,6 +33,9 @@ function priceRange(section: MenuSection): string {
   return low === high ? `$${low.toFixed(2)}` : `$${low.toFixed(2)} - $${high.toFixed(2)}`;
 }
 
+const amazonSearchUrl = (query: string) =>
+  `https://www.amazon.com/s?k=${encodeURIComponent(query)}${AMAZON_ASSOCIATE_TAG ? `&tag=${encodeURIComponent(AMAZON_ASSOCIATE_TAG)}` : ""}`;
+
 export default async function BrandMenuPage({ params }: { params: Promise<{ slug: string }> }) {
   const brand = getBrand((await params).slug);
   if (!brand) notFound();
@@ -51,10 +55,42 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
         </p>
       </header>
 
+      {brand.quick_answer ? (
+        <aside className="callout quick-answer" aria-label="Quick answer">
+          <p className="callout-label">Quick answer</p>
+          <p>{brand.quick_answer}</p>
+        </aside>
+      ) : null}
+
       <p className="lead">{brand.intro}</p>
       <p className="disclaimer" role="note">
         {brand.price_disclaimer}
       </p>
+
+      {brand.hot_deal ? (
+        <aside className="callout hot-deal" aria-label="Current deal">
+          <p className="callout-label">Hot deal</p>
+          <p>{brand.hot_deal}</p>
+        </aside>
+      ) : null}
+
+      {brand.included_box ? (
+        <section aria-labelledby="included">
+          <h2 id="included">{brand.included_box.title}</h2>
+          <div className="table-scroll">
+            <table className="menu-table included-table">
+              <tbody>
+                {brand.included_box.rows.map((row) => (
+                  <tr key={row.label}>
+                    <th scope="row">{row.label}</th>
+                    <td>{row.detail}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      ) : null}
 
       <section aria-labelledby="at-a-glance">
         <h2 id="at-a-glance">{brand.brand} prices at a glance</h2>
@@ -93,34 +129,67 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
         </section>
       ) : null}
 
-      {brand.menu.map((section) => (
-        <section key={section.category} aria-labelledby={sectionId(section.category)}>
-          <h2 id={sectionId(section.category)}>
-            {brand.brand} {section.category} Prices
-          </h2>
-          {section.note ? <p className="section-note">{section.note}</p> : null}
-          <div className="table-scroll">
-            <table className="menu-table">
-              <thead>
-                <tr>
-                  <th scope="col">Item</th>
-                  <th scope="col">Size</th>
-                  <th scope="col">Price</th>
-                </tr>
-              </thead>
-              <tbody>
-                {section.items.map((item, i) => (
-                  <tr key={`${item.name}-${item.size}-${i}`}>
-                    <th scope="row">{item.name}</th>
-                    <td>{item.size || "-"}</td>
-                    <td className="price">{item.price}</td>
+      {brand.menu.map((section) => {
+        // The calories column appears only in sections that have at least one figure.
+        const hasCalories = section.items.some((item) => item.calories);
+        return (
+          <section key={section.category} aria-labelledby={sectionId(section.category)}>
+            <h2 id={sectionId(section.category)}>
+              {brand.brand} {section.category} Prices
+            </h2>
+            {section.intro ? <p>{section.intro}</p> : null}
+            {section.note ? <p className="section-note">{section.note}</p> : null}
+            <div className="table-scroll">
+              <table className="menu-table">
+                <thead>
+                  <tr>
+                    <th scope="col">Item</th>
+                    <th scope="col">Size</th>
+                    {hasCalories ? (
+                      <th scope="col" className="num">
+                        Calories
+                      </th>
+                    ) : null}
+                    <th scope="col" className="num">
+                      Price
+                    </th>
                   </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
+                </thead>
+                <tbody>
+                  {section.items.map((item, i) => (
+                    <tr key={`${item.name}-${item.size}-${i}`}>
+                      <th scope="row">{item.name}</th>
+                      <td>{item.size || "-"}</td>
+                      {hasCalories ? <td className="num">{item.calories ? formatCalories(item.calories) : "-"}</td> : null}
+                      <td className="price">{item.price}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </section>
+        );
+      })}
+
+      {brand.make_at_home ? (
+        <section aria-labelledby="make-at-home">
+          <h2 id="make-at-home">{brand.make_at_home.title}</h2>
+          {brand.make_at_home.intro ? <p>{brand.make_at_home.intro}</p> : null}
+          {/* Affiliate disclosure sits above the links so readers see it before clicking. */}
+          {AMAZON_ASSOCIATE_TAG ? <p className="small muted">As an Amazon Associate we earn from qualifying purchases.</p> : null}
+          <ul className="product-grid">
+            {brand.make_at_home.cards.map((card) => (
+              <li key={card.name} className="product-card">
+                <span className="product-card-name">{card.name}</span>
+                <span className="product-card-blurb">{card.blurb}</span>
+                <a href={amazonSearchUrl(card.amazon_search)} rel="sponsored nofollow noopener" target="_blank">
+                  See options on Amazon
+                </a>
+              </li>
+            ))}
+          </ul>
         </section>
-      ))}
+      ) : null}
 
       {brand.faqs?.length ? (
         <section aria-labelledby="faq">

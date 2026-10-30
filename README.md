@@ -38,11 +38,15 @@ Add `data/brands/<slug>.json`. The file name must equal `slug`, and the page goe
 | `last_updated` | `YYYY-MM` or `YYYY-MM-DD` |
 | `price_disclaimer` | Shown at the top and bottom of the page |
 | `intro` | Opening paragraph |
-| `menu[]` | `{ category, note?, items: [{ name, size, price }] }`. `size` is `""` when there is one size; `price` is `$12.99` |
+| `menu[]` | `{ category, intro?, note?, items: [{ name, size, price, calories? }] }`. `size` is `""` when there is one size; `price` is `$12.99`; `calories` is digits only or `""` (never estimate). A Calories column appears only in sections with at least one figure, and calories go into the Menu JSON-LD |
+| `quick_answer` | Optional short answer shown in a box above the intro |
+| `hot_deal` | Optional current deal, shown as a callout under the disclaimer |
+| `included_box` | Optional `{ title, rows: [{ label, detail }] }` table, e.g. what comes free with every meal |
+| `make_at_home` | Optional `{ title, intro?, cards: [{ name, blurb, amazon_search }] }`. Each card links to an Amazon search with `rel="sponsored nofollow"`. Set `AMAZON_ASSOCIATE_TAG` in `site.config.ts` to add your tracking ID and show the Amazon disclosure |
 | `popular_items[]` | Optional list |
 | `faqs[]` | Optional `{ q, a }`; rendered on the page and as FAQPage JSON-LD |
 | `internal_links[]` | Slugs of other brands. Links to brands not added yet are skipped and appear on their own once that JSON exists. The related list is topped up with other brands in the same category |
-| `seo.primary_keyword`, `seo.keyword_*`, `schema`, `_data_notes` | Editorial only, never rendered |
+| `seo.primary_keyword`, `seo.keyword_*`, `schema`, `hero_image_query`, `hero_image_note`, `_data_notes` | Editorial only, never rendered |
 
 The build validates every brand file and fails with a list of problems (unknown category, bad price format, title too long and so on), so a typo never ships as a broken page.
 
@@ -58,6 +62,7 @@ Site name, domain, tagline, contact email, Search Console code, nav and:
 
 - `INDEXING` (default `false`): every page gets `noindex, nofollow` and robots.txt disallows everything. Set it to `true` once the real domain is live.
 - `MENU_BASE` (default `/menu`): the prefix for the hub and brand pages.
+- `AMAZON_ASSOCIATE_TAG` (default empty): Amazon tracking ID for the `make_at_home` cards.
 
 `SITE_NAME` and `DOMAIN` are placeholders: set them before launch.
 
