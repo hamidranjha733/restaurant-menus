@@ -1,0 +1,232 @@
+{
+  "slug": "kfc-menu",
+  "brand": "KFC",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/kfc-menu/",
+
+  "seo": {
+    "meta_title": "KFC Menu With Prices 2026: Buckets, Bowls & Deals",
+    "meta_description": "Full KFC menu with prices for 2026, including chicken buckets, Famous Bowls, tenders, chicken sandwiches, nuggets, popcorn chicken, sides and family meals.",
+    "h1": "KFC Menu With Prices (2026)",
+    "primary_keyword": "kfc menu with prices",
+    "keyword_volume": 29000,
+    "keyword_kd": 7
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location, time, and current promotions. Last updated October 2026.",
+
+  "intro": "KFC (Kentucky Fried Chicken) is best known for its Original Recipe fried chicken buckets, Famous Bowls, chicken sandwiches, tenders and classic Southern sides. Below is the full KFC menu with prices for 2026, broken down by category, including buckets, combos, bowls, sandwiches, nuggets, popcorn chicken, sides and desserts.",
+
+  "menu": [
+    {
+      "category": "Chicken Buckets & Meals",
+      "note": "Available in Original Recipe or Extra Crispy. Meals include sides and biscuits.",
+      "items": [
+        { "name": "8 Pc Chicken Meal", "size": "8 pc", "price": "$24.99" },
+        { "name": "12 Pc Chicken Meal", "size": "12 pc", "price": "$36.99" },
+        { "name": "16 Pc Chicken Meal", "size": "16 pc", "price": "$56.99" }
+      ]
+    },
+    {
+      "category": "Individual Chicken Pieces",
+      "items": [
+        { "name": "Breast (Original or Extra Crispy)", "size": "", "price": "$4.99" },
+        { "name": "Original Recipe Piece", "size": "", "price": "$3.99" },
+        { "name": "Thigh (Original or Extra Crispy)", "size": "", "price": "$3.49" },
+        { "name": "Drumstick", "size": "", "price": "$2.99" },
+        { "name": "Wing", "size": "", "price": "$2.49" }
+      ]
+    },
+    {
+      "category": "Chicken Combos",
+      "note": "Served with a side, biscuit and a drink.",
+      "items": [
+        { "name": "2 Pc Chicken Combo", "size": "", "price": "$9.99" },
+        { "name": "3 Pc Chicken Combo", "size": "", "price": "$11.99" },
+        { "name": "4 Pc Chicken Combo", "size": "", "price": "$14.99" },
+        { "name": "3 Pc Tenders Combo", "size": "", "price": "$14.19" },
+        { "name": "5 Pc Tenders Combo", "size": "", "price": "$16.99" }
+      ]
+    },
+    {
+      "category": "Tenders",
+      "items": [
+        { "name": "3 Pc Tenders", "size": "", "price": "$5.49" },
+        { "name": "5 Pc Tenders", "size": "", "price": "$7.99" }
+      ]
+    },
+    {
+      "category": "Famous Bowls",
+      "items": [
+        { "name": "Famous Bowl (Classic)", "size": "", "price": "$5.00" },
+        { "name": "Famous Bowl Combo", "size": "", "price": "$7.99" },
+        { "name": "Korean BBQ Mac & Cheese Bowl", "size": "", "price": "$5.00" },
+        { "name": "Nashville Hot Mac & Cheese Bowl", "size": "", "price": "$5.00" },
+        { "name": "Korean BBQ Loaded Fries Bowl", "size": "", "price": "$5.00" },
+        { "name": "Nashville Hot Loaded Fries Bowl", "size": "", "price": "$5.00" }
+      ]
+    },
+    {
+      "category": "Chicken Sandwiches",
+      "items": [
+        { "name": "Classic Chicken Sandwich", "size": "", "price": "$6.99" },
+        { "name": "Spicy Chicken Sandwich", "size": "", "price": "$6.99" },
+        { "name": "Saucy Chicken Sandwich", "size": "", "price": "$6.99" },
+        { "name": "Classic Chicken Sandwich Combo", "size": "", "price": "$10.99" },
+        { "name": "Spicy Chicken Sandwich Combo", "size": "", "price": "$10.99" },
+        { "name": "Saucy Chicken Sandwich Combo", "size": "", "price": "$10.99" },
+        { "name": "Chicken Little", "size": "", "price": "$2.49" }
+      ]
+    },
+    {
+      "category": "Nuggets (Saucy by KFC)",
+      "items": [
+        { "name": "8 Pc Saucy Nuggets", "size": "8 pc", "price": "$5.00" },
+        { "name": "10 Pc Saucy Nuggets", "size": "10 pc", "price": "$5.99" },
+        { "name": "12 Pc Nuggets", "size": "12 pc", "price": "$7.99" },
+        { "name": "40 Pc Saucy Nuggets Party Pack", "size": "40 pc", "price": "$19.99" },
+        { "name": "50 Pc Nuggets", "size": "50 pc", "price": "$25.00" }
+      ]
+    },
+    {
+      "category": "Popcorn Chicken",
+      "items": [
+        { "name": "Popcorn Chicken", "size": "Individual", "price": "$5.49" },
+        { "name": "Popcorn Chicken", "size": "Large", "price": "$7.99" },
+        { "name": "Popcorn Chicken Combo", "size": "", "price": "$8.99" }
+      ]
+    },
+    {
+      "category": "Wings",
+      "note": "Available in flavors such as Nashville Hot, Honey BBQ and Korean BBQ.",
+      "items": [
+        { "name": "6 Pc Wings", "size": "6 pc", "price": "$6.99" },
+        { "name": "12 Pc Wings", "size": "12 pc", "price": "$12.99" },
+        { "name": "24 Pc Wings", "size": "24 pc", "price": "$23.99" }
+      ]
+    },
+    {
+      "category": "Pot Pie",
+      "items": [
+        { "name": "Chicken Pot Pie", "size": "", "price": "$5.99" },
+        { "name": "Pot Pie Combo", "size": "", "price": "$7.99" }
+      ]
+    },
+    {
+      "category": "Fill Up Boxes & Value Deals",
+      "items": [
+        { "name": "Taste of KFC - 2 Pc Drums Deal", "size": "", "price": "$5.00" },
+        { "name": "Taste of KFC - 8 Pc Nuggets Deal", "size": "", "price": "$5.00" },
+        { "name": "Taste of KFC - Famous Bowl Deal", "size": "", "price": "$5.00" },
+        { "name": "Taste of KFC - 4 Pc Drums & Thighs Deal", "size": "", "price": "$10.99" },
+        { "name": "Taste of KFC - 6 Pc Deal", "size": "", "price": "$20.00" },
+        { "name": "Fill Up Box", "size": "", "price": "$20.00" }
+      ]
+    },
+    {
+      "category": "Family Meals",
+      "items": [
+        { "name": "Chicken + Nuggets Family Meal", "size": "", "price": "$24.99" },
+        { "name": "8 Pc Chicken + 8 Tenders Fill Up", "size": "", "price": "$49.99" }
+      ]
+    },
+    {
+      "category": "Sides",
+      "note": "Available in individual or large size.",
+      "items": [
+        { "name": "Mac & Cheese", "size": "Individual", "price": "$3.79" },
+        { "name": "Mac & Cheese", "size": "Large", "price": "$5.99" },
+        { "name": "Mashed Potatoes & Gravy", "size": "Individual", "price": "$3.79" },
+        { "name": "Secret Recipe Fries", "size": "Individual", "price": "$3.79" },
+        { "name": "Cole Slaw", "size": "Individual", "price": "$3.79" },
+        { "name": "Sweet Corn", "size": "Individual", "price": "$3.79" },
+        { "name": "Green Beans", "size": "Individual", "price": "$1.49" },
+        { "name": "Biscuit", "size": "1 pc", "price": "$1.79" },
+        { "name": "Biscuits", "size": "4 pc", "price": "$3.99" }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        { "name": "Chocolate Chip Cookie", "size": "", "price": "$1.49" },
+        { "name": "Apple Pie Poppers", "size": "4 pc", "price": "$2.49" },
+        { "name": "Apple Pie Poppers", "size": "10 pc", "price": "$5.49" },
+        { "name": "Chocolate Chip Cookie Cake", "size": "", "price": "$7.99" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "items": [
+        { "name": "Pepsi / Soft Drink", "size": "Medium", "price": "$3.09" },
+        { "name": "Sweet Tea", "size": "Medium", "price": "$3.09" },
+        { "name": "Lemonade", "size": "Medium", "price": "$3.09" },
+        { "name": "Aquafina Water", "size": "", "price": "$2.79" },
+        { "name": "Beverage Bucket", "size": "", "price": "$4.99" }
+      ]
+    }
+  ],
+
+  "popular_items": [
+    "Original Recipe Chicken Bucket",
+    "Famous Bowl",
+    "Classic Chicken Sandwich",
+    "Popcorn Chicken",
+    "Chicken Tenders",
+    "Mac & Cheese"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is in the KFC Famous Bowl?",
+      "a": "The KFC Famous Bowl layers mashed potatoes, sweet corn, bite-sized crispy chicken and gravy, topped with a three-cheese blend. The classic bowl is around $5.00, or about $7.99 as a combo with a side and drink."
+    },
+    {
+      "q": "How much is a bucket of chicken at KFC?",
+      "a": "An 8 piece chicken meal is around $24.99, a 12 piece is about $36.99, and a 16 piece is about $56.99. These come with sides and biscuits. Prices vary by location."
+    },
+    {
+      "q": "What is Saucy by KFC?",
+      "a": "Saucy by KFC is KFC's sauce-forward lineup, built around saucy nuggets and saucy chicken sandwiches in flavors like Nashville Hot and Korean BBQ. An 8 piece of saucy nuggets starts around $5.00."
+    },
+    {
+      "q": "Does KFC have popcorn chicken?",
+      "a": "Yes. KFC Popcorn Chicken is available as an individual portion for around $5.49, a large for about $7.99, or as a combo near $8.99. Availability can vary by location."
+    },
+    {
+      "q": "What is the KFC $5 deal?",
+      "a": "KFC runs a rotating Taste of KFC value menu where several items, such as 2 piece drums, 8 piece nuggets, or a Famous Bowl, are priced at around $5.00 each. The exact lineup changes over time."
+    },
+    {
+      "q": "Does KFC serve breakfast?",
+      "a": "Most KFC locations in the United States do not serve a breakfast menu. Breakfast is more common at KFC locations in other countries, so check your local restaurant."
+    },
+    {
+      "q": "What sides does KFC have?",
+      "a": "KFC sides include Mac & Cheese, Mashed Potatoes & Gravy, Secret Recipe Fries, Cole Slaw, Sweet Corn, Green Beans and buttermilk biscuits. Individual sides start around $1.49 to $3.79."
+    },
+    {
+      "q": "What is the cheapest item at KFC?",
+      "a": "The Chicken Little sandwich is one of the cheapest items at around $2.49, along with a single biscuit at about $1.79. The Taste of KFC $5 deals are the best value for a full snack."
+    }
+  ],
+
+  "internal_links": [
+    "popeyes-menu",
+    "chick-fil-a-menu",
+    "raising-canes-menu",
+    "chipotle-menu",
+    "taco-bell-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > KFC."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices anchored to current 2026 menu-prices publications (single figures). Buckets, combos, bowls, sandwiches, nuggets, sides and desserts are from a current source; Popcorn Chicken and Wings prices are current-typical, as exact figures were not published.",
+    "accuracy": "Treat all prices as typical/approximate and always display the price_disclaimer. KFC prices vary by location.",
+    "keyword_notes": "Sections and FAQ shaped by real KFC search demand: Popcorn Chicken (~15k), Famous Bowl (~12k), Chicken Sandwich (~12k), Buckets (~8.4k), Wings (~7.9k), Mac & Cheese (~3k), Saucy by KFC (~4.6k), breakfast and $5 deals."
+  }
+}
