@@ -1,0 +1,229 @@
+{
+  "slug": "olive-garden-menu",
+  "brand": "Olive Garden",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/olive-garden-menu/",
+
+  "seo": {
+    "meta_title": "Olive Garden Menu With Prices (Updated 2026)",
+    "meta_description": "Full Olive Garden menu with prices for 2026: soups, salad and breadsticks, Create Your Own Pasta, classic entrees, family meals, kids meals and desserts.",
+    "h1": "Olive Garden Menu With Prices (2026)",
+    "primary_keyword": "olive garden menu with prices",
+    "keyword_volume": 30720,
+    "keyword_kd": 0
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location, time, and current promotions. Last updated October 2026.",
+
+  "intro": "Olive Garden is an Italian-American restaurant chain famous for its unlimited soup, salad and breadsticks, Create Your Own Pasta, and classic entrees like Fettuccine Alfredo and Chicken Parmigiana. Below is the full Olive Garden menu with prices for 2026, broken down by category, including appetizers, soups and salad, pasta, chicken, seafood, family meals, kids meals and desserts.",
+
+  "menu": [
+    {
+      "category": "Appetizers",
+      "items": [
+        { "name": "Stuffed Ziti Fritta", "size": "", "price": "$12.99" },
+        { "name": "Fried Mozzarella", "size": "", "price": "$12.99" },
+        { "name": "Toasted Ravioli", "size": "", "price": "$12.99" },
+        { "name": "Meatballs Parmigiana", "size": "", "price": "$12.49" },
+        { "name": "Spinach-Artichoke Dip", "size": "", "price": "$12.99" },
+        { "name": "Lasagna Fritta", "size": "", "price": "$13.99" },
+        { "name": "Calamari", "size": "", "price": "$14.99" },
+        { "name": "Shrimp Fritto Misto", "size": "", "price": "$15.99" }
+      ]
+    },
+    {
+      "category": "Soups, Salad & Breadsticks",
+      "note": "Soup, salad and breadsticks are unlimited with these.",
+      "items": [
+        { "name": "Unlimited Soup, Salad & Breadsticks (Dinner)", "size": "", "price": "$11.99" },
+        { "name": "Unlimited Soup, Salad & Breadsticks (Weekday Lunch)", "size": "", "price": "$8.99" },
+        { "name": "Famous House Salad", "size": "Bowl", "price": "$6.99" },
+        { "name": "Zuppa Toscana", "size": "Bowl", "price": "$6.99" },
+        { "name": "Chicken & Gnocchi Soup", "size": "Bowl", "price": "$6.99" },
+        { "name": "Pasta e Fagioli", "size": "Bowl", "price": "$6.99" },
+        { "name": "Minestrone", "size": "Bowl", "price": "$6.99" }
+      ]
+    },
+    {
+      "category": "Never Ending / Unlimited Pasta",
+      "note": "Seasonal, limited-time promotion. Dine-in only.",
+      "items": [
+        { "name": "Never Ending Pasta Bowl (unlimited pasta, sauces & toppings)", "size": "", "price": "$14.99" }
+      ]
+    },
+    {
+      "category": "Create Your Own Pasta",
+      "note": "Choose your pasta, sauce and toppings. Add a protein for the price shown.",
+      "items": [
+        { "name": "Create Your Own Pasta (base)", "size": "", "price": "$12.99" },
+        { "name": "Add Grilled Chicken", "size": "", "price": "$5.00" },
+        { "name": "Add Sauteed Shrimp", "size": "", "price": "$6.00" },
+        { "name": "Add Meatballs", "size": "", "price": "$4.00" },
+        { "name": "Add Italian Sausage", "size": "", "price": "$4.00" }
+      ]
+    },
+    {
+      "category": "Classic Entrees",
+      "items": [
+        { "name": "Fettuccine Alfredo", "size": "", "price": "$13.99" },
+        { "name": "Cheese Ravioli", "size": "", "price": "$13.99" },
+        { "name": "Spaghetti & Meatballs", "size": "", "price": "$14.49" },
+        { "name": "Five Cheese Ziti al Forno", "size": "", "price": "$14.99" },
+        { "name": "Eggplant Parmigiana", "size": "", "price": "$14.99" },
+        { "name": "Lasagna Classico", "size": "", "price": "$16.99" },
+        { "name": "Chicken Parmigiana", "size": "", "price": "$17.79" },
+        { "name": "Tour of Italy", "size": "", "price": "$20.99" }
+      ]
+    },
+    {
+      "category": "Chicken",
+      "items": [
+        { "name": "Chicken Alfredo", "size": "", "price": "$17.99" },
+        { "name": "Chicken Scampi", "size": "", "price": "$17.99" },
+        { "name": "Chicken Marsala Fettuccine", "size": "", "price": "$18.29" },
+        { "name": "Stuffed Chicken Marsala", "size": "", "price": "$19.99" },
+        { "name": "Chicken & Shrimp Carbonara", "size": "", "price": "$20.29" }
+      ]
+    },
+    {
+      "category": "Seafood",
+      "items": [
+        { "name": "Shrimp Scampi", "size": "", "price": "$18.99" },
+        { "name": "Shrimp Alfredo", "size": "", "price": "$18.99" },
+        { "name": "Seafood Alfredo", "size": "", "price": "$19.99" },
+        { "name": "Herb-Grilled Salmon", "size": "", "price": "$20.99" }
+      ]
+    },
+    {
+      "category": "Beef Entrees",
+      "items": [
+        { "name": "6 oz Sirloin with Fettuccine Alfredo", "size": "", "price": "$19.99" },
+        { "name": "Steak Gorgonzola-Alfredo", "size": "", "price": "$20.99" }
+      ]
+    },
+    {
+      "category": "Weekday Lunch",
+      "note": "Available weekdays until mid-afternoon at most locations.",
+      "items": [
+        { "name": "Unlimited Soup, Salad & Breadsticks", "size": "", "price": "$8.99" },
+        { "name": "Lunch Fettuccine Alfredo", "size": "", "price": "$9.99" },
+        { "name": "Lunch Five Cheese Ziti al Forno", "size": "", "price": "$9.99" },
+        { "name": "Lunch Lasagna Classico", "size": "", "price": "$10.99" },
+        { "name": "Lunch Chicken Parmigiana", "size": "", "price": "$11.99" },
+        { "name": "Lunch Chicken Alfredo", "size": "", "price": "$11.99" }
+      ]
+    },
+    {
+      "category": "Family-Style Meals (To Go)",
+      "note": "Serves 4 to 6 unless noted. Includes salad and breadsticks.",
+      "items": [
+        { "name": "Spaghetti with Meat Sauce", "size": "Serves 4-6", "price": "$34.99" },
+        { "name": "Five Cheese Ziti al Forno", "size": "Serves 4-6", "price": "$37.99" },
+        { "name": "Lasagna Classico", "size": "Serves 4-6", "price": "$39.99" },
+        { "name": "Chicken Alfredo", "size": "Serves 4-6", "price": "$42.99" },
+        { "name": "Chicken Parmigiana", "size": "Serves 4-6", "price": "$44.99" },
+        { "name": "Large Lasagna Bundle", "size": "Serves up to 12", "price": "$65.99" }
+      ]
+    },
+    {
+      "category": "Kids Menu",
+      "note": "Each kids meal includes a side and a drink.",
+      "items": [
+        { "name": "Cheese Ravioli", "size": "", "price": "$6.99" },
+        { "name": "Macaroni & Cheese", "size": "", "price": "$6.99" },
+        { "name": "Pasta with Marinara", "size": "", "price": "$6.99" },
+        { "name": "Pasta with Alfredo Sauce", "size": "", "price": "$6.99" },
+        { "name": "Pasta with Meat Sauce", "size": "", "price": "$6.99" },
+        { "name": "Chicken Fingers & Pasta", "size": "", "price": "$6.99" },
+        { "name": "Cheese Pizza", "size": "", "price": "$6.99" },
+        { "name": "Grilled Chicken with Broccoli", "size": "", "price": "$6.99" }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        { "name": "Warm Italian Doughnuts (Zeppoli)", "size": "", "price": "$7.49" },
+        { "name": "Tiramisu", "size": "", "price": "$7.99" },
+        { "name": "Sicilian Cheesecake", "size": "", "price": "$7.99" },
+        { "name": "Strawberry Cream Cake", "size": "", "price": "$7.99" },
+        { "name": "Chocolate Lasagna", "size": "", "price": "$8.49" },
+        { "name": "Black Tie Mousse Cake", "size": "", "price": "$8.99" }
+      ]
+    },
+    {
+      "category": "Drinks & Beverages",
+      "items": [
+        { "name": "Fountain Drink", "size": "", "price": "$3.19" },
+        { "name": "Fresh Brewed Iced Tea", "size": "", "price": "$3.19" },
+        { "name": "Fruit Juice", "size": "", "price": "$2.99" },
+        { "name": "Lavazza Espresso", "size": "", "price": "$3.00" },
+        { "name": "Caffe Latte / Cappuccino", "size": "", "price": "$4.00" },
+        { "name": "Acqua Panna / San Pellegrino", "size": "1 Liter", "price": "$3.00" }
+      ]
+    }
+  ],
+
+  "popular_items": [
+    "Fettuccine Alfredo",
+    "Chicken Alfredo",
+    "Zuppa Toscana",
+    "Chicken & Gnocchi Soup",
+    "Tour of Italy",
+    "Chicken Parmigiana"
+  ],
+
+  "faqs": [
+    {
+      "q": "What soups does Olive Garden have?",
+      "a": "Olive Garden serves four soups that rotate daily: Zuppa Toscana (sausage, kale and potato in a creamy broth), Chicken & Gnocchi, Pasta e Fagioli, and Minestrone. All four are included with the unlimited soup, salad and breadsticks."
+    },
+    {
+      "q": "How much is unlimited soup, salad and breadsticks at Olive Garden?",
+      "a": "The unlimited soup, salad and breadsticks is around $8.99 at weekday lunch and about $11.99 at dinner. It includes unlimited refills of any of the four soups, the famous house salad, and warm breadsticks."
+    },
+    {
+      "q": "What is the Never Ending Pasta Bowl and is it still available?",
+      "a": "The Never Ending Pasta Bowl is a seasonal, limited-time deal, usually starting around $14.99, that lets you mix unlimited pasta, sauces and toppings. It runs for a set window each year, so check if it is currently being offered at your location."
+    },
+    {
+      "q": "Does Olive Garden have a 2 for $25 or 2 for $30 deal?",
+      "a": "Yes. Olive Garden regularly runs a two-person value deal (often promoted as 2 for $25 or 2 for $30) that includes a shared appetizer or unlimited soup and salad, two entrees, and sometimes a dessert to share. The exact price and items change with each promotion."
+    },
+    {
+      "q": "What is Tour of Italy at Olive Garden?",
+      "a": "Tour of Italy is one of Olive Garden's most popular entrees. It combines three classics on one plate: Chicken Parmigiana, Lasagna Classico, and Fettuccine Alfredo. It is priced at around $20.99."
+    },
+    {
+      "q": "Does Olive Garden have a gluten-free menu?",
+      "a": "Yes. Olive Garden offers gluten-free rotini pasta and several gluten-sensitive options, plus an allergen menu. Ask your server for the current gluten-free menu, as availability can vary by location."
+    },
+    {
+      "q": "Does Olive Garden do family meals and catering to go?",
+      "a": "Yes. Olive Garden offers family-style meals that serve four to six people, starting around $34.99, as well as larger catering trays. Popular choices include Lasagna, Chicken Alfredo and Chicken Parmigiana, served with salad and breadsticks."
+    },
+    {
+      "q": "What is the cheapest meal at Olive Garden?",
+      "a": "The best value is usually the weekday unlimited soup, salad and breadsticks at around $8.99, or Create Your Own Pasta starting near $12.99. Kids meals are about $6.99 and include a side and drink."
+    }
+  ],
+
+  "internal_links": [
+    "texas-roadhouse-menu",
+    "outback-steakhouse-menu",
+    "cheesecake-factory-menu",
+    "applebees-menu",
+    "chilis-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Olive Garden."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices anchored to current 2026 menu-prices publications. Olive Garden does not publish prices centrally and varies them heavily by location, so some figures are current-typical rather than a single official number.",
+    "accuracy": "Treat all prices as typical/approximate and always display the price_disclaimer. Olive Garden varies more by location than most chains.",
+    "keyword_notes": "Sections and FAQ shaped by real Olive Garden search demand: soups (very high volume), unlimited/never ending pasta, 2 for $25 deal, Tour of Italy, breadsticks, lunch menu, family meals, and gluten-free menu."
+  }
+}
