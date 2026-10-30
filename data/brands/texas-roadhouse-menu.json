@@ -16,8 +16,11 @@
   "last_updated": "2026-10",
   "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
 
-  "hero_image_query": "grilled ribeye steak dinner with sides on a plate",
-  "hero_image_note": "Source a free-stock food photo (Unsplash or Pexels) of a grilled steak dinner. Do not use Texas Roadhouse's own photos.",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/28292008/pexels-photo-28292008.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Grilled steak dinner with corn, tomato and rosemary on a plate",
+    "credit": "Pexels (free license)"
+  },
 
   "intro": "Texas Roadhouse is built around one simple idea: hand-cut steaks at a price most steakhouses cannot match, served in a loud, busy room with free peanuts and warm rolls. Every steak and main course comes with your choice of two sides, so the number you see on the menu is close to the number you actually pay. That is why the bill here usually lands lower than a sit-down steakhouse of the same size. Below is the full Texas Roadhouse menu with prices and calories for 2026, broken down by category, with the value picks worth knowing before you order.",
 
@@ -235,10 +238,10 @@
     "title": "Make Texas Roadhouse at Home",
     "intro": "Craving the steakhouse without the wait? These kitchen picks help you recreate the hand-cut steak and rolls at home.",
     "cards": [
-      { "name": "Steak Seasoning", "blurb": "The bold steakhouse-style rub for sirloin and ribeye.", "amazon_search": "steakhouse steak seasoning" },
-      { "name": "Cast Iron Skillet", "blurb": "Get the charred, open-grill crust at home.", "amazon_search": "cast iron skillet steak" },
-      { "name": "Instant-Read Meat Thermometer", "blurb": "Cook every steak to the exact doneness you want.", "amazon_search": "instant read meat thermometer" },
-      { "name": "Copycat Steakhouse Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+      { "icon": "🧂", "name": "Steak Seasoning", "blurb": "The bold steakhouse-style rub for sirloin and ribeye.", "amazon_search": "steakhouse steak seasoning" },
+      { "icon": "🥩", "name": "Cast Iron Skillet", "blurb": "Get the charred, open-grill crust at home.", "amazon_search": "cast iron skillet steak" },
+      { "icon": "🌡️", "name": "Instant-Read Meat Thermometer", "blurb": "Cook every steak to the exact doneness you want.", "amazon_search": "instant read meat thermometer" },
+      { "icon": "📖", "name": "Copycat Steakhouse Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
     ]
   },
 

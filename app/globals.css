@@ -9,6 +9,8 @@
   --price: #1d5e3a;
   --note-bg: #fff6df;
   --note-line: #f0d98c;
+  --cta: #c2410c;
+  --cta-hover: #9a3412;
   --radius: 10px;
   --font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
@@ -349,7 +351,7 @@ main.wrap {
   display: flex;
   flex-direction: column;
   gap: 0.35rem;
-  padding: 0.9rem 1rem;
+  padding: 0.9rem 0.85rem;
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: var(--radius);
@@ -365,6 +367,101 @@ main.wrap {
   flex: 1;
 }
 
-.product-card a {
-  font-weight: 600;
+.product-card-icon {
+  font-size: 2.6rem;
+  line-height: 1;
+  margin-bottom: 0.35rem;
+}
+
+/* Filled orange call-to-action. #c2410c on white text keeps 4.5:1 contrast. */
+.cta-button {
+  display: block;
+  margin-top: 0.6rem;
+  padding: 0.6rem 0.4rem;
+  border-radius: 8px;
+  background: var(--cta);
+  color: #fff;
+  font-size: 0.84rem;
+  font-weight: 700;
+  white-space: nowrap;
+  text-align: center;
+  text-decoration: none;
+}
+
+.cta-button:hover,
+.cta-button:focus-visible {
+  background: var(--cta-hover);
+}
+
+.disclosure-line {
+  margin-top: 0.75rem;
+}
+
+/* Hero banner: photo with the breadcrumb and H1 over a dark scrim. */
+.hero-banner {
+  margin: 1rem 0 1.5rem;
+}
+
+.hero-media {
+  position: relative;
+  height: clamp(290px, 42vw, 400px);
+  border-radius: 14px;
+  overflow: hidden;
+  /* Shows while the photo loads, or if it fails. */
+  background: linear-gradient(135deg, #3b1d14, #7a1f16);
+}
+
+.hero-media img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  /* Hides the browser's alt-text fallback if the photo fails; screen readers still get alt. */
+  color: transparent;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: auto 0 0 0;
+  padding: 3.5rem 1.25rem 1.1rem;
+  color: #fff;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.55) 35%, rgba(0, 0, 0, 0.82));
+}
+
+.hero-overlay h1 {
+  margin: 0.25rem 0 0.2rem;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.45);
+}
+
+.hero-overlay .breadcrumbs ol {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.hero-overlay a,
+.hero-overlay .meta {
+  color: #fff;
+}
+
+.hero-credit {
+  margin-top: 0.35rem;
+  font-size: 0.78rem;
+  color: var(--muted);
+  text-align: right;
+}
+
+/* Section headings on brand pages: more room above and a short accent bar. */
+.brand-page h2 {
+  margin-top: 2.6em;
+}
+
+.brand-page h2::after {
+  content: "";
+  display: block;
+  width: 48px;
+  height: 4px;
+  margin-top: 0.45rem;
+  border-radius: 2px;
+  background: var(--cta);
 }

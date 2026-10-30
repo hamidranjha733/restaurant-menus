@@ -46,14 +46,34 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
   return (
     <article className="brand-page">
       <JsonLd data={brandJsonLd(brand)} />
-      <Breadcrumbs crumbs={brandCrumbs(brand)} />
-
-      <header className="brand-header">
-        <h1>{brand.seo.h1}</h1>
-        <p className="meta">
-          <a href={categoryPath(category.slug)}>{category.name}</a> · Last updated <time dateTime={brand.last_updated}>{updated}</time>
-        </p>
-      </header>
+      {brand.hero_image ? (
+        <figure className="hero-banner">
+          <div className="hero-media">
+            {/* Remote image loaded by the visitor's browser; plain <img> because the site is a static export. */}
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src={brand.hero_image.url} alt={brand.hero_image.alt} width={1600} height={900} loading="eager" fetchPriority="high" decoding="async" />
+            <header className="brand-header hero-overlay">
+              <Breadcrumbs crumbs={brandCrumbs(brand)} />
+              <h1>{brand.seo.h1}</h1>
+              <p className="meta">
+                <a href={categoryPath(category.slug)}>{category.name}</a> · Last updated{" "}
+                <time dateTime={brand.last_updated}>{updated}</time>
+              </p>
+            </header>
+          </div>
+          {brand.hero_image.credit ? <figcaption className="hero-credit">Photo: {brand.hero_image.credit}</figcaption> : null}
+        </figure>
+      ) : (
+        <>
+          <Breadcrumbs crumbs={brandCrumbs(brand)} />
+          <header className="brand-header">
+            <h1>{brand.seo.h1}</h1>
+            <p className="meta">
+              <a href={categoryPath(category.slug)}>{category.name}</a> · Last updated <time dateTime={brand.last_updated}>{updated}</time>
+            </p>
+          </header>
+        </>
+      )}
 
       {brand.quick_answer ? (
         <aside className="callout quick-answer" aria-label="Quick answer">
@@ -175,19 +195,23 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
         <section aria-labelledby="make-at-home">
           <h2 id="make-at-home">{brand.make_at_home.title}</h2>
           {brand.make_at_home.intro ? <p>{brand.make_at_home.intro}</p> : null}
-          {/* Affiliate disclosure sits above the links so readers see it before clicking. */}
-          {AMAZON_ASSOCIATE_TAG ? <p className="small muted">As an Amazon Associate we earn from qualifying purchases.</p> : null}
           <ul className="product-grid">
             {brand.make_at_home.cards.map((card) => (
               <li key={card.name} className="product-card">
+                {card.icon ? (
+                  <span className="product-card-icon" aria-hidden="true">
+                    {card.icon}
+                  </span>
+                ) : null}
                 <span className="product-card-name">{card.name}</span>
                 <span className="product-card-blurb">{card.blurb}</span>
-                <a href={amazonSearchUrl(card.amazon_search)} rel="sponsored nofollow noopener" target="_blank">
-                  See options on Amazon
+                <a className="cta-button" href={amazonSearchUrl(card.amazon_search)} rel="sponsored nofollow noopener" target="_blank">
+                  Check price on Amazon →
                 </a>
               </li>
             ))}
           </ul>
+          {AMAZON_ASSOCIATE_TAG ? <p className="small muted disclosure-line">As an Amazon Associate we earn from qualifying purchases.</p> : null}
         </section>
       ) : null}
 

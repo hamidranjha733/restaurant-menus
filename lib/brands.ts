@@ -52,6 +52,10 @@ function validate(b: Brand, file: string): string[] {
     need(b.included_box.title && b.included_box.rows?.length, "included_box needs a title and at least one row");
     for (const row of b.included_box.rows ?? []) need(row.label && row.detail, "every included_box row needs label and detail");
   }
+  if (b.hero_image) {
+    need(/^https:\/\/\S+$/.test(b.hero_image.url ?? ""), "hero_image.url must start with https://");
+    need(b.hero_image.alt, "hero_image.alt is required");
+  }
   if (b.make_at_home) {
     need(b.make_at_home.title && b.make_at_home.cards?.length, "make_at_home needs a title and at least one card");
     for (const card of b.make_at_home.cards ?? []) need(card.name && card.blurb && card.amazon_search, "every make_at_home card needs name, blurb and amazon_search");

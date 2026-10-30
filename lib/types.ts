@@ -27,8 +27,16 @@ export interface IncludedBox {
 export interface MakeAtHome {
   title: string;
   intro?: string;
-  /** Each card links to an Amazon search for `amazon_search`. */
-  cards: { name: string; blurb: string; amazon_search: string }[];
+  /** Each card links to an Amazon search for `amazon_search`. `icon` is an emoji shown above the name. */
+  cards: { icon?: string; name: string; blurb: string; amazon_search: string }[];
+}
+
+export interface HeroImage {
+  /** https URL, loaded by the visitor's browser (e.g. the Pexels CDN). Not downloaded at build time. */
+  url: string;
+  alt: string;
+  /** Small credit line under the banner, e.g. "Pexels (free license)". */
+  credit?: string;
 }
 
 export interface Faq {
@@ -64,9 +72,8 @@ export interface Brand {
   menu: MenuSection[];
   /** Amazon product cards. Links carry AMAZON_ASSOCIATE_TAG from site.config.ts when set. */
   make_at_home?: MakeAtHome;
-  /** Editorial notes for sourcing a hero photo; not rendered yet. */
-  hero_image_query?: string;
-  hero_image_note?: string;
+  /** Banner photo behind the H1. Without it the page starts with a plain heading. */
+  hero_image?: HeroImage;
   popular_items?: string[];
   faqs?: Faq[];
   /** Slugs of other brand pages. Ones without a JSON file yet are skipped until they exist. */

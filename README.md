@@ -42,11 +42,12 @@ Add `data/brands/<slug>.json`. The file name must equal `slug`, and the page goe
 | `quick_answer` | Optional short answer shown in a box above the intro |
 | `hot_deal` | Optional current deal, shown as a callout under the disclaimer |
 | `included_box` | Optional `{ title, rows: [{ label, detail }] }` table, e.g. what comes free with every meal |
-| `make_at_home` | Optional `{ title, intro?, cards: [{ name, blurb, amazon_search }] }`. Each card links to an Amazon search with `rel="sponsored nofollow"`. Set `AMAZON_ASSOCIATE_TAG` in `site.config.ts` to add your tracking ID and show the Amazon disclosure |
+| `hero_image` | Optional `{ url, alt, credit? }`. Full-width banner with the breadcrumb and H1 over it. `url` must be https and is loaded by the visitor's browser (e.g. the Pexels CDN), never downloaded at build time |
+| `make_at_home` | Optional `{ title, intro?, cards: [{ icon?, name, blurb, amazon_search }] }`. `icon` is an emoji shown large on the card. Each card links to an Amazon search with `rel="sponsored nofollow"`. Set `AMAZON_ASSOCIATE_TAG` in `site.config.ts` to add your tracking ID and show the Amazon disclosure |
 | `popular_items[]` | Optional list |
 | `faqs[]` | Optional `{ q, a }`; rendered on the page and as FAQPage JSON-LD |
 | `internal_links[]` | Slugs of other brands. Links to brands not added yet are skipped and appear on their own once that JSON exists. The related list is topped up with other brands in the same category |
-| `seo.primary_keyword`, `seo.keyword_*`, `schema`, `hero_image_query`, `hero_image_note`, `_data_notes` | Editorial only, never rendered |
+| `seo.primary_keyword`, `seo.keyword_*`, `schema`, `_data_notes` | Editorial only, never rendered |
 
 The build validates every brand file and fails with a list of problems (unknown category, bad price format, title too long and so on), so a typo never ships as a broken page.
 
