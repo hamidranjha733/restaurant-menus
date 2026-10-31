@@ -1,0 +1,168 @@
+{
+  "slug": "panda-express-menu",
+  "brand": "Panda Express",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/panda-express-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/12916862/pexels-photo-12916862.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Panda Express style crispy orange chicken with steamed rice and sesame seeds",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-12916862"
+  },
+
+  "seo": {
+    "meta_title": "Panda Express Menu With Prices & Calories (2026)",
+    "meta_description": "Full Panda Express menu with prices and calories for 2026: Bowl, Plate and Bigger Plate, Orange Chicken, Beijing Beef, chow mein, appetizers and drinks.",
+    "h1": "Panda Express Menu With Prices (2026)",
+    "primary_keyword": "panda express menu with prices",
+    "keyword_volume": 9700,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
+
+  "intro": "Panda Express is America's biggest Chinese fast-food chain, built around the legendary Orange Chicken. You order by meal format, a Bowl, Plate or Bigger Plate, then pick entrees and sides like chow mein and fried rice. Below is the full Panda Express menu with prices and calories for 2026, organized by category.",
+
+  "quick_answer": "Panda Express is priced by meal format: a Bowl (one entree, one side) is about $8.80, a Plate (two entrees, one side) is $10.30, and a Bigger Plate (three entrees, one side) is $11.80. The famous Orange Chicken is 510 calories, and premium entrees like Honey Walnut Shrimp add about $1.50.",
+
+  "highlights": [
+    { "strong": "$8.80", "label": "Bowl: 1 entree + 1 side" },
+    { "strong": "$10.30", "label": "Plate: 2 entrees + 1 side" },
+    { "strong": "Orange Chicken", "label": "the #1 pick, 510 cal" },
+    { "strong": "$2.00", "label": "appetizers each" }
+  ],
+
+  "hot_deal": "Panda Express value: the Bowl (one entree plus one side) is the cheapest full meal at about $8.80, and the Panda Cub Meal for kids is around $7.30. Family Meals feed about five from $35. Panda also runs app and online-order deals. Offers vary by location.",
+
+  "menu": [
+    {
+      "category": "Meal Formats",
+      "intro": "Pick a format, then choose your entrees and a side. More entrees cost a bit more; premium entrees add about $1.50 each.",
+      "items": [
+        { "name": "Bowl", "size": "1 entree + 1 side", "price": "$8.80", "calories": "", "desc": "One entree with one side; about 260 to 1,020 cal by choice" },
+        { "name": "Plate", "size": "2 entrees + 1 side", "price": "$10.30", "calories": "", "desc": "Two entrees with one side; about 430 to 1,640 cal by choice" },
+        { "name": "Bigger Plate", "size": "3 entrees + 1 side", "price": "$11.80", "calories": "", "desc": "Three entrees with one side; about 580 to 2,150 cal by choice" },
+        { "name": "Panda Cub Meal (Kids)", "size": "", "price": "$7.30", "calories": "", "desc": "Junior entree, side, fruit and a drink for kids" },
+        { "name": "Family Meal", "size": "serves 5", "price": "$35.00", "calories": "", "desc": "Three large entrees and two large sides to share" }
+      ]
+    },
+    {
+      "category": "Chicken Entrees",
+      "intro": "The heart of the menu. Orange Chicken is the all-time favorite. Prices are per a la carte medium entree.",
+      "items": [
+        { "name": "The Original Orange Chicken", "size": "", "price": "$5.40", "calories": "510", "desc": "Crispy chicken in a sweet and tangy orange sauce" },
+        { "name": "Grilled Teriyaki Chicken", "size": "", "price": "$5.40", "calories": "275", "desc": "Grilled chicken thigh with teriyaki sauce" },
+        { "name": "Kung Pao Chicken", "size": "", "price": "$5.40", "calories": "320", "desc": "Chicken with peanuts, chili peppers and veggies" },
+        { "name": "Mushroom Chicken", "size": "", "price": "$5.40", "calories": "220", "desc": "Chicken with mushrooms and zucchini" },
+        { "name": "Honey Sesame Chicken Breast", "size": "", "price": "$5.40", "calories": "340", "desc": "Crispy chicken breast in a sweet honey sesame sauce" },
+        { "name": "Black Pepper Chicken", "size": "", "price": "$5.40", "calories": "280", "desc": "Chicken with celery, onion and black pepper sauce" },
+        { "name": "String Bean Chicken Breast", "size": "", "price": "$5.40", "calories": "210", "desc": "Chicken breast with string beans and onions" }
+      ]
+    },
+    {
+      "category": "Beef, Steak & Seafood",
+      "intro": "Beef and premium entrees. Steak and shrimp are premium (about $1.50 more in a meal).",
+      "items": [
+        { "name": "Beijing Beef", "size": "", "price": "$5.40", "calories": "480", "desc": "Crispy beef in a sweet-tangy sauce with peppers and onions" },
+        { "name": "Broccoli Beef", "size": "", "price": "$5.40", "calories": "150", "desc": "Tender beef with fresh broccoli in ginger soy sauce" },
+        { "name": "Black Pepper Sirloin Steak", "size": "premium", "price": "$6.90", "calories": "180", "desc": "Wok-seared sirloin with peppers and black pepper sauce" },
+        { "name": "Honey Walnut Shrimp", "size": "premium", "price": "$6.90", "calories": "430", "desc": "Crispy shrimp with honey sauce and glazed walnuts" }
+      ]
+    },
+    {
+      "category": "Sides",
+      "intro": "The base of every meal. Super Greens is the lightest.",
+      "items": [
+        { "name": "Chow Mein", "size": "", "price": "$4.60", "calories": "880", "desc": "Stir-fried noodles with onions, celery and cabbage" },
+        { "name": "Fried Rice", "size": "", "price": "$4.60", "calories": "932", "desc": "Wok-fried rice with eggs, peas, carrots and onions" },
+        { "name": "White Steamed Rice", "size": "", "price": "$4.60", "calories": "780", "desc": "Steamed white rice" },
+        { "name": "Super Greens", "size": "", "price": "$4.60", "calories": "180", "desc": "Broccoli, kale and cabbage, the lightest side" }
+      ]
+    },
+    {
+      "category": "Appetizers",
+      "intro": "Rolls and rangoon, each about $2.00.",
+      "items": [
+        { "name": "Chicken Egg Roll (1 pc)", "size": "1 piece", "price": "$2.00", "calories": "200", "desc": "Crispy egg roll with chicken and veggies" },
+        { "name": "Veggie Spring Roll (2 pc)", "size": "2 pieces", "price": "$2.00", "calories": "240", "desc": "Crispy vegetable spring rolls" },
+        { "name": "Cream Cheese Rangoon (3 pc)", "size": "3 pieces", "price": "$2.00", "calories": "190", "desc": "Fried wontons with cream cheese" },
+        { "name": "Apple Pie Roll (1 pc)", "size": "1 piece", "price": "$2.00", "calories": "150", "desc": "Crispy roll with cinnamon apples" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Fountain drinks, teas and flavored refreshers.",
+      "items": [
+        { "name": "Fountain Drink (Regular)", "size": "regular", "price": "$2.40", "calories": "", "desc": "Coca-Cola fountain drinks" },
+        { "name": "Sweet Tea", "size": "", "price": "$2.50", "calories": "280", "desc": "Southern-style sweet tea" },
+        { "name": "Flavored Refresher", "size": "", "price": "$3.30", "calories": "", "desc": "Peach lychee or watermelon mango refresher" },
+        { "name": "Bottled Smartwater", "size": "", "price": "$3.10", "calories": "0", "desc": "Bottled water" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Panda Express at Home",
+    "intro": "Craving Orange Chicken at home? These picks help you wok and sauce it right.",
+    "cards": [
+      { "icon": "🥢", "name": "Carbon Steel Wok", "blurb": "For proper stir-fry at high heat.", "amazon_search": "carbon steel wok" },
+      { "icon": "🍊", "name": "Orange Chicken Sauce", "blurb": "The sweet-tangy sauce that defines the dish.", "amazon_search": "orange chicken sauce" },
+      { "icon": "🍚", "name": "Jasmine Rice", "blurb": "The steamed-rice base for every plate.", "amazon_search": "jasmine rice" },
+      { "icon": "📖", "name": "Copycat Chinese Takeout Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat chinese takeout cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "The Original Orange Chicken",
+    "Chow Mein",
+    "Beijing Beef",
+    "Honey Walnut Shrimp",
+    "Fried Rice"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a plate at Panda Express?",
+      "a": "A Plate (two entrees and one side) is about $10.30. A Bowl (one entree, one side) is around $8.80, and a Bigger Plate (three entrees, one side) is about $11.80. Premium entrees add roughly $1.50 each."
+    },
+    {
+      "q": "How many calories are in Panda Express Orange Chicken?",
+      "a": "A serving of The Original Orange Chicken is about 510 calories. Pairing it with chow mein (880) or fried rice (932) adds significantly, while Super Greens (180) is the lightest side."
+    },
+    {
+      "q": "What are premium entrees at Panda Express?",
+      "a": "Premium entrees like Honey Walnut Shrimp and Black Pepper Sirloin Steak cost about $1.50 more when added to a Bowl or Plate, or around $6.90 a la carte."
+    },
+    {
+      "q": "What is the cheapest meal at Panda Express?",
+      "a": "The Bowl is the cheapest full meal at about $8.80 with one entree and one side. The Panda Cub Meal for kids is around $7.30, and a single a la carte entree is about $5.40."
+    },
+    {
+      "q": "What are the most popular items at Panda Express?",
+      "a": "The best known are The Original Orange Chicken, chow mein, Beijing Beef, Honey Walnut Shrimp, and fried rice."
+    }
+  ],
+
+  "internal_links": [
+    "chipotle-menu",
+    "taco-bell-menu",
+    "kfc-menu",
+    "popeyes-menu",
+    "raising-canes-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Panda Express."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from a Panda Express nutrition source.",
+    "calories": "Entrees, sides and appetizers have per-serving figures; meal formats show calorie ranges in the description because they depend on your picks. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels orange chicken image (pexels-12916862), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Panda Express search demand: plate price, Orange Chicken calories, premium entrees, cheapest meal, popular items."
+  }
+}
