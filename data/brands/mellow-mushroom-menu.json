@@ -1,0 +1,146 @@
+{
+  "slug": "mellow-mushroom-menu",
+  "brand": "Mellow Mushroom",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/mellow-mushroom-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/2918521/pexels-photo-2918521.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Mellow Mushroom style stone-baked specialty pizza on a table",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-2918521",
+    "_verify_note": "Tentative hero (stone-baked specialty pizza). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Mellow Mushroom Menu With Prices (2026)",
+    "meta_description": "Full Mellow Mushroom menu with prices for 2026: stone-baked specialty pizzas by size, build your own, hoagies, calzones, pretzel bites, salads and munchies.",
+    "h1": "Mellow Mushroom Menu With Prices (2026)",
+    "primary_keyword": "mellow mushroom menu with prices",
+    "keyword_volume": 6600,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and sizes are approximate, are provided as a guide only, and may vary by location. Mellow Mushroom does not prominently publish per-item calories, so calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Mellow Mushroom is the Southeastern pizza chain famous for its stone-baked pizzas on a signature spring-water dough brushed with garlic butter and parmesan, served in colorful, psychedelic-themed dining rooms. The menu runs specialty pizzas like the Kosmic Karma and Holy Shiitake, plus hoagies, calzones, pretzel bites and big salads. Below is the full Mellow Mushroom menu with prices for 2026.",
+
+  "quick_answer": "At Mellow Mushroom, a large specialty pizza runs about $26.99 to $29.99 (Mighty Meaty large $29.99), a large cheese is $16.99, and a build-your-own large starts at $16.99. Hoagies are $10.99 half or $15.99 whole, calzones about $10.99 to $15.99, and pretzel bites $9.99. The stone-baked specialty pizzas are the signatures. Prices vary by location.",
+
+  "highlights": [
+    { "strong": "Stone-baked", "label": "spring-water dough" },
+    { "strong": "Kosmic Karma", "label": "a signature specialty" },
+    { "strong": "Pretzel bites", "label": "the famous starter" },
+    { "strong": "Hoagies & calzones", "label": "beyond pizza" }
+  ],
+
+  "hot_deal": "Mellow Mushroom value: a large cheese ($16.99) or a build-your-own large ($16.99) is the cheapest way to feed a group, well below the loaded specialties. A half hoagie ($10.99) makes a cheaper single meal. The Mellow Rewards program drops occasional deals. Prices vary by location, and the big-city stores run higher.",
+
+  "menu": [
+    {
+      "category": "Specialty Stone-Baked Pizzas",
+      "intro": "The signature pizzas, priced small / medium / large.",
+      "items": [
+        { "name": "Cheese", "size": "sm / md / lg", "price": "$9.99 / $14.99 / $16.99", "calories": "", "desc": "Classic cheese on the signature dough" },
+        { "name": "Pepperoni", "size": "sm / md / lg", "price": "$11.49 / $17.49 / $19.99", "calories": "", "desc": "Classic pepperoni" },
+        { "name": "Kosmic Karma", "size": "sm / md / lg", "price": "$12.99 / $22.99 / $26.99", "calories": "", "desc": "Red sauce, sun-dried and roma tomatoes, feta and pesto, a signature" },
+        { "name": "Holy Shiitake", "size": "sm / md / lg", "price": "$13.99 / $23.99 / $27.99", "calories": "", "desc": "Shiitake, button and portobello mushrooms with cheese" },
+        { "name": "Buffalo Chicken", "size": "sm / md / lg", "price": "$13.99 / $23.99 / $27.99", "calories": "", "desc": "Buffalo chicken pizza" },
+        { "name": "Mighty Meaty", "size": "sm / md / lg", "price": "$15.99 / $25.99 / $29.99", "calories": "", "desc": "A loaded all-meat pizza, the top of the range" }
+      ]
+    },
+    {
+      "category": "Build Your Own",
+      "intro": "Start with the base and add toppings (vegan base same price).",
+      "items": [
+        { "name": "Build Your Own Pizza", "size": "sm / md / lg", "price": "$9.99 / $14.99 / $16.99", "calories": "", "desc": "Cheese base, add your toppings" }
+      ]
+    },
+    {
+      "category": "Hoagies & Calzones",
+      "intro": "Baked hoagies and stuffed calzones.",
+      "items": [
+        { "name": "Steak & Cheese Hoagie", "size": "half / whole", "price": "$10.99 / $15.99", "calories": "", "desc": "Steak and cheese (meatball, Italian, avocado, tempeh same price)" },
+        { "name": "California Club Hoagie", "size": "", "price": "$11.99", "calories": "", "desc": "The California club hoagie" },
+        { "name": "Cheese Calzone", "size": "", "price": "$10.99", "calories": "", "desc": "Build-your-own calzone also $10.99" },
+        { "name": "The Meat Luver Calzone", "size": "", "price": "$15.99", "calories": "", "desc": "Loaded meat calzone (steak calzone also $15.99)" }
+      ]
+    },
+    {
+      "category": "Munchies & Salads",
+      "intro": "The famous pretzel bites, starters and salads.",
+      "items": [
+        { "name": "Pretzel Bites", "size": "", "price": "$9.99", "calories": "", "desc": "The signature baked pretzel bites with dip" },
+        { "name": "Mellow Rollz", "size": "", "price": "$8.95", "calories": "", "desc": "Pepperoni or cheese rolls" },
+        { "name": "Spinach Artichoke Dip", "size": "", "price": "$10.99", "calories": "", "desc": "Warm spinach and artichoke dip" },
+        { "name": "House Salad", "size": "lil' / reg", "price": "$6.99 / $9.99", "calories": "", "desc": "House salad (Caesar same; Greek and spinach $7.99 / $12.99)" },
+        { "name": "Elevated Cobb Salad", "size": "", "price": "$14.99", "calories": "", "desc": "The loaded Cobb salad" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Stone-Baked Pizza at Home",
+    "intro": "Want Mellow-style stone-baked pizza at home? These picks help.",
+    "cards": [
+      { "icon": "🍕", "name": "Pizza Stone", "blurb": "For a stone-baked crust.", "amazon_search": "pizza stone oven" },
+      { "icon": "🧄", "name": "Garlic Butter & Parmesan", "blurb": "For the signature crust brush.", "amazon_search": "garlic butter seasoning parmesan" },
+      { "icon": "🥨", "name": "Soft Pretzel Mix", "blurb": "For copycat pretzel bites.", "amazon_search": "soft pretzel mix" },
+      { "icon": "🥖", "name": "Pizza Dough Mix", "blurb": "For spring-water-style dough.", "amazon_search": "pizza dough mix" }
+    ]
+  },
+
+  "popular_items": [
+    "Kosmic Karma",
+    "Holy Shiitake",
+    "Mighty Meaty",
+    "Pretzel Bites",
+    "Steak & Cheese Hoagie"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a large pizza at Mellow Mushroom?",
+      "a": "A large specialty pizza runs about $26.99 to $29.99 (the Mighty Meaty is $29.99), a large cheese is $16.99, and a large pepperoni $19.99. A build-your-own large also starts at $16.99. Prices vary by location and can be higher in big-city stores."
+    },
+    {
+      "q": "What is Mellow Mushroom known for?",
+      "a": "Mellow Mushroom is known for its stone-baked pizzas on a signature spring-water dough brushed with garlic butter and parmesan, its colorful psychedelic-themed restaurants, and specialty pies like the Kosmic Karma and Holy Shiitake. The pretzel bites are a cult-favorite starter."
+    },
+    {
+      "q": "Does Mellow Mushroom have vegan and gluten-free options?",
+      "a": "Yes. Mellow Mushroom is known for accommodating diets, with vegan cheese and a vegan build-your-own pizza at the same price, gluten-free crust options, and plant-based items like the tempeh hoagie. Availability varies by location."
+    },
+    {
+      "q": "Does Mellow Mushroom list calories?",
+      "a": "Mellow Mushroom does not prominently publish per-item calories, so calories are not listed here rather than guessed. Totals depend heavily on the pizza size, crust and toppings you choose."
+    },
+    {
+      "q": "What are the most popular items at Mellow Mushroom?",
+      "a": "Favorites include the Kosmic Karma, the Holy Shiitake, the Mighty Meaty, the pretzel bites, and the steak and cheese hoagie."
+    }
+  ],
+
+  "internal_links": [
+    "marcos-pizza-menu",
+    "dominos-menu",
+    "pizza-hut-menu",
+    "papa-johns-menu",
+    "jersey-mikes-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since Mellow Mushroom does not prominently publish nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Mellow Mushroom."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing by size; vary by location). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. Mellow Mushroom does not prominently publish per-item calories, and size/crust/toppings vary totals. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels stone-baked pizza (pexels-2918521). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the other pizza-brand heroes.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (pizza chain, internal-linked to Marco's and the big pizza brands). #79 of the expansion list.",
+    "keyword_notes": "High-volume brand (6.6k). Sections and FAQ shaped by real Mellow Mushroom search demand: large pizza price, what it is known for, vegan/gluten-free options, calories question, popular items. Pizzas given as small/medium/large price strings; hoagies and salads as size strings."
+  }
+}
