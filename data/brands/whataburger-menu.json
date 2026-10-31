@@ -1,0 +1,156 @@
+{
+  "slug": "whataburger-menu",
+  "brand": "Whataburger",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/whataburger-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/1556698/pexels-photo-1556698.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Whataburger style classic cheeseburger with lettuce, tomato, onion and mustard",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-1556698",
+    "_verify_note": "Tentative hero, not visually verified this session. Confirm it is appetizing, a classic cheeseburger, and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Whataburger Menu With Prices & Calories (2026)",
+    "meta_description": "Full Whataburger menu with prices and calories for 2026: the Whataburger, Double Meat, Patty Melt, Whatachick'n, breakfast taquitos, fries and shakes.",
+    "h1": "Whataburger Menu With Prices (2026)",
+    "primary_keyword": "whataburger menu with prices",
+    "keyword_volume": 4600,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "Whataburger is the Texas-born burger chain famous for its large burgers on a five-inch bun, made to order with mustard, and its 24-hour service in much of the South. Alongside the classic Whataburger are the Patty Melt, the Avocado Bacon Burger, Whatachick'n sandwiches and strips, a full breakfast with taquitos and the Honey Butter Chicken Biscuit, plus shakes. Below is the full Whataburger menu with prices and calories for 2026.",
+
+  "quick_answer": "The classic Whataburger is about $5.79, the Double Meat is $7.59, and the Whataburger Jr is $2.79. A Whatachick'n sandwich is $6.29, the Patty Melt is $8.39, medium fries are $2.39, and a shake is about $3.98. The Honey Butter Chicken Biscuit is the breakfast favorite. A Whataburger is about 590 calories.",
+
+  "highlights": [
+    { "strong": "$5.79", "label": "the classic Whataburger" },
+    { "strong": "5-inch bun", "label": "a big Texas burger" },
+    { "strong": "24 hours", "label": "at most locations" },
+    { "strong": "Honey Butter", "label": "Chicken Biscuit at breakfast" }
+  ],
+
+  "hot_deal": "Whataburger value: the Whataburger Jr ($2.79) and the Whataburger app deals (including the 'Whatastore' rewards and regular app-only offers) are the cheapest routes. The Honey Butter Chicken Biscuit at breakfast is a cult favorite for the price. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Burgers",
+      "intro": "The big, made-to-order Texas burgers.",
+      "items": [
+        { "name": "Whataburger", "size": "", "price": "$5.79", "calories": "590", "desc": "The classic: beef, lettuce, tomato, onion, pickles and mustard" },
+        { "name": "Double Meat Whataburger", "size": "", "price": "$7.59", "calories": "850", "desc": "Two beef patties with the classic toppings" },
+        { "name": "Triple Meat Whataburger", "size": "", "price": "$9.39", "calories": "", "desc": "Three beef patties for a big appetite" },
+        { "name": "Whataburger Jr.", "size": "", "price": "$2.79", "calories": "340", "desc": "A smaller classic burger, the value pick" },
+        { "name": "Whataburger Patty Melt", "size": "", "price": "$8.39", "calories": "720", "desc": "Beef, grilled onions, cheese and Creamy Pepper Sauce on Texas Toast" },
+        { "name": "Avocado Bacon Burger", "size": "", "price": "$8.99", "calories": "790", "desc": "Beef with avocado, bacon and Monterey Jack" }
+      ]
+    },
+    {
+      "category": "Chicken",
+      "intro": "Whatachick'n sandwiches and strips.",
+      "items": [
+        { "name": "Whatachick'n Sandwich", "size": "", "price": "$6.29", "calories": "550", "desc": "Crispy chicken fillet with lettuce, tomato and mayo" },
+        { "name": "Whatachick'n Strips (3 pc)", "size": "3 pieces", "price": "$6.64", "calories": "", "desc": "Three breaded chicken strips with gravy or sauce" },
+        { "name": "Whatachick'n Strips (6 pc)", "size": "6 pieces", "price": "$11.24", "calories": "", "desc": "Six breaded chicken strips to share" },
+        { "name": "Honey BBQ Chicken Strip Sandwich", "size": "", "price": "$7.69", "calories": "", "desc": "Chicken strips with honey BBQ sauce on Texas Toast" }
+      ]
+    },
+    {
+      "category": "Sides",
+      "intro": "French fries and onion rings.",
+      "items": [
+        { "name": "French Fries (Medium)", "size": "medium", "price": "$2.39", "calories": "380", "desc": "Classic fries (small $1.99, large $2.79)" },
+        { "name": "Onion Rings (Medium)", "size": "medium", "price": "$2.89", "calories": "390", "desc": "Thick-cut battered onion rings (large $3.39)" }
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "intro": "Served until 11am. The Honey Butter Chicken Biscuit is the icon.",
+      "items": [
+        { "name": "Honey Butter Chicken Biscuit", "size": "", "price": "$4.24", "calories": "570", "desc": "Crispy chicken on a biscuit with honey butter, the cult favorite" },
+        { "name": "Breakfast Taquito (Bacon & Egg)", "size": "", "price": "$3.49", "calories": "", "desc": "Bacon, egg and cheese in a flour tortilla (sausage also available)" },
+        { "name": "Breakfast on a Bun (Bacon)", "size": "", "price": "$4.69", "calories": "", "desc": "Bacon, egg and cheese on a toasted bun" },
+        { "name": "Pancake Platter", "size": "", "price": "$6.69", "calories": "", "desc": "Three pancakes (add bacon or sausage for $7.99)" }
+      ]
+    },
+    {
+      "category": "Shakes & Drinks",
+      "intro": "Hand-shaken shakes and drinks.",
+      "items": [
+        { "name": "Shake (Vanilla / Chocolate / Strawberry)", "size": "medium", "price": "$3.98", "calories": "", "desc": "Hand-shaken shake (small $3.49, large $4.48)" },
+        { "name": "Soft Drink (Medium)", "size": "medium", "price": "$2.19", "calories": "", "desc": "Fountain soft drinks (small $1.99, large $2.39)" },
+        { "name": "Sweet Tea (Medium)", "size": "medium", "price": "$2.19", "calories": "", "desc": "Southern sweet tea" },
+        { "name": "Iced Coffee", "size": "", "price": "$2.79", "calories": "", "desc": "Iced coffee" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Whataburger at Home",
+    "intro": "Want the big Texas burger at home? These picks help.",
+    "cards": [
+      { "icon": "🍔", "name": "Large Burger Buns", "blurb": "Big five-inch buns, Whataburger style.", "amazon_search": "large hamburger buns" },
+      { "icon": "🍟", "name": "Fry Cutter", "blurb": "Cut fresh fries at home.", "amazon_search": "french fry cutter" },
+      { "icon": "🟡", "name": "Yellow Mustard", "blurb": "The signature mustard on every Whataburger.", "amazon_search": "yellow mustard" },
+      { "icon": "📖", "name": "Copycat Fast Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Whataburger",
+    "Double Meat Whataburger",
+    "Honey Butter Chicken Biscuit",
+    "Whataburger Patty Melt",
+    "Whatachick'n Sandwich"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a Whataburger?",
+      "a": "The classic Whataburger is about $5.79, the Double Meat is $7.59, and the Triple Meat is $9.39. The smaller Whataburger Jr is just $2.79. Prices vary by location and are a little higher as a combo with fries and a drink."
+    },
+    {
+      "q": "What is the Honey Butter Chicken Biscuit?",
+      "a": "The Honey Butter Chicken Biscuit is a Whataburger breakfast cult favorite: a crispy chicken strip on a buttermilk biscuit with sweet honey butter. It is about $4.24 and 570 calories, served during breakfast hours until 11am."
+    },
+    {
+      "q": "Is Whataburger open 24 hours?",
+      "a": "Most Whataburger locations are open 24 hours a day, which is part of the brand's identity across Texas and the South. Breakfast is served from late night until 11am, and the full menu runs the rest of the day."
+    },
+    {
+      "q": "How many calories are in a Whataburger?",
+      "a": "The classic Whataburger is about 590 calories, the Double Meat about 850, and the Whataburger Jr about 340. Adding medium fries (about 380) brings a classic combo to roughly 1,000 calories before a drink."
+    },
+    {
+      "q": "What are the most popular items at Whataburger?",
+      "a": "The best known are the classic Whataburger, the Double Meat Whataburger, the Honey Butter Chicken Biscuit, the Patty Melt, and the Whatachick'n Sandwich."
+    }
+  ],
+
+  "internal_links": [
+    "in-n-out-menu",
+    "mcdonalds-menu",
+    "wendys-menu",
+    "burger-king-menu",
+    "five-guys-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Whataburger."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). May vary by location.",
+    "calories": "Calories from a USDA-sourced nutrition reference. Shown where a reliable figure exists; Whatachick'n sandwich mapped to the crispy chicken sandwich figure, several items left blank rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels classic cheeseburger (pexels-1556698). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Burgers & Shakes' category. In-N-Out, Sonic, Dairy Queen, Cook Out, Shake Shack and Carl's Jr can follow.",
+    "keyword_notes": "Sections and FAQ shaped by real Whataburger search demand: burger price, Honey Butter Chicken Biscuit, 24-hour service, calories, popular items."
+  }
+}
