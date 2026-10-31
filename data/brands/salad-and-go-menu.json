@@ -1,0 +1,147 @@
+{
+  "slug": "salad-and-go-menu",
+  "brand": "Salad and Go",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/salad-and-go-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Salad and Go style fresh vegetable salad in a bowl",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-4198015",
+    "_verify_note": "Tentative hero (fresh vegetable salad bowl). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Salad and Go Menu With Prices (2026)",
+    "meta_description": "Full Salad and Go menu with prices for 2026: the drive-thru chain's big salads, wraps, breakfast burritos, soups and hand-crafted lemonades and teas.",
+    "h1": "Salad and Go Menu With Prices (2026)",
+    "primary_keyword": "salad and go menu with prices",
+    "keyword_volume": 5400,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Salad and Go is a drive-thru chain focused on affordable fresh food; it publishes nutrition, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Salad and Go is the drive-thru-only chain, strongest in Arizona, Texas and the Southwest, built on big, freshly made salads and wraps at a low price, plus breakfast burritos, soups and hand-crafted lemonades and teas. Its pitch is healthy fast food that costs about the same as a value meal. Below is the full Salad and Go menu with prices for 2026.",
+
+  "quick_answer": "At Salad and Go, a full-size salad or wrap is about $6.79 (some locations $6.24), a breakfast burrito or bowl is $3.99, and drinks like lemonade and iced tea are $1.49. Kids salads are $3.99 and a Kid Protein Box $4.99. The big, cheap made-to-order salads and wraps are the whole idea. Prices vary by location.",
+
+  "highlights": [
+    { "strong": "Drive-thru only", "label": "built for speed" },
+    { "strong": "~$6.79", "label": "a full salad or wrap" },
+    { "strong": "$3.99 breakfast", "label": "burritos and bowls" },
+    { "strong": "$1.49 drinks", "label": "lemonades and teas" }
+  ],
+
+  "hot_deal": "Salad and Go value: the whole concept is value, with a big made-to-order salad or wrap around $6.79 and drinks at just $1.49. Breakfast burritos and bowls at $3.99 are among the cheapest healthy breakfasts in fast food. Water is free, and the app drops occasional deals. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Salads",
+      "intro": "Big made-to-order salads, about $6.79 each.",
+      "items": [
+        { "name": "Build Your Own Salad", "size": "", "price": "$6.79", "calories": "", "desc": "Pick your greens, toppings, protein and dressing" },
+        { "name": "Buffalo Chicken Salad", "size": "", "price": "$6.79", "calories": "", "desc": "Chicken with buffalo sauce and ranch" },
+        { "name": "Cobb Salad", "size": "", "price": "$6.79", "calories": "", "desc": "Chicken, egg, bacon and cheese" },
+        { "name": "Classic Caesar Salad", "size": "", "price": "$6.79", "calories": "", "desc": "Romaine, parmesan and Caesar dressing" },
+        { "name": "Greek Salad", "size": "", "price": "$6.79", "calories": "", "desc": "Greek salad with feta and olives" }
+      ]
+    },
+    {
+      "category": "Wraps",
+      "intro": "The same salads, wrapped. About $6.79 each.",
+      "items": [
+        { "name": "Build Your Own Wrap", "size": "", "price": "$6.79", "calories": "", "desc": "Any salad combination in a wrap" },
+        { "name": "Buffalo Chicken Wrap", "size": "", "price": "$6.79", "calories": "", "desc": "Buffalo chicken wrap" },
+        { "name": "Caprese Wrap", "size": "", "price": "$6.79", "calories": "", "desc": "Mozzarella, tomato and basil wrap" },
+        { "name": "Thai Wrap", "size": "", "price": "$6.79", "calories": "", "desc": "A Thai-style peanut wrap" }
+      ]
+    },
+    {
+      "category": "Breakfast & Soup",
+      "intro": "Breakfast burritos and bowls, plus soup.",
+      "items": [
+        { "name": "Traditional Breakfast Burrito", "size": "", "price": "$3.99", "calories": "", "desc": "Egg, cheese and potato burrito" },
+        { "name": "Bacon, Egg & Cheese Burrito", "size": "", "price": "$3.99", "calories": "", "desc": "Bacon breakfast burrito" },
+        { "name": "Fiesta Bowl", "size": "", "price": "$3.99", "calories": "", "desc": "A Southwest breakfast bowl" },
+        { "name": "Soup", "size": "", "price": "$3.99", "calories": "", "desc": "Rotating soup (e.g., tomato basil)" }
+      ]
+    },
+    {
+      "category": "Drinks & Kids",
+      "intro": "Hand-crafted lemonades, teas and kids options.",
+      "items": [
+        { "name": "Lemonade", "size": "", "price": "$1.49", "calories": "", "desc": "Traditional, sangria, cucumber mint or frozen strawberry" },
+        { "name": "Iced Tea", "size": "", "price": "$1.49", "calories": "", "desc": "Organic black or mango green tea (Arnold Palmers too)" },
+        { "name": "Kids Salad", "size": "", "price": "$3.99", "calories": "", "desc": "A smaller salad for kids" },
+        { "name": "Kid Protein Box", "size": "", "price": "$4.99", "calories": "", "desc": "A protein box for kids" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Fresh Salads at Home",
+    "intro": "Want big fresh salads at home? These picks help.",
+    "cards": [
+      { "icon": "🥗", "name": "Salad Spinner", "blurb": "For crisp, fresh greens.", "amazon_search": "salad spinner large" },
+      { "icon": "🔪", "name": "Salad Chopper", "blurb": "For chopped-style salads.", "amazon_search": "salad chopper bowl" },
+      { "icon": "🥤", "name": "Drink Dispenser", "blurb": "For hand-crafted lemonade and tea.", "amazon_search": "drink dispenser" },
+      { "icon": "🫙", "name": "Dressing Shaker", "blurb": "For fresh dressings.", "amazon_search": "salad dressing shaker" }
+    ]
+  },
+
+  "popular_items": [
+    "Build Your Own Salad",
+    "Buffalo Chicken Salad",
+    "Breakfast Burrito",
+    "Lemonade",
+    "Cobb Salad"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a salad at Salad and Go?",
+      "a": "A full-size made-to-order salad or wrap is about $6.79 (some locations around $6.24), which is the chain's whole pitch, a big fresh salad for roughly the price of a value meal. Kids salads are $3.99. Prices vary by location."
+    },
+    {
+      "q": "What is Salad and Go known for?",
+      "a": "Salad and Go is a drive-thru-only chain known for big, freshly made salads and wraps at a low price, plus cheap breakfast burritos and $1.49 hand-crafted lemonades and teas. It markets itself as healthy fast food that costs about the same as a value meal."
+    },
+    {
+      "q": "Does Salad and Go have breakfast?",
+      "a": "Yes. Salad and Go serves breakfast burritos and bowls (traditional, bacon-egg-cheese, Southwest and a Fiesta bowl) for about $3.99 each, among the cheapest healthy fast-food breakfasts around."
+    },
+    {
+      "q": "Does Salad and Go publish calories?",
+      "a": "Salad and Go publishes nutrition on its website and app, but item calories are not reproduced here and are left blank rather than guessed. Because salads are build-your-own with your choice of protein and dressing, totals vary a lot."
+    },
+    {
+      "q": "What are the most popular items at Salad and Go?",
+      "a": "Favorites include the build-your-own salad, the buffalo chicken salad, the breakfast burritos, the hand-crafted lemonades, and the Cobb salad."
+    }
+  ],
+
+  "internal_links": [
+    "chipotle-menu",
+    "tropical-smoothie-cafe-menu",
+    "panera-menu",
+    "el-pollo-loco-menu",
+    "newks-eatery-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Salad and Go."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing; salads/wraps around $6.79 (some locations $6.24).",
+    "calories": "Deliberately left blank. Salad and Go publishes nutrition, but no reliable item calories were pulled this session, and salads are build-your-own, so none are reproduced rather than guessed. Disclaimer and FAQ note this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels fresh vegetable salad bowl (pexels-4198015). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category as the quick-serve lunch catch-all (drive-thru salads/wraps/breakfast). Internal link chipotle-menu may not exist yet; drop any missing-page link. #89 of the expansion list.",
+    "keyword_notes": "High-volume brand (5.4k). Sections and FAQ shaped by real Salad and Go search demand: salad price, what it is known for, breakfast, calories question, popular items. Flat ~$6.79 salad/wrap pricing is the brand's whole model."
+  }
+}

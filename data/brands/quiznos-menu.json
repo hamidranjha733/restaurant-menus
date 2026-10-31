@@ -1,0 +1,134 @@
+{
+  "slug": "quiznos-menu",
+  "brand": "Quiznos",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/quiznos-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/36501097/pexels-photo-36501097.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Quiznos style toasted cheesy sub with dipping sauce",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-36501097",
+    "_verify_note": "Tentative hero (toasted cheesy sub). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Quiznos Menu With Prices (2026)",
+    "meta_description": "Quiznos menu with prices for 2026: the toasted signature subs like the Classic Italian, Mesquite Chicken and Baja Chicken, plus salads and broccoli cheese soup.",
+    "h1": "Quiznos Menu With Prices (2026)",
+    "primary_keyword": "quiznos menu with prices",
+    "keyword_volume": 3600,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Quiznos has far fewer locations than in its heyday, so availability varies. Quiznos publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Quiznos is the sub chain that built its name on toasted subs, run through a conveyor oven so the bread is crisp and the cheese melted, with signature subs like the Classic Italian and Mesquite Chicken and its famous dipping sauces. Once a major Subway rival, it is now a smaller chain, but the toasted sub is still the draw. Below is the Quiznos menu with prices for 2026.",
+
+  "quick_answer": "At Quiznos, signature toasted subs run about $9.35 to $10.80 (Classic Italian $9.35, Mesquite Chicken and Baja Chicken $10.80), salads are $9.99 to $12.99, and a broccoli cheese soup is $5.40. The toasted subs and dipping sauces are the signature. Prices and availability vary by location.",
+
+  "highlights": [
+    { "strong": "Toasted subs", "label": "run through the oven" },
+    { "strong": "Classic Italian", "label": "the signature sub" },
+    { "strong": "Mesquite Chicken", "label": "the chicken favorite" },
+    { "strong": "Dipping sauces", "label": "the Quiznos touch" }
+  ],
+
+  "hot_deal": "Quiznos value: the smaller sub sizes and the Classic Italian ($9.35) are the cheapest ways in, and the chain has long leaned on coupons and app deals (the old $5 and value-sub promotions). A sub plus a cup of broccoli cheese soup ($5.40) makes a full meal. Prices and availability vary a lot by location.",
+
+  "menu": [
+    {
+      "category": "Signature Toasted Subs",
+      "intro": "The oven-toasted signature subs.",
+      "items": [
+        { "name": "Classic Italian", "size": "", "price": "$9.35", "calories": "", "desc": "Capicola, Genoa salami, pepperoni, ham and cheese, toasted" },
+        { "name": "Honey Bacon Club", "size": "", "price": "$9.35", "calories": "", "desc": "Turkey, ham, bacon and a honey-mustard touch" },
+        { "name": "Mesquite Chicken", "size": "", "price": "$10.80", "calories": "", "desc": "Mesquite chicken with bacon and ranch" },
+        { "name": "Baja Chicken", "size": "", "price": "$10.80", "calories": "", "desc": "Chicken with a Southwest Baja flavor" }
+      ]
+    },
+    {
+      "category": "Salads",
+      "intro": "The chopped salads.",
+      "items": [
+        { "name": "The Big Fat Greek Salad", "size": "", "price": "$9.99", "calories": "", "desc": "Greek salad with feta and olives" },
+        { "name": "Classic Italian Salad", "size": "", "price": "$10.99", "calories": "", "desc": "The Classic Italian as a salad" },
+        { "name": "Chef Salad", "size": "", "price": "$10.99", "calories": "", "desc": "A loaded chef salad" },
+        { "name": "Apple Harvest Chicken Salad", "size": "", "price": "$12.99", "calories": "", "desc": "Chicken salad with apples, the priciest" }
+      ]
+    },
+    {
+      "category": "Soup & Sides",
+      "intro": "Soup and the dipping sauces that round out a meal.",
+      "items": [
+        { "name": "Broccoli & Cheese Soup", "size": "", "price": "$5.40", "calories": "", "desc": "Creamy broccoli cheese soup" },
+        { "name": "Dipping Sauces", "size": "", "price": "Varies", "calories": "", "desc": "The signature Quiznos dipping sauces (priced at the restaurant)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Toasted Subs at Home",
+    "intro": "Want oven-toasted subs at home? These picks help.",
+    "cards": [
+      { "icon": "🥪", "name": "Sub Rolls", "blurb": "For toasted-sub bread.", "amazon_search": "hoagie sub rolls" },
+      { "icon": "🔥", "name": "Toaster Oven", "blurb": "For a crisp, melted sub.", "amazon_search": "countertop toaster oven" },
+      { "icon": "🧀", "name": "Deli Meats & Cheese", "blurb": "For a Classic Italian.", "amazon_search": "italian deli meat variety" },
+      { "icon": "🥫", "name": "Dipping Sauces", "blurb": "The Quiznos-style finish.", "amazon_search": "sandwich dipping sauce" }
+    ]
+  },
+
+  "popular_items": [
+    "Classic Italian",
+    "Mesquite Chicken",
+    "Honey Bacon Club",
+    "Baja Chicken",
+    "Broccoli & Cheese Soup"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a sub at Quiznos?",
+      "a": "Signature toasted subs run about $9.35 to $10.80 (the Classic Italian is $9.35, Mesquite and Baja Chicken $10.80). Salads are $9.99 to $12.99 and a broccoli cheese soup is $5.40. Prices and the exact menu vary by location, and the chain leans on coupons."
+    },
+    {
+      "q": "What is Quiznos known for?",
+      "a": "Quiznos is known for its toasted subs, run through a conveyor oven so the bread is crisp and the cheese melted, its signature subs like the Classic Italian and Mesquite Chicken, and its dipping sauces. It was once a major Subway rival."
+    },
+    {
+      "q": "Is Quiznos still open?",
+      "a": "Yes, but Quiznos is now a much smaller chain than at its peak, with far fewer US locations. Availability varies widely by area, so it is worth checking whether there is a location near you before planning a visit."
+    },
+    {
+      "q": "Does Quiznos list calories?",
+      "a": "Quiznos publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals depend on the sub, size, cheese and sauces you choose."
+    },
+    {
+      "q": "What are the most popular items at Quiznos?",
+      "a": "Favorites include the Classic Italian, the Mesquite Chicken, the Honey Bacon Club, the Baja Chicken, and the broccoli cheese soup."
+    }
+  ],
+
+  "internal_links": [
+    "subway-menu",
+    "jersey-mikes-menu",
+    "jimmy-johns-menu",
+    "firehouse-subs-menu",
+    "picklemans-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Quiznos."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing; no size breakdown available, dipping sauces left price-blank.",
+    "calories": "Deliberately left blank. Quiznos publishes nutrition information (chains with 20+ US locations must post calories), but item calories were not reproduced rather than guessed. On import the 'does not publish' wording was changed to match the site rule, and the blank Dipping Sauces price became 'Varies' (the site does not accept an empty price). Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location; Quiznos is a shrunken chain, so availability varies. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels toasted cheesy sub (pexels-36501097). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (sub chain, alongside Subway, Jersey Mike's). #87 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Quiznos search demand: sub price, what it is known for, whether it is still open, calories question, popular items."
+  }
+}

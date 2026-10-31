@@ -1,0 +1,149 @@
+{
+  "slug": "sakura-menu",
+  "brand": "Sakura Japanese Steakhouse",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/sakura-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/29161607/pexels-photo-29161607.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Sakura style sushi boat platter with varied rolls and sashimi",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-29161607",
+    "_verify_note": "Tentative hero (sushi boat platter). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Sakura Japanese Steakhouse Menu & Prices (2026)",
+    "meta_description": "Sakura Japanese Steakhouse menu with prices for 2026: hibachi chicken, steak, shrimp and filet, combination dinners, sushi rolls and appetizers.",
+    "h1": "Sakura Japanese Steakhouse Menu With Prices (2026)",
+    "primary_keyword": "sakura menu prices",
+    "keyword_volume": 2400,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary by location. 'Sakura' is a name used by many independent Japanese steakhouse and sushi restaurants, so menus and prices differ; the figures below are representative of a typical Sakura hibachi restaurant. Calories are not published and are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Sakura Japanese Steakhouse is a popular name for teppanyaki-and-sushi restaurants across the US, where chefs cook hibachi dinners at the table and a sushi bar turns out rolls, nigiri and sashimi. Hibachi dinners come with soup and salad, and the menu spans chicken to filet, lobster and premium combinations. Below is a representative Sakura menu with prices for 2026.",
+
+  "quick_answer": "At a typical Sakura Japanese Steakhouse, hibachi chicken is about $16.99, hibachi steak $23.99, and filet mignon $25.99, each cooked tableside with soup and salad. Combination dinners run $24.99 to about $51, and sushi rolls are $5.99 to $12.59. Because many restaurants use the Sakura name, prices vary by location.",
+
+  "highlights": [
+    { "strong": "Tableside hibachi", "label": "teppanyaki cooking" },
+    { "strong": "Soup & salad", "label": "included with dinners" },
+    { "strong": "Sushi bar", "label": "rolls, nigiri, sashimi" },
+    { "strong": "Combinations", "label": "surf-and-turf feasts" }
+  ],
+
+  "hot_deal": "Sakura value: hibachi chicken ($16.99) or hibachi calamari ($16.99) are the cheapest dinners and still include soup and salad, and the kids hibachi meals start around $10.99. Lunch, where offered, is cheaper than dinner. Because Sakura restaurants are independently run, deals and exact prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Hibachi Dinners",
+      "intro": "Cooked tableside, served with soup and salad.",
+      "items": [
+        { "name": "Hibachi Chicken", "size": "", "price": "$16.99", "calories": "", "desc": "Grilled chicken, the entry hibachi dinner" },
+        { "name": "Hibachi Shrimp", "size": "", "price": "$21.99", "calories": "", "desc": "Grilled shrimp (hibachi salmon also $21.99)" },
+        { "name": "Hibachi New York Steak", "size": "", "price": "$23.99", "calories": "", "desc": "Grilled New York steak (scallop also $23.99)" },
+        { "name": "Hibachi Filet Mignon", "size": "", "price": "$25.99", "calories": "", "desc": "Tender filet mignon (hibachi tuna also $25.99)" },
+        { "name": "Hibachi Lobster", "size": "", "price": "$30.99", "calories": "", "desc": "Grilled lobster tail, the premium dinner" }
+      ]
+    },
+    {
+      "category": "Combination Dinners",
+      "intro": "Surf-and-turf and premium combinations.",
+      "items": [
+        { "name": "Chicken & Shrimp", "size": "", "price": "$24.99", "calories": "", "desc": "Hibachi chicken and shrimp (NY steak & chicken also $24.99)" },
+        { "name": "Filet Mignon & Shrimp", "size": "", "price": "$28.99", "calories": "", "desc": "Filet and shrimp" },
+        { "name": "Lobster & Shrimp", "size": "", "price": "$29.99", "calories": "", "desc": "Lobster and shrimp combination" },
+        { "name": "Filet Mignon & Lobster", "size": "", "price": "$31.99", "calories": "", "desc": "The classic filet and lobster surf and turf" },
+        { "name": "Yuki Kobe Strip & Lobster", "size": "", "price": "$50.99", "calories": "", "desc": "Premium Kobe-style strip with lobster, the top feast" }
+      ]
+    },
+    {
+      "category": "Sushi & Rolls",
+      "intro": "The sushi bar rolls.",
+      "items": [
+        { "name": "California Roll", "size": "", "price": "$5.99", "calories": "", "desc": "The classic California roll (Sakura spring roll also $5.99)" },
+        { "name": "Shrimp Tempura Roll", "size": "", "price": "$6.99", "calories": "", "desc": "Shrimp tempura roll (Manhattan roll also $6.99)" },
+        { "name": "Spicy Scallop Roll", "size": "", "price": "$9.59", "calories": "", "desc": "Spicy scallop roll" },
+        { "name": "Spider Roll", "size": "", "price": "$10.59", "calories": "", "desc": "Soft-shell crab spider roll" },
+        { "name": "Dynamite Roll", "size": "", "price": "$12.59", "calories": "", "desc": "The loaded dynamite roll, the top roll" }
+      ]
+    },
+    {
+      "category": "Appetizers & Extras",
+      "intro": "Starters and the add-on salad.",
+      "items": [
+        { "name": "Edamame", "size": "", "price": "$4.59", "calories": "", "desc": "Steamed, salted soybeans" },
+        { "name": "Vegetable Tempura", "size": "", "price": "$4.79", "calories": "", "desc": "Crispy vegetable tempura" },
+        { "name": "Gyoza", "size": "", "price": "$5.99", "calories": "", "desc": "Pan-fried dumplings (shrimp tempura app also $5.99)" },
+        { "name": "Extra Salad", "size": "", "price": "$2.99", "calories": "", "desc": "An extra ginger-dressing salad (soup and salad come with dinners)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Hibachi & Sushi at Home",
+    "intro": "Want teppanyaki and sushi at home? These picks help.",
+    "cards": [
+      { "icon": "🔥", "name": "Electric Teppanyaki Griddle", "blurb": "For a tableside hibachi cook.", "amazon_search": "electric teppanyaki griddle" },
+      { "icon": "🍱", "name": "Sushi Making Kit", "blurb": "For rolls and nigiri.", "amazon_search": "sushi making kit" },
+      { "icon": "🥢", "name": "Yum Yum & Ginger Sauce", "blurb": "The hibachi sauces.", "amazon_search": "yum yum sauce" },
+      { "icon": "🍚", "name": "Sushi Rice", "blurb": "For sushi and hibachi rice.", "amazon_search": "sushi rice" }
+    ]
+  },
+
+  "popular_items": [
+    "Hibachi Chicken",
+    "Hibachi Filet Mignon",
+    "Filet Mignon & Lobster",
+    "California Roll",
+    "Dynamite Roll"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is hibachi at Sakura?",
+      "a": "Hibachi dinners run about $16.99 for chicken, $21.99 for shrimp or salmon, $23.99 for steak, and $25.99 for filet mignon, each cooked tableside with soup and salad. Combinations go from $24.99 up to about $51 for the Kobe-style strip and lobster. Prices vary by location."
+    },
+    {
+      "q": "Is Sakura one restaurant chain?",
+      "a": "Not exactly. 'Sakura' is a popular name used by many independently owned Japanese steakhouse and sushi restaurants across the US, so the exact menu, dishes and prices differ from one Sakura to another. The figures here are representative of a typical Sakura hibachi restaurant."
+    },
+    {
+      "q": "What is included with a Sakura hibachi dinner?",
+      "a": "A hibachi dinner typically includes Japanese onion soup and a salad with ginger dressing, plus hibachi vegetables and rice cooked at the table with the show. An extra salad is usually about $2.99."
+    },
+    {
+      "q": "Does Sakura list calories?",
+      "a": "Sakura restaurants generally do not publish calorie information, so calories are not listed here rather than guessed. Hibachi meals vary with the protein, the oils and sauces used tableside, and whether you add fried rice."
+    },
+    {
+      "q": "What are the most popular dishes at Sakura?",
+      "a": "Favorites include hibachi chicken, hibachi filet mignon, the filet and lobster combination, the California roll, and the dynamite roll."
+    }
+  ],
+
+  "internal_links": [
+    "benihana-menu",
+    "pf-changs-menu",
+    "longhorn-steakhouse-menu",
+    "red-lobster-menu",
+    "noodles-company-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Sakura Japanese Steakhouse."
+  },
+
+  "_data_notes": {
+    "price_source": "Representative prices from an established menu-prices publication for a Sakura Japanese steakhouse. 'Sakura' is used by many independent restaurants, so prices vary widely by location; figures are typical, not a single national list.",
+    "calories": "Deliberately left blank. Independent Japanese steakhouses do not publish nutrition. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are representative/approximate and vary a lot by location. Always display the disclaimer noting Sakura is many independent restaurants.",
+    "hero_image": "Tentative Pexels sushi boat platter (pexels-29161607). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Benihana hibachi-fire hero.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (hibachi steakhouse, like Benihana). #88 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Sakura search demand: hibachi price, whether it is one chain, what is included, calories question, popular dishes. Honest note that Sakura is many independent restaurants."
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "slug": "sexy-fish-miami-menu",
+  "brand": "Sexy Fish Miami",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/sexy-fish-miami-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/3298598/pexels-photo-3298598.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Sexy Fish Miami style sashimi platter",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-3298598",
+    "_verify_note": "Tentative hero (upscale sashimi). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Sexy Fish Miami Menu & Prices (2026)",
+    "meta_description": "Sexy Fish Miami menu guide for 2026: the upscale Brickell Japanese seafood restaurant and lounge, its sushi, robata, seafood towers and signature dishes.",
+    "h1": "Sexy Fish Miami Menu (2026)",
+    "primary_keyword": "sexy fish miami menu",
+    "keyword_volume": 2900,
+    "keyword_kd": 3
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Sexy Fish Miami is an ultra-upscale reservation-based restaurant and lounge, not a fast-food chain, and it does not publish a fixed national price list. Representative figures are shown for a few signature dishes where available; other prices and all calories are left blank rather than guessed. Expect a very high-end ($$$$) bill. Last updated October 2026.",
+
+  "intro": "Sexy Fish Miami is the glamorous, high-energy Japanese seafood restaurant and lounge in Brickell, part of the London-born Sexy Fish brand, known as much for its over-the-top decor and cocktails as its food. The menu is modern Japanese: sushi and sashimi, robata-grilled dishes, seafood towers and signature plates, with a famous bar. Below is a guide to the Sexy Fish Miami menu for 2026.",
+
+  "quick_answer": "Sexy Fish Miami is an ultra-upscale ($$$$) Japanese seafood restaurant and lounge in Brickell. The menu covers sushi and sashimi, robata-grilled dishes, and seafood towers like the Sexy Fruits De Mer (about $70 per person), with dishes such as the Caramelized Black Cod (around $50) and cocktails around $25 each. It is a special-occasion, reservation-based 'clubstaurant,' so prices are high and it does not publish a fixed price list.",
+
+  "highlights": [
+    { "strong": "Brickell lounge", "label": "a glamorous clubstaurant" },
+    { "strong": "Sushi & robata", "label": "modern Japanese seafood" },
+    { "strong": "Seafood towers", "label": "the Fruits De Mer" },
+    { "strong": "Famous bar", "label": "the cocktails are a draw" }
+  ],
+
+  "hot_deal": "Sexy Fish Miami value: this is a special-occasion, high-end spot rather than a value restaurant, so the cheapest way to experience it is the bar and cocktails, or the 'Sexy Fish by Day' lunch set where offered, instead of a full dinner with a seafood tower. Reservations are strongly recommended. Prices are set at the restaurant and not published as a fixed list.",
+
+  "menu": [
+    {
+      "category": "Sushi & Sashimi",
+      "intro": "The sushi bar: rolls, nigiri and sashimi. Prices are set at the restaurant.",
+      "items": [
+        { "name": "Sashimi Selection", "size": "", "price": "Varies", "calories": "", "desc": "A selection of premium sashimi (priced at the restaurant)" },
+        { "name": "Signature Sushi Rolls", "size": "", "price": "Varies", "calories": "", "desc": "Modern specialty maki rolls" },
+        { "name": "Nigiri", "size": "", "price": "Varies", "calories": "", "desc": "Nigiri by the piece or set" }
+      ]
+    },
+    {
+      "category": "Seafood Towers & Signatures",
+      "intro": "The showpiece seafood towers and signature plates.",
+      "items": [
+        { "name": "Sexy Fruits De Mer", "size": "per person", "price": "$70", "calories": "", "desc": "A seafood tower on a silver octopus: tartare, king crab, oyster and sashimi (about $70 per person)" },
+        { "name": "Caramelized Black Cod", "size": "", "price": "$50", "calories": "", "desc": "The signature miso-style black cod (about $50)" },
+        { "name": "Wagyu Gyoza with Foie Gras & Truffle", "size": "", "price": "Varies", "calories": "", "desc": "A rich signature gyoza (priced at the restaurant)" },
+        { "name": "Sexy Fish Croquette", "size": "", "price": "Varies", "calories": "", "desc": "A signature starter croquette" }
+      ]
+    },
+    {
+      "category": "Robata & Mains",
+      "intro": "Robata-grilled dishes and larger plates.",
+      "items": [
+        { "name": "Robata-Grilled Fish & Meat", "size": "", "price": "Varies", "calories": "", "desc": "Charcoal robata-grilled selections (priced at the restaurant)" },
+        { "name": "Whole Baby Chicken", "size": "", "price": "Varies", "calories": "", "desc": "A robata whole baby chicken" }
+      ]
+    },
+    {
+      "category": "Bar & Cocktails",
+      "intro": "The famous cocktail program and lounge.",
+      "items": [
+        { "name": "Signature Cocktails", "size": "", "price": "$25", "calories": "", "desc": "The craft cocktails the restaurant is known for (about $25 each)" },
+        { "name": "Champagne & Wine", "size": "", "price": "Varies", "calories": "", "desc": "An extensive champagne and wine list" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Upscale Japanese Seafood at Home",
+    "intro": "Want a sushi-and-robata spread at home? These picks help.",
+    "cards": [
+      { "icon": "🍣", "name": "Sushi Making Kit", "blurb": "For rolls, nigiri and sashimi.", "amazon_search": "sushi making kit" },
+      { "icon": "🔥", "name": "Tabletop Robata Grill", "blurb": "For charcoal robata grilling.", "amazon_search": "tabletop charcoal robata grill" },
+      { "icon": "🐟", "name": "Miso Marinade", "blurb": "For caramelized black cod.", "amazon_search": "miso marinade black cod" },
+      { "icon": "🍸", "name": "Cocktail Set", "blurb": "For craft cocktails at home.", "amazon_search": "cocktail making set" }
+    ]
+  },
+
+  "popular_items": [
+    "Sexy Fruits De Mer",
+    "Caramelized Black Cod",
+    "Wagyu Gyoza",
+    "Signature Sushi Rolls",
+    "Signature Cocktails"
+  ],
+
+  "faqs": [
+    {
+      "q": "What kind of restaurant is Sexy Fish Miami?",
+      "a": "Sexy Fish Miami is an ultra-upscale Japanese seafood restaurant and lounge in Brickell, part of the London-born Sexy Fish brand. It is a glamorous, high-energy 'clubstaurant' known for its dramatic decor, cocktails and modern Japanese menu of sushi, robata and seafood towers."
+    },
+    {
+      "q": "How much does Sexy Fish Miami cost?",
+      "a": "It is a very high-end ($$$$) restaurant. A seafood tower like the Sexy Fruits De Mer runs about $70 per person, the Caramelized Black Cod around $50, and cocktails about $25 each. It does not publish a fixed price list, so a full dinner with drinks is a special-occasion bill."
+    },
+    {
+      "q": "What is Sexy Fish Miami known for?",
+      "a": "It is known for its over-the-top decor and bar scene as much as its food, with signature dishes like the Sexy Fruits De Mer seafood tower, the Caramelized Black Cod, and wagyu gyoza. The cocktails are often singled out as the highlight."
+    },
+    {
+      "q": "Do I need a reservation for Sexy Fish Miami?",
+      "a": "A reservation is strongly recommended, as it is a popular, high-energy upscale venue, especially on weekend nights. Booking ahead through the restaurant or a reservation service is the safest way to get a table."
+    },
+    {
+      "q": "What are the most popular dishes at Sexy Fish Miami?",
+      "a": "Favorites include the Sexy Fruits De Mer seafood tower, the Caramelized Black Cod, the wagyu gyoza, the signature sushi rolls, and the cocktails."
+    }
+  ],
+
+  "internal_links": [
+    "beauty-essex-las-vegas-menu",
+    "beauty-essex-new-york-menu",
+    "amalfi-llama-menu",
+    "benihana-menu",
+    "peter-luger-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (mostly no prices or calories, since this upscale restaurant does not publish a fixed list), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Sexy Fish Miami."
+  },
+
+  "_data_notes": {
+    "price_source": "No fixed published price list. Sexy Fish is ultra-upscale reservation dining. A few representative figures (Fruits De Mer ~$70/person, Black Cod ~$50, cocktails ~$25) come from a review; most dishes left price-blank with a clear disclaimer rather than guessed.",
+    "calories": "Not published and deliberately left blank. Upscale restaurant, no nutrition guide. Never invent a calorie number. On import, blank prices became 'Varies' (as on Beauty & Essex) and the '~$70 / person', '~$50' and '~$25' prices became '$70' (size per person), '$50' and '$25', because the site does not accept '~'; 'about' was added to those descriptions so the figures still read as approximate.",
+    "accuracy": "This is a menu GUIDE for a brand-name search, not a priced fast-food menu. The disclaimer states no fixed price list is published. Always display it.",
+    "hero_image": "Tentative Pexels sashimi (pexels-3298598). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (upscale restaurant). Internal-linked to the other upscale brands (Beauty & Essex, Amalfi Llama, Peter Luger). #90 of the expansion list.",
+    "keyword_notes": "Niche but real brand interest. Honest partial-price / no-price approach (as approved for thin upscale brands), with a few representative figures where a source gave them."
+  }
+}

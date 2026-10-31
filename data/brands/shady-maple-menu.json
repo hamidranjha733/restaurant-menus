@@ -1,0 +1,139 @@
+{
+  "slug": "shady-maple-menu",
+  "brand": "Shady Maple Smorgasbord",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/shady-maple-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/32689477/pexels-photo-32689477.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Shady Maple style large buffet spread with a variety of dishes",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-32689477",
+    "_verify_note": "Tentative hero (large buffet spread). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Shady Maple Smorgasbord Prices (2026)",
+    "meta_description": "Shady Maple Smorgasbord buffet prices for 2026: breakfast, lunch and dinner per person, the themed dinner nights, and what's on America's largest buffet.",
+    "h1": "Shady Maple Smorgasbord Prices (2026)",
+    "primary_keyword": "shady maple smorgasbord prices",
+    "keyword_volume": 4400,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary by day and season. Shady Maple is an all-you-can-eat smorgasbord priced per person, so individual items do not have prices and calories vary with what you choose. Senior and kids discounts apply but were not fully published; confirm at the restaurant. Last updated October 2026.",
+
+  "intro": "Shady Maple Smorgasbord in East Earl, Pennsylvania, is often called the largest buffet in America, a Lancaster County institution with over 200 feet of Pennsylvania Dutch comfort food. It is priced per person by meal, with themed dinner nights (steak, seafood, prime rib and more), and is famous for its scrapple, fried chicken, carved prime rib and pies. Below are the full Shady Maple buffet prices for 2026.",
+
+  "quick_answer": "Shady Maple is an all-you-can-eat smorgasbord priced per person: weekday breakfast is about $13.99, weekday lunch $18.99, and dinner $25.99 (with themed nights like Steak, Seafood and Prime Rib). Saturday breakfast is $15.99 and Saturday lunch $25.99. It is famous as America's largest buffet, with Pennsylvania Dutch comfort food. Senior and kids discounts apply.",
+
+  "highlights": [
+    { "strong": "America's largest", "label": "200+ feet of buffet" },
+    { "strong": "$25.99 dinner", "label": "themed nights all week" },
+    { "strong": "Pennsylvania Dutch", "label": "scrapple, pies, comfort food" },
+    { "strong": "Per person", "label": "all you can eat" }
+  ],
+
+  "hot_deal": "Shady Maple value: weekday breakfast (about $13.99) is the cheapest way in, and the Saturday Early Bird ($21.99, before the $25.99 regular Saturday lunch) saves a few dollars. The whole concept is all-you-can-eat value, with themed dinner nights (steak, seafood, prime rib) all at one price. Senior and kids discounts apply, so ask at the register.",
+
+  "menu": [
+    {
+      "category": "Buffet Prices (Per Person)",
+      "intro": "One price per person, all you can eat. Varies by meal and day.",
+      "items": [
+        { "name": "Weekday Breakfast", "size": "per person", "price": "$13.99", "calories": "", "desc": "Mon to Fri until 10:45 AM (Saturday breakfast $15.99)" },
+        { "name": "Weekday Lunch", "size": "per person", "price": "$18.99", "calories": "", "desc": "Mon to Fri, 10:45 AM to 3:15 PM" },
+        { "name": "Saturday Lunch", "size": "per person", "price": "$25.99", "calories": "", "desc": "Saturday lunch (Early Bird before 3 PM $21.99)" },
+        { "name": "Dinner (Mon to Sat)", "size": "per person", "price": "$25.99", "calories": "", "desc": "4:00 to 7:30 PM, themed nights all week" }
+      ]
+    },
+    {
+      "category": "Themed Dinner Nights",
+      "intro": "The dinner buffet rotates a theme each night, all at the $25.99 price.",
+      "items": [
+        { "name": "Monday: Steak Night", "size": "", "price": "Included", "calories": "", "desc": "Steak featured on the dinner buffet" },
+        { "name": "Tuesday: Seafood Night", "size": "", "price": "Included", "calories": "", "desc": "Seafood featured, including fried shrimp" },
+        { "name": "Wednesday: Prime Rib Night", "size": "", "price": "Included", "calories": "", "desc": "Carved prime rib featured" },
+        { "name": "Thursday: Wing & Rib Night", "size": "", "price": "Included", "calories": "", "desc": "Wings and ribs featured" },
+        { "name": "Fri & Sat: Grand Buffet", "size": "", "price": "Included", "calories": "", "desc": "The full grand buffet spread" }
+      ]
+    },
+    {
+      "category": "On the Buffet: Favorites",
+      "intro": "What you'll find across the 200+ feet of buffet, all included.",
+      "items": [
+        { "name": "Scrapple & Eggs", "size": "", "price": "Included", "calories": "", "desc": "The Pennsylvania Dutch breakfast classic" },
+        { "name": "Fried Chicken", "size": "", "price": "Included", "calories": "", "desc": "Shady Maple's signature fried chicken" },
+        { "name": "Carved Prime Rib & Brisket", "size": "", "price": "Included", "calories": "", "desc": "Carving station meats" },
+        { "name": "Pierogies", "size": "", "price": "Included", "calories": "", "desc": "A buffet favorite" },
+        { "name": "Pies & Desserts", "size": "", "price": "Included", "calories": "", "desc": "A huge Pennsylvania Dutch dessert spread" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Pennsylvania Dutch Comfort Food at Home",
+    "intro": "Want scrapple, fried chicken and pies at home? These picks help.",
+    "cards": [
+      { "icon": "🍳", "name": "Cast Iron Skillet", "blurb": "For scrapple and eggs.", "amazon_search": "cast iron skillet" },
+      { "icon": "🍗", "name": "Fried Chicken Breading", "blurb": "For buffet-style fried chicken.", "amazon_search": "fried chicken breading mix" },
+      { "icon": "🥟", "name": "Pierogies", "blurb": "The buffet favorite.", "amazon_search": "frozen pierogies" },
+      { "icon": "🥧", "name": "Pie Dish", "blurb": "For shoofly and fruit pies.", "amazon_search": "pie dish" }
+    ]
+  },
+
+  "popular_items": [
+    "Fried Chicken",
+    "Carved Prime Rib",
+    "Scrapple & Eggs",
+    "Pierogies",
+    "Pennsylvania Dutch Pies"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is the Shady Maple buffet?",
+      "a": "It is priced per person: weekday breakfast about $13.99, weekday lunch $18.99, and dinner $25.99. Saturday breakfast is $15.99 and Saturday lunch $25.99 (Early Bird $21.99). Senior and kids discounts apply. Prices vary by day and season."
+    },
+    {
+      "q": "Is Shady Maple the largest buffet in America?",
+      "a": "Shady Maple Smorgasbord in East Earl, Pennsylvania, is widely described as the largest buffet in the United States, with over 200 feet of food. It is a Lancaster County landmark drawing visitors from across the region."
+    },
+    {
+      "q": "What are the themed dinner nights at Shady Maple?",
+      "a": "The dinner buffet rotates a theme each night, all at the $25.99 price: Monday is Steak Night, Tuesday Seafood, Wednesday Prime Rib, Thursday Wing & Rib, and Friday and Saturday the Grand Buffet. The lineup can change, so check before you go."
+    },
+    {
+      "q": "What food is on the Shady Maple buffet?",
+      "a": "It is Pennsylvania Dutch comfort food across more than 200 feet: scrapple and eggs, fried chicken, carved prime rib and brisket, fried shrimp, pierogies, hot sides, a salad bar, breads, and a huge spread of pies and desserts."
+    },
+    {
+      "q": "What is Shady Maple best known for?",
+      "a": "Shady Maple is best known as America's largest buffet and a Lancaster County institution, famous for its Pennsylvania Dutch cooking, including scrapple, fried chicken, carved prime rib and its enormous dessert and pie selection."
+    }
+  ],
+
+  "internal_links": [
+    "golden-corral-menu",
+    "cracker-barrel-menu",
+    "cheddars-menu",
+    "ihop-menu",
+    "ocharleys-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (buffet pricing plus included items; no per-item calories, since it is an all-you-can-eat buffet), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Shady Maple Smorgasbord."
+  },
+
+  "_data_notes": {
+    "price_source": "Per-person buffet prices from the restaurant's published smorgasbord pricing (2025 figures). Vary by day and season. Senior/kids discounts apply but were not fully published.",
+    "calories": "Deliberately left blank. All-you-can-eat buffet, so calories depend entirely on what and how much a guest takes. The disclaimer states this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by day and season. Always display the disclaimer, and note it is a per-person buffet.",
+    "structure_note": "Buffet format like Golden Corral: the first category holds per-person prices, the themed-nights and on-the-buffet categories use price 'Included'. The template should render 'Included' as-is.",
+    "hero_image": "Tentative Pexels large buffet spread (pexels-32689477). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Golden Corral buffet hero.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (buffet, alongside Golden Corral). #91 of the expansion list.",
+    "keyword_notes": "Strong brand interest (4.4k). Sections and FAQ shaped by real Shady Maple search demand: buffet price, largest-buffet claim, themed dinner nights, what is on the buffet, what it is known for."
+  }
+}
