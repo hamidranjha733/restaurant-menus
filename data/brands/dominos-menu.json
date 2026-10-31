@@ -1,0 +1,159 @@
+{
+  "slug": "dominos-menu",
+  "brand": "Domino's",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/dominos-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/31587838/pexels-photo-31587838.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Domino's style pepperoni pizza slice being pulled with a gooey cheese stretch",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-31587838"
+  },
+
+  "seo": {
+    "meta_title": "Domino's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Domino's menu with prices and calories for 2026: pizzas, specialty pies, Mix & Match deal, wings, cheesy bread, pasta and desserts.",
+    "h1": "Domino's Menu With Prices (2026)",
+    "primary_keyword": "dominos menu with prices",
+    "keyword_volume": 4800,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, size, crust and toppings. Last updated October 2026.",
+
+  "intro": "Domino's is the world's largest pizza chain, built for fast delivery and the Mix & Match deal, where any two or more items are $6.99 each. Choose Hand Tossed, Crunchy Thin or Handmade Pan crust, load up on specialty pizzas, and add wings, Stuffed Cheesy Bread, pasta and Lava Crunch Cakes. Below is the full Domino's menu with prices and calories for 2026.",
+
+  "quick_answer": "A large (14\") cheese pizza at Domino's is about $9.99, a medium is $7.99, and specialty pizzas like the MeatZZa run $13.99 to $15.99. The Mix & Match deal gets any 2 or more items (pizza, wings, pasta, sides) for $6.99 each. A medium cheese slice is about 200 calories.",
+
+  "highlights": [
+    { "strong": "$6.99 each", "label": "Mix & Match (2+ items)" },
+    { "strong": "$9.99", "label": "Large cheese pizza" },
+    { "strong": "3 crusts", "label": "Hand Tossed, Thin, Pan" },
+    { "strong": "Lava Cakes", "label": "chocolate dessert" }
+  ],
+
+  "hot_deal": "Domino's value: the Mix & Match deal is the headline, any 2 or more items (medium 2-topping pizzas, boneless wings, bread, pasta and more) for $6.99 each. Carryout specials and app deals go lower still. A large cheese pizza is about $9.99. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Pizza (Cheese / Build Your Own)",
+      "intro": "Pick a size and crust, then your toppings. A medium cheese slice is about 200 cal.",
+      "items": [
+        { "name": "Small Cheese Pizza (10\")", "size": "small", "price": "$5.99", "calories": "", "desc": "Hand Tossed, Crunchy Thin or Handmade Pan crust" },
+        { "name": "Medium Cheese Pizza (12\")", "size": "medium", "price": "$7.99", "calories": "", "desc": "Cheese pizza, about 200 cal per slice" },
+        { "name": "Large Cheese Pizza (14\")", "size": "large", "price": "$9.99", "calories": "", "desc": "The go-to large cheese pizza" }
+      ]
+    },
+    {
+      "category": "Specialty Pizzas",
+      "intro": "Pre-built favorites in small, medium or large (large prices shown).",
+      "items": [
+        { "name": "MeatZZa", "size": "large", "price": "$15.99", "calories": "", "desc": "Pepperoni, ham, sausage, beef and cheese" },
+        { "name": "ExtravaganZZa", "size": "large", "price": "$15.99", "calories": "", "desc": "Pepperoni, ham, sausage, beef, onions, peppers, mushrooms and olives" },
+        { "name": "Deluxe", "size": "large", "price": "$15.99", "calories": "", "desc": "Pepperoni, sausage, mushrooms, peppers and onions" },
+        { "name": "Pacific Veggie", "size": "large", "price": "$15.99", "calories": "", "desc": "Roasted veggies with feta and provolone" },
+        { "name": "Buffalo Chicken", "size": "large", "price": "$15.99", "calories": "", "desc": "Chicken, buffalo sauce, onions and cheese" },
+        { "name": "Philly Cheese Steak", "size": "large", "price": "$15.99", "calories": "", "desc": "Steak, onions, peppers, mushrooms and cheese" }
+      ]
+    },
+    {
+      "category": "Sides (Bread & Chicken)",
+      "intro": "The famous Stuffed Cheesy Bread, bread bites and wings.",
+      "items": [
+        { "name": "Stuffed Cheesy Bread (8 pc)", "size": "8 pieces", "price": "$5.99", "calories": "", "desc": "Cheese-stuffed bread, about 160 cal per piece" },
+        { "name": "Parmesan Bread Bites (16 pc)", "size": "16 pieces", "price": "$2.99", "calories": "", "desc": "Bite-size parmesan bread (8 pc is about 180 cal)" },
+        { "name": "Boneless Chicken (8 pc)", "size": "8 pieces", "price": "$5.99", "calories": "", "desc": "Breaded boneless chicken bites" },
+        { "name": "Wings (8 pc)", "size": "8 pieces", "price": "$6.49", "calories": "", "desc": "Bone-in wings (about 90 to 100 cal per 2)" },
+        { "name": "Garlic Bread Twists (8 pc)", "size": "8 pieces", "price": "$9.69", "calories": "", "desc": "Twisted bread brushed with garlic" }
+      ]
+    },
+    {
+      "category": "Pasta & Sandwiches",
+      "intro": "Baked pasta in a dish or bread bowl, plus oven-baked sandwiches.",
+      "items": [
+        { "name": "Chicken Alfredo Pasta", "size": "dish", "price": "$5.99", "calories": "", "desc": "Penne with grilled chicken in alfredo (bread bowl $6.99)" },
+        { "name": "Italian Sausage Marinara Pasta", "size": "dish", "price": "$5.99", "calories": "", "desc": "Penne with sausage and marinara" },
+        { "name": "5-Cheese Mac & Cheese", "size": "", "price": "$10.29", "calories": "", "desc": "Creamy five-cheese mac and cheese" },
+        { "name": "Chicken Bacon Ranch Sandwich", "size": "", "price": "$5.99", "calories": "", "desc": "Oven-baked sandwich with chicken, bacon and ranch" },
+        { "name": "Philly Cheese Steak Sandwich", "size": "", "price": "$5.99", "calories": "", "desc": "Steak, onions, peppers and cheese on artisan bread" }
+      ]
+    },
+    {
+      "category": "Desserts & Drinks",
+      "intro": "Chocolate lava cakes, cinnamon twists and drinks.",
+      "items": [
+        { "name": "Chocolate Lava Crunch Cakes (2)", "size": "2 cakes", "price": "$4.99", "calories": "", "desc": "Warm cakes with a molten chocolate center" },
+        { "name": "Cinna Stix (8 pc)", "size": "8 pieces", "price": "$4.99", "calories": "", "desc": "Cinnamon-sugar bread twists with icing" },
+        { "name": "Marbled Cookie Brownie", "size": "9 pieces", "price": "$6.49", "calories": "", "desc": "Cookie and brownie baked together" },
+        { "name": "Coca-Cola (20 oz)", "size": "20 oz", "price": "$1.79", "calories": "", "desc": "Bottled Coca-Cola" },
+        { "name": "Coca-Cola (2 Liter)", "size": "2 L", "price": "$2.99", "calories": "", "desc": "A 2-liter bottle to share" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Pizza at Home",
+    "intro": "Want pizza night at home? These picks help you bake a crispy pie.",
+    "cards": [
+      { "icon": "🍕", "name": "Pizza Stone", "blurb": "For a crispy, evenly baked crust.", "amazon_search": "pizza stone oven" },
+      { "icon": "🍞", "name": "Pizza Dough Mix", "blurb": "Quick base for homemade pizza.", "amazon_search": "pizza dough mix" },
+      { "icon": "🔪", "name": "Pizza Cutter", "blurb": "Clean slices every time.", "amazon_search": "pizza cutter wheel" },
+      { "icon": "📖", "name": "Copycat Pizza Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Pepperoni Pizza",
+    "MeatZZa",
+    "Stuffed Cheesy Bread",
+    "Boneless Chicken",
+    "Lava Crunch Cakes"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a large pizza at Domino's?",
+      "a": "A large (14\") cheese pizza is about $9.99, and large specialty pizzas like the MeatZZa or Deluxe run around $15.99. Adding toppings or premium crusts raises the price."
+    },
+    {
+      "q": "What is the Mix & Match deal at Domino's?",
+      "a": "Mix & Match lets you pick any two or more items for $6.99 each, including medium 2-topping pizzas, boneless chicken, bread sides, pasta and more. It is Domino's main value deal."
+    },
+    {
+      "q": "What crust types does Domino's have?",
+      "a": "Domino's offers Hand Tossed, Crunchy Thin Crust and Handmade Pan on most pizzas, plus New York Style and gluten-free crust on some sizes. Pan crust is thicker and buttery."
+    },
+    {
+      "q": "How many calories are in a slice of Domino's pizza?",
+      "a": "A slice of medium Hand Tossed cheese pizza is about 200 calories. A large slice or one loaded with meat toppings runs higher, often 250 to 350 calories per slice."
+    },
+    {
+      "q": "What are the most popular items at Domino's?",
+      "a": "The best known are the pepperoni pizza, the MeatZZa, Stuffed Cheesy Bread, boneless chicken, and the Chocolate Lava Crunch Cakes."
+    }
+  ],
+
+  "internal_links": [
+    "taco-bell-menu",
+    "subway-menu",
+    "mcdonalds-menu",
+    "wingstop-menu",
+    "chick-fil-a-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza > Domino's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from a Domino's nutrition source.",
+    "calories": "Pizza calories depend on size, crust and toppings, so per-slice figures are noted inside descriptions rather than in the calorie column; most items are left blank. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location, size, crust and toppings. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels pepperoni pizza cheese-pull image (pexels-31587838), portrait that crops well to a wide hero, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "category_note": "This brand uses a NEW category, 'Pizza' (slug: pizza), which must exist in data/categories.json. If the build system auto-creates categories (as it did for 'Coffee & Drinks') no action is needed; otherwise add it first. Pizza Hut, Papa John's and Little Caesars will use the same category.",
+    "keyword_notes": "Sections and FAQ shaped by real Domino's search demand: large pizza price, Mix & Match deal, crust types, calories per slice, popular items."
+  }
+}
