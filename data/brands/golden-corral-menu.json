@@ -1,0 +1,150 @@
+{
+  "slug": "golden-corral-menu",
+  "brand": "Golden Corral",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/golden-corral-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/19659620/pexels-photo-19659620.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Golden Corral style all-you-can-eat buffet spread with a variety of dishes",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-19659620",
+    "_verify_note": "Tentative hero (buffet spread). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Golden Corral Buffet Prices (2026)",
+    "meta_description": "Golden Corral buffet prices for 2026: breakfast, lunch and dinner per person, senior and kids prices, and what's on the all-you-can-eat buffet.",
+    "h1": "Golden Corral Buffet Prices (2026)",
+    "primary_keyword": "golden corral prices",
+    "keyword_volume": 4100,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary by location and day (weekends and holidays cost more). Golden Corral is an all-you-can-eat buffet priced per person, so individual items do not have prices and calories vary with what you choose. Drinks are usually extra. Last updated October 2026.",
+
+  "intro": "Golden Corral is America's best-known all-you-can-eat buffet chain, charging one price per person for an endless spread of comfort food: fried chicken, carved meats, a hot bar, salad bar, the famous yeast rolls, and a dessert area with the chocolate wonderfall fountain. Pricing is by meal (breakfast, lunch or dinner) and by age, with senior discounts. Below are the full Golden Corral buffet prices for 2026 and what you'll find on the buffet.",
+
+  "quick_answer": "Golden Corral is an all-you-can-eat buffet priced per person: weekday lunch is about $11.49, dinner is around $16.99, and breakfast is $9.99 to $12.99 where offered. Seniors get a discount (about $10.99 lunch, $15.99 dinner), kids 4 to 8 are $8.99, and a drink is about $2.69. The yeast rolls, fried chicken and chocolate fountain are the icons.",
+
+  "highlights": [
+    { "strong": "All you can eat", "label": "one price per person" },
+    { "strong": "$16.99", "label": "adult dinner buffet" },
+    { "strong": "Yeast rolls", "label": "the famous warm rolls" },
+    { "strong": "Chocolate fountain", "label": "the dessert centerpiece" }
+  ],
+
+  "hot_deal": "Golden Corral value: the whole concept is value, and weekday lunch (about $11.49) is the cheapest way in. Seniors get a discount at lunch and dinner, and kids are priced by age, with the youngest often free with a paying adult. Drinks are usually extra, so water keeps the bill down. Prices vary by location and are higher on weekends and holidays.",
+
+  "menu": [
+    {
+      "category": "Buffet Prices (Per Person)",
+      "intro": "One price per person for the all-you-can-eat buffet. Varies by meal, age and day.",
+      "items": [
+        { "name": "Breakfast Buffet (Adult)", "size": "per person", "price": "$10.99", "calories": "", "desc": "Weekend breakfast and brunch buffet (about $9.99 to $12.99)" },
+        { "name": "Weekday Lunch Buffet (Adult)", "size": "per person", "price": "$11.49", "calories": "", "desc": "The cheapest way in, served weekday lunchtime" },
+        { "name": "Dinner Buffet (Adult)", "size": "per person", "price": "$16.99", "calories": "", "desc": "The full dinner buffet (weekends and holidays cost more)" },
+        { "name": "Senior Dinner Buffet", "size": "per person", "price": "$15.99", "calories": "", "desc": "Senior-discount dinner (senior weekday lunch about $10.99)" },
+        { "name": "Kids Buffet (Ages 4 to 8)", "size": "per person", "price": "$8.99", "calories": "", "desc": "Kids pricing by age (ages 9 to 12 about $10.49; youngest often free with an adult)" },
+        { "name": "Fountain Drink", "size": "", "price": "$2.69", "calories": "", "desc": "Fountain drink with refills (usually extra, not included)" }
+      ]
+    },
+    {
+      "category": "On the Buffet: Hot Favorites",
+      "intro": "The comfort-food hot bar, all included in the buffet price.",
+      "items": [
+        { "name": "Golden Fried Chicken", "size": "", "price": "Included", "calories": "", "desc": "The signature fried chicken, a buffet staple" },
+        { "name": "Carved Meats", "size": "", "price": "Included", "calories": "", "desc": "Carving station with roast beef, ham or turkey (varies by day)" },
+        { "name": "Pot Roast & Meatloaf", "size": "", "price": "Included", "calories": "", "desc": "Home-style comfort mains" },
+        { "name": "Mashed Potatoes & Gravy", "size": "", "price": "Included", "calories": "", "desc": "Mashed potatoes, mac and cheese and hot sides" },
+        { "name": "The Famous Yeast Rolls", "size": "", "price": "Included", "calories": "", "desc": "Warm, sweet yeast rolls, a Golden Corral icon" }
+      ]
+    },
+    {
+      "category": "On the Buffet: Salad Bar & Breakfast",
+      "intro": "The salad bar and, at breakfast, the morning spread.",
+      "items": [
+        { "name": "Salad Bar", "size": "", "price": "Included", "calories": "", "desc": "Fresh greens, toppings and dressings" },
+        { "name": "Soups & Chili", "size": "", "price": "Included", "calories": "", "desc": "Rotating soups and chili" },
+        { "name": "Breakfast: Eggs, Bacon & Sausage", "size": "", "price": "Included", "calories": "", "desc": "Made-to-order and hot breakfast items" },
+        { "name": "Breakfast: Pancakes & Waffles", "size": "", "price": "Included", "calories": "", "desc": "Pancakes, waffles and French toast at breakfast" }
+      ]
+    },
+    {
+      "category": "On the Buffet: Desserts",
+      "intro": "The dessert area, centered on the chocolate fountain.",
+      "items": [
+        { "name": "Chocolate Wonderfall Fountain", "size": "", "price": "Included", "calories": "", "desc": "The famous flowing chocolate fountain for dipping" },
+        { "name": "Soft Serve Ice Cream", "size": "", "price": "Included", "calories": "", "desc": "Self-serve soft serve with toppings" },
+        { "name": "Cakes, Pies & Cookies", "size": "", "price": "Included", "calories": "", "desc": "A rotating dessert bar of cakes, pies, brownies and cookies" },
+        { "name": "Bread Pudding & Cobbler", "size": "", "price": "Included", "calories": "", "desc": "Warm Southern desserts" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Buffet Favorites at Home",
+    "intro": "Want the yeast rolls and comfort food at home? These picks help.",
+    "cards": [
+      { "icon": "🫓", "name": "Yeast Roll Mix", "blurb": "For warm, sweet dinner rolls.", "amazon_search": "yeast dinner roll mix" },
+      { "icon": "🍗", "name": "Fried Chicken Breading", "blurb": "For buffet-style fried chicken.", "amazon_search": "fried chicken breading mix" },
+      { "icon": "🍫", "name": "Chocolate Fountain", "blurb": "The dessert centerpiece at home.", "amazon_search": "chocolate fountain machine" },
+      { "icon": "📖", "name": "Copycat Comfort Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Golden Fried Chicken",
+    "Yeast Rolls",
+    "Carved Meats",
+    "Chocolate Wonderfall Fountain",
+    "Salad Bar"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is the Golden Corral buffet?",
+      "a": "It is priced per person: weekday lunch is about $11.49, dinner around $16.99, and breakfast $9.99 to $12.99 where offered. Weekends and holidays cost a little more. Drinks are usually extra, about $2.69."
+    },
+    {
+      "q": "Does Golden Corral have a senior discount?",
+      "a": "Yes. Seniors get a reduced buffet price, roughly $10.99 for weekday lunch and $15.99 for dinner. The exact discount and age cutoff vary by location, so it is worth asking at the register."
+    },
+    {
+      "q": "How much is Golden Corral for kids?",
+      "a": "Kids are priced by age: ages 4 to 8 are about $8.99 and 9 to 12 about $10.49. The youngest children (often under 3 or 4) frequently eat free with a paying adult, with a limit per adult, though rules vary by location."
+    },
+    {
+      "q": "What is on the Golden Corral buffet?",
+      "a": "An all-you-can-eat spread of fried chicken, carved meats, pot roast, mashed potatoes, the famous warm yeast rolls, a salad bar, soups, and a big dessert area with the chocolate wonderfall fountain and soft serve. Breakfast adds eggs, bacon, pancakes and waffles."
+    },
+    {
+      "q": "What is Golden Corral best known for?",
+      "a": "Golden Corral is best known as America's all-you-can-eat family buffet, famous for its warm yeast rolls, golden fried chicken, carving station and the chocolate wonderfall fountain for dessert."
+    }
+  ],
+
+  "internal_links": [
+    "cracker-barrel-menu",
+    "cheddars-menu",
+    "applebees-menu",
+    "ihop-menu",
+    "waffle-house-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (buffet pricing plus included items; no per-item calories, since it is an all-you-can-eat buffet), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Golden Corral."
+  },
+
+  "_data_notes": {
+    "price_source": "Per-person buffet prices from an established pricing guide (2024 to 2025 figures). Vary by location and day; weekends and holidays cost more.",
+    "calories": "Deliberately left blank. Golden Corral is an all-you-can-eat buffet, so calories depend entirely on what and how much a guest takes; no meaningful per-item figure applies. The disclaimer states this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location and day. Always display the disclaimer, and note it is a per-person buffet.",
+    "structure_note": "Because Golden Corral is a buffet, the first category holds the per-person prices, and the other categories list what is ON the buffet with price 'Included' rather than individual prices. The template should render 'Included' as-is.",
+    "hero_image": "Tentative Pexels buffet spread (pexels-19659620). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category. Only Hardee's remains to finish the 62-brand list.",
+    "keyword_notes": "Sections and FAQ shaped by real Golden Corral search demand: buffet price, senior discount, kids price, what is on the buffet, what it is known for."
+  }
+}
