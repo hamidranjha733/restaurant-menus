@@ -1,0 +1,163 @@
+{
+  "slug": "7-brew-menu",
+  "brand": "7 Brew",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/7-brew-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/15086189/pexels-photo-15086189.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "7 Brew style iced caramel breve coffee with cream in a clear drive-thru cup",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-15086189"
+  },
+
+  "seo": {
+    "meta_title": "7 Brew Menu With Prices (2026)",
+    "meta_description": "Full 7 Brew menu with prices for 2026: the seven signature breve brews, coffee, 7 Energy, Fizz sodas, teas, lemonades, smoothies and shakes, priced by size.",
+    "h1": "7 Brew Menu With Prices (2026)",
+    "primary_keyword": "7 brew menu with prices",
+    "keyword_volume": 3300,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "7 Brew is franchise owned and prices by size rather than by item. Prices below are national averages checked in October 2026 and shown as Small / Medium / Large; newer markets often run 25 to 50 cents higher. 7 Brew does not publish calorie counts. Always confirm at the window or in the app.",
+
+  "intro": "7 Brew is the drive-thru-only coffee chain that started in Rogers, Arkansas in 2017 and now runs several hundred stands across more than thirty states. There is no dining room and no food, just two drive-thru lanes and a crew taking orders on a tablet. The menu is built for customization, so the board reads as categories rather than fixed dishes, and every drink comes hot, iced or blended in three sizes. Prices are shown Small / Medium / Large. Below is the full 7 Brew menu with prices for 2026.",
+
+  "quick_answer": "A small 7 Brew latte is about $3.95 and a small signature brew about $4.75, rising to roughly $6.25 for a large. A 7 Energy starts at $5.00. Alternative milks are free. There is no food menu, and the seven original brews are Blondie, Brunette, Smooth 7, Sweet and Salty, German Chocolate, Cinnamon Roll and White Chocolate Mocha.",
+
+  "highlights": [
+    { "strong": "The Seven", "label": "signature breve brews" },
+    { "strong": "3 sizes", "label": "on every drink" },
+    { "strong": "Free", "label": "oat, almond or coconut milk" },
+    { "strong": "Drive-thru", "label": "only, no food" }
+  ],
+
+  "hot_deal": "7 Brew value: join 7 Rewards in the app for points toward free drinks. Order a small (the step up to large is about $1.50 and the signature brews are rich), and ask for half sweet, which is free and makes them taste of coffee rather than syrup. Buy-one-get-one runs on the 7th of each month from 7 to 8 PM at participating stands.",
+
+  "menu": [
+    {
+      "category": "The Seven Original Brews",
+      "intro": "The signature breve drinks (half and half, not milk) the chain is named after. Ask for milk or oat to lighten them, free. Priced Small / Medium / Large.",
+      "items": [
+        { "name": "Blondie (vanilla & caramel)", "size": "S / M / L", "price": "$4.75 / $5.50 / $6.25", "calories": "", "desc": "The top seller, a sweet vanilla-caramel breve" },
+        { "name": "Brunette (hazelnut & caramel mocha)", "size": "S / M / L", "price": "$4.75 / $5.50 / $6.25", "calories": "", "desc": "Hazelnut with caramel and chocolate" },
+        { "name": "Smooth 7 (Irish cream & white chocolate)", "size": "S / M / L", "price": "$4.75 / $5.50 / $6.25", "calories": "", "desc": "Irish cream and white chocolate breve" },
+        { "name": "Sweet and Salty (salted caramel & white chocolate)", "size": "S / M / L", "price": "$4.75 / $5.50 / $6.25", "calories": "", "desc": "Salted caramel with white chocolate" },
+        { "name": "German Chocolate (coconut, pecan & chocolate)", "size": "S / M / L", "price": "$4.75 / $5.50 / $6.25", "calories": "", "desc": "Coconut, pecan and chocolate breve" },
+        { "name": "Cinnamon Roll (cinnamon & vanilla)", "size": "S / M / L", "price": "$4.75 / $5.50 / $6.25", "calories": "", "desc": "Cinnamon and vanilla, like the pastry" },
+        { "name": "White Chocolate Mocha", "size": "S / M / L", "price": "$4.75 / $5.50 / $6.25", "calories": "", "desc": "White chocolate mocha breve" }
+      ]
+    },
+    {
+      "category": "Coffee & Espresso",
+      "intro": "Available hot, iced or blended at the same price. Breve is a latte made with half and half. Priced Small / Medium / Large.",
+      "items": [
+        { "name": "Brewed Coffee", "size": "S / M / L", "price": "$2.75 / $3.25 / $3.75", "calories": "", "desc": "Fresh-brewed drip coffee, the cheapest drink" },
+        { "name": "Americano", "size": "S / M / L", "price": "$3.25 / $4.00 / $4.75", "calories": "", "desc": "Espresso with hot water" },
+        { "name": "Latte", "size": "S / M / L", "price": "$3.95 / $4.75 / $5.50", "calories": "", "desc": "Espresso with steamed milk" },
+        { "name": "Cold Brew", "size": "S / M / L", "price": "$4.00 / $4.75 / $5.50", "calories": "", "desc": "Smooth slow-steeped cold brew" },
+        { "name": "Mocha", "size": "S / M / L", "price": "$4.25 / $5.00 / $5.75", "calories": "", "desc": "Espresso with chocolate and milk" },
+        { "name": "Breve", "size": "S / M / L", "price": "$4.25 / $5.00 / $5.75", "calories": "", "desc": "Latte made with half and half, thicker and richer" },
+        { "name": "Caramel Macchiato", "size": "S / M / L", "price": "$4.50 / $5.25 / $6.00", "calories": "", "desc": "Espresso, milk and caramel" }
+      ]
+    },
+    {
+      "category": "7 Energy Drinks",
+      "intro": "The caffeinated fruit line on an energy base, not coffee. Flavors rotate by market, so ask what is on today. Priced Small / Medium / Large.",
+      "items": [
+        { "name": "7 Energy (standard flavors)", "size": "S / M / L", "price": "$5.00 / $5.75 / $6.50", "calories": "", "desc": "Energy base with flavor syrups, the most caffeinated drink" },
+        { "name": "7 Energy with Fruit Puree", "size": "S / M / L", "price": "$5.25 / $6.00 / $6.75", "calories": "", "desc": "7 Energy finished with real fruit puree" },
+        { "name": "7 Energy with Cream Top", "size": "S / M / L", "price": "$5.50 / $6.25 / $7.00", "calories": "", "desc": "7 Energy topped with sweet cream" }
+      ]
+    },
+    {
+      "category": "7 Fizz, Tea & Lemonade",
+      "intro": "Sparkling Fizz sodas, teas, chai and fresh lemonade. Priced Small / Medium / Large.",
+      "items": [
+        { "name": "7 Fizz (flavored soda)", "size": "S / M / L", "price": "$3.75 / $4.25 / $5.00", "calories": "", "desc": "Sparkling water with flavor syrup; add cream or puree" },
+        { "name": "Tea (Black, Green or Earl Grey)", "size": "S / M / L", "price": "$3.25 / $4.00 / $4.75", "calories": "", "desc": "Brewed tea, hot or iced" },
+        { "name": "Chai Latte", "size": "S / M / L", "price": "$4.25 / $5.00 / $5.75", "calories": "", "desc": "Spiced chai with steamed milk (Dirty Chai adds espresso)" },
+        { "name": "Matcha Latte", "size": "S / M / L", "price": "$4.50 / $5.25 / $6.00", "calories": "", "desc": "Matcha green tea with milk" },
+        { "name": "Classic Lemonade", "size": "S / M / L", "price": "$3.75 / $4.50 / $5.25", "calories": "", "desc": "Made in stand; add flavor or fruit puree" }
+      ]
+    },
+    {
+      "category": "Smoothies, Shakes & Kids",
+      "intro": "Blended fruit smoothies, hand-spun shakes and caffeine-free kids drinks. Priced Small / Medium / Large unless noted.",
+      "items": [
+        { "name": "Fruit Smoothie", "size": "S / M / L", "price": "$4.75 / $5.50 / $6.25", "calories": "", "desc": "Blended fruit: mango, strawberry, wildberry or pina colada" },
+        { "name": "Classic Shake (vanilla or chocolate)", "size": "S / M / L", "price": "$5.00 / $5.75 / $6.50", "calories": "", "desc": "Hand-spun shake, the heaviest drink on the menu" },
+        { "name": "Shake with Candy or Cookie Mix-In", "size": "S / M / L", "price": "$5.75 / $6.50 / $7.25", "calories": "", "desc": "Shake blended with a candy or cookie mix-in" },
+        { "name": "Steamer (flavored hot milk)", "size": "S / M / L", "price": "$3.00 – $4.00", "calories": "", "desc": "Hot milk with syrup, no caffeine, kid-friendly" },
+        { "name": "Pup Cup", "size": "", "price": "Free", "calories": "", "desc": "A small cup of whipped cream for the dog, free at most stands" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make 7 Brew at Home",
+    "intro": "Craving 7 Brew without the drive? These picks help you recreate the breve brews at home.",
+    "cards": [
+      { "icon": "☕", "name": "Espresso Machine", "blurb": "Pull espresso for lattes and breves.", "amazon_search": "espresso machine home" },
+      { "icon": "🍯", "name": "Coffee Syrup Set", "blurb": "Vanilla, caramel and more for signature builds.", "amazon_search": "coffee syrup variety set" },
+      { "icon": "🥛", "name": "Half and Half", "blurb": "The base that makes a breve rich.", "amazon_search": "milk frother" },
+      { "icon": "🥤", "name": "Reusable Cold Cups", "blurb": "Clear tumblers for iced coffee.", "amazon_search": "clear cold cups with dome lids straws" }
+    ]
+  },
+
+  "popular_items": [
+    "Blondie",
+    "German Chocolate",
+    "Smooth 7",
+    "7 Energy",
+    "Caramel Macchiato"
+  ],
+
+  "faqs": [
+    {
+      "q": "What are the seven original 7 Brew drinks?",
+      "a": "The seven signature brews are Blondie, Brunette, Smooth 7, Sweet and Salty, German Chocolate, Cinnamon Roll and White Chocolate Mocha. All are breve based (half and half), which is what makes them thick and dessert-like. The Blondie is the top seller."
+    },
+    {
+      "q": "Does 7 Brew publish calorie counts?",
+      "a": "No. 7 Brew does not publish a full nutrition table, and no calorie counts appear on the board or in the app. The signature brews use half and half and syrups, so a medium sits closer to a milkshake than a plain latte. Ordering half sweet, swapping breve for milk or oat, and skipping the cream top make the biggest difference."
+    },
+    {
+      "q": "How much is a 7 Brew drink?",
+      "a": "A small signature brew is about $4.75, a medium $5.50 and a large $6.25. Coffee classics like a latte start around $3.95 small, and a 7 Energy starts at $5.00. Prices are national averages and vary by location."
+    },
+    {
+      "q": "Does 7 Brew have food?",
+      "a": "No. 7 Brew is drinks only, with no food menu and no dining room. Every location is a small drive-thru stand, sometimes with a walk-up window, built around speed and customization."
+    },
+    {
+      "q": "Does 7 Brew charge extra for oat milk?",
+      "a": "No. Oat, almond and coconut milk are free swaps on any drink, and so are sugar-free syrups and half-sweet. Extra flavor syrups (50 to 75 cents), an extra espresso shot ($1) and a cream top ($1) are the add-ons that cost more."
+    }
+  ],
+
+  "internal_links": [
+    "dutch-bros-menu",
+    "starbucks-menu",
+    "dunkin-menu",
+    "mcdonalds-menu",
+    "subway-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no calories, since 7 Brew publishes none), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > 7 Brew."
+  },
+
+  "_data_notes": {
+    "price_source": "Per-size prices are national averages (Small / Medium / Large), matching how 7 Brew prices (by size, not by item). 7 Brew is franchise owned and does not publish an official price list; newer markets run 25 to 50 cents higher.",
+    "calories": "Deliberately left blank for every item. 7 Brew does not publish calorie counts, so inventing numbers would be inaccurate. The intro, disclaimer and an FAQ state this plainly, exactly as reliable references do. Never invent a calorie number.",
+    "accuracy": "Prices are typical national averages and vary by location and market. Flavor ranges rotate. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels iced caramel breve image (pexels-15086189), creamy with caramel drizzle in a clear drive-thru cup, no branding, portrait that crops well. Matches 7 Brew's signature breve look and is distinct from the other coffee brands.",
+    "category_note": "Uses the existing 'Coffee & Drinks' category (with Starbucks, Dunkin, Dutch Bros). No new category needed.",
+    "format_note": "Prices are shown as Small / Medium / Large inside one price cell because 7 Brew prices by size rather than by item, which is how the competitor (usafoodmenu) presents it. If the template later gets a proper 3-size column, this data can be split into those columns. Steamer price changed on import from '$3.00 to $4.00' to the accepted range format '$3.00 – $4.00'.",
+    "keyword_notes": "Sections and FAQ shaped by real 7 Brew search demand: the seven brews, drink prices, whether calories are published, no food, oat milk cost."
+  }
+}
