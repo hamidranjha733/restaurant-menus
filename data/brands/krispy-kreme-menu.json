@@ -1,0 +1,143 @@
+{
+  "slug": "krispy-kreme-menu",
+  "brand": "Krispy Kreme",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/krispy-kreme-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/9619310/pexels-photo-9619310.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Krispy Kreme style box of glazed doughnuts",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-9619310",
+    "_verify_note": "Tentative hero (box of glazed doughnuts). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Krispy Kreme Menu With Prices & Calories (2026)",
+    "meta_description": "Full Krispy Kreme menu with prices and calories for 2026: the Original Glazed, dozens, specialty doughnuts, Doughnut Dots, coffee and Kreme chillers.",
+    "h1": "Krispy Kreme Menu With Prices (2026)",
+    "primary_keyword": "krispy kreme menu with prices",
+    "keyword_volume": 4300,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and vary by shop (city-center and airport shops run higher). Last updated October 2026.",
+
+  "intro": "Krispy Kreme is the doughnut chain famous for its melt-in-your-mouth Original Glazed, made fresh on the glazing line you can watch in store, and the 'Hot Light' that signals warm doughnuts. Beyond the glazed classic there are chocolate iced, filled and specialty doughnuts, poppable Doughnut Dots, and a full coffee and Kreme chiller lineup. Below is the full Krispy Kreme menu with prices and calories for 2026.",
+
+  "quick_answer": "A single Original Glazed at Krispy Kreme is about $2.19, and a dozen Original Glazed is $16.99 to $17.99. A build-your-own dozen runs about $19.49, specialty dozens around $21.99, and Doughnut Dots (24) are $7.79. Coffee starts at about $2.49 and a latte is $4.49. The Original Glazed is the icon. One is about 190 calories.",
+
+  "highlights": [
+    { "strong": "Original Glazed", "label": "the melt-in-your-mouth classic" },
+    { "strong": "Hot Light", "label": "on means warm doughnuts" },
+    { "strong": "$16.99", "label": "a dozen Original Glazed" },
+    { "strong": "190 cal", "label": "per Original Glazed" }
+  ],
+
+  "hot_deal": "Krispy Kreme value: the dozen Original Glazed is far cheaper per doughnut than singles, and the app and Rewards drop regular deals, free-doughnut rewards and the famous 'Day of the Dozens' pricing. Watch for the Hot Light, which often comes with a free Original Glazed. Prices vary by shop.",
+
+  "menu": [
+    {
+      "category": "Original Glazed",
+      "intro": "The signature, best by the dozen. One is about 190 cal.",
+      "items": [
+        { "name": "Original Glazed (Single)", "size": "1 doughnut", "price": "$2.19", "calories": "190", "desc": "The melt-in-your-mouth classic glazed doughnut" },
+        { "name": "Original Glazed (Half Dozen)", "size": "6 doughnuts", "price": "$12.39", "calories": "", "desc": "Six Original Glazed doughnuts" },
+        { "name": "Original Glazed (Dozen)", "size": "12 doughnuts", "price": "$16.99", "calories": "", "desc": "A dozen Original Glazed, the best value (about $17.99 some shops)" }
+      ]
+    },
+    {
+      "category": "Specialty & Filled Doughnuts",
+      "intro": "Chocolate iced, filled and the build-your-own dozen.",
+      "items": [
+        { "name": "Chocolate Iced Glazed", "size": "1 doughnut", "price": "$2.49", "calories": "", "desc": "Glazed doughnut dipped in chocolate icing (about 240 cal)" },
+        { "name": "Glazed Kreme Filled", "size": "1 doughnut", "price": "$2.49", "calories": "", "desc": "Glazed doughnut filled with Kreme" },
+        { "name": "Build-Your-Own Dozen", "size": "12 doughnuts", "price": "$19.49", "calories": "", "desc": "Pick any dozen from the daily selection" },
+        { "name": "Specialty / Seasonal Dozen", "size": "12 doughnuts", "price": "$21.99", "calories": "", "desc": "A dozen of the specialty and seasonal doughnuts" }
+      ]
+    },
+    {
+      "category": "Doughnut Dots & Bites",
+      "intro": "Poppable mini doughnuts.",
+      "items": [
+        { "name": "Original Glazed Doughnut Dots (10)", "size": "10 pieces", "price": "$4.99", "calories": "", "desc": "Ten poppable glazed doughnut holes" },
+        { "name": "Original Glazed Doughnut Dots (24)", "size": "24 pieces", "price": "$7.79", "calories": "", "desc": "A bucket of 24 glazed doughnut holes" }
+      ]
+    },
+    {
+      "category": "Coffee & Drinks",
+      "intro": "Brewed coffee, lattes and frozen Kreme chillers.",
+      "items": [
+        { "name": "Brewed Coffee (Small)", "size": "small", "price": "$2.49", "calories": "", "desc": "Fresh-brewed coffee (medium about $2.89, large $3.39)" },
+        { "name": "Latte (Medium)", "size": "medium", "price": "$4.49", "calories": "", "desc": "Espresso with steamed milk" },
+        { "name": "Iced Coffee", "size": "", "price": "$3.49", "calories": "", "desc": "Chilled iced coffee" },
+        { "name": "Kreme Chiller / Frozen Drink", "size": "", "price": "$5.49", "calories": "", "desc": "Frozen blended specialty drink (about $4.50 to $6)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Doughnuts at Home",
+    "intro": "Want glazed doughnuts at home? These picks help.",
+    "cards": [
+      { "icon": "🍩", "name": "Doughnut Pan & Cutter", "blurb": "For ring doughnuts at home.", "amazon_search": "doughnut pan cutter" },
+      { "icon": "🍯", "name": "Glaze & Icing Mix", "blurb": "For a melt-in-your-mouth glaze.", "amazon_search": "doughnut glaze mix" },
+      { "icon": "🥘", "name": "Deep Fryer", "blurb": "For classic fried doughnuts.", "amazon_search": "deep fryer home" },
+      { "icon": "📖", "name": "Copycat Doughnut Recipes", "blurb": "Cookbooks that recreate famous chain treats at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Original Glazed",
+    "Original Glazed Dozen",
+    "Chocolate Iced Glazed",
+    "Glazed Kreme Filled",
+    "Doughnut Dots"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a dozen Krispy Kreme doughnuts?",
+      "a": "A dozen Original Glazed is about $16.99 to $17.99, far cheaper per doughnut than singles ($2.19 each). A build-your-own dozen runs about $19.49 and a specialty dozen around $21.99. City-center and airport shops cost more."
+    },
+    {
+      "q": "What does the Krispy Kreme Hot Light mean?",
+      "a": "The 'Hot Light' is a neon sign in the window that comes on when fresh Original Glazed doughnuts are coming off the glazing line. When it is lit, the doughnuts are warm, and shops often hand out a free Original Glazed."
+    },
+    {
+      "q": "How many calories are in a Krispy Kreme Original Glazed?",
+      "a": "An Original Glazed doughnut is about 190 calories. Chocolate iced and filled varieties run higher, roughly 240 to 350 depending on the icing and filling. It is one of the lighter doughnuts for its size because it is so airy."
+    },
+    {
+      "q": "What are Doughnut Dots?",
+      "a": "Doughnut Dots are Krispy Kreme's bite-size doughnut holes, sold in packs of about 10 for $4.99 or a bucket of 24 for $7.79. They are poppable glazed minis, good for sharing."
+    },
+    {
+      "q": "What are the most popular items at Krispy Kreme?",
+      "a": "The best known are the Original Glazed, a dozen Original Glazed, the Chocolate Iced Glazed, the Glazed Kreme Filled, and the Doughnut Dots."
+    }
+  ],
+
+  "internal_links": [
+    "dunkin-menu",
+    "starbucks-menu",
+    "dutch-bros-menu",
+    "7-brew-menu",
+    "scooters-coffee-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Krispy Kreme."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (vary a lot by shop; representative values used). City-center and airport shops run higher.",
+    "calories": "Only the Original Glazed (190) is a confirmed figure; chocolate iced noted inline as approximate. Several items left blank rather than guessing, since specialty doughnuts vary. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by shop. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels box of glazed doughnuts (pexels-9619310) for the Krispy Kreme dozen. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Dunkin colorful-donuts hero.",
+    "category_note": "Uses the existing 'Coffee & Drinks' category (with Dunkin, Starbucks etc.), since Krispy Kreme is doughnuts and coffee. Costco Food Court remains as the last planned brand.",
+    "keyword_notes": "Sections and FAQ shaped by real Krispy Kreme search demand: dozen price, the Hot Light, Original Glazed calories, Doughnut Dots, popular items."
+  }
+}
