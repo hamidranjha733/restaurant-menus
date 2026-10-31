@@ -41,9 +41,29 @@ export function breadcrumbJsonLd(crumbs: Crumb[]) {
   };
 }
 
-/** "Hand-Cut Sirloin (6 oz)". A name that already ends in "(6 oz)" is left as is. */
-export const itemLabel = (name: string, size: string) =>
-  size && !name.toLowerCase().includes(`(${size.toLowerCase()})`) ? `${name} (${size})` : name;
+/** Lowercase, with "pcs"/"pieces" as "pc" and "fingers" as "finger", so "2 Pc" and "2 pieces" compare equal. */
+const normalizeSize = (s: string) =>
+  s
+    .toLowerCase()
+    .replace(/\b(pcs?|pieces?)\b/g, "pc")
+    .replace(/\bfingers\b/g, "finger")
+    .replace(/\s+/g, " ")
+    .trim();
+
+/**
+ * "Hand-Cut Sirloin (6 oz)". The size is left off when the name already says it,
+ * as in "2 Pc Signature Chicken" (2 pieces), "Shake (Medium)" or "Gallon of Tea" (gallon).
+ * Only a number-plus-unit or one-word size is matched loosely; a longer size such as
+ * "Chicken & Shrimp" is left off only when the name already has it in brackets.
+ */
+export function itemLabel(name: string, size: string): string {
+  if (!size) return name;
+  const loose = /^\d/.test(size) || !/\s/.test(size.trim());
+  const alreadyNamed = loose
+    ? new RegExp(`(^|[^a-z0-9])${normalizeSize(size).replace(/[.*+?^${}()|[\]\\/]/g, "\\$&")}($|[^a-z0-9])`).test(normalizeSize(name))
+    : name.toLowerCase().includes(`(${size.toLowerCase()})`);
+  return alreadyNamed ? name : `${name} (${size})`;
+}
 
 /** "2250" -> "2,250" */
 export const formatCalories = (calories: string) => Number(calories).toLocaleString("en-US");
