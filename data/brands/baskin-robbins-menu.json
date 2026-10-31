@@ -1,0 +1,147 @@
+{
+  "slug": "baskin-robbins-menu",
+  "brand": "Baskin-Robbins",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/baskin-robbins-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/1006190/pexels-photo-1006190.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Baskin-Robbins style ice cream cone topped with crushed peanuts and brownies",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-1006190",
+    "_verify_note": "Tentative hero (loaded ice cream cone). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Baskin-Robbins Menu With Prices (2026)",
+    "meta_description": "Full Baskin-Robbins menu with prices for 2026: single and double scoops, sundaes, milkshakes, Cappuccino Blast, ice cream cakes and Polar Pizza treats.",
+    "h1": "Baskin-Robbins Menu With Prices (2026)",
+    "primary_keyword": "baskin robbins menu with prices",
+    "keyword_volume": 8100,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary a lot by location (scoop prices differ widely store to store). Baskin-Robbins has a rotating lineup of 31+ flavors, so calories depend entirely on the flavor chosen and are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Baskin-Robbins is the ice cream chain famous for its '31 flavors', one for every day of the month, served as scoops, sundaes, milkshakes and the signature Cappuccino Blast. Beyond the scoop case it is a go-to for ice cream cakes and the shareable Polar Pizza ice cream treat. Below is the full Baskin-Robbins menu with prices for 2026.",
+
+  "quick_answer": "At Baskin-Robbins, a single scoop runs about $4.98 to $7.36, a double scoop $6.86 to $11.86, a two-scoop sundae $8.73 to $13.73, and a milkshake $7.86 to $11.61 (prices vary a lot by location). A 6-inch ice cream cake is about $38.99 to $44.99 and a Polar Pizza is $25.99. The 31 flavors and the Cappuccino Blast are the icons.",
+
+  "highlights": [
+    { "strong": "31 Flavors", "label": "one for every day" },
+    { "strong": "Cappuccino Blast", "label": "the signature coffee drink" },
+    { "strong": "Ice cream cakes", "label": "from about $38.99" },
+    { "strong": "Polar Pizza", "label": "the shareable treat, $25.99" }
+  ],
+
+  "hot_deal": "Baskin-Robbins value: the app and Birthday Club drop a free scoop on your birthday and regular deals, and 'Celebrate 31' days often mean discounted scoops. A pre-packed quart ($9.09) is the cheapest way to take ice cream home. Scoop prices vary a lot by location, so the app shows your store's pricing.",
+
+  "menu": [
+    {
+      "category": "Scoops",
+      "intro": "The 31 flavors, by the scoop in a cup or cone.",
+      "items": [
+        { "name": "Single Scoop", "size": "4 oz", "price": "$4.98 - $7.36", "calories": "", "desc": "One scoop in a cup or cone (calories depend on flavor)" },
+        { "name": "Double Scoop", "size": "", "price": "$6.86 - $11.86", "calories": "", "desc": "Two scoops in a cup or cone" },
+        { "name": "Triple Scoop", "size": "", "price": "$11.98 - $14.11", "calories": "", "desc": "Three scoops" },
+        { "name": "Kids Scoop", "size": "2.5 oz", "price": "Varies", "calories": "", "desc": "A smaller kid-size scoop (price varies by store)" },
+        { "name": "Fresh-Baked Waffle Cone (add-on)", "size": "", "price": "Varies", "calories": "130", "desc": "Upgrade any scoop to a fresh-baked waffle cone (about 130 cal for the cone)" }
+      ]
+    },
+    {
+      "category": "Sundaes & Shakes",
+      "intro": "Sundaes, the Cappuccino Blast and milkshakes.",
+      "items": [
+        { "name": "Two-Scoop Sundae", "size": "", "price": "$8.73 - $13.73", "calories": "", "desc": "Two scoops with toppings, sauce and whipped cream" },
+        { "name": "Banana Split", "size": "", "price": "Varies", "calories": "", "desc": "Three scoops with banana, sauces and toppings (price varies by store)" },
+        { "name": "Milkshake", "size": "", "price": "$7.86 - $11.61", "calories": "", "desc": "A hand-spun milkshake, any flavor" },
+        { "name": "Cappuccino Blast", "size": "", "price": "Varies", "calories": "", "desc": "The signature blended coffee-and-ice-cream drink (price varies by store)" }
+      ]
+    },
+    {
+      "category": "Ice Cream Cakes",
+      "intro": "The famous ice cream cakes, by size.",
+      "items": [
+        { "name": "6-inch Round Cake", "size": "6 inch", "price": "$38.99 - $44.99", "calories": "", "desc": "Serves about 6 to 8 (Celebration $38.99, Oreo $43.99)" },
+        { "name": "9-inch Round Cake", "size": "9 inch", "price": "$51.99 - $62.99", "calories": "", "desc": "Serves about 12 to 16" },
+        { "name": "Full Sheet Cake", "size": "8x12 in", "price": "$51.99 - $63.99", "calories": "", "desc": "Full sheet, serves a party" },
+        { "name": "Ice Cream Float Cake", "size": "serves 6-8", "price": "$33.99", "calories": "", "desc": "The float-style cake" }
+      ]
+    },
+    {
+      "category": "Polar Pizza & Take-Home",
+      "intro": "The Polar Pizza treat and ice cream to go.",
+      "items": [
+        { "name": "Polar Pizza Ice Cream Treat", "size": "serves 8", "price": "$25.99", "calories": "", "desc": "An ice cream 'pizza' on a brownie or cookie crust (Mint Choc Chip, Oreo, Cookie Dough or custom)" },
+        { "name": "Pre-Packed Quart", "size": "quart", "price": "$9.09", "calories": "", "desc": "A quart of a classic flavor to take home" },
+        { "name": "Fresh-Pack (Small)", "size": "small", "price": "$7.99", "calories": "", "desc": "A small hand-packed container" },
+        { "name": "Fresh-Pack (Regular)", "size": "regular", "price": "$13.49", "calories": "", "desc": "A regular hand-packed container" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Ice Cream Treats at Home",
+    "intro": "Want scoops, sundaes and shakes at home? These picks help.",
+    "cards": [
+      { "icon": "🍦", "name": "Ice Cream Maker", "blurb": "For homemade scoops in any flavor.", "amazon_search": "ice cream maker machine" },
+      { "icon": "🍨", "name": "Sundae Dishes & Scoop", "blurb": "For sundaes and banana splits.", "amazon_search": "sundae glass dishes ice cream scoop" },
+      { "icon": "🥤", "name": "Milkshake Blender", "blurb": "For hand-spun shakes and blasts.", "amazon_search": "milkshake maker blender" },
+      { "icon": "🍫", "name": "Toppings & Sauces", "blurb": "Sprinkles, hot fudge and more.", "amazon_search": "ice cream toppings sauce set" }
+    ]
+  },
+
+  "popular_items": [
+    "Single Scoop (31 Flavors)",
+    "Cappuccino Blast",
+    "Two-Scoop Sundae",
+    "Ice Cream Cake",
+    "Polar Pizza"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a scoop at Baskin-Robbins?",
+      "a": "A single scoop runs about $4.98 to $7.36 and a double scoop $6.86 to $11.86, but scoop prices vary a lot by location. A waffle cone is an upgrade. The app shows your store's exact pricing and often has deals."
+    },
+    {
+      "q": "How much is a Baskin-Robbins ice cream cake?",
+      "a": "A 6-inch round cake is about $38.99 to $44.99 (serves 6 to 8), a 9-inch is $51.99 to $62.99, and full sheet cakes run $51.99 to $63.99. The shareable Polar Pizza ice cream treat is $25.99 and serves about 8."
+    },
+    {
+      "q": "What are the 31 flavors at Baskin-Robbins?",
+      "a": "The '31 flavors' is the brand's idea of one flavor for every day of the month. The lineup rotates and includes classics like Very Berry Strawberry, Pralines 'n Cream, Chocolate Chip Cookie Dough, Mint Chocolate Chip and the Flavor of the Month, so the exact 31 change over time."
+    },
+    {
+      "q": "How many calories are in Baskin-Robbins ice cream?",
+      "a": "It depends entirely on the flavor and size, so no single figure applies, which is why calories are left blank here. Baskin-Robbins publishes nutrition per flavor in store and on its app; for reference, the fresh-baked waffle cone alone is about 130 calories."
+    },
+    {
+      "q": "What is the Cappuccino Blast?",
+      "a": "The Cappuccino Blast is Baskin-Robbins' signature blended drink, made with coffee and ice cream blended into a cold, frosty coffee treat, often topped with whipped cream. It comes in several flavors and is one of the chain's best-known items."
+    }
+  ],
+
+  "internal_links": [
+    "dairy-queen-menu",
+    "krispy-kreme-menu",
+    "dunkin-menu",
+    "cold-stone-creamery-menu",
+    "starbucks-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (calories mostly blank, since they depend on flavor), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Baskin-Robbins."
+  },
+
+  "_data_notes": {
+    "price_source": "Scoop/shake/sundae prices are observed online ranges (vary widely by location). Cake and Polar Pizza prices from an established menu-prices publication. Some items left with blank price where only location-specific values exist. On import those blank prices became 'Varies' (the site does not accept an empty price).",
+    "calories": "Deliberately mostly blank. Baskin-Robbins has 31+ rotating flavors, so calories depend entirely on the flavor and size; only the waffle cone (130) is noted. Disclaimer and FAQ both explain this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate ranges and vary a lot by location. Always display the disclaimer noting scoop prices differ store to store.",
+    "hero_image": "Tentative Pexels loaded ice cream cone (pexels-1006190). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Coffee & Drinks' category (ice cream/dessert + Cappuccino Blast drinks, following the Krispy Kreme precedent). Internal link cold-stone-creamery-menu may not exist yet; Claude Code can drop any missing-page link. #68 of the expansion list.",
+    "keyword_notes": "High-volume brand. Sections and FAQ shaped by real Baskin-Robbins search demand: scoop price, cake price, the 31 flavors, calories question, the Cappuccino Blast. Prices given as ranges because they vary widely by store."
+  }
+}
