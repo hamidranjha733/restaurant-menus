@@ -1,0 +1,134 @@
+{
+  "slug": "beauty-essex-new-york-menu",
+  "brand": "Beauty & Essex (New York)",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/beauty-essex-new-york-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/30036946/pexels-photo-30036946.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Beauty & Essex style upscale shared small plates on a table",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-30036946",
+    "_verify_note": "Tentative hero (upscale shared small plates). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Beauty & Essex NYC Menu & Prices (2026)",
+    "meta_description": "Beauty & Essex New York menu guide for 2026: the Lower East Side upscale shared-plates restaurant and lounge, its signature dishes and what to expect.",
+    "h1": "Beauty & Essex New York Menu (2026)",
+    "primary_keyword": "beauty and essex nyc menu",
+    "keyword_volume": 1600,
+    "keyword_kd": 3
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Beauty & Essex is an upscale reservation-based restaurant and lounge, not a fast-food chain, and it does not publish a fixed national price list, so dish prices are not listed here rather than guessed. It is a higher-end '$$$' spot where small plates are shared. Calories are not published. Check the restaurant's official menu for current pricing. Last updated October 2026.",
+
+  "intro": "Beauty & Essex is the upscale shared-plates restaurant and lounge on New York's Lower East Side, from chef Chris Santos, famous for its hidden entrance through a working pawn shop and its glamorous, bustling dining room. The menu is creative modern American built for sharing: small plates, flatbreads, larger plates and desserts, with an extensive cocktail and wine list. Below is a guide to the Beauty & Essex New York menu for 2026.",
+
+  "quick_answer": "Beauty & Essex NYC is an upscale shared-plates restaurant and lounge on the Lower East Side, entered through a pawn-shop front. The menu is creative American small plates for sharing, like tuna poke wonton tacos, ricotta meatballs and lobster mac and cheese, with large plates and desserts. It is a reservation-based '$$$' spot that does not publish a fixed price list, so prices vary by menu and are not listed here.",
+
+  "highlights": [
+    { "strong": "Hidden entrance", "label": "through a working pawn shop" },
+    { "strong": "Shared plates", "label": "creative modern American" },
+    { "strong": "Lower East Side", "label": "the NYC flagship" },
+    { "strong": "Lounge & cocktails", "label": "a glamorous night out" }
+  ],
+
+  "hot_deal": "Beauty & Essex value: this is a night-out restaurant rather than a value spot, so the best approach is sharing several small plates across the table instead of ordering individual entrees. The famous free complimentary glass of champagne in the ladies' lounge is a known touch. Reservations are recommended. Prices are set at the restaurant and are not published as a fixed list.",
+
+  "menu": [
+    {
+      "category": "Small Plates (For Sharing)",
+      "intro": "The creative shared small plates the menu is built on. Prices are set at the restaurant.",
+      "items": [
+        { "name": "Tuna Poke Wonton Tacos", "size": "", "price": "Varies", "calories": "", "desc": "Crispy wonton tacos filled with tuna poke, a signature" },
+        { "name": "Sheep's Milk Ricotta Meatballs", "size": "", "price": "Varies", "calories": "", "desc": "Meatballs with sheep's milk ricotta" },
+        { "name": "Crab Rangoon on Toast", "size": "", "price": "Varies", "calories": "", "desc": "A crab rangoon-style toast" },
+        { "name": "Orange-Kissed Salmon Ceviche", "size": "", "price": "Varies", "calories": "", "desc": "Citrus salmon ceviche" }
+      ]
+    },
+    {
+      "category": "Large Plates",
+      "intro": "The larger shared or individual plates.",
+      "items": [
+        { "name": "Lobster Mac 'n' Cheese", "size": "", "price": "Varies", "calories": "", "desc": "Rich lobster macaroni and cheese, a favorite" },
+        { "name": "Truffle-Roasted Chicken", "size": "", "price": "Varies", "calories": "", "desc": "Oven-roasted chicken with truffle" },
+        { "name": "Braised Short Ribs", "size": "", "price": "Varies", "calories": "", "desc": "Slow-braised short ribs" }
+      ]
+    },
+    {
+      "category": "Dessert & Drinks",
+      "intro": "Dessert and the extensive cocktail and wine list.",
+      "items": [
+        { "name": "Chocolate Bread Pudding", "size": "", "price": "Varies", "calories": "", "desc": "Chocolate bread pudding with roasted pear ice cream" },
+        { "name": "Signature Cocktails", "size": "", "price": "Varies", "calories": "", "desc": "An extensive craft cocktail list (priced at the restaurant)" },
+        { "name": "Wine List", "size": "", "price": "Varies", "calories": "", "desc": "A broad wine selection" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Shared Plates at Home",
+    "intro": "Want a Beauty & Essex-style sharing spread at home? These picks help.",
+    "cards": [
+      { "icon": "🍽️", "name": "Small Plate Dish Set", "blurb": "For a shared-plates table.", "amazon_search": "small plates tapas dish set" },
+      { "icon": "🦞", "name": "Lobster Mac Kit", "blurb": "For lobster mac and cheese.", "amazon_search": "lobster mac and cheese kit" },
+      { "icon": "🍸", "name": "Cocktail Set", "blurb": "For craft cocktails at home.", "amazon_search": "cocktail making set" },
+      { "icon": "📖", "name": "Chris Santos Cookbook", "blurb": "The chef's own recipes.", "amazon_search": "chris santos cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Tuna Poke Wonton Tacos",
+    "Lobster Mac 'n' Cheese",
+    "Ricotta Meatballs",
+    "Braised Short Ribs",
+    "Chocolate Bread Pudding"
+  ],
+
+  "faqs": [
+    {
+      "q": "What kind of restaurant is Beauty & Essex in New York?",
+      "a": "Beauty & Essex is an upscale shared-plates restaurant and lounge on the Lower East Side of Manhattan, from chef Chris Santos. It serves creative modern American food made for sharing, with a glamorous dining room and an extensive cocktail and wine list. It is famous for its hidden entrance through a working pawn shop."
+    },
+    {
+      "q": "How much does Beauty & Essex cost?",
+      "a": "It is a higher-end '$$$' restaurant rather than a value spot. Because it is reservation-based fine dining, it does not publish a fixed national price list, so costs depend on how many small plates, large plates and drinks you order. Expect a night-out bill, especially with cocktails and wine."
+    },
+    {
+      "q": "What is Beauty & Essex known for?",
+      "a": "It is best known for its hidden pawn-shop entrance, its shared-plates menu with dishes like tuna poke wonton tacos and lobster mac and cheese, and its lounge atmosphere, including a complimentary glass of champagne in the ladies' lounge. There are locations in New York and Las Vegas."
+    },
+    {
+      "q": "Do I need a reservation for Beauty & Essex?",
+      "a": "A reservation is strongly recommended, as it is a popular upscale restaurant and lounge. Walk-ins may be possible at the bar, but for the dining room, booking ahead through the restaurant or a reservation service is the safest bet."
+    },
+    {
+      "q": "What are the most popular dishes at Beauty & Essex?",
+      "a": "Favorites include the tuna poke wonton tacos, the lobster mac and cheese, the ricotta meatballs, the braised short ribs, and the chocolate bread pudding for dessert."
+    }
+  ],
+
+  "internal_links": [
+    "beauty-essex-las-vegas-menu",
+    "amalfi-llama-menu",
+    "au-cheval-menu",
+    "longhorn-steakhouse-menu",
+    "red-lobster-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no prices or calories, since this upscale restaurant does not publish a fixed list), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Beauty & Essex (New York)."
+  },
+
+  "_data_notes": {
+    "price_source": "No reliable published price list exists. Beauty & Essex is reservation-based upscale dining that does not publish a fixed national menu with prices. Dish NAMES are real (from menu/reviews); prices deliberately left blank with a clear disclaimer rather than guessed. On import the blank prices became 'Varies' (the site does not accept an empty price).",
+    "calories": "Not published and deliberately left blank. Upscale restaurant, no nutrition guide. Never invent a calorie number.",
+    "accuracy": "This page is a menu GUIDE for a brand-name search, not a priced fast-food menu. The disclaimer clearly states no fixed price list is published. Always display it.",
+    "hero_image": "Tentative Pexels shared small plates (pexels-30036946). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (upscale restaurant). This is the NEW YORK location; a separate Las Vegas page (beauty-essex-las-vegas-menu) is next. #69 of the expansion list.",
+    "keyword_notes": "Niche but real search interest for the brand name + 'menu'. Page targets the brand/menu query with dish descriptions and FAQs since prices are not published. Honest no-price approach as the user approved for thin upscale brands."
+  }
+}
