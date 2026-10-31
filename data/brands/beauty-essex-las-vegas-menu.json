@@ -1,0 +1,135 @@
+{
+  "slug": "beauty-essex-las-vegas-menu",
+  "brand": "Beauty & Essex (Las Vegas)",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/beauty-essex-las-vegas-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/17749744/pexels-photo-17749744.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Beauty & Essex Las Vegas style upscale plated dish on a restaurant table",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-17749744",
+    "_verify_note": "Tentative hero (upscale plated dish). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Beauty & Essex Las Vegas Menu & Prices (2026)",
+    "meta_description": "Beauty & Essex Las Vegas menu with prices for 2026: the Cosmopolitan shared-plates restaurant's small plates, prime steaks, signature dishes and cocktails.",
+    "h1": "Beauty & Essex Las Vegas Menu (2026)",
+    "primary_keyword": "beauty and essex las vegas menu",
+    "keyword_volume": 1900,
+    "keyword_kd": 3
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate ranges, are provided as a guide only, and vary by menu and visit. Beauty & Essex at The Cosmopolitan is an upscale reservation-based restaurant and lounge, so exact per-dish prices change and calories are not published. Figures below are representative ranges to confirm with the restaurant. Last updated October 2026.",
+
+  "intro": "Beauty & Essex at The Cosmopolitan of Las Vegas is the glamorous Tao Group shared-plates restaurant and lounge, the Vegas sibling of the New York original, complete with the signature hidden pawn-shop entrance. The menu is creative modern American built for sharing, from the famous grilled cheese and tomato soup dumplings to prime steaks, with an extensive cocktail program. Below is a guide to the Beauty & Essex Las Vegas menu with representative prices for 2026.",
+
+  "quick_answer": "At Beauty & Essex Las Vegas, shared small plates run about $17 to $32 (the grilled cheese and tomato soup dumplings and tuna poke wonton tacos are signatures), large plates and steaks run roughly $39 to $170, and cocktails are about $20 to $24. It is an upscale '$$$' shared-plates restaurant and lounge at The Cosmopolitan, entered through a pawn-shop front.",
+
+  "highlights": [
+    { "strong": "Tomato soup dumplings", "label": "with grilled cheese, the icon" },
+    { "strong": "Hidden entrance", "label": "through a pawn shop" },
+    { "strong": "Prime steaks", "label": "large plates up to $170" },
+    { "strong": "The Cosmopolitan", "label": "the Vegas location" }
+  ],
+
+  "hot_deal": "Beauty & Essex Las Vegas value: it is a night-out restaurant, so the smart move is sharing several small plates ($17 to $32) across the table rather than big entrees. The grilled cheese and tomato soup dumplings are the must-order and one of the cheaper signatures. Reservations are recommended at The Cosmopolitan. Prices vary by menu and visit.",
+
+  "menu": [
+    {
+      "category": "Small Plates (For Sharing)",
+      "intro": "The creative shared small plates, about $17 to $32 each.",
+      "items": [
+        { "name": "Grilled Cheese & Tomato Soup Dumplings", "size": "", "price": "Varies", "calories": "", "desc": "The signature: mini grilled cheese with smoked bacon and tomato soup dumplings" },
+        { "name": "Tuna Poke Wonton Tacos", "size": "", "price": "Varies", "calories": "", "desc": "Crispy wonton tacos with tuna poke" },
+        { "name": "Roasted Bone Marrow", "size": "", "price": "Varies", "calories": "", "desc": "Roasted bone marrow small plate" },
+        { "name": "Little French Dips", "size": "", "price": "Varies", "calories": "", "desc": "Mini French dip sandwiches" },
+        { "name": "Mexican Street Corn Ravioli", "size": "", "price": "Varies", "calories": "", "desc": "Ravioli with elote street-corn flavors" }
+      ]
+    },
+    {
+      "category": "Large Plates & Steaks",
+      "intro": "The larger plates and prime steaks, roughly $39 to $170.",
+      "items": [
+        { "name": "Prime Filet Mignon", "size": "", "price": "Varies", "calories": "", "desc": "Prime filet mignon" },
+        { "name": "Dry-Aged Bone-In New York Strip", "size": "", "price": "Varies", "calories": "", "desc": "Dry-aged bone-in NY strip, the top of the range" },
+        { "name": "Lobster Mac 'n' Cheese", "size": "", "price": "Varies", "calories": "", "desc": "Rich lobster mac and cheese, a shared favorite" }
+      ]
+    },
+    {
+      "category": "Dessert & Cocktails",
+      "intro": "Dessert and the extensive cocktail list.",
+      "items": [
+        { "name": "LES Doughnuts", "size": "", "price": "Varies", "calories": "", "desc": "Lower-East-Side-style doughnuts, the signature dessert" },
+        { "name": "Signature Cocktails", "size": "", "price": "$20 - $24", "calories": "", "desc": "The craft cocktail program" },
+        { "name": "Wine List", "size": "", "price": "Varies", "calories": "", "desc": "A broad wine selection" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Shared Plates at Home",
+    "intro": "Want a Beauty & Essex-style sharing spread at home? These picks help.",
+    "cards": [
+      { "icon": "🧀", "name": "Grilled Cheese Press", "blurb": "For the signature mini grilled cheese.", "amazon_search": "grilled cheese sandwich press" },
+      { "icon": "🥩", "name": "Cast Iron Steak Pan", "blurb": "For prime filet and strip at home.", "amazon_search": "cast iron steak pan" },
+      { "icon": "🍸", "name": "Cocktail Set", "blurb": "For craft cocktails at home.", "amazon_search": "cocktail making set" },
+      { "icon": "🍽️", "name": "Small Plate Dish Set", "blurb": "For a shared-plates table.", "amazon_search": "small plates tapas dish set" }
+    ]
+  },
+
+  "popular_items": [
+    "Grilled Cheese & Tomato Soup Dumplings",
+    "Tuna Poke Wonton Tacos",
+    "Dry-Aged New York Strip",
+    "Lobster Mac 'n' Cheese",
+    "LES Doughnuts"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is Beauty & Essex in Las Vegas?",
+      "a": "Shared small plates run about $17 to $32 each, large plates and steaks roughly $39 to $170, and cocktails about $20 to $24. It is an upscale '$$$' restaurant, so sharing several small plates is the typical approach. Exact prices vary by menu and visit."
+    },
+    {
+      "q": "What is the signature dish at Beauty & Essex?",
+      "a": "The signature is the grilled cheese and tomato soup dumplings, mini grilled cheese sandwiches with smoked bacon served alongside tomato-soup-filled dumplings. The tuna poke wonton tacos and the LES doughnuts for dessert are also must-orders."
+    },
+    {
+      "q": "Where is Beauty & Essex in Las Vegas?",
+      "a": "Beauty & Essex Las Vegas is inside The Cosmopolitan of Las Vegas on the Strip. Like the New York original, it is a glamorous shared-plates restaurant and lounge, entered through a working pawn-shop front, from the Tao Group."
+    },
+    {
+      "q": "Do I need a reservation for Beauty & Essex Las Vegas?",
+      "a": "A reservation is strongly recommended, especially on weekends, as it is a popular upscale restaurant and lounge at The Cosmopolitan. Booking ahead through the restaurant or a reservation service is the safest way to get a table."
+    },
+    {
+      "q": "What are the most popular dishes at Beauty & Essex Las Vegas?",
+      "a": "Favorites include the grilled cheese and tomato soup dumplings, the tuna poke wonton tacos, the dry-aged New York strip, the lobster mac and cheese, and the LES doughnuts for dessert."
+    }
+  ],
+
+  "internal_links": [
+    "beauty-essex-new-york-menu",
+    "amalfi-llama-menu",
+    "au-cheval-menu",
+    "longhorn-steakhouse-menu",
+    "red-lobster-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (prices as ranges where available, no calories), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Beauty & Essex (Las Vegas)."
+  },
+
+  "_data_notes": {
+    "price_source": "Representative price RANGES from a Las Vegas menu/review source (small plates $17-32, large plates $39-170, cocktails $20-24). Upscale reservation-based restaurant with no fixed national list; ranges to confirm with the restaurant. On import the section-wide ranges were moved off the individual dishes (each dish now shows 'Varies'): a range like $39 to $170 covers the whole section, not one dish. The ranges stay in the section intros, quick answer and FAQ. Blank prices also became 'Varies'. The cocktail range $20 to $24 is kept on its row because it describes that item.",
+    "calories": "Not published and deliberately left blank. Upscale restaurant, no nutrition guide. Never invent a calorie number.",
+    "accuracy": "Prices are representative ranges and vary by menu and visit. Always display the disclaimer noting these are ranges.",
+    "hero_image": "Tentative Pexels upscale plated dish (pexels-17749744). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the NY Beauty & Essex tapas hero.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category. This is the LAS VEGAS (Cosmopolitan) location; the New York page is beauty-essex-new-york-menu. #70 of the expansion list.",
+    "keyword_notes": "Targets the Las Vegas brand/menu query. Price ranges used (honest) since exact per-dish prices are not published. Grilled cheese + tomato soup dumplings highlighted as the signature, per real search interest."
+  }
+}
