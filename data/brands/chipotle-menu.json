@@ -1,0 +1,177 @@
+{
+  "slug": "chipotle-menu",
+  "brand": "Chipotle",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/chipotle-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/10696501/pexels-photo-10696501.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Chipotle style Mexican burrito bowl with rice, black beans, guacamole, corn salsa, cheese and tortilla chips",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-10696501"
+  },
+
+  "seo": {
+    "meta_title": "Chipotle Menu With Prices & Calories (2026)",
+    "meta_description": "Full Chipotle menu with prices and calories for 2026: build-your-own burrito, bowl, tacos and salad, Lifestyle Bowls, guacamole, queso, kids meals and drinks.",
+    "h1": "Chipotle Menu With Prices (2026)",
+    "primary_keyword": "chipotle menu prices",
+    "keyword_volume": 18000,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and your build. Last updated October 2026.",
+
+  "intro": "Chipotle Mexican Grill is a fast-casual chain built around one idea: you build your own burrito, bowl, tacos or salad from fresh ingredients down the line. One base price covers your choice of chicken, steak, sofritas or veggie, with premium proteins, guacamole and queso as add-ons. Chipotle also posts calories for everything, so below is the full Chipotle menu with prices and calories for 2026.",
+
+  "quick_answer": "A Chipotle burrito, burrito bowl, order of tacos or salad all start around $11.85 to $13.55 with your choice of chicken, steak, sofritas or veggie included. Barbacoa and carnitas add about $0.75, guacamole adds $2.95, and chips and guac are about $5.20. Calories depend on your build, from roughly 300 to over 1,000.",
+
+  "highlights": [
+    { "strong": "$11.85+", "label": "burrito, bowl, tacos or salad" },
+    { "strong": "Included", "label": "chicken, steak, sofritas or veggie" },
+    { "strong": "+$2.95", "label": "add real guacamole" },
+    { "strong": "Build it", "label": "your own, your way" }
+  ],
+
+  "hot_deal": "Chipotle Rewards and app deals: Chipotle runs free-delivery days and app or online-order promos through the year, plus macro-friendly Lifestyle Bowls (like the High Protein and Balanced Macros bowls) built for specific diets. Offers vary — check the Chipotle app.",
+
+  "menu": [
+    {
+      "category": "Build Your Own (Entrees)",
+      "intro": "Pick your format, then your fillings. The base price includes one regular protein; calories depend on your build.",
+      "items": [
+        { "name": "Burrito", "size": "", "price": "$11.85 – $13.55", "calories": "", "desc": "A big flour tortilla filled with rice, beans, protein and toppings; tortilla alone is 320 cal" },
+        { "name": "Burrito Bowl", "size": "", "price": "$11.85 – $13.55", "calories": "", "desc": "Everything in a burrito without the tortilla; calories depend on your fillings" },
+        { "name": "Tacos", "size": "3 tacos", "price": "$11.85 – $13.55", "calories": "", "desc": "Three soft or crispy tacos; about 210 to 240 cal each before toppings" },
+        { "name": "Salad", "size": "", "price": "$11.85 – $13.55", "calories": "", "desc": "Greens with your choice of protein, beans and toppings" },
+        { "name": "Quesadilla", "size": "", "price": "$12.70 – $14.40", "calories": "", "desc": "Melted cheese quesadilla with protein and sides (online/app order)" }
+      ]
+    },
+    {
+      "category": "Proteins (Choose One)",
+      "intro": "Chicken, steak, sofritas and veggie are included in the base price. Premium proteins cost a little more. Calories are per 4 oz serving.",
+      "items": [
+        { "name": "Chicken", "size": "4 oz", "price": "Included", "calories": "180", "desc": "Grilled adobo-marinated chicken" },
+        { "name": "Steak", "size": "4 oz", "price": "Included", "calories": "150", "desc": "Grilled marinated steak" },
+        { "name": "Sofritas", "size": "4 oz", "price": "Included", "calories": "150", "desc": "Spicy braised organic tofu (plant-based)" },
+        { "name": "Veggie", "size": "", "price": "Included", "calories": "230", "desc": "Fajita veggies and guacamole, no meat" },
+        { "name": "Barbacoa", "size": "4 oz", "price": "+$0.75", "calories": "170", "desc": "Spicy shredded beef" },
+        { "name": "Carnitas", "size": "4 oz", "price": "+$0.75", "calories": "210", "desc": "Seasoned shredded pork" },
+        { "name": "Chicken al Pastor", "size": "4 oz", "price": "Seasonal", "calories": "", "desc": "Spicy adobo chicken with morita peppers, offered for a limited time" }
+      ]
+    },
+    {
+      "category": "Lifestyle Bowls",
+      "intro": "Pre-built bowls designed for specific diets, with set prices and calories.",
+      "items": [
+        { "name": "High Protein Bowl", "size": "", "price": "$15.90", "calories": "850", "desc": "Double chicken, brown rice, beans, salsa and cheese" },
+        { "name": "Balanced Macros Bowl", "size": "", "price": "$14.30", "calories": "700", "desc": "Chicken, brown rice, black beans, salsa and guac" },
+        { "name": "Plant Powered Bowl", "size": "", "price": "$14.30", "calories": "730", "desc": "Sofritas with brown rice, beans and veggies" },
+        { "name": "Wholesome Bowl", "size": "", "price": "$14.30", "calories": "470", "desc": "Chicken, supergreens, fajita veggies and salsa" },
+        { "name": "Keto Salad Bowl", "size": "", "price": "$11.35", "calories": "470", "desc": "Supergreens, protein, cheese and guac, no rice or beans" },
+        { "name": "Veggie Full Bowl", "size": "", "price": "$11.35", "calories": "700", "desc": "Veggie build with rice, beans and guac" }
+      ]
+    },
+    {
+      "category": "Sides & Extras",
+      "intro": "The famous guac, queso and chips. All calories listed.",
+      "items": [
+        { "name": "Chips & Guacamole", "size": "", "price": "$5.20", "calories": "770", "desc": "Fresh tortilla chips with a side of guac" },
+        { "name": "Large Chips & Large Guacamole", "size": "", "price": "$8.70", "calories": "1270", "desc": "Big chips and guac, built to share" },
+        { "name": "Chips & Queso Blanco", "size": "", "price": "$5.20", "calories": "780", "desc": "Chips with warm white-cheese queso" },
+        { "name": "Chips", "size": "", "price": "$2.25", "calories": "540", "desc": "A bag of fresh lime-salted tortilla chips" },
+        { "name": "Side of Guacamole", "size": "", "price": "$2.95", "calories": "230", "desc": "Hand-mashed guacamole" },
+        { "name": "Side of Queso Blanco", "size": "", "price": "$2.95", "calories": "240", "desc": "Warm white-cheese queso" },
+        { "name": "Tortilla on the Side", "size": "", "price": "$0.50", "calories": "240", "desc": "An extra flour tortilla" }
+      ]
+    },
+    {
+      "category": "Kids Meals",
+      "intro": "Smaller build-your-own meals for kids.",
+      "items": [
+        { "name": "Kid's Build Your Own", "size": "", "price": "$5.60 – $6.25", "calories": "", "desc": "Choose a taco or small bowl with sides; about 350 to 810 cal" },
+        { "name": "Kid's Quesadilla", "size": "", "price": "$4.95 – $5.60", "calories": "", "desc": "Cheese quesadilla with two sides; about 530 to 710 cal" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Organic aguas frescas, lemonade and fountain drinks (22 oz prices).",
+      "items": [
+        { "name": "Organic Watermelon Limeade", "size": "22 oz", "price": "$3.25", "calories": "230", "desc": "Organic watermelon limeade" },
+        { "name": "Organic Lemonade", "size": "22 oz", "price": "$3.25", "calories": "170", "desc": "Organic lemonade" },
+        { "name": "Organic Berry Agua Fresca", "size": "22 oz", "price": "$3.25", "calories": "200", "desc": "Organic berry agua fresca" },
+        { "name": "Fountain Drink", "size": "22 oz", "price": "$3.25", "calories": "", "desc": "Coca-Cola fountain drinks; 0 to 440 cal by choice" },
+        { "name": "Mexican Coca-Cola", "size": "", "price": "$3.85", "calories": "150", "desc": "Coca-Cola made with cane sugar" },
+        { "name": "Bottled Water", "size": "", "price": "$3.60", "calories": "0", "desc": "Bottled water" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Chipotle at Home",
+    "intro": "Want to build the bowl at home? These picks help you nail the rice, guac and burritos.",
+    "cards": [
+      { "icon": "🍚", "name": "Cilantro Lime Rice Kit", "blurb": "The base of every Chipotle bowl.", "amazon_search": "cilantro lime rice seasoning" },
+      { "icon": "🥑", "name": "Guacamole Maker & Molcajete", "blurb": "Mash fresh guac like the line does.", "amazon_search": "molcajete guacamole bowl" },
+      { "icon": "🌯", "name": "Large Burrito Tortillas", "blurb": "Burrito-size flour tortillas for wrapping.", "amazon_search": "large burrito flour tortillas" },
+      { "icon": "📖", "name": "Copycat Chipotle Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Chicken Burrito Bowl",
+    "Steak Burrito",
+    "Chips & Guacamole",
+    "Barbacoa Bowl",
+    "Chicken Quesadilla"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a burrito bowl at Chipotle?",
+      "a": "A burrito bowl costs about $11.85 to $13.55 depending on your protein and location. Chicken, steak, sofritas and veggie are included; barbacoa and carnitas add around $0.75, and guacamole adds $2.95."
+    },
+    {
+      "q": "Is guacamole free at Chipotle?",
+      "a": "Guacamole is free on the veggie entree, but on meat entrees it is an add-on of about $2.95. A side of guac is $2.95 and chips and guac are about $5.20."
+    },
+    {
+      "q": "What proteins does Chipotle have?",
+      "a": "Chipotle offers chicken, steak, barbacoa (spicy shredded beef), carnitas (pork), sofritas (plant-based tofu) and veggie, plus seasonal options like Chicken al Pastor. Chicken, steak, sofritas and veggie are included in the base price."
+    },
+    {
+      "q": "How many calories are in a Chipotle bowl?",
+      "a": "It depends entirely on your build. A chicken bowl with rice, beans, salsa and cheese is roughly 700 to 900 calories; adding guac, queso and double meat can push it well over 1,000. Chipotle posts calories for every ingredient."
+    },
+    {
+      "q": "What are Chipotle Lifestyle Bowls?",
+      "a": "Lifestyle Bowls are pre-built bowls for specific diets, like the High Protein Bowl (850 cal, about $15.90), Balanced Macros Bowl and Keto Salad Bowl. You can order them by name in the app."
+    },
+    {
+      "q": "What are the most popular items at Chipotle?",
+      "a": "The most ordered are the chicken burrito bowl, the steak burrito, chips and guacamole, the barbacoa bowl, and the chicken quesadilla."
+    }
+  ],
+
+  "internal_links": [
+    "chilis-menu",
+    "kfc-menu",
+    "applebees-menu",
+    "texas-roadhouse-menu",
+    "olive-garden-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Chipotle."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; Chipotle prices vary notably by market). Calories from Chipotle's published nutrition data.",
+    "calories": "Build-your-own entrees show base calories in the description because the total depends on fillings; proteins, Lifestyle Bowls and sides have fixed figures. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location, portion and your build. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels burrito-bowl image (pexels-10696501), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Chipotle search demand: burrito bowl price, is guac free, protein options, bowl calories, Lifestyle Bowls."
+  }
+}
