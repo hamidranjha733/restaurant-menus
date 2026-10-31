@@ -1,0 +1,157 @@
+{
+  "slug": "cook-out-menu",
+  "brand": "Cook Out",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/cook-out-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/3727250/pexels-photo-3727250.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Cook Out style thick chocolate milkshake in a glass",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-3727250",
+    "_verify_note": "Tentative hero (thick milkshake for Cook Out's 40+ shakes). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Cook Out Menu With Prices & Calories (2026)",
+    "meta_description": "Full Cook Out menu with prices and calories for 2026: the Cook Out Tray, char-grilled burgers, BBQ, hush puppies, corn dogs and 40-plus milkshakes.",
+    "h1": "Cook Out Menu With Prices (2026)",
+    "primary_keyword": "cook out menu with prices",
+    "keyword_volume": 3300,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location. Cook Out is a privately held Southern chain and does not publish full nutrition, so some calorie figures are estimates. Last updated October 2026.",
+
+  "intro": "Cook Out is the Southern drive-thru chain famous for the Cook Out Tray, which pairs a main with two sides and a drink for a low fixed price, and for its 40-plus hand-dipped milkshake flavors. The menu runs from char-grilled burgers and BBQ to hot dogs, chicken, quesadillas, hush puppies and corn dogs, nearly all at value prices. Below is the full Cook Out menu with prices and calories for 2026.",
+
+  "quick_answer": "A Cook Out Tray (a main plus two sides and a drink) is about $5.29, a regular hamburger is $2.99, and a BBQ sandwich is $3.19. Hot dogs, corn dogs and hush puppies are about $1.00, and a milkshake is $2.99 with over 40 flavors. The Cook Out Tray and the milkshakes are the signatures.",
+
+  "highlights": [
+    { "strong": "Cook Out Tray", "label": "main + 2 sides + drink, about $5.29" },
+    { "strong": "40+ shakes", "label": "hand-dipped milkshake flavors" },
+    { "strong": "$1.00", "label": "hot dogs, corn dogs, hush puppies" },
+    { "strong": "Char-grilled", "label": "burgers over an open flame" }
+  ],
+
+  "hot_deal": "Cook Out value: the whole chain is built on value, and the Cook Out Tray (about $5.29) for a main, two sides and a drink is one of the best deals in fast food. Dollar items (hot dogs, corn dogs, hush puppies, chicken nuggets) round out a cheap meal. A milkshake is $2.99 for any of 40-plus flavors. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Cook Out Trays",
+      "intro": "A main plus two sides and a drink for one low price, the signature way to order.",
+      "items": [
+        { "name": "Hamburger Tray", "size": "", "price": "$5.29", "calories": "", "desc": "A regular hamburger with two sides and a drink" },
+        { "name": "Chicken Strips Tray (3 pc)", "size": "3 pieces", "price": "$5.29", "calories": "", "desc": "Three chicken strips with two sides and a drink" },
+        { "name": "Quesadilla Tray (Chicken or Beef)", "size": "", "price": "$5.29", "calories": "", "desc": "A quesadilla with two sides and a drink" }
+      ]
+    },
+    {
+      "category": "Burgers & BBQ",
+      "intro": "Char-grilled burgers and Carolina-style BBQ.",
+      "items": [
+        { "name": "Hamburger (Regular)", "size": "", "price": "$2.99", "calories": "328", "desc": "A quarter-pound char-grilled patty" },
+        { "name": "Cheddar Style Burger", "size": "", "price": "$3.99", "calories": "561", "desc": "Char-grilled burger with melted cheddar" },
+        { "name": "BBQ Sandwich", "size": "", "price": "$3.19", "calories": "368", "desc": "Chopped BBQ pork on a bun" },
+        { "name": "BBQ Plate", "size": "", "price": "$4.29", "calories": "", "desc": "Chopped BBQ with sides" }
+      ]
+    },
+    {
+      "category": "Hot Dogs, Chicken & Quesadillas",
+      "intro": "Dollar dogs, chicken and quesadillas.",
+      "items": [
+        { "name": "Hot Dog", "size": "", "price": "$1.00", "calories": "260", "desc": "A classic hot dog, a dollar" },
+        { "name": "Corn Dog", "size": "", "price": "$1.00", "calories": "", "desc": "A battered corn dog, a dollar" },
+        { "name": "Chicken Strip Sandwich", "size": "", "price": "$3.59", "calories": "674", "desc": "Crispy chicken strips on a bun" },
+        { "name": "Chicken Nuggets (5 pc)", "size": "5 pieces", "price": "$1.00", "calories": "", "desc": "Five breaded chicken nuggets, a dollar" },
+        { "name": "Quesadilla (Chicken or Beef, 2 pc)", "size": "2 pieces", "price": "$3.19", "calories": "", "desc": "Grilled quesadilla with cheese and meat" }
+      ]
+    },
+    {
+      "category": "Sides",
+      "intro": "Hush puppies, fries and more, most around a dollar.",
+      "items": [
+        { "name": "Hushpuppies (12 pc)", "size": "12 pieces", "price": "$1.00", "calories": "300", "desc": "Fried cornmeal hush puppies, a Southern classic" },
+        { "name": "French Fries (Regular)", "size": "regular", "price": "$1.00", "calories": "465", "desc": "Classic fries, a dollar" },
+        { "name": "Onion Rings", "size": "", "price": "$2.19", "calories": "", "desc": "Battered onion rings" },
+        { "name": "Crispy Chicken Wrap", "size": "", "price": "$1.99", "calories": "", "desc": "Ranch, Cajun or honey mustard chicken wrap" },
+        { "name": "Fries with Cheese", "size": "", "price": "$1.59", "calories": "", "desc": "Fries topped with melted cheese" }
+      ]
+    },
+    {
+      "category": "Milkshakes & Drinks",
+      "intro": "Over 40 hand-dipped milkshake flavors and cheap drinks.",
+      "items": [
+        { "name": "Milkshake (40+ flavors)", "size": "", "price": "$2.99", "calories": "", "desc": "Hand-dipped shake, over 40 flavors (vanilla about 555 cal, varies a lot by flavor)" },
+        { "name": "Cheerwine Float", "size": "", "price": "$1.99", "calories": "", "desc": "Cheerwine soda with soft serve, a Carolina classic" },
+        { "name": "Fresh Brewed Tea (Large)", "size": "large", "price": "$1.00", "calories": "", "desc": "Sweet or unsweet Southern tea" },
+        { "name": "Fountain Drink (Regular)", "size": "regular", "price": "$1.59", "calories": "", "desc": "Fountain soft drinks" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Cook Out at Home",
+    "intro": "Want char-grilled burgers and thick shakes at home? These picks help.",
+    "cards": [
+      { "icon": "🔥", "name": "Charcoal Grill", "blurb": "For char-grilled, flame-kissed burgers.", "amazon_search": "charcoal grill" },
+      { "icon": "🥤", "name": "Milkshake Blender", "blurb": "For thick, hand-dipped-style shakes.", "amazon_search": "milkshake blender" },
+      { "icon": "🌽", "name": "Hush Puppy Mix", "blurb": "For the Southern fried cornmeal side.", "amazon_search": "hush puppy mix" },
+      { "icon": "📖", "name": "Copycat Southern Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Cook Out Tray",
+    "Milkshake",
+    "Cheddar Style Burger",
+    "BBQ Sandwich",
+    "Hush Puppies"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is the Cook Out Tray?",
+      "a": "The Cook Out Tray is the signature value order: a main (like a hamburger, chicken strips or a quesadilla) plus two sides and a drink for one low fixed price, about $5.29. It is the cheapest full meal on the menu."
+    },
+    {
+      "q": "How many milkshake flavors does Cook Out have?",
+      "a": "Cook Out has over 40 hand-dipped milkshake flavors, from classics like vanilla and chocolate to Cheesecake, Banana Pudding, Peanut Butter Fudge and seasonal options. Each is about $2.99, which is part of the chain's cult following."
+    },
+    {
+      "q": "How much is a burger at Cook Out?",
+      "a": "A regular hamburger is about $2.99 and a Cheddar Style burger is $3.99. Nearly everything is cheap: hot dogs, corn dogs and hush puppies are about $1.00 each, and a full Cook Out Tray is around $5.29."
+    },
+    {
+      "q": "Does Cook Out publish nutrition information?",
+      "a": "Cook Out is a privately held chain and does not publish a full nutrition table, so calorie figures are estimates. A regular burger is roughly 328 calories and a BBQ sandwich about 368, but milkshakes vary widely by flavor."
+    },
+    {
+      "q": "What are the most popular items at Cook Out?",
+      "a": "The best known are the Cook Out Tray, the 40-plus milkshakes, the Cheddar Style burger, the BBQ sandwich, and the hush puppies."
+    }
+  ],
+
+  "internal_links": [
+    "dairy-queen-menu",
+    "sonic-menu",
+    "whataburger-menu",
+    "bojangles-menu",
+    "wendys-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Cook Out."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing). Cook Out prices are low and vary by location.",
+    "calories": "Cook Out does not publish full nutrition, so figures are estimates from a nutrition-tracking source. Shown where a reasonable figure exists; many items and the variable milkshakes left blank or noted inline. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location. Always display the disclaimer, and note the chain does not publish official nutrition.",
+    "hero_image": "Tentative Pexels chocolate milkshake (pexels-3727250) for Cook Out's 40+ shakes. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Burgers & Shakes' category. Shake Shack and Carl's Jr can follow.",
+    "keyword_notes": "Sections and FAQ shaped by real Cook Out search demand: the Cook Out Tray, milkshake flavor count, burger price, whether nutrition is published, popular items."
+  }
+}
