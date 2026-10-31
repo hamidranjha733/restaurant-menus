@@ -1,0 +1,138 @@
+{
+  "slug": "jersey-mikes-menu",
+  "brand": "Jersey Mike's",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/jersey-mikes-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/6389711/pexels-photo-6389711.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Jersey Mike's style cold cut sub piled with deli meats, lettuce and tomato on a sub roll",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-6389711"
+  },
+
+  "seo": {
+    "meta_title": "Jersey Mike's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Jersey Mike's menu with prices and calories for 2026: the Original Italian, Club Supreme, Philly cheesesteak, Big Kahuna, cold and hot subs and sides.",
+    "h1": "Jersey Mike's Menu With Prices (2026)",
+    "primary_keyword": "jersey mikes menu with prices",
+    "keyword_volume": 3900,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate. Prices shown are for a Regular (7 inch) sub; a Mini runs about $3 less and a Giant about $6 to $8 more. Calories are for a Regular. Prices and portions vary by location. Last updated October 2026.",
+
+  "intro": "Jersey Mike's is the sub chain known for slicing its meats and cheeses fresh to order and serving cold subs 'Mike's Way', with onions, lettuce, tomato, oregano, salt and a red wine vinegar and olive oil blend. Alongside the cold subs are hot grilled subs like Mike's Famous Philly and the Big Kahuna Cheese Steak. Subs come in Mini, Regular (7 inch) and Giant. Prices and calories below are for a Regular. Below is the full Jersey Mike's menu with prices and calories for 2026.",
+
+  "quick_answer": "A Regular (7 inch) sub at Jersey Mike's is about $10.95 to $11.95, with the Original Italian at $10.95 and the Club Sub at $11.95. Hot subs like Mike's Famous Philly and the Big Kahuna are about $11.95. A Mini runs about $3 less and a Giant $6 to $8 more. The Original Italian is the signature.",
+
+  "highlights": [
+    { "strong": "Mike's Way", "label": "onions, lettuce, tomato, oil & vinegar" },
+    { "strong": "Sliced fresh", "label": "meats and cheese to order" },
+    { "strong": "3 sizes", "label": "Mini, Regular, Giant" },
+    { "strong": "$10.95", "label": "Original Italian (Regular)" }
+  ],
+
+  "hot_deal": "Jersey Mike's value: the app's MyMike's rewards program drops regular coupons, including free sub and BOGO offers, and the Sub Above fundraiser days give a free sub for a donation. A Regular with a drink and chips combo keeps it simple. The Mini size is the budget pick at about $3 less. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Cold Subs",
+      "intro": "Sliced fresh and made 'Mike's Way'. Prices and calories are for a Regular (7 inch).",
+      "items": [
+        { "name": "#13 The Original Italian", "size": "regular", "price": "$10.95", "calories": "850", "desc": "Provolone, ham, prosciuttini, cappacuolo, salami and pepperoni" },
+        { "name": "#9 Club Supreme", "size": "regular", "price": "$11.65", "calories": "820", "desc": "Roast beef, turkey, Swiss, bacon and Russian dressing" },
+        { "name": "#7 Turkey and Provolone", "size": "regular", "price": "$10.95", "calories": "480", "desc": "Fresh-sliced turkey and provolone" },
+        { "name": "#2 Jersey Shore's Favorite", "size": "regular", "price": "$10.95", "calories": "780", "desc": "Provolone, ham and cappacuolo" },
+        { "name": "#8 Club Sub", "size": "regular", "price": "$11.95", "calories": "680", "desc": "Turkey, ham, provolone and bacon" },
+        { "name": "#1 BLT", "size": "regular", "price": "$11.15", "calories": "550", "desc": "A pile of bacon with lettuce and tomato" }
+      ]
+    },
+    {
+      "category": "Hot Subs",
+      "intro": "Grilled on the flat top and served hot. Prices and calories are for a Regular.",
+      "items": [
+        { "name": "#17 Mike's Famous Philly", "size": "regular", "price": "$11.95", "calories": "780", "desc": "Grilled steak, onions, peppers and white American cheese" },
+        { "name": "#16 Mike's Chicken Philly", "size": "regular", "price": "$11.65", "calories": "", "desc": "Grilled chicken, onions, peppers and cheese" },
+        { "name": "#56 Big Kahuna Cheese Steak", "size": "regular", "price": "$11.95", "calories": "900", "desc": "Steak with jalapenos, onions, peppers, mushrooms and cheese" },
+        { "name": "#26 Bacon Ranch Chicken Cheese Steak", "size": "regular", "price": "$11.95", "calories": "", "desc": "Grilled chicken, bacon, ranch and cheese" }
+      ]
+    },
+    {
+      "category": "Sides, Drinks & Desserts",
+      "intro": "Chips, drinks and fresh-baked treats to round out the order.",
+      "items": [
+        { "name": "Chips", "size": "", "price": "$2.55", "calories": "", "desc": "A bag of chips (combo with a drink available)" },
+        { "name": "Regular Drink & Chips Combo", "size": "", "price": "$3.95", "calories": "", "desc": "Add a fountain drink and chips to any sub" },
+        { "name": "Fountain Drink (22 oz)", "size": "22 oz", "price": "$3.15", "calories": "", "desc": "Fountain soft drinks" },
+        { "name": "Cookie", "size": "", "price": "$1.15", "calories": "", "desc": "A fresh-baked cookie" },
+        { "name": "Brownie", "size": "", "price": "$3.55", "calories": "", "desc": "A chocolate brownie" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Subs at Home",
+    "intro": "Want deli subs sliced fresh at home? These picks help.",
+    "cards": [
+      { "icon": "🔪", "name": "Deli Meat Slicer", "blurb": "Slice meats and cheese fresh, Jersey Mike's style.", "amazon_search": "deli meat slicer home" },
+      { "icon": "🥖", "name": "Sub Rolls", "blurb": "Fresh hoagie rolls for the base.", "amazon_search": "sub hoagie rolls" },
+      { "icon": "🫒", "name": "Red Wine Vinegar & Olive Oil", "blurb": "For the signature 'Mike's Way' finish.", "amazon_search": "red wine vinegar olive oil set" },
+      { "icon": "🌿", "name": "Oregano & Spice Blend", "blurb": "The herby top note on a cold sub.", "amazon_search": "oregano seasoning" }
+    ]
+  },
+
+  "popular_items": [
+    "The Original Italian",
+    "Mike's Famous Philly",
+    "Club Supreme",
+    "Big Kahuna Cheese Steak",
+    "Turkey and Provolone"
+  ],
+
+  "faqs": [
+    {
+      "q": "What does 'Mike's Way' mean at Jersey Mike's?",
+      "a": "'Mike's Way' is the classic finish on a cold sub: onions, lettuce, tomato, a little oregano and salt, and a splash of red wine vinegar and olive oil. It is how the chain recommends every cold sub, and it is free."
+    },
+    {
+      "q": "How much is a sub at Jersey Mike's?",
+      "a": "A Regular (7 inch) sub is about $10.95 to $11.95. The Original Italian is $10.95 and the Club Sub is $11.95. A Mini runs about $3 less and a Giant about $6 to $8 more, enough to feed two or three."
+    },
+    {
+      "q": "What sizes does Jersey Mike's offer?",
+      "a": "Three: Mini, Regular (7 inch) and Giant. The Regular is the standard single-person size, the Mini is a smaller value option, and the Giant is a long sub meant to share or to feed a big appetite."
+    },
+    {
+      "q": "How many calories are in a Jersey Mike's Original Italian?",
+      "a": "A Regular Original Italian is about 850 calories. Lighter picks include the Turkey and Provolone at about 480 and the BLT at about 550. Ordering a Mini or 'in a tub' without the bread cuts the calories down."
+    },
+    {
+      "q": "What are the most popular items at Jersey Mike's?",
+      "a": "The best known are the Original Italian, Mike's Famous Philly, the Club Supreme, the Big Kahuna Cheese Steak, and the Turkey and Provolone."
+    }
+  ],
+
+  "internal_links": [
+    "subway-menu",
+    "arbys-menu",
+    "wingstop-menu",
+    "mcdonalds-menu",
+    "taco-bell-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Jersey Mike's."
+  },
+
+  "_data_notes": {
+    "price_source": "Regular (7 inch) prices from an established menu-prices publication. Mini and Giant are given as adjustments (about $3 less and $6 to $8 more) rather than exact figures, since those were estimated at the source. Prices vary by location.",
+    "calories": "Regular-sub calories from a Jersey Mike's nutrition source. Shown where a reliable figure exists; a couple of hot subs left blank rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate (Regular size) and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels loaded cold-cut sub image (pexels-6389711), piled deli meats with lettuce and tomato, no branding, landscape. Matches Jersey Mike's cold Italian 'Mike's Way' and is distinct from the Subway hero.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (with the pizza brands). This starts the subs within that category; Jimmy John's, Firehouse Subs and Panera will follow.",
+    "keyword_notes": "Sections and FAQ shaped by real Jersey Mike's search demand: Mike's Way, sub prices, sizes, Original Italian calories, popular subs."
+  }
+}
