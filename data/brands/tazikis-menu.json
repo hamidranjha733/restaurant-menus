@@ -1,0 +1,257 @@
+{
+  "slug": "tazikis-menu",
+  "brand": "Taziki's Mediterranean Cafe",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/tazikis-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/6419575/pexels-photo-6419575.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Taziki's style Mediterranean plate with pita and dips",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-6419575",
+    "_verify_note": "Tentative hero (Mediterranean pita and dips). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Taziki's Menu With Prices (2026)",
+    "meta_description": "Full Taziki's Mediterranean Cafe menu with prices for 2026: gyros, chicken and beef tenderloin feasts, Greek salads, hummus, soups, family meals and desserts.",
+    "h1": "Taziki's Mediterranean Cafe Menu With Prices (2026)",
+    "primary_keyword": "taziki's menu with prices",
+    "keyword_volume": 3600,
+    "keyword_kd": 1
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Taziki's publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "Taziki's Mediterranean Cafe is the fast-casual chain, born in Birmingham, Alabama, serving Greek and Mediterranean food: gyros, grilled chicken and beef tenderloin 'feasts', Greek salads, hummus and dips, lemon chicken soup and family meals. It is counter-service with a fresh, from-scratch focus. Below is the full Taziki's menu with prices for 2026.",
+  "quick_answer": "At Taziki's, a grilled chicken gyro is about $9.10 and a beef tenderloin gyro $9.75, while a chicken feast (with sides) is $11.50 and a beef tenderloin feast $12.60. Greek salads run $7.90 to $11.25, hummus is $5.50, and a family dinner for four is $34.50. The gyros and feasts are the signatures. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Gyros",
+      "label": "chicken, beef and lamb"
+    },
+    {
+      "strong": "Feasts",
+      "label": "grilled chicken or tenderloin"
+    },
+    {
+      "strong": "Hummus & dips",
+      "label": "the Mediterranean starters"
+    },
+    {
+      "strong": "Family meals",
+      "label": "dinner for four, $34.50"
+    }
+  ],
+  "hot_deal": "Taziki's value: the Greek Salad Gyro (from $8.00) and a cup of lemon chicken soup ($4.60) are the cheapest ways in, and the family dinner for four ($34.50) is the best value for a group. Kids meals start at $4.60. The app and rewards drop occasional deals. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Gyros",
+      "intro": "The signature gyros, served with a side.",
+      "items": [
+        {
+          "name": "Greek Salad Gyro",
+          "size": "",
+          "price": "$8.00 - $9.50",
+          "calories": "",
+          "desc": "A veggie Greek-salad gyro, the value pick"
+        },
+        {
+          "name": "Grilled Chicken Gyro",
+          "size": "",
+          "price": "$9.10",
+          "calories": "",
+          "desc": "Grilled chicken gyro (basil-pesto and veggie also $9.10)"
+        },
+        {
+          "name": "Grilled Beef Tenderloin Gyro",
+          "size": "",
+          "price": "$9.75",
+          "calories": "",
+          "desc": "Grilled beef tenderloin gyro"
+        },
+        {
+          "name": "Grilled Lamb Gyro",
+          "size": "",
+          "price": "$10.80",
+          "calories": "",
+          "desc": "Grilled lamb gyro (lamb and skordalia also $10.80)"
+        }
+      ]
+    },
+    {
+      "category": "Feasts",
+      "intro": "Grilled proteins with Greek salad and a choice of side.",
+      "items": [
+        {
+          "name": "Grilled Chicken Breast Feast",
+          "size": "",
+          "price": "$11.50",
+          "calories": "",
+          "desc": "Grilled chicken with Greek salad and rice or potatoes"
+        },
+        {
+          "name": "Grilled Beef Tenderloin Feast",
+          "size": "",
+          "price": "$12.60",
+          "calories": "",
+          "desc": "Grilled beef tenderloin feast"
+        },
+        {
+          "name": "Family Dinner for 4 (Chicken)",
+          "size": "serves 4",
+          "price": "$34.50",
+          "calories": "",
+          "desc": "Grilled chicken family dinner (whole baked chicken also $34.50)"
+        }
+      ]
+    },
+    {
+      "category": "Salads, Hummus & Soup",
+      "intro": "Greek salads, hummus, dips and soup.",
+      "items": [
+        {
+          "name": "Greek Salad",
+          "size": "",
+          "price": "$7.90 - $11.25",
+          "calories": "",
+          "desc": "Classic Greek salad (Mediterranean and Caesar same range)"
+        },
+        {
+          "name": "Chicken Salad and Company",
+          "size": "",
+          "price": "$10.30",
+          "calories": "",
+          "desc": "House chicken salad plate"
+        },
+        {
+          "name": "Hummus",
+          "size": "",
+          "price": "$5.50",
+          "calories": "",
+          "desc": "House hummus with pita (gluten-free $6.00)"
+        },
+        {
+          "name": "Mezedes Platter",
+          "size": "",
+          "price": "$9.20",
+          "calories": "",
+          "desc": "Hummus, Taziki dip, dolmades and pita"
+        },
+        {
+          "name": "Greek Lemon Chicken Soup",
+          "size": "",
+          "price": "$4.60",
+          "calories": "",
+          "desc": "The homemade lemon chicken soup"
+        }
+      ]
+    },
+    {
+      "category": "Kids & Desserts",
+      "intro": "Kids meals and the desserts.",
+      "items": [
+        {
+          "name": "Child's Feast",
+          "size": "",
+          "price": "$5.50",
+          "calories": "",
+          "desc": "A kids feast (Sneaky Taziki and grilled cheese $4.60)"
+        },
+        {
+          "name": "Baklava",
+          "size": "",
+          "price": "$2.75",
+          "calories": "",
+          "desc": "Classic baklava (dark chocolate cake also $2.75)"
+        },
+        {
+          "name": "Chocolate Chip Cookies",
+          "size": "",
+          "price": "$1.50",
+          "calories": "",
+          "desc": "Fresh cookies"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Mediterranean Food at Home",
+    "intro": "Want gyros and hummus at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🥙",
+        "name": "Pita Bread",
+        "blurb": "For gyros and dips.",
+        "amazon_search": "pita bread"
+      },
+      {
+        "icon": "🧄",
+        "name": "Tzatziki & Hummus",
+        "blurb": "The Mediterranean dips.",
+        "amazon_search": "tzatziki hummus"
+      },
+      {
+        "icon": "🍗",
+        "name": "Greek Marinade",
+        "blurb": "For grilled chicken and lamb.",
+        "amazon_search": "greek chicken marinade"
+      },
+      {
+        "icon": "🍚",
+        "name": "Basmati Rice",
+        "blurb": "The feast side.",
+        "amazon_search": "basmati rice"
+      }
+    ]
+  },
+  "popular_items": [
+    "Grilled Chicken Gyro",
+    "Grilled Beef Tenderloin Feast",
+    "Greek Salad",
+    "Hummus",
+    "Greek Lemon Chicken Soup"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a gyro at Taziki's?",
+      "a": "A grilled chicken gyro is about $9.10, a beef tenderloin gyro $9.75, and a lamb gyro $10.80. The veggie Greek Salad Gyro starts around $8.00. Gyros come with a choice of side. Prices vary by location."
+    },
+    {
+      "q": "What is a Taziki's feast?",
+      "a": "A feast is Taziki's plated meal: a grilled protein (chicken breast $11.50, beef tenderloin $12.60) served with a Greek salad and a choice of basmati rice or roasted new potatoes. There are family feasts for four at $34.50."
+    },
+    {
+      "q": "What is Taziki's known for?",
+      "a": "Taziki's Mediterranean Cafe, born in Birmingham, Alabama, is known for its fast-casual Greek and Mediterranean food, especially its gyros, grilled feasts, Greek salads, from-scratch hummus and its Greek lemon chicken soup."
+    },
+    {
+      "q": "Does Taziki's list calories?",
+      "a": "Taziki's publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. The menu leans fresh and grilled, but totals vary with the protein, the side and the dressing you choose."
+    },
+    {
+      "q": "What are the most popular dishes at Taziki's?",
+      "a": "Favorites include the grilled chicken gyro, the beef tenderloin feast, the Greek salad, the hummus, and the Greek lemon chicken soup."
+    }
+  ],
+  "internal_links": [
+    "panera-menu",
+    "cava-menu",
+    "jasons-deli-menu",
+    "newks-eatery-menu",
+    "tropical-smoothie-cafe-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Taziki's Mediterranean Cafe."
+  },
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing. Gyros/salads given as ranges where sizes vary.",
+    "calories": "Deliberately left blank. Taziki's does not prominently publish per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number. On import the 'does not publish' wording was changed to match the site rule (chains with 20+ US locations must post calories, so it publishes nutrition; item calories are simply not reproduced here).",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels Mediterranean pita and dips (pexels-6419575). NOT visually verified this session; confirm it is appetizing and unbranded (ideally a gyro or Mediterranean plate) before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category as the fast-casual lunch catch-all (Mediterranean counter-service, like Panera). Internal link cava-menu may not exist yet; drop any missing-page link. #99 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Taziki's search demand: gyro price, what a feast is, what it is known for, calories question, popular dishes. Gyros/salads given as ranges where sizes vary."
+  }
+}

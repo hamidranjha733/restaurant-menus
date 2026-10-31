@@ -1,0 +1,264 @@
+{
+  "slug": "tgi-fridays-menu",
+  "brand": "TGI Fridays",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/tgi-fridays-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "TGI Fridays style glazed ribs and grilled plate",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-410648",
+    "_verify_note": "Tentative hero (glazed grilled meat/ribs). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "TGI Fridays Menu With Prices (2026)",
+    "meta_description": "Full TGI Fridays menu with prices for 2026: loaded potato skins, wings, the Whiskey-Glaze burger, Big Ribs, steaks, pasta, salads and the Brownie Obsession.",
+    "h1": "TGI Fridays Menu With Prices (2026)",
+    "primary_keyword": "tgi fridays menu with prices",
+    "keyword_volume": 14000,
+    "keyword_kd": 2
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. TGI Fridays publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "TGI Fridays is the American casual-dining bar and grill known for its whiskey-glaze sauce, loaded appetizers, big ribs, burgers and a lively bar. The menu runs from potato skins and wings to signature burgers, ribs, steaks, pasta and the Brownie Obsession dessert. Below is the full TGI Fridays menu with prices for 2026.",
+  "quick_answer": "At TGI Fridays, loaded potato skins are about $17.49, the Whiskey-Glaze burger is $23.99, and Big Ribs run $26.99 for a half rack and $33.99 for a full rack. Steaks are $26.99 to $33.99, wings start at $16.49, and the Brownie Obsession is $11.49. The whiskey-glaze sauce and loaded apps are the signatures. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Whiskey-Glaze",
+      "label": "the signature sauce"
+    },
+    {
+      "strong": "Loaded apps",
+      "label": "potato skins and wings"
+    },
+    {
+      "strong": "Big Ribs",
+      "label": "half or full rack"
+    },
+    {
+      "strong": "Brownie Obsession",
+      "label": "the classic dessert"
+    }
+  ],
+  "hot_deal": "TGI Fridays value: the cheeseburger ($22.29) and grilled chicken ($16.99) are the cheaper entrees, and the bar's happy-hour deals on apps and drinks are the best-known value. The limited-time Friday Feasts (tiered combos) bundle a full meal at a set price. Mozzarella sticks ($7.19) are the cheapest app. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Appetizers",
+      "intro": "The loaded bar-and-grill starters.",
+      "items": [
+        {
+          "name": "Mozzarella Sticks (3)",
+          "size": "3 pc",
+          "price": "$7.19",
+          "calories": "",
+          "desc": "Fried mozzarella with marinara, the cheapest app"
+        },
+        {
+          "name": "Traditional Wings (8)",
+          "size": "8 pc",
+          "price": "$16.49",
+          "calories": "",
+          "desc": "Bone-in wings (12 pc $20.59, 16 pc $22.69)"
+        },
+        {
+          "name": "Boneless Wings (8)",
+          "size": "8 pc",
+          "price": "$18.59",
+          "calories": "",
+          "desc": "Boneless wings (12 pc $22.69, 16 pc $24.79)"
+        },
+        {
+          "name": "Loaded Potato Skins",
+          "size": "",
+          "price": "$17.49",
+          "calories": "",
+          "desc": "Potato skins with cheese, bacon and sour cream"
+        }
+      ]
+    },
+    {
+      "category": "Burgers & Ribs",
+      "intro": "Signature burgers and the Big Ribs.",
+      "items": [
+        {
+          "name": "Cheeseburger",
+          "size": "",
+          "price": "$22.29",
+          "calories": "",
+          "desc": "The classic cheeseburger, the value burger"
+        },
+        {
+          "name": "Whiskey-Glaze Burger",
+          "size": "",
+          "price": "$23.99",
+          "calories": "",
+          "desc": "The signature whiskey-glaze burger (bacon cheeseburger also $23.99)"
+        },
+        {
+          "name": "FRIDAYS Big Ribs (Half Rack)",
+          "size": "half rack",
+          "price": "$26.99",
+          "calories": "",
+          "desc": "Half rack of ribs (full rack $33.99)"
+        }
+      ]
+    },
+    {
+      "category": "Steaks, Chicken & Pasta",
+      "intro": "Sizzling entrees, steaks, chicken and pasta.",
+      "items": [
+        {
+          "name": "Center-Cut Sirloin (6 oz)",
+          "size": "6 oz",
+          "price": "$26.99",
+          "calories": "",
+          "desc": "6 oz sirloin steak"
+        },
+        {
+          "name": "Sizzling Chicken & Cheese",
+          "size": "",
+          "price": "$27.79",
+          "calories": "",
+          "desc": "A sizzling skillet entree (chicken & shrimp $29.99)"
+        },
+        {
+          "name": "Flat Iron Steak (8 oz)",
+          "size": "8 oz",
+          "price": "$31.99",
+          "calories": "",
+          "desc": "8 oz flat iron (NY strip 12 oz $33.99)"
+        },
+        {
+          "name": "Cajun Shrimp & Chicken Pasta",
+          "size": "",
+          "price": "$25.99",
+          "calories": "",
+          "desc": "Cajun pasta with shrimp and chicken"
+        },
+        {
+          "name": "Crispy Chicken Fingers",
+          "size": "",
+          "price": "$19.99",
+          "calories": "",
+          "desc": "Crispy chicken fingers with fries"
+        }
+      ]
+    },
+    {
+      "category": "Salads & Desserts",
+      "intro": "Salads, bowls and the famous desserts.",
+      "items": [
+        {
+          "name": "Million Dollar Cobb",
+          "size": "",
+          "price": "$20.99",
+          "calories": "",
+          "desc": "Loaded Cobb salad (Caesar, Thai mango, harvest grains also $20.99)"
+        },
+        {
+          "name": "Chicken Al Pastor Bowl",
+          "size": "",
+          "price": "$23.99",
+          "calories": "",
+          "desc": "A chicken al pastor rice bowl"
+        },
+        {
+          "name": "Brownie Obsession",
+          "size": "",
+          "price": "$11.49",
+          "calories": "",
+          "desc": "Warm brownie with ice cream and fudge, the classic"
+        },
+        {
+          "name": "Cinnabon Caramel Pecan Cheesecake",
+          "size": "",
+          "price": "$11.19",
+          "calories": "",
+          "desc": "Cheesecake with Cinnabon caramel pecan"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Bar & Grill Favorites at Home",
+    "intro": "Want whiskey-glaze ribs and loaded skins at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🥃",
+        "name": "Whiskey Glaze Sauce",
+        "blurb": "For the signature glaze.",
+        "amazon_search": "whiskey glaze bbq sauce"
+      },
+      {
+        "icon": "🥔",
+        "name": "Potato Skins Tray",
+        "blurb": "For loaded potato skins.",
+        "amazon_search": "potato skins"
+      },
+      {
+        "icon": "🍖",
+        "name": "Rib Rack & Rub",
+        "blurb": "For a half or full rack.",
+        "amazon_search": "bbq rib rub"
+      },
+      {
+        "icon": "🍫",
+        "name": "Brownie Mix",
+        "blurb": "For a Brownie Obsession.",
+        "amazon_search": "fudge brownie mix"
+      }
+    ]
+  },
+  "popular_items": [
+    "Loaded Potato Skins",
+    "Whiskey-Glaze Burger",
+    "FRIDAYS Big Ribs",
+    "Traditional Wings",
+    "Brownie Obsession"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a burger at TGI Fridays?",
+      "a": "A classic cheeseburger is about $22.29 and the signature Whiskey-Glaze burger $23.99. Full entrees come with a side. The Friday Feasts combos and happy-hour deals are the cheaper way to order. Prices vary by location."
+    },
+    {
+      "q": "How much are ribs at TGI Fridays?",
+      "a": "FRIDAYS Big Ribs are about $26.99 for a half rack and $33.99 for a full rack, glazed in the signature whiskey-glaze sauce. They are one of the chain's best-known entrees. Prices vary by location."
+    },
+    {
+      "q": "What is TGI Fridays known for?",
+      "a": "TGI Fridays is a casual American bar and grill known for its whiskey-glaze sauce, loaded appetizers like potato skins and wings, big ribs and burgers, a lively bar, and classic desserts like the Brownie Obsession."
+    },
+    {
+      "q": "Does TGI Fridays list calories?",
+      "a": "TGI Fridays publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. The menu is broad, from salads to loaded apps and ribs, so totals vary a lot."
+    },
+    {
+      "q": "What are the most popular dishes at TGI Fridays?",
+      "a": "Favorites include the loaded potato skins, the Whiskey-Glaze burger, the FRIDAYS Big Ribs, the wings, and the Brownie Obsession for dessert."
+    }
+  ],
+  "internal_links": [
+    "applebees-menu",
+    "chilis-menu",
+    "hooters-menu",
+    "longhorn-steakhouse-menu",
+    "ocharleys-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > TGI Fridays."
+  },
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing (reflects Fridays' higher post-reprice menu).",
+    "calories": "Deliberately left blank. TGI Fridays is a casual full-service restaurant that does not publish full nutrition. Disclaimer and FAQ both state this. Never invent a calorie number. On import the 'does not publish' wording was changed to match the site rule (chains with 20+ US locations must post calories, so it publishes nutrition; item calories are simply not reproduced here).",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels glazed grilled meat/ribs (pexels-410648) for the Big Ribs. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (casual full-service bar and grill, alongside Applebee's, Chili's). Internal links applebees-menu and chilis-menu may not exist yet; drop any missing-page link. #100 of the expansion list.",
+    "keyword_notes": "High-volume brand (14k). Sections and FAQ shaped by real TGI Fridays search demand: burger price, rib price, what it is known for, calories question, popular dishes. Wings/steaks given with size and count alternatives inline."
+  }
+}

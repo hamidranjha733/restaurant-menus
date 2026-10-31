@@ -1,0 +1,243 @@
+{
+  "slug": "habit-burger-menu",
+  "brand": "The Habit Burger Grill",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/habit-burger-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/2089717/pexels-photo-2089717.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "The Habit Burger Grill style chargrilled cheeseburger",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-2089717",
+    "_verify_note": "Tentative hero (chargrilled cheeseburger for the Charburger). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "The Habit Burger Grill Menu With Prices (2026)",
+    "meta_description": "Full Habit Burger Grill menu with prices for 2026: the chargrilled Charburger, double Charburger, chicken and albacore sandwiches, salads, fries and shakes.",
+    "h1": "The Habit Burger Grill Menu With Prices (2026)",
+    "primary_keyword": "habit burger menu with prices",
+    "keyword_volume": 8100,
+    "keyword_kd": 2
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. The Habit Burger Grill publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "The Habit Burger Grill is the California-born chain (now owned by Yum! Brands) built on the chargrilled Charburger, cooked over an open flame, along with a grilled albacore tuna sandwich, chicken sandwiches, big salads, fresh-cut fries and hand-scooped shakes. Below is the full Habit Burger Grill menu with prices for 2026.",
+  "quick_answer": "At The Habit Burger Grill, a Charburger is about $4.49 (with cheese $5.09), a double Charburger with cheese $6.09, and the #1 Original Charburger meal $8.49. Chicken sandwiches are $6.99 to $7.99, the albacore sandwich $8.29, salads $4.99 to $8.99, and a shake $4.69. The chargrilled Charburger is the signature. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Charburger",
+      "label": "chargrilled over open flame"
+    },
+    {
+      "strong": "Albacore",
+      "label": "the grilled tuna sandwich"
+    },
+    {
+      "strong": "$4.49",
+      "label": "the base Charburger"
+    },
+    {
+      "strong": "Hand-scooped shakes",
+      "label": "the classic add-on"
+    }
+  ],
+  "hot_deal": "Habit Burger value: a plain Charburger ($4.49) and fresh-cut fries ($2.49) are the cheapest way in, and the #1 Original meal ($8.49) bundles a Charburger, fries and a drink. Kids meals are $4.99. The app and Habit rewards drop occasional deals. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Charburgers",
+      "intro": "The chargrilled burgers cooked over an open flame.",
+      "items": [
+        {
+          "name": "Charburger",
+          "size": "",
+          "price": "$4.49",
+          "calories": "",
+          "desc": "The chargrilled beef patty with fresh toppings (with cheese $5.09)"
+        },
+        {
+          "name": "Double Charburger with Cheese",
+          "size": "",
+          "price": "$6.09",
+          "calories": "",
+          "desc": "Two chargrilled patties with cheese"
+        },
+        {
+          "name": "#1 The Original Charburger Meal",
+          "size": "",
+          "price": "$8.49",
+          "calories": "",
+          "desc": "Charburger with fries and a drink (#2 double meal $9.49)"
+        }
+      ]
+    },
+    {
+      "category": "Chicken & Albacore",
+      "intro": "Grilled chicken and the signature albacore tuna sandwich.",
+      "items": [
+        {
+          "name": "Chicken Sandwich",
+          "size": "",
+          "price": "$6.99",
+          "calories": "",
+          "desc": "Grilled chicken sandwich (meal $10.99)"
+        },
+        {
+          "name": "Chicken Club Sandwich",
+          "size": "",
+          "price": "$7.99",
+          "calories": "",
+          "desc": "Chicken club with bacon (meal $12.99)"
+        },
+        {
+          "name": "Albacore Tuna Sandwich",
+          "size": "",
+          "price": "$8.29",
+          "calories": "",
+          "desc": "The signature grilled albacore tuna sandwich (meal $13.29)"
+        }
+      ]
+    },
+    {
+      "category": "Salads",
+      "intro": "Fresh salads, plain or with grilled chicken.",
+      "items": [
+        {
+          "name": "Garden Salad",
+          "size": "",
+          "price": "$4.99",
+          "calories": "",
+          "desc": "A fresh garden salad (Caesar also $4.99)"
+        },
+        {
+          "name": "Grilled Chicken Salad",
+          "size": "",
+          "price": "$7.99",
+          "calories": "",
+          "desc": "Salad with grilled chicken (BBQ chicken and chicken Caesar also $7.99)"
+        },
+        {
+          "name": "Santa Barbara Cobb Salad",
+          "size": "",
+          "price": "$8.99",
+          "calories": "",
+          "desc": "The loaded Cobb salad, the top salad"
+        }
+      ]
+    },
+    {
+      "category": "Fries, Sides & Shakes",
+      "intro": "Fresh-cut fries, tempura green beans and hand-scooped shakes.",
+      "items": [
+        {
+          "name": "French Fries",
+          "size": "",
+          "price": "$2.49",
+          "calories": "",
+          "desc": "Fresh-cut fries (half & half with rings $2.99)"
+        },
+        {
+          "name": "Sweet Potato Fries",
+          "size": "",
+          "price": "$3.89",
+          "calories": "",
+          "desc": "Crispy sweet potato fries"
+        },
+        {
+          "name": "Tempura Fried Green Beans",
+          "size": "",
+          "price": "$3.99",
+          "calories": "",
+          "desc": "The cult-favorite tempura green beans"
+        },
+        {
+          "name": "Shake (16 oz)",
+          "size": "16 oz",
+          "price": "$4.69",
+          "calories": "",
+          "desc": "Hand-scooped shake or malt: chocolate, vanilla, strawberry, coffee or mocha"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Chargrilled Burgers at Home",
+    "intro": "Want chargrilled Charburgers at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🔥",
+        "name": "Charcoal Grill",
+        "blurb": "For a flame-chargrilled patty.",
+        "amazon_search": "charcoal grill"
+      },
+      {
+        "icon": "🧀",
+        "name": "American Cheese",
+        "blurb": "For a melty Charburger.",
+        "amazon_search": "american cheese slices"
+      },
+      {
+        "icon": "🐟",
+        "name": "Albacore Tuna",
+        "blurb": "For a grilled tuna sandwich.",
+        "amazon_search": "albacore tuna"
+      },
+      {
+        "icon": "🥤",
+        "name": "Milkshake Blender",
+        "blurb": "For hand-scooped shakes.",
+        "amazon_search": "milkshake maker blender"
+      }
+    ]
+  },
+  "popular_items": [
+    "Charburger",
+    "Double Charburger",
+    "Albacore Tuna Sandwich",
+    "Tempura Fried Green Beans",
+    "Hand-Scooped Shake"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a Charburger at The Habit?",
+      "a": "A plain Charburger is about $4.49 and with cheese $5.09, a double Charburger with cheese $6.09, and the #1 Original Charburger meal (with fries and a drink) $8.49. It is one of the better-value chargrilled burgers in fast food. Prices vary by location."
+    },
+    {
+      "q": "What is The Habit Burger Grill known for?",
+      "a": "The Habit is known for its chargrilled Charburger, cooked over an open flame, which famously won a burger taste test years ago. It is also known for its grilled albacore tuna sandwich and its tempura-fried green beans. It is now owned by Yum! Brands."
+    },
+    {
+      "q": "Does The Habit have a tuna sandwich?",
+      "a": "Yes. The grilled albacore tuna sandwich is one of The Habit's signatures, a hot grilled tuna fillet sandwich rather than cold tuna salad, about $8.29 or $13.29 as a meal. It is unusual among burger chains and a fan favorite."
+    },
+    {
+      "q": "Does The Habit Burger Grill list calories?",
+      "a": "The Habit publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals depend on the burger size, cheese, toppings and whether you add fries and a shake."
+    },
+    {
+      "q": "What are the most popular items at The Habit?",
+      "a": "Favorites include the Charburger, the double Charburger, the albacore tuna sandwich, the tempura-fried green beans, and the hand-scooped shakes."
+    }
+  ],
+  "internal_links": [
+    "in-n-out-menu",
+    "shake-shack-menu",
+    "whataburger-menu",
+    "carls-jr-menu",
+    "steak-n-shake-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > The Habit Burger Grill."
+  },
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. The Habit does not prominently publish per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number. On import the 'does not publish' wording was changed to match the site rule (chains with 20+ US locations must post calories, so it publishes nutrition; item calories are simply not reproduced here).",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels chargrilled cheeseburger (pexels-2089717) for the Charburger. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the other burger-brand heroes.",
+    "category_note": "Uses the existing 'Burgers & Shakes' category (chargrilled burger chain, alongside In-N-Out, Shake Shack). #101 of the expansion list.",
+    "keyword_notes": "High-volume brand (8.1k). Sections and FAQ shaped by real Habit search demand: Charburger price, what it is known for, the albacore tuna sandwich, calories question, popular items."
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "slug": "swig-menu",
+  "brand": "Swig",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/swig-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/8880742/pexels-photo-8880742.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Swig style dirty soda over ice in a cup",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-8880742",
+    "_verify_note": "Tentative hero (soda over ice). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Swig Menu With Prices (2026)",
+    "meta_description": "Full Swig menu with prices for 2026: the dirty soda chain's signature sodas, Revivers energy drinks, refreshers, sugar cookies and sizes explained.",
+    "h1": "Swig Menu With Prices (2026)",
+    "primary_keyword": "swig menu with prices",
+    "keyword_volume": 3600,
+    "keyword_kd": 1
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary by location and size. Swig drinks come in 16, 24, 32 and 44 oz; the base prices below are a guide and go up with size and add-ins. Calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "Swig is the Utah-born 'Home of the Original Dirty Soda', a drive-thru chain built on customized fountain sodas over pebble ice, mixed with syrups, creams and fruit purees, plus energy-drink Revivers, fruit refreshers and its famous warm sugar cookies. Below is the full Swig menu with prices for 2026.",
+  "quick_answer": "At Swig, a create-your-own dirty soda starts around $1.50 and signature sodas run about $2.30 to $3.70, Revivers (energy drinks) are $3.49, refreshers $1.50 to $4.40, and the famous sugar cookies $2.25. Drinks come in 16, 24, 32 and 44 oz, so the price rises with size and add-ins. The dirty sodas and pink sugar cookie are the icons.",
+  "highlights": [
+    {
+      "strong": "Dirty soda",
+      "label": "the original, customized"
+    },
+    {
+      "strong": "Pebble ice",
+      "label": "the signature ice"
+    },
+    {
+      "strong": "Revivers",
+      "label": "the energy drinks"
+    },
+    {
+      "strong": "Sugar cookie",
+      "label": "the famous pink cookie"
+    }
+  ],
+  "hot_deal": "Swig value: a create-your-own dirty soda ($1.50 base) is the cheapest way in, and the Swig Club app/loyalty drops a birthday reward and regular deals. The pink sugar cookie ($2.25) is the must-add. Prices rise with size (16 to 44 oz) and the number of add-ins, so a simple medium is the value sweet spot. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Dirty Sodas & Specialty Drinks",
+      "intro": "Customized fountain sodas over pebble ice. Base prices; rise with size.",
+      "items": [
+        {
+          "name": "Create Your Own Dirty Soda",
+          "size": "16-44 oz",
+          "price": "$1.50",
+          "calories": "",
+          "desc": "Pick a soda and add syrups, cream or fruit (starting price)"
+        },
+        {
+          "name": "Dirty Dr Pepper",
+          "size": "",
+          "price": "$1.90",
+          "calories": "",
+          "desc": "Dr Pepper with coconut and lime, a classic dirty soda"
+        },
+        {
+          "name": "The Founder",
+          "size": "",
+          "price": "$2.70",
+          "calories": "",
+          "desc": "A signature house soda"
+        },
+        {
+          "name": "Texas Tab",
+          "size": "",
+          "price": "$2.70",
+          "calories": "",
+          "desc": "A popular signature soda"
+        },
+        {
+          "name": "The HeartBreaker",
+          "size": "",
+          "price": "$3.00",
+          "calories": "",
+          "desc": "A signature specialty soda"
+        },
+        {
+          "name": "Island Time",
+          "size": "",
+          "price": "$4.00",
+          "calories": "",
+          "desc": "A loaded tropical specialty, the top of the range"
+        }
+      ]
+    },
+    {
+      "category": "Revivers (Energy Drinks)",
+      "intro": "Energy-drink base with flavors, all about $3.49.",
+      "items": [
+        {
+          "name": "Create Your Own Reviver",
+          "size": "",
+          "price": "$3.49",
+          "calories": "",
+          "desc": "Build your own energy drink"
+        },
+        {
+          "name": "Island Breeze Reviver",
+          "size": "",
+          "price": "$3.49",
+          "calories": "",
+          "desc": "Tropical energy drink (all Revivers $3.49)"
+        },
+        {
+          "name": "Berry Blast Reviver",
+          "size": "",
+          "price": "$3.49",
+          "calories": "",
+          "desc": "Berry energy drink"
+        }
+      ]
+    },
+    {
+      "category": "Refreshers & Waters",
+      "intro": "Fruit refreshers and flavored sparkling waters.",
+      "items": [
+        {
+          "name": "Create Your Own Refresher",
+          "size": "",
+          "price": "$1.50",
+          "calories": "",
+          "desc": "Flavored water refresher, build your own (starting price)"
+        },
+        {
+          "name": "Orange Oasis",
+          "size": "",
+          "price": "$2.70",
+          "calories": "",
+          "desc": "An orange refresher"
+        },
+        {
+          "name": "Dragon Fruit Delight",
+          "size": "",
+          "price": "$4.10",
+          "calories": "",
+          "desc": "A loaded dragon fruit refresher"
+        },
+        {
+          "name": "Electric Lemonade",
+          "size": "",
+          "price": "$3.40",
+          "calories": "",
+          "desc": "A loaded lemonade drink"
+        }
+      ]
+    },
+    {
+      "category": "Cookies & Treats",
+      "intro": "The famous warm sugar cookies.",
+      "items": [
+        {
+          "name": "Pink Sugar Cookie",
+          "size": "",
+          "price": "$2.25",
+          "calories": "",
+          "desc": "The signature frosted pink sugar cookie"
+        },
+        {
+          "name": "Chocolate Chip Cookie",
+          "size": "",
+          "price": "$2.25",
+          "calories": "",
+          "desc": "A warm chocolate chip cookie"
+        },
+        {
+          "name": "Mini Chocolate Chip Cookies (12)",
+          "size": "12 minis",
+          "price": "$3.99",
+          "calories": "",
+          "desc": "A dozen mini cookies"
+        },
+        {
+          "name": "Mini Party Pack (60)",
+          "size": "60 minis",
+          "price": "$15.99",
+          "calories": "",
+          "desc": "A party pack of 60 mini cookies"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Dirty Soda at Home",
+    "intro": "Want customized dirty sodas at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🧊",
+        "name": "Pebble Ice Maker",
+        "blurb": "For Swig-style soft pebble ice.",
+        "amazon_search": "nugget pebble ice maker"
+      },
+      {
+        "icon": "🥤",
+        "name": "Flavor Syrups",
+        "blurb": "Coconut, vanilla, fruit and more.",
+        "amazon_search": "coffee soda flavor syrups"
+      },
+      {
+        "icon": "🥥",
+        "name": "Coconut Cream",
+        "blurb": "For a classic Dirty Dr Pepper.",
+        "amazon_search": "coconut cream of coconut"
+      },
+      {
+        "icon": "🍪",
+        "name": "Sugar Cookie Mix",
+        "blurb": "For frosted pink sugar cookies.",
+        "amazon_search": "sugar cookie mix"
+      }
+    ]
+  },
+  "popular_items": [
+    "Dirty Dr Pepper",
+    "Pink Sugar Cookie",
+    "The Founder",
+    "Create Your Own Dirty Soda",
+    "Revivers"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a drink at Swig?",
+      "a": "A create-your-own dirty soda starts around $1.50, signature sodas run about $2.30 to $4.00, and Revivers (energy drinks) are $3.49. Prices rise with the size (16 to 44 oz) and the number of add-ins. The famous sugar cookie is $2.25. Prices vary by location."
+    },
+    {
+      "q": "What is a dirty soda at Swig?",
+      "a": "A dirty soda is a fountain soda over soft pebble ice, customized with flavored syrups, cream and fruit purees, Swig's signature product. For example, a Dirty Dr Pepper adds coconut and lime. Swig calls itself the 'Home of the Original Dirty Soda'."
+    },
+    {
+      "q": "What is Swig known for?",
+      "a": "Swig is a Utah-born drive-thru chain known for its customized dirty sodas over pebble ice, its Revivers energy drinks and refreshers, and its warm frosted sugar cookies, especially the pink one. It helped start the dirty-soda trend."
+    },
+    {
+      "q": "Does Swig list calories?",
+      "a": "Swig publishes some nutrition, but calories are not reproduced here and are left blank rather than guessed, because drinks are fully customizable with syrups, cream and size, so totals vary a lot from order to order."
+    },
+    {
+      "q": "What are the most popular items at Swig?",
+      "a": "Favorites include the Dirty Dr Pepper, the pink sugar cookie, signature sodas like The Founder, create-your-own dirty sodas, and the Revivers energy drinks."
+    }
+  ],
+  "internal_links": [
+    "sonic-menu",
+    "7-brew-menu",
+    "dutch-bros-menu",
+    "scooters-coffee-menu",
+    "smoothie-king-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Swig."
+  },
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; base prices, rise with size and add-ins). Real listed values at time of writing. Sizes 16/24/32/44 oz with no size-specific breakdown available.",
+    "calories": "Deliberately left blank. Drinks are fully customizable, so calories vary; none reproduced rather than guessed. Disclaimer and FAQ note this. Never invent a calorie number. On import, starting prices the site does not accept were changed to the plain amount with '(starting price)' added to the description: 'from $1.50' -> '$1.50' (Create Your Own Dirty Soda); 'from $1.50' -> '$1.50' (Create Your Own Refresher).",
+    "accuracy": "Prices are typical/approximate and vary by location and size. Always display the disclaimer noting price rises with size and add-ins.",
+    "hero_image": "Tentative Pexels soda over ice (pexels-8880742) for the dirty soda. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Coffee & Drinks' category (drive-thru drinks, alongside 7 Brew, Dutch Bros, Sonic-style). #97 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Swig search demand: drink price, what a dirty soda is, what it is known for, calories question, popular items. Base prices used with a clear note that price rises with size and add-ins."
+  }
+}

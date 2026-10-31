@@ -1,0 +1,278 @@
+{
+  "slug": "taco-palenque-menu",
+  "brand": "Taco Palenque",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/taco-palenque-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/28959271/pexels-photo-28959271.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Taco Palenque style Mexican tacos platter with toppings",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-28959271",
+    "_verify_note": "Tentative hero (Mexican tacos platter). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Taco Palenque Menu With Prices (2026)",
+    "meta_description": "Full Taco Palenque menu with prices for 2026: the Pirata taco, fajita tacos and plates, breakfast tacos, burritos, quesadillas, Panchos and sides.",
+    "h1": "Taco Palenque Menu With Prices (2026)",
+    "primary_keyword": "taco palenque menu with prices",
+    "keyword_volume": 2900,
+    "keyword_kd": 1
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Taco Palenque publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "Taco Palenque is the Texas-born Tex-Mex fast-food chain out of Laredo, known for its authentic South Texas tacos, the signature Pirata taco, mesquite-grilled fajitas, breakfast tacos, burritos and the loaded Panchos nachos. It is a border-style quick-service favorite. Below is the full Taco Palenque menu with prices for 2026.",
+  "quick_answer": "At Taco Palenque, a signature Pirata taco is about $4.89, fajita tacos run $2.79 to $4.19, and breakfast tacos start at $1.99. Fajita plates are $10.99 to $12.99, burritos $7.49 to $8.49, and loaded Panchos nachos $7.49 to $9.90. The Pirata taco and the mesquite fajitas are the signatures. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Pirata taco",
+      "label": "the signature, ~$4.89"
+    },
+    {
+      "strong": "Mesquite fajitas",
+      "label": "tacos and plates"
+    },
+    {
+      "strong": "Breakfast tacos",
+      "label": "from $1.99"
+    },
+    {
+      "strong": "Panchos",
+      "label": "the loaded nachos"
+    }
+  ],
+  "hot_deal": "Taco Palenque value: breakfast tacos (from $1.99) and the beans taco ($1.09) are the cheapest bites, and the Duo Plate ($5.99) is a cheap full meal. The crispy chicken fajita taco ($2.79) is the value fajita. Taco Palenque runs frequent combo and app deals. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Signature & Fajita Tacos",
+      "intro": "The Pirata and the mesquite fajita tacos.",
+      "items": [
+        {
+          "name": "Pirata Taco",
+          "size": "",
+          "price": "$4.89",
+          "calories": "",
+          "desc": "The signature flour taco with fajita, beans and cheese on a grilled tortilla"
+        },
+        {
+          "name": "Beef Fajita Taco",
+          "size": "",
+          "price": "$4.19",
+          "calories": "",
+          "desc": "Mesquite-grilled beef fajita taco"
+        },
+        {
+          "name": "Chicken Breast Fajita Taco",
+          "size": "",
+          "price": "$3.79",
+          "calories": "",
+          "desc": "Grilled chicken fajita taco"
+        },
+        {
+          "name": "Al Pastor Taco",
+          "size": "",
+          "price": "$3.99",
+          "calories": "",
+          "desc": "Marinated pork al pastor taco (sirloin also $3.99)"
+        },
+        {
+          "name": "Street-Style Tacos (Sirloin)",
+          "size": "",
+          "price": "$7.99",
+          "calories": "",
+          "desc": "Chopped sirloin street-style tacos (al pastor $8.99+) (starting price)"
+        }
+      ]
+    },
+    {
+      "category": "Plates",
+      "intro": "Fajita and combo plates with sides.",
+      "items": [
+        {
+          "name": "Chicken Breast Fajitas Plate",
+          "size": "",
+          "price": "$10.99",
+          "calories": "",
+          "desc": "Grilled chicken fajitas with rice, beans and tortillas"
+        },
+        {
+          "name": "Beef Fajitas Plate",
+          "size": "",
+          "price": "$12.99",
+          "calories": "",
+          "desc": "Mesquite beef fajitas plate"
+        },
+        {
+          "name": "Sirloin Plate",
+          "size": "",
+          "price": "$12.49",
+          "calories": "",
+          "desc": "Sirloin plate (al pastor plate also $12.49)"
+        },
+        {
+          "name": "Tampiquena Plate",
+          "size": "",
+          "price": "$15.49",
+          "calories": "",
+          "desc": "The loaded Tampiquena plate, the top plate"
+        },
+        {
+          "name": "Duo Plate",
+          "size": "",
+          "price": "$5.99",
+          "calories": "",
+          "desc": "A two-item value plate"
+        }
+      ]
+    },
+    {
+      "category": "Burritos, Quesadillas & Panchos",
+      "intro": "Burritos, quesadillas and the loaded nachos.",
+      "items": [
+        {
+          "name": "Beef Fajita Burrito",
+          "size": "",
+          "price": "$8.49",
+          "calories": "",
+          "desc": "Beef fajita burrito (sirloin, al pastor, chicken also $8.49)"
+        },
+        {
+          "name": "Picadillo Burrito",
+          "size": "",
+          "price": "$7.49",
+          "calories": "",
+          "desc": "Seasoned ground beef burrito"
+        },
+        {
+          "name": "Super Quesadilla",
+          "size": "",
+          "price": "$8.39",
+          "calories": "",
+          "desc": "Loaded quesadilla (single $3.49, double $4.49) (starting price)"
+        },
+        {
+          "name": "Panchos (Nachos)",
+          "size": "",
+          "price": "$9.90",
+          "calories": "",
+          "desc": "Loaded nachos (Panchitos $7.49) (starting price)"
+        }
+      ]
+    },
+    {
+      "category": "Breakfast Tacos & Sides",
+      "intro": "Breakfast tacos and sides.",
+      "items": [
+        {
+          "name": "Bacon & Egg Breakfast Taco",
+          "size": "",
+          "price": "$2.09",
+          "calories": "",
+          "desc": "Breakfast taco (most breakfast tacos $1.99)"
+        },
+        {
+          "name": "Barbacoa Breakfast Taco",
+          "size": "",
+          "price": "$4.99",
+          "calories": "",
+          "desc": "Barbacoa taco (Jr. $3.99)"
+        },
+        {
+          "name": "Chips and Queso",
+          "size": "",
+          "price": "$2.29",
+          "calories": "",
+          "desc": "Tortilla chips with queso (starting price)"
+        },
+        {
+          "name": "Guacamole",
+          "size": "",
+          "price": "$2.69",
+          "calories": "",
+          "desc": "Fresh guacamole (rice/beans $2.19+) (starting price)"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Tex-Mex Tacos at Home",
+    "intro": "Want South Texas fajita tacos at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🔥",
+        "name": "Cast Iron Comal",
+        "blurb": "For grilled tortillas and fajitas.",
+        "amazon_search": "cast iron comal"
+      },
+      {
+        "icon": "🌮",
+        "name": "Flour Tortillas",
+        "blurb": "For Pirata-style tacos.",
+        "amazon_search": "flour tortillas"
+      },
+      {
+        "icon": "🥩",
+        "name": "Fajita Seasoning",
+        "blurb": "For mesquite-style fajitas.",
+        "amazon_search": "fajita seasoning"
+      },
+      {
+        "icon": "🧀",
+        "name": "Queso & Nacho Cheese",
+        "blurb": "For Panchos nachos.",
+        "amazon_search": "nacho cheese sauce"
+      }
+    ]
+  },
+  "popular_items": [
+    "Pirata Taco",
+    "Beef Fajitas Plate",
+    "Panchos",
+    "Breakfast Tacos",
+    "Al Pastor Taco"
+  ],
+  "faqs": [
+    {
+      "q": "What is a Pirata taco at Taco Palenque?",
+      "a": "The Pirata is Taco Palenque's signature taco: fajita meat with beans and cheese on a grilled flour tortilla. It is about $4.89 and the dish the chain is best known for. Prices vary by location."
+    },
+    {
+      "q": "How much are fajitas at Taco Palenque?",
+      "a": "Fajita tacos run about $2.79 for crispy chicken, $3.79 for chicken breast and $4.19 for beef. Full fajita plates with rice, beans and tortillas are $10.99 for chicken and $12.99 for beef. Prices vary by location."
+    },
+    {
+      "q": "What is Taco Palenque known for?",
+      "a": "Taco Palenque is a Texas-born Tex-Mex fast-food chain from Laredo, known for authentic South Texas tacos, the signature Pirata taco, mesquite-grilled fajitas, breakfast tacos and the loaded Panchos nachos. It is a border-style quick-service favorite."
+    },
+    {
+      "q": "Does Taco Palenque have breakfast?",
+      "a": "Yes. Taco Palenque serves breakfast tacos (potato and egg, bacon and egg, chorizo, barbacoa and more) starting around $1.99, plus breakfast chilaquiles. Breakfast tacos are one of the cheapest and most popular orders."
+    },
+    {
+      "q": "What are the most popular items at Taco Palenque?",
+      "a": "Favorites include the Pirata taco, the beef fajitas plate, the Panchos nachos, the breakfast tacos, and the al pastor tacos."
+    }
+  ],
+  "internal_links": [
+    "del-taco-menu",
+    "el-pollo-loco-menu",
+    "chipotle-menu",
+    "taco-bell-menu",
+    "torchys-tacos-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Taco Palenque."
+  },
+  "_data_notes": {
+    "price_source": "Prices from a Taco Palenque online-ordering menu (San Antonio location, allmenus). Real listed values at time of writing; vary by location.",
+    "calories": "Deliberately left blank. Taco Palenque does not prominently publish per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number. On import the 'does not publish' wording was changed to match the site rule (chains with 20+ US locations must post calories, so it publishes nutrition; item calories are simply not reproduced here). On import, starting prices the site does not accept were changed to the plain amount with '(starting price)' added to the description: '$7.99+' -> '$7.99' (Street-Style Tacos (Sirloin)); '$8.39+' -> '$8.39' (Super Quesadilla); '$9.90+' -> '$9.90' (Panchos (Nachos)); '$2.29+' -> '$2.29' (Chips and Queso); '$2.69+' -> '$2.69' (Guacamole).",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels Mexican tacos platter (pexels-28959271). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Del Taco hero.",
+    "category_note": "Uses the existing 'Chicken & Fast Food' category (Tex-Mex fast food, following the Del Taco precedent). Internal links taco-bell-menu and torchys-tacos-menu may not exist yet (Torchy's is later in this list); drop any missing-page link. #98 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Taco Palenque search demand: the Pirata taco, fajita prices, what it is known for, breakfast, popular items."
+  }
+}
