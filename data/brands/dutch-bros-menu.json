@@ -1,0 +1,163 @@
+{
+  "slug": "dutch-bros-menu",
+  "brand": "Dutch Bros",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/dutch-bros-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/38638932/pexels-photo-38638932.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Dutch Bros style vibrant red iced berry drink in a clear cup with a straw",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-38638932"
+  },
+
+  "seo": {
+    "meta_title": "Dutch Bros Menu With Prices & Calories (2026)",
+    "meta_description": "Full Dutch Bros menu with prices and calories for 2026: Blue Rebel energy drinks, lattes, breves, cold brew, Dutch Freeze blended, lemonades and sodas.",
+    "h1": "Dutch Bros Menu With Prices (2026)",
+    "primary_keyword": "dutch bros menu with prices",
+    "keyword_volume": 3600,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate (medium size), are provided as a guide only, and may vary by location, size and customization. Last updated October 2026.",
+
+  "intro": "Dutch Bros is the drive-thru coffee chain known for its fast, friendly crews and its colorful Blue Rebel energy drinks, signature coffee Faves like the Golden Eagle, blended Dutch Freeze, cold brew, smoothies, lemonades and Dutch Sodas. Almost everything is customizable and comes in small (16 oz), medium (24 oz) and large (32 oz). Below is the full Dutch Bros menu with prices and calories for 2026 (medium sizes).",
+
+  "quick_answer": "A medium Dutch Bros latte is about $4.00, a Blue Rebel energy drink is $4.00, and a blended Dutch Freeze is about $3.50. Cold Brew is $3.50, lemonades start at $3.00, and Dutch Sodas are $2.50. The Blue Rebel and the Golden Eagle are the signatures. A medium Blue Rebel is about 160 calories.",
+
+  "highlights": [
+    { "strong": "Blue Rebel", "label": "the signature energy drink" },
+    { "strong": "$4.00", "label": "medium latte or Rebel" },
+    { "strong": "Dutch Freeze", "label": "blended coffee" },
+    { "strong": "Customize", "label": "any drink, your way" }
+  ],
+
+  "hot_deal": "Dutch Bros value: the Dutch Rewards app is where the deals live, with points toward free drinks, a birthday drink and member-only offers. Dutch Sodas ($2.50) and lemonades ($3.00) are the cheapest ways in, and the crew will happily tweak any drink. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Dutch Bros Rebels (Energy Drinks)",
+      "intro": "The colorful signature energy drinks, built on the Blue Rebel base. Medium prices shown.",
+      "items": [
+        { "name": "Blue Rebel (Original)", "size": "medium", "price": "$4.00", "calories": "160", "desc": "The classic Dutch Bros energy drink" },
+        { "name": "Aftershock", "size": "medium", "price": "$4.00", "calories": "", "desc": "Rebel with fruit and lime flavors" },
+        { "name": "Electric Berry", "size": "medium", "price": "$4.00", "calories": "", "desc": "Blue raspberry and berry Rebel" },
+        { "name": "Shark Attack", "size": "medium", "price": "$4.25", "calories": "", "desc": "Blue raspberry, coconut and pomegranate" },
+        { "name": "Peach Rebel", "size": "medium", "price": "$5.50", "calories": "170", "desc": "Peach-flavored Rebel energy drink" },
+        { "name": "Vampire Slayer", "size": "medium", "price": "$4.50", "calories": "", "desc": "Pomegranate and strawberry Rebel" }
+      ]
+    },
+    {
+      "category": "Coffee Faves & Classics",
+      "intro": "Signature coffee drinks and the espresso classics.",
+      "items": [
+        { "name": "Golden Eagle", "size": "medium", "price": "$3.50", "calories": "", "desc": "Caramel and vanilla breve with whipped cream (breve about 660 cal)" },
+        { "name": "Caramelizer", "size": "medium", "price": "$3.50", "calories": "", "desc": "Caramel mocha with chocolate" },
+        { "name": "Annihilator", "size": "medium", "price": "$3.50", "calories": "", "desc": "Chocolate macadamia nut breve" },
+        { "name": "Latte", "size": "medium", "price": "$4.00", "calories": "", "desc": "Espresso with steamed milk (vanilla about 420 cal)" },
+        { "name": "Breve", "size": "medium", "price": "$4.50", "calories": "", "desc": "Espresso with steamed half-and-half" },
+        { "name": "Americano", "size": "medium", "price": "$3.50", "calories": "", "desc": "Espresso with hot water" }
+      ]
+    },
+    {
+      "category": "Cold Brew & Dutch Freeze",
+      "intro": "Smooth cold brew and blended frozen coffee.",
+      "items": [
+        { "name": "Cold Brew", "size": "medium", "price": "$3.50", "calories": "15", "desc": "Slow-steeped cold brew, black (about 15 cal)" },
+        { "name": "Nitro Cold Brew", "size": "medium", "price": "$5.85", "calories": "20", "desc": "Nitrogen-infused cold brew with a creamy head" },
+        { "name": "Caramel Freeze", "size": "medium", "price": "$3.50", "calories": "690", "desc": "Blended coffee with caramel (about 690 cal)" },
+        { "name": "Mocha Freeze", "size": "medium", "price": "$3.50", "calories": "", "desc": "Blended coffee with chocolate" },
+        { "name": "White Chocolate Freeze", "size": "medium", "price": "$3.50", "calories": "", "desc": "Blended coffee with white chocolate" }
+      ]
+    },
+    {
+      "category": "Smoothies, Lemonades & Teas",
+      "intro": "Fruit smoothies, fresh lemonades, teas and chai.",
+      "items": [
+        { "name": "Strawberry Smoothie", "size": "medium", "price": "$4.00", "calories": "", "desc": "Blended real fruit smoothie" },
+        { "name": "Mango Smoothie", "size": "medium", "price": "$4.00", "calories": "360", "desc": "Blended mango smoothie (about 360 cal)" },
+        { "name": "Classic Lemonade", "size": "medium", "price": "$3.00", "calories": "200", "desc": "Fresh lemonade (about 200 cal)" },
+        { "name": "Strawberry Lemonade", "size": "medium", "price": "$3.25", "calories": "250", "desc": "Lemonade with strawberry (about 250 cal)" },
+        { "name": "Chai Latte", "size": "medium", "price": "$4.00", "calories": "", "desc": "Spiced chai with steamed milk" },
+        { "name": "Iced Tea", "size": "medium", "price": "$2.50", "calories": "", "desc": "Freshly brewed iced tea" }
+      ]
+    },
+    {
+      "category": "Dutch Sodas, Cocoa & Food",
+      "intro": "Flavored sodas, hot cocoa and a few snacks.",
+      "items": [
+        { "name": "Dutch Soda (Any Flavor)", "size": "medium", "price": "$2.50", "calories": "", "desc": "Soda water with your choice of flavors" },
+        { "name": "Ocean Water", "size": "medium", "price": "$2.75", "calories": "", "desc": "Blue raspberry and coconut soda" },
+        { "name": "Hot Chocolate", "size": "medium", "price": "$3.00", "calories": "430", "desc": "Rich hot cocoa with whipped cream (about 430 cal)" },
+        { "name": "Muffin Top", "size": "", "price": "$2.00", "calories": "", "desc": "Chocolate chip, lemon poppyseed or orange cranberry" },
+        { "name": "Granola Bar", "size": "", "price": "$2.00", "calories": "", "desc": "A grab-and-go granola bar" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Dutch Bros at Home",
+    "intro": "Want the Rebel energy drinks and blended coffee at home? These picks help.",
+    "cards": [
+      { "icon": "🥤", "name": "Clear Tumbler Cups", "blurb": "For colorful iced drinks, Dutch Bros style.", "amazon_search": "clear tumbler cups with lids straws" },
+      { "icon": "⚡", "name": "Energy Drink Base", "blurb": "Mix your own Rebel-style energy drinks.", "amazon_search": "energy drink mix" },
+      { "icon": "🍯", "name": "Flavor Syrups", "blurb": "Caramel, vanilla and fruit syrups.", "amazon_search": "drink flavor syrup variety" },
+      { "icon": "🧊", "name": "Cold Brew Maker", "blurb": "Steep smooth cold brew at home.", "amazon_search": "cold brew coffee maker" }
+    ]
+  },
+
+  "popular_items": [
+    "Blue Rebel",
+    "Golden Eagle",
+    "Caramel Freeze",
+    "Cold Brew",
+    "Strawberry Lemonade"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is a Blue Rebel at Dutch Bros?",
+      "a": "The Blue Rebel is Dutch Bros' own energy drink base, used to build dozens of colorful flavored Rebels. A medium is about $4.00 and roughly 160 calories, and you can customize it with fruit flavors, soft tops and more."
+    },
+    {
+      "q": "How much is a drink at Dutch Bros?",
+      "a": "A medium latte or Blue Rebel is about $4.00, a blended Dutch Freeze is about $3.50, lemonades start at $3.00 and Dutch Sodas are $2.50. Large (32 oz) drinks cost about a dollar more than medium."
+    },
+    {
+      "q": "What is the Golden Eagle at Dutch Bros?",
+      "a": "The Golden Eagle is Dutch Bros' most famous coffee drink: an espresso breve with vanilla and caramel, topped with caramel drizzle and whipped cream. As a breve it is rich, around 660 calories for a medium."
+    },
+    {
+      "q": "What is the lowest-calorie drink at Dutch Bros?",
+      "a": "Plain cold brew and Americano are nearly calorie-free (about 15 to 20 calories). The Rebels are moderate at around 160 to 190 for a medium before add-ons, while breves and blended Freezes are the richest."
+    },
+    {
+      "q": "What are the most popular items at Dutch Bros?",
+      "a": "The best known are the Blue Rebel, the Golden Eagle, the Caramel Freeze, cold brew, and the fresh lemonades."
+    }
+  ],
+
+  "internal_links": [
+    "starbucks-menu",
+    "dunkin-menu",
+    "mcdonalds-menu",
+    "taco-bell-menu",
+    "subway-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Dutch Bros."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US medium pricing; vary by location). Calories from a Dutch Bros nutrition source, medium size.",
+    "calories": "Shown for medium where a reliable figure exists; many drinks left blank or noted inline, since calories change a lot with size, milk, syrups and soft tops. Black cold brew is near zero. Never invent a calorie number. Latte calories field cleared on import: 420 is the vanilla latte figure, kept in the description.",
+    "accuracy": "Prices and calories are typical/approximate (medium) and vary by location, size and customization. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels vibrant red iced drink image (pexels-38638932), no branding, portrait that crops well to a wide hero, hotlinked CDN URL. Matches the colorful Dutch Bros Rebel look.",
+    "category_note": "Uses the existing 'Coffee & Drinks' category (same as Starbucks and Dunkin). No new category needed. If you later decide to fold coffee into the combined 'Pizza Coffee & Subs' category, change this field to match.",
+    "keyword_notes": "Sections and FAQ shaped by real Dutch Bros search demand: Blue Rebel, drink prices, Golden Eagle, lowest-calorie drink, popular drinks."
+  }
+}

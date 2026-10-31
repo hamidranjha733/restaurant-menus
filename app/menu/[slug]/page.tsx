@@ -186,7 +186,9 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
                 </thead>
                 <tbody>
                   {section.items.map((item, i) => {
-                    const subLine = [item.desc, !caloriesColumn && item.calories ? `${formatCalories(item.calories)} cal` : ""]
+                    // Skip the inline figure when the description already says it, e.g. "(about 15 cal)".
+                    const calInDesc = !!item.calories && new RegExp(`\\b(${item.calories}|${formatCalories(item.calories)}) cal`).test(item.desc ?? "");
+                    const subLine = [item.desc, !caloriesColumn && item.calories && !calInDesc ? `${formatCalories(item.calories)} cal` : ""]
                       .filter(Boolean)
                       .join(" · ");
                     return (
