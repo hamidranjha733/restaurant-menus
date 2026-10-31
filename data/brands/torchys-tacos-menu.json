@@ -1,0 +1,216 @@
+{
+  "slug": "torchys-tacos-menu",
+  "brand": "Torchy's Tacos",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/torchys-tacos-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/7613568/pexels-photo-7613568.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Torchy's style loaded street tacos",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-7613568",
+    "_verify_note": "Tentative hero (loaded street tacos). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Torchy's Tacos Menu With Prices (2026)",
+    "meta_description": "Full Torchy's Tacos menu with prices for 2026: the Trailer Park, Democrat, Baja Shrimp, Brushfire and Green Chile Pork tacos, the famous queso, guac and sides.",
+    "h1": "Torchy's Tacos Menu With Prices (2026)",
+    "primary_keyword": "torchy's tacos menu with prices",
+    "keyword_volume": 6600,
+    "keyword_kd": 2
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Torchy's Tacos publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "Torchy's Tacos is the Austin-born 'Damn Good' taco chain known for its bold, chef-driven tacos like the Trailer Park and the Democrat, its famous Green Chile Queso, and a secret menu. Tacos are ordered individually, so you build your own order. Below is the full Torchy's Tacos menu with prices for 2026.",
+  "quick_answer": "At Torchy's Tacos, most tacos run about $3.75 to $4.25 (the Trailer Park, Brushfire and Green Chile Pork are $3.75, the Democrat $4.00, Baja Shrimp $4.25). The famous Green Chile Queso with chips is $5.25, chips and guac $4.95, and sides $1.95 to $2.50. Tacos are ordered individually. The Trailer Park and the queso are the icons.",
+  "highlights": [
+    {
+      "strong": "Trailer Park",
+      "label": "the signature taco"
+    },
+    {
+      "strong": "Green Chile Queso",
+      "label": "the famous queso"
+    },
+    {
+      "strong": "Damn Good",
+      "label": "bold, chef-driven tacos"
+    },
+    {
+      "strong": "Secret menu",
+      "label": "the cult extras"
+    }
+  ],
+  "hot_deal": "Torchy's value: the $3.75 tacos (Trailer Park, Brushfire, Green Chile Pork) are the cheapest and most famous, and getting the Trailer Park 'trashy' (queso instead of lettuce) is the classic move. Two tacos make a meal. The app and Torchy's rewards drop a birthday taco and deals. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Signature Tacos",
+      "intro": "Ordered individually. Mix and match for a meal.",
+      "items": [
+        {
+          "name": "Trailer Park",
+          "size": "",
+          "price": "$3.75",
+          "calories": "",
+          "desc": "Fried chicken, green chiles, pico and cheese (get it 'trashy' with queso)"
+        },
+        {
+          "name": "Brushfire",
+          "size": "",
+          "price": "$3.75",
+          "calories": "",
+          "desc": "Jamaican jerk chicken, mango and sauce"
+        },
+        {
+          "name": "Green Chile Pork",
+          "size": "",
+          "price": "$3.75",
+          "calories": "",
+          "desc": "Slow-roasted green chile pork"
+        },
+        {
+          "name": "Democrat",
+          "size": "",
+          "price": "$4.00",
+          "calories": "",
+          "desc": "Shredded barbacoa with avocado and cotija"
+        },
+        {
+          "name": "Baja Shrimp",
+          "size": "",
+          "price": "$4.25",
+          "calories": "",
+          "desc": "Fried shrimp with Baja sauce, the priciest taco"
+        }
+      ]
+    },
+    {
+      "category": "Queso & Guac",
+      "intro": "The famous queso and fresh guacamole.",
+      "items": [
+        {
+          "name": "Green Chile Queso & Chips",
+          "size": "",
+          "price": "$5.25",
+          "calories": "",
+          "desc": "The signature queso with chips, the must-order"
+        },
+        {
+          "name": "Chips & Guacamole",
+          "size": "",
+          "price": "$4.95",
+          "calories": "",
+          "desc": "Fresh guacamole with chips"
+        },
+        {
+          "name": "Guacamole (side)",
+          "size": "",
+          "price": "$4.25",
+          "calories": "",
+          "desc": "A side of guacamole"
+        }
+      ]
+    },
+    {
+      "category": "Sides & Salsas",
+      "intro": "Rice, beans and the salsas.",
+      "items": [
+        {
+          "name": "Rice",
+          "size": "",
+          "price": "$1.95",
+          "calories": "",
+          "desc": "Mexican rice (refried beans also $1.95)"
+        },
+        {
+          "name": "Salsa",
+          "size": "",
+          "price": "$2.50",
+          "calories": "",
+          "desc": "A side of salsa (pico de gallo also $2.50)"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Damn Good Tacos at Home",
+    "intro": "Want Torchy's-style tacos and queso at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🌮",
+        "name": "Corn & Flour Tortillas",
+        "blurb": "For street-style tacos.",
+        "amazon_search": "corn flour tortillas"
+      },
+      {
+        "icon": "🧀",
+        "name": "Green Chile Queso",
+        "blurb": "For a Torchy's-style queso.",
+        "amazon_search": "green chile queso"
+      },
+      {
+        "icon": "🌶️",
+        "name": "Diablo Hot Sauce",
+        "blurb": "For the signature heat.",
+        "amazon_search": "diablo hot sauce"
+      },
+      {
+        "icon": "🥑",
+        "name": "Molcajete",
+        "blurb": "For fresh guacamole.",
+        "amazon_search": "molcajete guacamole"
+      }
+    ]
+  },
+  "popular_items": [
+    "Trailer Park",
+    "Green Chile Queso",
+    "Democrat",
+    "Baja Shrimp",
+    "Brushfire"
+  ],
+  "faqs": [
+    {
+      "q": "How much are tacos at Torchy's?",
+      "a": "Most Torchy's tacos run about $3.75 to $4.25 (the Trailer Park, Brushfire and Green Chile Pork are $3.75, the Democrat $4.00, Baja Shrimp $4.25). Tacos are ordered individually, so two make a typical meal. Prices vary by location."
+    },
+    {
+      "q": "What is the Trailer Park taco at Torchy's?",
+      "a": "The Trailer Park is Torchy's signature taco: fried chicken, green chiles, pico de gallo and cheese. Ordering it 'trashy' swaps the lettuce for queso, a cult move. It is about $3.75 and the taco most people start with."
+    },
+    {
+      "q": "What is Torchy's known for?",
+      "a": "Torchy's Tacos is an Austin-born chain known for bold, chef-driven 'Damn Good' tacos like the Trailer Park and the Democrat, its famous Green Chile Queso, and a rotating secret menu. It blends taco-shop vibes with a full bar at many locations."
+    },
+    {
+      "q": "Does Torchy's list calories?",
+      "a": "Torchy's publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals depend on the taco, the protein and whether you get it 'trashy' with queso."
+    },
+    {
+      "q": "What are the most popular items at Torchy's?",
+      "a": "Favorites include the Trailer Park taco, the Green Chile Queso, the Democrat, the Baja Shrimp, and the Brushfire."
+    }
+  ],
+  "internal_links": [
+    "taco-palenque-menu",
+    "del-taco-menu",
+    "chipotle-menu",
+    "el-pollo-loco-menu",
+    "taco-bell-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Torchy's Tacos."
+  },
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing. Tacos ordered individually.",
+    "calories": "Deliberately left blank. Torchy's does not prominently publish per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number. On import the 'does not publish' wording was changed to match the site rule (chains with 20+ US locations must post calories, so it publishes nutrition; item calories are simply not reproduced here).",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels loaded street tacos (pexels-7613568). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Taco Palenque and Del Taco heroes.",
+    "category_note": "Uses the existing 'Chicken & Fast Food' category (taco chain, following the Del Taco/Taco Palenque precedent). Internal link taco-bell-menu may not exist yet; drop any missing-page link. #103 of the expansion list.",
+    "keyword_notes": "High-volume brand (6.6k). Sections and FAQ shaped by real Torchy's search demand: taco price, the Trailer Park, what it is known for, calories question, popular items. Tacos priced individually."
+  }
+}

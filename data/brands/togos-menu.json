@@ -1,0 +1,250 @@
+{
+  "slug": "togos-menu",
+  "brand": "Togo's",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/togos-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/28396813/pexels-photo-28396813.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Togo's style stacked sub sandwich with fresh garnish on a plate",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-28396813",
+    "_verify_note": "Tentative hero (stacked sub sandwich). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Togo's Menu With Prices (2026)",
+    "meta_description": "Full Togo's menu with prices for 2026: the #9 Hot Pastrami, Turkey & Avocado, The Italian, BBQ Beef, California Club, big salads and sides.",
+    "h1": "Togo's Menu With Prices (2026)",
+    "primary_keyword": "togo's menu with prices",
+    "keyword_volume": 3600,
+    "keyword_kd": 1
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location (West Coast pricing). Togo's publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "Togo's is the West Coast sandwich chain, born in San Jose, known for its big, overstuffed subs piled with meat, led by the #9 Hot Pastrami. Sandwiches come in mini, 6-inch and 9-inch (and a 24-inch party sub), alongside big salads. Below is the full Togo's menu with prices for 2026.",
+  "quick_answer": "At Togo's, the #9 Hot Pastrami is about $9.59, turkey subs run $8.39 to $8.79, The Italian is $8.79, and BBQ Beef $7.89. Loaded subs like the California Club reach $15.09, and big salads are $11.99 to $13.19. Sizes run mini, 6-inch and 9-inch. The overstuffed #9 Pastrami is the signature. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "#9 Pastrami",
+      "label": "the signature, overstuffed"
+    },
+    {
+      "strong": "Overstuffed",
+      "label": "piled-high subs"
+    },
+    {
+      "strong": "Mini / 6\" / 9\"",
+      "label": "three sandwich sizes"
+    },
+    {
+      "strong": "West Coast",
+      "label": "a California original"
+    }
+  ],
+  "hot_deal": "Togo's value: the BBQ Beef ($7.89) and a mini size are the cheapest ways in, and 'Make it a Meal' (a drink plus a chip or dessert) is $4.79. The app and Togo's rewards drop occasional deals. A 6-inch is plenty for most people, so skip the 9-inch to save. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Signature Subs",
+      "intro": "The overstuffed hot and cold subs.",
+      "items": [
+        {
+          "name": "#9 Hot Pastrami",
+          "size": "",
+          "price": "$9.59",
+          "calories": "",
+          "desc": "The signature overstuffed hot pastrami (Reuben and Pepper Jack Melt also $9.59)"
+        },
+        {
+          "name": "#40 BBQ Beef",
+          "size": "",
+          "price": "$7.89",
+          "calories": "",
+          "desc": "Hot BBQ beef sub, the value pick"
+        },
+        {
+          "name": "#16 The Italian",
+          "size": "",
+          "price": "$8.79",
+          "calories": "",
+          "desc": "Salami, mortadella, capicola and provolone"
+        },
+        {
+          "name": "#23 Genoa Salami & Provolone",
+          "size": "",
+          "price": "$8.39",
+          "calories": "",
+          "desc": "A classic cold-cut sub"
+        }
+      ]
+    },
+    {
+      "category": "Turkey Subs",
+      "intro": "The turkey lineup, Togo's bestsellers.",
+      "items": [
+        {
+          "name": "#3 Turkey & Cheddar",
+          "size": "",
+          "price": "$8.39",
+          "calories": "",
+          "desc": "Turkey with cheddar (Turkey & Cranberry also $8.39)"
+        },
+        {
+          "name": "#24 Turkey & Avocado",
+          "size": "",
+          "price": "$8.79",
+          "calories": "",
+          "desc": "Turkey with fresh avocado (Clubhouse Melt also $8.79)"
+        },
+        {
+          "name": "#26 Turkey, Ham & Cheddar",
+          "size": "",
+          "price": "$13.19",
+          "calories": "",
+          "desc": "A loaded triple-stack turkey sub"
+        },
+        {
+          "name": "#36 California Club",
+          "size": "",
+          "price": "$15.09",
+          "calories": "",
+          "desc": "The loaded California Club, the top sub"
+        }
+      ]
+    },
+    {
+      "category": "Salads",
+      "intro": "Big entree salads.",
+      "items": [
+        {
+          "name": "Farmer's Market Salad",
+          "size": "",
+          "price": "$11.99",
+          "calories": "",
+          "desc": "A fresh market salad (Asian Chicken also $11.99)"
+        },
+        {
+          "name": "Chicken Club Salad",
+          "size": "",
+          "price": "$12.99",
+          "calories": "",
+          "desc": "Chicken, bacon and cheese salad"
+        },
+        {
+          "name": "Santa Fe Chicken Salad",
+          "size": "",
+          "price": "$13.19",
+          "calories": "",
+          "desc": "Southwest chicken salad (Mediterranean also $13.19)"
+        }
+      ]
+    },
+    {
+      "category": "Sides & Extras",
+      "intro": "Chips, drinks, desserts and the meal deal.",
+      "items": [
+        {
+          "name": "Chips",
+          "size": "",
+          "price": "$3.39",
+          "calories": "",
+          "desc": "A bag of chips (desserts also $3.39)"
+        },
+        {
+          "name": "Fountain Drink",
+          "size": "",
+          "price": "$3.59",
+          "calories": "",
+          "desc": "Fountain soda"
+        },
+        {
+          "name": "Make It a Meal",
+          "size": "",
+          "price": "$4.79",
+          "calories": "",
+          "desc": "Add a drink plus a chip or dessert to any sub"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Overstuffed Subs at Home",
+    "intro": "Want Togo's-style overstuffed subs at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🥖",
+        "name": "Sub Rolls",
+        "blurb": "For big overstuffed subs.",
+        "amazon_search": "hoagie sub rolls"
+      },
+      {
+        "icon": "🥩",
+        "name": "Sliced Pastrami",
+        "blurb": "For a #9-style hot pastrami.",
+        "amazon_search": "sliced pastrami deli"
+      },
+      {
+        "icon": "🥑",
+        "name": "Avocado",
+        "blurb": "For the turkey & avocado.",
+        "amazon_search": "fresh avocado"
+      },
+      {
+        "icon": "🔪",
+        "name": "Deli Meat Slicer",
+        "blurb": "For thin-sliced cold cuts.",
+        "amazon_search": "electric meat slicer"
+      }
+    ]
+  },
+  "popular_items": [
+    "#9 Hot Pastrami",
+    "Turkey & Avocado",
+    "The Italian",
+    "California Club",
+    "BBQ Beef"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a sandwich at Togo's?",
+      "a": "Most subs run about $7.89 to $9.59 (the #9 Hot Pastrami is $9.59, BBQ Beef $7.89), while loaded subs like the California Club reach $15.09. Sandwiches come in mini, 6-inch and 9-inch. 'Make it a Meal' adds a drink and chip or dessert for $4.79. Prices vary by location."
+    },
+    {
+      "q": "What is Togo's known for?",
+      "a": "Togo's is a West Coast sandwich chain, born in San Jose, known for its big, overstuffed subs piled high with meat, especially the #9 Hot Pastrami. It competes with Subway and Jersey Mike's but leans into heftier, meatier sandwiches."
+    },
+    {
+      "q": "What sizes do Togo's sandwiches come in?",
+      "a": "Togo's subs come in a mini, a 6-inch and a 9-inch, plus a 24-inch party sandwich for groups. The 6-inch is a full meal for most people, and the 9-inch is the big-appetite size. Prices rise with size."
+    },
+    {
+      "q": "Does Togo's list calories?",
+      "a": "Togo's publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals depend on the sandwich, the size, the bread and the add-ons like cheese and avocado."
+    },
+    {
+      "q": "What are the most popular items at Togo's?",
+      "a": "Favorites include the #9 Hot Pastrami, the Turkey & Avocado, The Italian, the California Club, and the BBQ Beef."
+    }
+  ],
+  "internal_links": [
+    "jersey-mikes-menu",
+    "subway-menu",
+    "jimmy-johns-menu",
+    "quiznos-menu",
+    "firehouse-subs-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Togo's."
+  },
+  "_data_notes": {
+    "price_source": "Prices from a Togo's online-ordering menu (San Jose delivery; West Coast pricing). Real listed values at time of writing; vary by location. No per-size breakdown available, so single prices shown.",
+    "calories": "Deliberately left blank. Togo's does not prominently publish per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number. On import the 'does not publish' wording was changed to match the site rule (chains with 20+ US locations must post calories, so it publishes nutrition; item calories are simply not reproduced here).",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels stacked sub sandwich (pexels-28396813). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the other sub/deli heroes.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (sub chain, alongside Jersey Mike's, Subway, Quiznos). #102 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Togo's search demand: sandwich price, what it is known for, sizes, calories question, popular items."
+  }
+}

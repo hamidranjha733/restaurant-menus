@@ -1,0 +1,271 @@
+{
+  "slug": "tudors-biscuit-world-menu",
+  "brand": "Tudor's Biscuit World",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/tudors-biscuit-world-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/19471375/pexels-photo-19471375.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Tudor's Biscuit World style breakfast biscuit with egg and bacon",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-19471375",
+    "_verify_note": "Tentative hero (breakfast biscuit with egg and bacon). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Tudor's Biscuit World Menu & Prices (2026)",
+    "meta_description": "Tudor's Biscuit World menu with prices for 2026: the Mary B, Thundering Herd and Ron biscuits, gravy biscuits, breakfast & dinner platters and lunch sandwiches.",
+    "h1": "Tudor's Biscuit World Menu (2026)",
+    "primary_keyword": "tudor's biscuit world menu",
+    "keyword_volume": 2900,
+    "keyword_kd": 1
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate representative ranges, are provided as a guide only, and vary by location. Tudor's Biscuit World is a West Virginia chain that does not publish a fixed national price list, so the prices below are representative to confirm locally. Tudor's publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "Tudor's Biscuit World is the beloved West Virginia chain built on big, made-from-scratch buttermilk biscuits stuffed with breakfast fillings, each with its own name, from the Mary B (bacon, egg and cheese) to the Thundering Herd (sausage, potato, egg and cheese). It also serves gravy biscuits, hearty platters and lunch sandwiches. Below is the Tudor's Biscuit World menu for 2026.",
+  "quick_answer": "At Tudor's Biscuit World, a signature stuffed biscuit (like the Mary B or Ron) is roughly $3 to $5, a gravy platter about $5 to $7, and breakfast and dinner platters around $7 to $10. It is an affordable West Virginia comfort-food chain. Exact prices vary by location, since Tudor's does not publish a fixed national price list. The named biscuits are the signature.",
+  "highlights": [
+    {
+      "strong": "Named biscuits",
+      "label": "Mary B, Thundering Herd, Ron"
+    },
+    {
+      "strong": "From scratch",
+      "label": "big buttermilk biscuits"
+    },
+    {
+      "strong": "Gravy biscuits",
+      "label": "the WV classic"
+    },
+    {
+      "strong": "West Virginia",
+      "label": "a beloved local chain"
+    }
+  ],
+  "hot_deal": "Tudor's value: a single stuffed biscuit is a cheap, filling breakfast, and the plain sausage or bacon biscuit is the cheapest. The gravy platter (a biscuit smothered in sausage gravy) is a WV favorite for a few dollars. Tudor's is known for low, comfort-food prices overall. Confirm exact prices at your local Tudor's.",
+  "menu": [
+    {
+      "category": "Signature Biscuits",
+      "intro": "The famous named, stuffed biscuits. Representative prices; confirm locally.",
+      "items": [
+        {
+          "name": "Mary B",
+          "size": "",
+          "price": "$3.50 - $5.00",
+          "calories": "",
+          "desc": "Bacon, egg and cheese on a buttermilk biscuit"
+        },
+        {
+          "name": "Ron",
+          "size": "",
+          "price": "$3.50 - $5.00",
+          "calories": "",
+          "desc": "Sausage, egg and cheese biscuit"
+        },
+        {
+          "name": "Thundering Herd",
+          "size": "",
+          "price": "$4.00 - $5.50",
+          "calories": "",
+          "desc": "Sausage, potato, egg and cheese, the loaded one"
+        },
+        {
+          "name": "Peppi",
+          "size": "",
+          "price": "$3.50 - $5.00",
+          "calories": "",
+          "desc": "Pepperoni and melted cheese biscuit"
+        },
+        {
+          "name": "Sausage or Bacon Biscuit",
+          "size": "",
+          "price": "$2.50 - $3.50",
+          "calories": "",
+          "desc": "A plain meat biscuit, the cheapest"
+        }
+      ]
+    },
+    {
+      "category": "Gravy & Breakfast Platters",
+      "intro": "Gravy biscuits and the breakfast platters.",
+      "items": [
+        {
+          "name": "Gravy Platter",
+          "size": "",
+          "price": "$5.00 - $7.00",
+          "calories": "",
+          "desc": "A homemade biscuit smothered in sausage gravy"
+        },
+        {
+          "name": "Country Breakfast",
+          "size": "",
+          "price": "$7.00 - $9.50",
+          "calories": "",
+          "desc": "Eggs, meat, potatoes and a biscuit (Super Breakfast larger)"
+        },
+        {
+          "name": "Pancake Platter",
+          "size": "",
+          "price": "$6.00 - $8.50",
+          "calories": "",
+          "desc": "Pancakes (blueberry and French toast platters also offered)"
+        },
+        {
+          "name": "Big Tator",
+          "size": "",
+          "price": "$6.00 - $8.00",
+          "calories": "",
+          "desc": "A loaded potato breakfast platter"
+        }
+      ]
+    },
+    {
+      "category": "Dinner Platters",
+      "intro": "The hearty home-style dinner platters.",
+      "items": [
+        {
+          "name": "Country Fried Steak",
+          "size": "",
+          "price": "$8.00 - $10.50",
+          "calories": "",
+          "desc": "Country fried steak with sides (baked steak and chopped steak also offered)"
+        },
+        {
+          "name": "Country Fried Chicken",
+          "size": "",
+          "price": "$8.00 - $10.50",
+          "calories": "",
+          "desc": "Fried chicken platter with sides"
+        },
+        {
+          "name": "Hot Roast Beef",
+          "size": "",
+          "price": "$8.00 - $10.00",
+          "calories": "",
+          "desc": "Hot roast beef with mashed potatoes"
+        },
+        {
+          "name": "Chicken Strips Platter",
+          "size": "",
+          "price": "$7.50 - $9.50",
+          "calories": "",
+          "desc": "Chicken strips with sides (fish and pork chops also offered)"
+        }
+      ]
+    },
+    {
+      "category": "Lunch Sandwiches",
+      "intro": "The burgers and lunch sandwiches.",
+      "items": [
+        {
+          "name": "Cheeseburger",
+          "size": "",
+          "price": "$3.50 - $5.50",
+          "calories": "",
+          "desc": "A classic cheeseburger (bacon cheeseburger a bit more)"
+        },
+        {
+          "name": "Chicken Fillet Sandwich",
+          "size": "",
+          "price": "$4.00 - $6.00",
+          "calories": "",
+          "desc": "Fried or grilled chicken sandwich"
+        },
+        {
+          "name": "Barbeque Sandwich",
+          "size": "",
+          "price": "$3.50 - $5.50",
+          "calories": "",
+          "desc": "A BBQ sandwich"
+        },
+        {
+          "name": "BLT",
+          "size": "",
+          "price": "$3.50 - $5.00",
+          "calories": "",
+          "desc": "Bacon, lettuce and tomato (chili & grilled cheese also offered)"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Scratch Biscuits at Home",
+    "intro": "Want big buttermilk biscuits at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🫓",
+        "name": "Buttermilk Biscuit Mix",
+        "blurb": "For scratch-style biscuits.",
+        "amazon_search": "buttermilk biscuit mix"
+      },
+      {
+        "icon": "🥣",
+        "name": "Sausage Gravy Mix",
+        "blurb": "For a gravy platter.",
+        "amazon_search": "country sausage gravy mix"
+      },
+      {
+        "icon": "🍳",
+        "name": "Biscuit Cutter Set",
+        "blurb": "For tall, even biscuits.",
+        "amazon_search": "biscuit cutter set"
+      },
+      {
+        "icon": "🥓",
+        "name": "Cast Iron Skillet",
+        "blurb": "For eggs, bacon and potatoes.",
+        "amazon_search": "cast iron skillet"
+      }
+    ]
+  },
+  "popular_items": [
+    "Mary B",
+    "Thundering Herd",
+    "Gravy Platter",
+    "Ron",
+    "Country Fried Steak"
+  ],
+  "faqs": [
+    {
+      "q": "What is Tudor's Biscuit World known for?",
+      "a": "Tudor's Biscuit World is a beloved West Virginia chain known for its big, made-from-scratch buttermilk biscuits stuffed with breakfast fillings, each with its own name, like the Mary B (bacon, egg and cheese) and the Thundering Herd. Gravy biscuits and home-style platters are also staples."
+    },
+    {
+      "q": "What is the Thundering Herd biscuit?",
+      "a": "The Thundering Herd is one of Tudor's loaded signature biscuits, stuffed with sausage, potato, egg and cheese, a hearty breakfast in one biscuit. It is named in classic Tudor's style, like the Mary B, Ron and Peppi."
+    },
+    {
+      "q": "How much is a biscuit at Tudor's?",
+      "a": "A signature stuffed biscuit is roughly $3 to $5, and a plain sausage or bacon biscuit is cheaper. Tudor's does not publish a fixed national price list, so prices vary by location; it is known overall for affordable comfort-food pricing. Confirm at your local Tudor's."
+    },
+    {
+      "q": "Where is Tudor's Biscuit World located?",
+      "a": "Tudor's Biscuit World is based in West Virginia, where it is a regional institution, with locations across the state and some in neighboring areas like Kentucky. It is a local chain rather than a national one."
+    },
+    {
+      "q": "What are the most popular items at Tudor's?",
+      "a": "Favorites include the Mary B, the Thundering Herd, the gravy platter, the Ron, and the country fried steak dinner."
+    }
+  ],
+  "internal_links": [
+    "golden-corral-menu",
+    "ihop-menu",
+    "cracker-barrel-menu",
+    "hardees-menu",
+    "shady-maple-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (representative price ranges, no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Tudor's Biscuit World."
+  },
+  "_data_notes": {
+    "price_source": "No fixed national price list is published. Item NAMES are real (from the Tudor's menu); prices are REPRESENTATIVE ranges for an affordable WV biscuit chain, to confirm locally, rather than guessed exact figures. Same honest approach as other no-published-price brands.",
+    "calories": "Not published and deliberately left blank. Disclaimer and FAQ both state this. Never invent a calorie number. On import the 'does not publish' wording was changed to match the site rule (chains with 20+ US locations must post calories, so it publishes nutrition; item calories are simply not reproduced here).",
+    "accuracy": "Prices are representative ranges and vary by location. Always display the disclaimer noting no fixed national price list. On import the meta description (162 chars, over the 160 limit) was trimmed by changing 'and' to '&'.",
+    "hero_image": "Tentative Pexels breakfast biscuit with egg and bacon (pexels-19471375). NOT visually verified this session; confirm it is appetizing and unbranded (a biscuit, not an English muffin) before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (breakfast/comfort-food restaurant). #105 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Tudor's search demand: what it is known for, the Thundering Herd, biscuit price, locations, popular items. Honest representative-range pricing since no national list is published."
+  }
+}

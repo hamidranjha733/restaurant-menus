@@ -1,0 +1,264 @@
+{
+  "slug": "uncle-julios-menu",
+  "brand": "Uncle Julio's",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/uncle-julios-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/2015191/pexels-photo-2015191.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Uncle Julio's style sizzling fajitas on a hot skillet",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-2015191",
+    "_verify_note": "Tentative hero (sizzling fajitas). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Uncle Julio's Menu With Prices (2026)",
+    "meta_description": "Full Uncle Julio's menu with prices for 2026: mesquite fajitas, enchiladas, tacos, chile con queso, from-scratch mains, sides and the famous chocolate pinata.",
+    "h1": "Uncle Julio's Menu With Prices (2026)",
+    "primary_keyword": "uncle julio's menu with prices",
+    "keyword_volume": 4400,
+    "keyword_kd": 2
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate (from a delivery menu, so in-store prices are often lower), are provided as a guide only, and may vary by location. Uncle Julio's publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "Uncle Julio's is the upscale-casual 'Mexican From Scratch' restaurant chain known for its mesquite-grilled fajitas, made-from-scratch tortillas, chile con queso, swirl margaritas, and the famous chocolate pinata dessert. The menu runs fajitas, enchiladas, tacos, grilled mains and shareable appetizers. Below is the full Uncle Julio's menu with prices for 2026.",
+  "quick_answer": "At Uncle Julio's, mesquite fajitas for one are about $31.25 (for two around $55), enchiladas $18.75 to $28.13, and tacos $20.31 to $24.38. Chile con queso is $11.88, guacamole $11.88, and churros $11.25. Fajitas and the from-scratch tortillas are the signatures. Prices shown are from a delivery menu and run higher than in-store.",
+  "highlights": [
+    {
+      "strong": "Mesquite fajitas",
+      "label": "the signature"
+    },
+    {
+      "strong": "From scratch",
+      "label": "tortillas and sauces"
+    },
+    {
+      "strong": "Swirl margaritas",
+      "label": "the famous drinks"
+    },
+    {
+      "strong": "Chocolate pinata",
+      "label": "the showpiece dessert"
+    }
+  ],
+  "hot_deal": "Uncle Julio's value: this is an upscale-casual spot, so the best value is sharing fajitas for two (about $55) across the table, or ordering a la carte enchiladas and tacos instead of the big grilled mains. The free chips and salsa, chile con queso ($11.88) and guacamole ($11.88) make a shareable start. In-store prices run lower than delivery. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Fajitas",
+      "intro": "The signature mesquite-grilled fajitas.",
+      "items": [
+        {
+          "name": "Grilled Vegetable Fajitas (for 1)",
+          "size": "for 1",
+          "price": "$27.50",
+          "calories": "",
+          "desc": "Mesquite-grilled vegetable fajitas"
+        },
+        {
+          "name": "Steak and/or Chicken Fajitas (for 1)",
+          "size": "for 1",
+          "price": "$31.25",
+          "calories": "",
+          "desc": "Mesquite fajitas, steak and/or chicken (for two $55.00)"
+        },
+        {
+          "name": "Seasoned Shrimp Fajitas (for 1)",
+          "size": "for 1",
+          "price": "$32.50",
+          "calories": "",
+          "desc": "Grilled shrimp fajitas (for two $58.13)"
+        },
+        {
+          "name": "Guadalajara Fajitas",
+          "size": "",
+          "price": "$41.25",
+          "calories": "",
+          "desc": "Shrimp, steak and chicken combo fajitas"
+        }
+      ]
+    },
+    {
+      "category": "Enchiladas & Tacos",
+      "intro": "From-scratch enchiladas and tacos.",
+      "items": [
+        {
+          "name": "Cheese Enchiladas",
+          "size": "",
+          "price": "$18.75",
+          "calories": "",
+          "desc": "Classic cheese enchiladas"
+        },
+        {
+          "name": "Chicken or Beef Enchiladas",
+          "size": "",
+          "price": "$20.00",
+          "calories": "",
+          "desc": "Chicken or beef enchiladas (cochinita also $20.94)"
+        },
+        {
+          "name": "Seasoned Ground Beef Tacos",
+          "size": "",
+          "price": "$20.31",
+          "calories": "",
+          "desc": "Ground beef tacos"
+        },
+        {
+          "name": "Baja Fried Fish Tacos",
+          "size": "",
+          "price": "$23.75",
+          "calories": "",
+          "desc": "Crispy Baja fish tacos"
+        },
+        {
+          "name": "Beef Barbacoa Tacos",
+          "size": "",
+          "price": "$24.38",
+          "calories": "",
+          "desc": "Slow-cooked barbacoa tacos"
+        }
+      ]
+    },
+    {
+      "category": "Appetizers & Mains",
+      "intro": "Shareable starters and grilled mains.",
+      "items": [
+        {
+          "name": "Chile con Queso",
+          "size": "",
+          "price": "$11.88",
+          "calories": "",
+          "desc": "The classic queso dip (guacamole also $11.88)"
+        },
+        {
+          "name": "Supremo Nachos",
+          "size": "",
+          "price": "$21.25",
+          "calories": "",
+          "desc": "Loaded nachos (fajita quesadilla $22.50)"
+        },
+        {
+          "name": "Honey Chipotle Salmon",
+          "size": "",
+          "price": "$31.88",
+          "calories": "",
+          "desc": "Grilled salmon with honey chipotle"
+        },
+        {
+          "name": "Carne Asada",
+          "size": "",
+          "price": "$40.63",
+          "calories": "",
+          "desc": "Grilled carne asada, the top main"
+        }
+      ]
+    },
+    {
+      "category": "Sides & Desserts",
+      "intro": "The sides and the famous desserts.",
+      "items": [
+        {
+          "name": "Mexican Rice",
+          "size": "",
+          "price": "$3.13",
+          "calories": "",
+          "desc": "A side of rice (refried or charra beans also $3.13)"
+        },
+        {
+          "name": "Peppers and Onions",
+          "size": "",
+          "price": "$5.94",
+          "calories": "",
+          "desc": "Grilled peppers and onions"
+        },
+        {
+          "name": "Churros",
+          "size": "",
+          "price": "$11.25",
+          "calories": "",
+          "desc": "Cinnamon churros (churro cake also $11.25)"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Mesquite Fajitas at Home",
+    "intro": "Want mesquite fajitas and queso at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🔥",
+        "name": "Cast Iron Fajita Skillet",
+        "blurb": "For sizzling fajitas.",
+        "amazon_search": "cast iron fajita skillet"
+      },
+      {
+        "icon": "🌯",
+        "name": "Tortilla Press",
+        "blurb": "For from-scratch tortillas.",
+        "amazon_search": "tortilla press"
+      },
+      {
+        "icon": "🧀",
+        "name": "Chile con Queso",
+        "blurb": "For the classic queso dip.",
+        "amazon_search": "chile con queso"
+      },
+      {
+        "icon": "🍫",
+        "name": "Churro Maker",
+        "blurb": "For cinnamon churros.",
+        "amazon_search": "churro maker"
+      }
+    ]
+  },
+  "popular_items": [
+    "Mesquite Fajitas",
+    "Chile con Queso",
+    "Beef Barbacoa Tacos",
+    "Carne Asada",
+    "Chocolate Pinata"
+  ],
+  "faqs": [
+    {
+      "q": "How much are fajitas at Uncle Julio's?",
+      "a": "Mesquite fajitas for one are about $31.25 (steak and/or chicken) and around $55 for two, with a shrimp, steak and chicken Guadalajara combo at $41.25. Vegetable fajitas for one are $27.50. These are delivery-menu prices; in-store prices are often lower, and they vary by location."
+    },
+    {
+      "q": "What is Uncle Julio's known for?",
+      "a": "Uncle Julio's is an upscale-casual 'Mexican From Scratch' chain known for its mesquite-grilled fajitas, made-from-scratch tortillas and sauces, swirl margaritas, and the famous chocolate pinata dessert, a hanging chocolate shell you crack open to release treats."
+    },
+    {
+      "q": "What is the chocolate pinata at Uncle Julio's?",
+      "a": "The chocolate pinata is Uncle Julio's showpiece dessert: a hollow chocolate pinata filled with churros and fruit, served hanging, that you crack open at the table. It is one of the chain's most famous and shareable items."
+    },
+    {
+      "q": "Does Uncle Julio's list calories?",
+      "a": "Uncle Julio's publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals vary with the dish, the protein and the sides."
+    },
+    {
+      "q": "What are the most popular dishes at Uncle Julio's?",
+      "a": "Favorites include the mesquite fajitas, the chile con queso, the beef barbacoa tacos, the carne asada, and the chocolate pinata for dessert."
+    }
+  ],
+  "internal_links": [
+    "taco-palenque-menu",
+    "torchys-tacos-menu",
+    "del-taco-menu",
+    "benihana-menu",
+    "pf-changs-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Uncle Julio's."
+  },
+  "_data_notes": {
+    "price_source": "Prices from an Uncle Julio's delivery menu, which runs higher than in-store; noted in the disclaimer. Real listed values at time of writing; vary by location.",
+    "calories": "Deliberately left blank. Uncle Julio's is an upscale-casual full-service restaurant that does not publish full nutrition. Disclaimer and FAQ both state this. Never invent a calorie number. On import the 'does not publish' wording was changed to match the site rule (chains with 20+ US locations must post calories, so it publishes nutrition; item calories are simply not reproduced here).",
+    "accuracy": "Prices are typical/approximate (delivery-menu level, in-store often lower) and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels sizzling fajitas (pexels-2015191). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Taco Palenque and Torchy's taco heroes.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (upscale-casual full-service Mexican restaurant). #106 of the expansion list.",
+    "keyword_notes": "Strong brand interest (4.4k). Sections and FAQ shaped by real Uncle Julio's search demand: fajita price, what it is known for, the chocolate pinata, calories question, popular dishes. Notes delivery prices run higher than in-store."
+  }
+}

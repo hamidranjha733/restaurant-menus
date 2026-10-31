@@ -1,0 +1,264 @@
+{
+  "slug": "true-food-kitchen-menu",
+  "brand": "True Food Kitchen",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/true-food-kitchen-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/29269831/pexels-photo-29269831.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "True Food Kitchen style healthy grain bowl with quinoa and vegetables",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-29269831",
+    "_verify_note": "Tentative hero (healthy grain bowl). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "True Food Kitchen Menu With Prices (2026)",
+    "meta_description": "Full True Food Kitchen menu with prices for 2026: the Ancient Grains and Teriyaki Quinoa bowls, sourdough pizzas, grass-fed burger, salads and wellness drinks.",
+    "h1": "True Food Kitchen Menu With Prices (2026)",
+    "primary_keyword": "true food kitchen menu with prices",
+    "keyword_volume": 4400,
+    "keyword_kd": 2
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. True Food Kitchen publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "True Food Kitchen is the health-focused, seasonal restaurant chain built on an anti-inflammatory philosophy, with a menu of grain bowls, sourdough pizzas, grass-fed and plant-based burgers, big salads, and fresh-pressed wellness juices and refreshers. It leans vegetarian- and vegan-friendly while keeping meat and seafood options. Below is the full True Food Kitchen menu with prices for 2026.",
+  "quick_answer": "At True Food Kitchen, signature bowls run about $21.55 to $22.05 (Ancient Grains $22.05, Teriyaki Quinoa and Korean Noodle $21.55), sourdough pizzas $20.35 to $23.70, and burgers $22.65 to $23.95. Salads are $16.50 to $29.25, and wellness juices like the Kale Aid are $11.70. It is an upscale-casual healthy restaurant, so prices are higher than fast food.",
+  "highlights": [
+    {
+      "strong": "Anti-inflammatory",
+      "label": "the guiding philosophy"
+    },
+    {
+      "strong": "Grain bowls",
+      "label": "Ancient Grains, quinoa"
+    },
+    {
+      "strong": "Sourdough pizzas",
+      "label": "and grass-fed burgers"
+    },
+    {
+      "strong": "Wellness drinks",
+      "label": "fresh-pressed juices"
+    }
+  ],
+  "hot_deal": "True Food Kitchen value: the Organic Tuscan Kale Salad ($16.50) and the Simple Green Salad ($17.10) are the lightest spend, and the spritzers ($6.00) are far cheaper than the fresh-pressed juices ($11.70). Happy hour at many locations drops prices on small plates and drinks. It is upscale-casual, so there is no value menu. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Bowls",
+      "intro": "The signature seasonal grain and noodle bowls.",
+      "items": [
+        {
+          "name": "Ancient Grains Bowl",
+          "size": "",
+          "price": "$22.05",
+          "calories": "",
+          "desc": "Miso-glazed sweet potato, turmeric, grains and greens, the signature"
+        },
+        {
+          "name": "Teriyaki Quinoa Bowl",
+          "size": "",
+          "price": "$21.55",
+          "calories": "",
+          "desc": "Quinoa with teriyaki and vegetables"
+        },
+        {
+          "name": "Korean Noodle Bowl",
+          "size": "",
+          "price": "$21.55",
+          "calories": "",
+          "desc": "Korean-style noodle bowl"
+        },
+        {
+          "name": "Thai Peanut Noodle Bowl",
+          "size": "",
+          "price": "$22.75",
+          "calories": "",
+          "desc": "Noodles in a Thai peanut sauce"
+        },
+        {
+          "name": "Wild-Caught Tuna Poke Bowl",
+          "size": "",
+          "price": "$29.79",
+          "calories": "",
+          "desc": "Tuna poke bowl, the premium bowl"
+        }
+      ]
+    },
+    {
+      "category": "Sourdough Pizzas",
+      "intro": "Seasonal sourdough-crust pizzas.",
+      "items": [
+        {
+          "name": "Margherita Pizza",
+          "size": "",
+          "price": "$20.35",
+          "calories": "",
+          "desc": "Tomato, mozzarella and basil, the value pizza"
+        },
+        {
+          "name": "Bougie Blanco Pizza",
+          "size": "",
+          "price": "$21.55",
+          "calories": "",
+          "desc": "A white pizza (butternut squash also $21.55)"
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "size": "",
+          "price": "$23.70",
+          "calories": "",
+          "desc": "Pepperoni (grass-fed bison sausage also $23.70)"
+        }
+      ]
+    },
+    {
+      "category": "Burgers & Handhelds",
+      "intro": "Grass-fed, turkey and plant-based burgers and sandwiches.",
+      "items": [
+        {
+          "name": "Turkey Burger",
+          "size": "",
+          "price": "$22.65",
+          "calories": "",
+          "desc": "The house turkey burger"
+        },
+        {
+          "name": "Plant-Based Double Cheeseburger",
+          "size": "",
+          "price": "$23.60",
+          "calories": "",
+          "desc": "A plant-based double cheeseburger"
+        },
+        {
+          "name": "The Grass-Fed Burger",
+          "size": "",
+          "price": "$23.95",
+          "calories": "",
+          "desc": "The grass-fed beef burger"
+        },
+        {
+          "name": "TFK Classic Chicken Sandwich",
+          "size": "",
+          "price": "$20.95",
+          "calories": "",
+          "desc": "Crispy or grilled chicken sandwich (Korean/Nashville $21.55)"
+        }
+      ]
+    },
+    {
+      "category": "Salads & Wellness Drinks",
+      "intro": "Big salads and the fresh-pressed juices.",
+      "items": [
+        {
+          "name": "Organic Tuscan Kale Salad",
+          "size": "",
+          "price": "$16.50",
+          "calories": "",
+          "desc": "The signature kale salad, the lightest spend"
+        },
+        {
+          "name": "Chopped Salad",
+          "size": "",
+          "price": "$19.75",
+          "calories": "",
+          "desc": "The house chopped salad (seasonal market also $19.75)"
+        },
+        {
+          "name": "Kale Aid Juice",
+          "size": "",
+          "price": "$11.70",
+          "calories": "",
+          "desc": "The famous green wellness juice (Bright Eyes also $11.70)"
+        },
+        {
+          "name": "Fruit Spritzer",
+          "size": "",
+          "price": "$6.00",
+          "calories": "",
+          "desc": "Pineapple, grapefruit or pomegranate spritzer, the value drink"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Healthy Bowls at Home",
+    "intro": "Want anti-inflammatory bowls and juices at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🥣",
+        "name": "Grain Bowl Kit",
+        "blurb": "For ancient-grain bowls.",
+        "amazon_search": "ancient grains quinoa"
+      },
+      {
+        "icon": "🫚",
+        "name": "Turmeric & Miso",
+        "blurb": "The anti-inflammatory flavors.",
+        "amazon_search": "turmeric miso paste"
+      },
+      {
+        "icon": "🥤",
+        "name": "Masticating Juicer",
+        "blurb": "For fresh-pressed wellness juices.",
+        "amazon_search": "masticating juicer"
+      },
+      {
+        "icon": "🍕",
+        "name": "Sourdough Pizza Kit",
+        "blurb": "For a sourdough-crust pizza.",
+        "amazon_search": "sourdough pizza crust"
+      }
+    ]
+  },
+  "popular_items": [
+    "Ancient Grains Bowl",
+    "Teriyaki Quinoa Bowl",
+    "Organic Tuscan Kale Salad",
+    "The Grass-Fed Burger",
+    "Kale Aid Juice"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a bowl at True Food Kitchen?",
+      "a": "Signature bowls run about $21.55 to $22.05 (the Ancient Grains Bowl is $22.05), with the premium tuna poke bowl at $29.79. Sourdough pizzas are $20.35 to $23.70 and burgers $22.65 to $23.95. It is an upscale-casual healthy restaurant, so prices are higher than fast food."
+    },
+    {
+      "q": "What is True Food Kitchen known for?",
+      "a": "True Food Kitchen is known for its health-focused, seasonal menu built on an anti-inflammatory philosophy, with signature grain bowls like the Ancient Grains Bowl, sourdough pizzas, grass-fed and plant-based burgers, and fresh-pressed wellness juices such as the Kale Aid."
+    },
+    {
+      "q": "Is True Food Kitchen vegan and vegetarian friendly?",
+      "a": "Yes. True Food Kitchen is strongly vegetarian- and vegan-friendly, with many plant-based dishes and a plant-based double cheeseburger, while still offering meat and seafood options. The menu clearly marks vegan, vegetarian and gluten-free items."
+    },
+    {
+      "q": "Does True Food Kitchen list calories?",
+      "a": "True Food Kitchen publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. The menu is health-focused, but totals vary with the dish, the protein and the add-ons."
+    },
+    {
+      "q": "What are the most popular dishes at True Food Kitchen?",
+      "a": "Favorites include the Ancient Grains Bowl, the Teriyaki Quinoa Bowl, the Organic Tuscan Kale Salad, the grass-fed burger, and the Kale Aid juice."
+    }
+  ],
+  "internal_links": [
+    "salad-and-go-menu",
+    "tropical-smoothie-cafe-menu",
+    "panera-menu",
+    "tazikis-menu",
+    "noodles-company-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > True Food Kitchen."
+  },
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. True Food Kitchen is health-focused but does not publish full per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number. On import the 'does not publish' wording was changed to match the site rule (chains with 20+ US locations must post calories, so it publishes nutrition; item calories are simply not reproduced here).",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels healthy grain bowl (pexels-29269831). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Salad and Go hero.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (upscale-casual full-service restaurant). Internal link salad-and-go-menu is in this same expansion batch. #104 of the expansion list.",
+    "keyword_notes": "Strong brand interest (4.4k). Sections and FAQ shaped by real True Food search demand: bowl price, what it is known for, vegan/vegetarian friendliness, calories question, popular dishes."
+  }
+}
