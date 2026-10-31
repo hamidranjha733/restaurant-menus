@@ -1,0 +1,156 @@
+{
+  "slug": "dairy-queen-menu",
+  "brand": "Dairy Queen",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/dairy-queen-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/5060452/pexels-photo-5060452.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Dairy Queen style cookies and cream Blizzard with cookie pieces blended in",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-5060452",
+    "_verify_note": "Tentative hero (cookies-and-cream ice cream for the Blizzard). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Dairy Queen Menu With Prices & Calories (2026)",
+    "meta_description": "Full Dairy Queen menu with prices and calories for 2026: Blizzards, GrillBurgers, chicken strip baskets, cones, sundaes, Dilly Bars and shakes.",
+    "h1": "Dairy Queen Menu With Prices (2026)",
+    "primary_keyword": "dairy queen menu with prices",
+    "keyword_volume": 4500,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "Dairy Queen is the ice cream and grill chain built around the Blizzard, its signature soft serve blended with candy and cookies and served so thick it is flipped upside down at the window. Alongside the frozen treats are GrillBurgers, the chicken strip basket, hot dogs and the classic curl-top vanilla cone. Below is the full Dairy Queen menu with prices and calories for 2026.",
+
+  "quick_answer": "A medium Blizzard at Dairy Queen is about $6.99, an Original Cheeseburger is $5.19, and a 4-piece chicken strip basket is $9.69. A vanilla cone is $4.39 medium, a Dilly Bar is $3.09, and a banana split is $6.89. The Blizzard is the signature. A medium Oreo Blizzard is about 660 calories.",
+
+  "highlights": [
+    { "strong": "Blizzard", "label": "soup-thick soft serve, flipped upside down" },
+    { "strong": "$6.99", "label": "medium Blizzard" },
+    { "strong": "Curl-top cone", "label": "the classic soft serve" },
+    { "strong": "Dilly Bar", "label": "the $3 chocolate-dipped classic" }
+  ],
+
+  "hot_deal": "Dairy Queen value: the DQ app drops regular Blizzard deals (often a small Blizzard for 85 cents on special days) plus points toward free treats. The Dilly Bar ($3.09) and a kids cone ($1.99) are the cheapest treats, and combo meals pair a GrillBurger with fries and a drink. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Blizzards",
+      "intro": "The signature blended soft serve. Prices Mini / Small / Medium / Large. A medium Oreo is about 660 cal.",
+      "items": [
+        { "name": "OREO Cookie Blizzard", "size": "Mini / Sm / Med / Lg", "price": "$4.99 / $5.89 / $6.99 / $7.79", "calories": "", "desc": "Soft serve blended with OREO cookie (medium about 660 cal)" },
+        { "name": "Chocolate Chip Cookie Dough Blizzard", "size": "Mini / Sm / Med / Lg", "price": "$4.99 / $5.89 / $6.99 / $7.79", "calories": "", "desc": "Soft serve with cookie dough pieces and fudge" },
+        { "name": "REESE'S Pieces Cookie Dough Blizzard", "size": "Mini / Sm / Med / Lg", "price": "$4.99 / $5.89 / $6.99 / $7.79", "calories": "", "desc": "Soft serve with cookie dough and REESE'S Pieces" },
+        { "name": "Royal New York Cheesecake Blizzard", "size": "Mini / Sm / Med / Lg", "price": "$5.29 / $6.19 / $7.49 / $7.99", "calories": "", "desc": "A Royal Blizzard with a cheesecake center" }
+      ]
+    },
+    {
+      "category": "Burgers & Chicken",
+      "intro": "GrillBurgers, the chicken strip basket and more. Burger prices are Single / Double / Triple.",
+      "items": [
+        { "name": "Original Cheeseburger", "size": "single", "price": "$5.19", "calories": "", "desc": "Flame-grilled patty with cheese (double $6.99, triple $8.59)" },
+        { "name": "FlameThrower GrillBurger", "size": "single", "price": "$7.69", "calories": "610", "desc": "Spicy burger with pepper jack, jalapeno bacon and FlameThrower sauce" },
+        { "name": "Chicken Strip Basket (4 pc)", "size": "4 pieces", "price": "$9.69", "calories": "1000", "desc": "Four crispy strips with fries, toast and gravy (6 pc $11.49)" },
+        { "name": "Chicken Strip Sandwich", "size": "", "price": "$6.69", "calories": "500", "desc": "Crispy chicken strips on a bun (crispy about 500 cal)" },
+        { "name": "Hot Dog", "size": "", "price": "$4.19", "calories": "340", "desc": "Classic hot dog (chili cheese dog $4.59)" }
+      ]
+    },
+    {
+      "category": "Sides",
+      "intro": "Fries and onion rings to round out the meal.",
+      "items": [
+        { "name": "French Fries (Regular)", "size": "regular", "price": "$3.19", "calories": "400", "desc": "Classic fries (large $4.19)" },
+        { "name": "Onion Rings (Regular)", "size": "regular", "price": "$4.19", "calories": "", "desc": "Battered onion rings (large $5.19)" }
+      ]
+    },
+    {
+      "category": "Cones, Sundaes & Classic Treats",
+      "intro": "The curl-top cone and the old-school favorites.",
+      "items": [
+        { "name": "Vanilla Cone (Medium)", "size": "medium", "price": "$4.39", "calories": "330", "desc": "The classic curl-top soft serve cone (small $3.69, large $4.69)" },
+        { "name": "Dipped Cone (Medium)", "size": "medium", "price": "$4.69", "calories": "", "desc": "Soft serve dipped in a chocolate shell" },
+        { "name": "Sundae (Small)", "size": "small", "price": "$4.19", "calories": "", "desc": "Soft serve with your choice of topping (medium $4.89)" },
+        { "name": "Dilly Bar", "size": "", "price": "$3.09", "calories": "210", "desc": "The classic chocolate-dipped soft serve bar" },
+        { "name": "Banana Split", "size": "", "price": "$6.89", "calories": "460", "desc": "Soft serve with banana, three toppings and whipped cream" }
+      ]
+    },
+    {
+      "category": "Shakes & Drinks",
+      "intro": "Shakes, MooLatte and the Misty slush.",
+      "items": [
+        { "name": "Shake (Medium)", "size": "medium", "price": "$5.59", "calories": "", "desc": "Hand-blended soft serve shake (small $4.99, large $5.89)" },
+        { "name": "MooLatte (Medium)", "size": "medium", "price": "$5.39", "calories": "", "desc": "Blended iced coffee drink" },
+        { "name": "Misty Slush (Medium)", "size": "medium", "price": "$3.39", "calories": "", "desc": "Fruit-flavored slush" },
+        { "name": "Soft Drink (Medium)", "size": "medium", "price": "$3.19", "calories": "", "desc": "Fountain soft drinks" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Dairy Queen at Home",
+    "intro": "Want Blizzards and soft serve at home? These picks help.",
+    "cards": [
+      { "icon": "🍦", "name": "Soft Serve Machine", "blurb": "For curl-top cones and Blizzards.", "amazon_search": "soft serve ice cream machine home" },
+      { "icon": "🍪", "name": "OREO & Candy Mix-Ins", "blurb": "Crushed cookies and candy for Blizzards.", "amazon_search": "oreo cookie crumbs ice cream topping" },
+      { "icon": "🍫", "name": "Magic Shell Dip", "blurb": "For a copycat dipped cone.", "amazon_search": "chocolate magic shell ice cream topping" },
+      { "icon": "📖", "name": "Copycat Dessert Recipes", "blurb": "Cookbooks that recreate famous chain treats at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "OREO Blizzard",
+    "Chocolate Chip Cookie Dough Blizzard",
+    "Chicken Strip Basket",
+    "Dilly Bar",
+    "Vanilla Cone"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is a Blizzard at Dairy Queen?",
+      "a": "The Blizzard is DQ's signature treat: soft serve blended with candy, cookies or fruit so thick it is flipped upside down at the window to prove it. A medium is about $6.99, and an Oreo medium is around 660 calories."
+    },
+    {
+      "q": "How much is a Blizzard at Dairy Queen?",
+      "a": "A mini is about $4.99, a small $5.89, a medium $6.99 and a large $7.79. Royal Blizzards with a filled center cost a little more. The app often runs an 85-cent small Blizzard deal."
+    },
+    {
+      "q": "What is in the chicken strip basket?",
+      "a": "The Chicken Strip Basket comes with crispy chicken strips, fries, Texas toast and a side of DQ gravy. The 4-piece is about $9.69 and the 6-piece $11.49. With fries, a 4-piece is around 1,000 calories."
+    },
+    {
+      "q": "How many calories are in a Dairy Queen cone?",
+      "a": "A medium vanilla curl-top cone is about 330 calories, a Dilly Bar is about 210, and a banana split is about 460. Blizzards are richer, with a medium Oreo around 660."
+    },
+    {
+      "q": "What are the most popular items at Dairy Queen?",
+      "a": "The best known are the OREO Blizzard, the Chocolate Chip Cookie Dough Blizzard, the Chicken Strip Basket, the Dilly Bar, and the classic curl-top vanilla cone."
+    }
+  ],
+
+  "internal_links": [
+    "sonic-menu",
+    "mcdonalds-menu",
+    "wendys-menu",
+    "culvers-menu",
+    "cook-out-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Dairy Queen."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). May vary by location.",
+    "calories": "Calories from a Dairy Queen nutrition source. Shown where a reliable figure exists; Blizzard per-size, drinks and several items left blank or noted inline rather than guessing. Chicken strip basket figure includes the fries. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels cookies-and-cream ice cream (pexels-5060452) for the Blizzard. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Burgers & Shakes' category. Cook Out, Shake Shack and Carl's Jr can follow.",
+    "keyword_notes": "Sections and FAQ shaped by real Dairy Queen search demand: what a Blizzard is, Blizzard price, chicken strip basket, cone calories, popular items."
+  }
+}
