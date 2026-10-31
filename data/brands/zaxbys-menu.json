@@ -1,0 +1,178 @@
+{
+  "slug": "zaxbys-menu",
+  "brand": "Zaxby's",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/zaxbys-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/37228290/pexels-photo-37228290.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Zaxby's style crispy chicken fingerz with crinkle fries and dipping sauces on a plate",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-37228290"
+  },
+
+  "seo": {
+    "meta_title": "Zaxby's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Zaxby's menu with prices and calories for 2026: Chicken Fingerz, boneless and traditional wings, Big Zax Snak, Zalads, sides, shakes and drinks.",
+    "h1": "Zaxby's Menu With Prices (2026)",
+    "primary_keyword": "zaxbys menu with prices",
+    "keyword_volume": 8300,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
+
+  "intro": "Zaxby's is a Southern chicken chain famous for hand-breaded Chicken Fingerz, wings tossed in bold sauces, loaded Zalads and the signature Zax Sauce. Most meals come with crinkle fries, Texas toast and a drink. Below is the full Zaxby's menu with prices and calories for 2026, organized by category.",
+
+  "quick_answer": "Zaxby's is built around hand-breaded Chicken Fingerz and wings. A 5 Chicken Fingerz Meal is about $10.24, the Big Zax Snak Meal (3 fingerz, fries, toast and Zax Sauce) is around $10.81, and the Chicken Finger Plate is about $15.69. Boneless wing meals start near $8.99.",
+
+  "highlights": [
+    { "strong": "$10.24", "label": "5 Chicken Fingerz Meal" },
+    { "strong": "$10.81", "label": "Big Zax Snak Meal" },
+    { "strong": "Zax Sauce", "label": "the signature dip" },
+    { "strong": "Wings & Things", "label": "fingerz plus wings" }
+  ],
+
+  "hot_deal": "Zaxby's value: the Big Zax Snak Meal (3 Chicken Fingerz, crinkle fries, Texas toast and Zax Sauce) is the go-to at about $10.81, and boneless wing meals start near $8.99. Zaxby's also runs app-only deals and a rewards program. Offers vary by location.",
+
+  "menu": [
+    {
+      "category": "Chicken Fingerz",
+      "intro": "Hand-breaded fingerz, by the meal or the box. One finger is about 140 cal.",
+      "items": [
+        { "name": "Big Zax Snak Meal", "size": "3 fingerz", "price": "$10.81", "calories": "1000", "desc": "Three Chicken Fingerz, crinkle fries, Texas toast and Zax Sauce" },
+        { "name": "Chicken Finger Plate", "size": "4 fingerz", "price": "$15.69", "calories": "1340", "desc": "Four fingerz with crinkle fries, Texas toast, coleslaw and sauce" },
+        { "name": "5 Chicken Fingerz Meal", "size": "5 fingerz", "price": "$10.24", "calories": "", "desc": "Five fingerz with fries, toast and a drink (fingerz about 700 cal)" },
+        { "name": "10 Chicken Fingerz Meal", "size": "10 fingerz", "price": "$18.34", "calories": "", "desc": "Ten fingerz with fries, toast and a drink" },
+        { "name": "20 Chicken Fingerz Meal", "size": "20 fingerz", "price": "$36.11", "calories": "", "desc": "Twenty fingerz to share, with sides" }
+      ]
+    },
+    {
+      "category": "Wings",
+      "intro": "Boneless or traditional, tossed in your choice of sauce. One boneless wing is about 90 cal.",
+      "items": [
+        { "name": "5 Boneless Wings Meal", "size": "5 wings", "price": "$8.99", "calories": "", "desc": "Five boneless wings with fries, toast and a drink" },
+        { "name": "Great 8 Boneless Wings Meal", "size": "8 wings", "price": "$14.11", "calories": "", "desc": "Eight boneless wings with sides" },
+        { "name": "5 Traditional Wings Meal", "size": "5 wings", "price": "$11.49", "calories": "", "desc": "Five bone-in wings with fries, toast and a drink" },
+        { "name": "10 Traditional Wings Meal", "size": "10 wings", "price": "$21.24", "calories": "", "desc": "Ten bone-in wings with sides" },
+        { "name": "Wings & Things Meal", "size": "5 fingerz + 5 wings", "price": "$18.99", "calories": "", "desc": "Five fingerz and five wings with fries and toast" }
+      ]
+    },
+    {
+      "category": "Sandwiches",
+      "intro": "Signature crispy and grilled chicken sandwiches, served as meals.",
+      "items": [
+        { "name": "Signature Sandwich Meal", "size": "", "price": "$11.07", "calories": "", "desc": "Crispy fillet with pickles and Zax Sauce, with fries and a drink (sandwich about 680 cal)" },
+        { "name": "Spicy Signature Sandwich Meal", "size": "", "price": "$11.29", "calories": "", "desc": "Spicy version of the Signature Sandwich meal" },
+        { "name": "Kickin' Chicken Sandwich Meal", "size": "", "price": "$10.99", "calories": "", "desc": "Spicy crispy chicken sandwich with sides" },
+        { "name": "Grilled Chicken Sandwich Meal", "size": "", "price": "$10.49", "calories": "", "desc": "Grilled chicken sandwich with sides (sandwich about 480 cal)" }
+      ]
+    },
+    {
+      "category": "Zalads",
+      "intro": "Zaxby's big salads, topped with fried or grilled chicken.",
+      "items": [
+        { "name": "Cobb Zalad", "size": "", "price": "$14.36", "calories": "740", "desc": "Chicken, bacon, egg, cheese and tomato over greens (no dressing)" },
+        { "name": "The House Zalad", "size": "", "price": "$13.99", "calories": "", "desc": "Chicken, cheese, bacon and tomato over mixed greens" },
+        { "name": "Asian Zensation Zalad", "size": "", "price": "$13.49", "calories": "", "desc": "Grilled chicken with Asian slaw and sesame dressing" },
+        { "name": "Blue Zalad", "size": "", "price": "$13.99", "calories": "", "desc": "Buffalo chicken with blue cheese over greens" }
+      ]
+    },
+    {
+      "category": "Snacks & Sides",
+      "intro": "The cheddar bites and crinkle fries are favorites. Texas toast is one piece about 150 cal.",
+      "items": [
+        { "name": "Fried White Cheddar Bites (5 pc)", "size": "5 pieces", "price": "$6.61", "calories": "340", "desc": "Fried white cheddar cheese bites" },
+        { "name": "Fried Pickles", "size": "", "price": "$6.61", "calories": "", "desc": "Breaded fried pickle chips" },
+        { "name": "Chicken Bacon Ranch Loaded Fries", "size": "", "price": "$11.24", "calories": "", "desc": "Fries loaded with chicken, bacon, cheese and ranch" },
+        { "name": "Crinkle Fries (Regular)", "size": "", "price": "$3.49", "calories": "360", "desc": "Seasoned crinkle-cut fries" },
+        { "name": "Texas Toast (3 pc)", "size": "3 pieces", "price": "$2.74", "calories": "", "desc": "Buttery grilled Texas toast" },
+        { "name": "Coleslaw (Cup)", "size": "", "price": "$2.49", "calories": "", "desc": "Creamy coleslaw" }
+      ]
+    },
+    {
+      "category": "Shakes & Desserts",
+      "intro": "Hand-spun milkshakes and sweet bites.",
+      "items": [
+        { "name": "Birthday Cake Milkshake", "size": "", "price": "$6.29", "calories": "", "desc": "Hand-spun birthday cake shake" },
+        { "name": "Vanilla Milkshake", "size": "", "price": "$5.99", "calories": "", "desc": "Classic vanilla milkshake" },
+        { "name": "Fried Cheesecake Bites", "size": "", "price": "$6.24", "calories": "", "desc": "Battered, fried cheesecake bites" },
+        { "name": "Chocolate Chip Cookies (3)", "size": "3 cookies", "price": "$2.29", "calories": "", "desc": "Three warm chocolate chip cookies" }
+      ]
+    },
+    {
+      "category": "Kids & Drinks",
+      "intro": "Kids meals and drinks.",
+      "items": [
+        { "name": "Kiddie Fingerz Meal", "size": "", "price": "$5.99", "calories": "", "desc": "Chicken fingerz with a side and kids drink" },
+        { "name": "Coca-Cola (Regular)", "size": "regular", "price": "$2.99", "calories": "", "desc": "Coca-Cola fountain drinks" },
+        { "name": "Sweet Tea (Regular)", "size": "regular", "price": "$2.99", "calories": "", "desc": "Southern-style sweet tea" },
+        { "name": "Handcrafted Lemonade", "size": "", "price": "$3.99", "calories": "", "desc": "Fresh handcrafted lemonade" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Zaxby's at Home",
+    "intro": "Craving the fingerz and Zax Sauce at home? These picks help you fry and dip.",
+    "cards": [
+      { "icon": "🍗", "name": "Deep Fryer", "blurb": "Fry hand-breaded chicken fingerz crispy.", "amazon_search": "deep fryer home" },
+      { "icon": "🥫", "name": "Zax Sauce Ingredients", "blurb": "Mayo, ketchup, garlic and pepper for the copycat dip.", "amazon_search": "worcestershire sauce" },
+      { "icon": "🍞", "name": "Texas Toast", "blurb": "The buttery toast that comes with every meal.", "amazon_search": "texas toast" },
+      { "icon": "📖", "name": "Copycat Fast Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Chicken Fingerz",
+    "Big Zax Snak Meal",
+    "Boneless Wings",
+    "Zax Sauce",
+    "Cobb Zalad"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a Chicken Finger Plate at Zaxby's?",
+      "a": "The Chicken Finger Plate is about $15.69 and includes four Chicken Fingerz, crinkle fries, Texas toast, coleslaw and sauce. It is roughly 1,340 calories."
+    },
+    {
+      "q": "What is the Big Zax Snak Meal?",
+      "a": "The Big Zax Snak Meal is Zaxby's most popular value meal: three Chicken Fingerz, crinkle fries, Texas toast and Zax Sauce for about $10.81, around 1,000 calories."
+    },
+    {
+      "q": "What is Zax Sauce?",
+      "a": "Zax Sauce is Zaxby's signature creamy, peppery dipping sauce served with fingerz and fries. It is the flavor most people associate with the brand."
+    },
+    {
+      "q": "What is the difference between boneless and traditional wings at Zaxby's?",
+      "a": "Boneless wings are breaded white-meat bites and start around $8.99 for a 5-piece meal. Traditional wings are bone-in and start about $11.49 for a 5-piece meal. Both come in several sauces."
+    },
+    {
+      "q": "What are the most popular items at Zaxby's?",
+      "a": "The best known are the Chicken Fingerz, the Big Zax Snak Meal, boneless wings, the signature Zax Sauce, and the Cobb Zalad."
+    }
+  ],
+
+  "internal_links": [
+    "raising-canes-menu",
+    "kfc-menu",
+    "popeyes-menu",
+    "chipotle-menu",
+    "taco-bell-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Zaxby's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from a Zaxby's nutrition source.",
+    "calories": "Shown where a reliable single figure exists; multi-count meals show per-piece or plate figures in the description, and many combos are left blank. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels chicken fingerz, fries and dipping sauces image (pexels-37228290), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Zaxby's search demand: Chicken Finger Plate, Big Zax Snak Meal, Zax Sauce, boneless vs traditional wings, popular items."
+  }
+}
