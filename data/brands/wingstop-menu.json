@@ -1,0 +1,154 @@
+{
+  "slug": "wingstop-menu",
+  "brand": "Wingstop",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/wingstop-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/7734563/pexels-photo-7734563.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Wingstop style saucy buffalo wings with fries and a ranch dip in a basket",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-7734563"
+  },
+
+  "seo": {
+    "meta_title": "Wingstop Menu With Prices & Calories (2026)",
+    "meta_description": "Full Wingstop menu with prices and calories for 2026: classic and boneless wings, 14 flavors, chicken tenders, sandwich, seasoned fries and loaded fries.",
+    "h1": "Wingstop Menu With Prices (2026)",
+    "primary_keyword": "wingstop menu with prices",
+    "keyword_volume": 5600,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "Wingstop is all about wings, cooked to order in 14 bold flavors from Lemon Pepper and Garlic Parmesan to Atomic and Mango Habanero. Order them classic (bone-in) or boneless, add the seasoned fries or Louisiana Voodoo Fries, and dip in ranch or bleu cheese. Below is the full Wingstop menu with prices and calories for 2026.",
+
+  "quick_answer": "Wingstop serves classic (bone-in) and boneless wings in 14 flavors. A 10-piece wing combo with fries and a drink is about $17.49 for boneless and $18.99 for classic, the Boneless Meal Deal (20 wings, large fries, 2 dips) is $18.99, and the chicken sandwich is $5.99. Wings are cooked to order.",
+
+  "highlights": [
+    { "strong": "14 flavors", "label": "4 dry rubs + 10 sauces" },
+    { "strong": "$18.99", "label": "Boneless Meal Deal (20 wings)" },
+    { "strong": "$5.99", "label": "chicken sandwich" },
+    { "strong": "Cooked", "label": "to order, fresh" }
+  ],
+
+  "hot_deal": "Wingstop value: the Boneless Meal Deal packs 20 boneless wings, large fries and 2 dips for about $18.99, and the chicken sandwich combo is just $7.99. Everything is cooked to order, so it's fresh but takes a few extra minutes. Wingstop also runs app deals. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Meal Deals",
+      "intro": "Bundles built to share, with wings, fries and dips.",
+      "items": [
+        { "name": "Boneless Meal Deal", "size": "20 wings", "price": "$18.99", "calories": "", "desc": "20 boneless wings, large seasoned fries and 2 dips" },
+        { "name": "All-In Bundle", "size": "", "price": "$24.99", "calories": "", "desc": "16 boneless wings, 6 tenders, large fries and 3 dips" }
+      ]
+    },
+    {
+      "category": "Wing Combos",
+      "intro": "Wings with fries, a drink and a dip. Classic (bone-in) or boneless, in any of 14 flavors. One bone-in wing is about 140 cal; boneless about 166.",
+      "items": [
+        { "name": "6 pc Boneless Wing Combo", "size": "6 wings", "price": "$14.29", "calories": "", "desc": "Six boneless wings with fries, dip and a drink" },
+        { "name": "6 pc Classic Wing Combo", "size": "6 wings", "price": "$15.89", "calories": "", "desc": "Six bone-in wings with fries, dip and a drink (wings about 840 cal)" },
+        { "name": "10 pc Boneless Wing Combo", "size": "10 wings", "price": "$17.49", "calories": "", "desc": "Ten boneless wings with fries, dip and a drink (wings about 1,660 cal)" },
+        { "name": "10 pc Classic Wing Combo", "size": "10 wings", "price": "$18.99", "calories": "", "desc": "Ten bone-in wings with fries, dip and a drink (wings about 1,400 cal)" },
+        { "name": "15 pc Meal for 2", "size": "15 wings", "price": "$29.29", "calories": "", "desc": "Fifteen boneless (or bone-in $31.29) wings with fries and dips" }
+      ]
+    },
+    {
+      "category": "Bulk Wings (Group Packs)",
+      "intro": "Wings by the box for parties. Boneless or bone-in.",
+      "items": [
+        { "name": "30 pc Group Pack", "size": "30 wings", "price": "$39.99", "calories": "", "desc": "30 boneless (bone-in about $42.29) wings in up to 4 flavors" },
+        { "name": "50 pc Party Pack", "size": "50 wings", "price": "$65.99", "calories": "", "desc": "50 boneless (bone-in about $69.29) wings for a crowd" },
+        { "name": "100 pc Pack", "size": "100 wings", "price": "$129.99", "calories": "", "desc": "100 boneless (bone-in about $134.29) wings for a big party" }
+      ]
+    },
+    {
+      "category": "Tenders & Sandwich",
+      "intro": "Crispy tenders and the chicken sandwich, tossed in any flavor.",
+      "items": [
+        { "name": "3 pc Tender Combo", "size": "3 tenders", "price": "$12.99", "calories": "", "desc": "Three crispy tenders with fries, dip and a drink (tenders about 340 cal)" },
+        { "name": "5 pc Tender Combo", "size": "5 tenders", "price": "$15.99", "calories": "", "desc": "Five crispy tenders with fries, dip and a drink" },
+        { "name": "Chicken Sandwich", "size": "", "price": "$5.99", "calories": "590", "desc": "Crispy chicken sandwich with pickles, in any flavor" },
+        { "name": "Chicken Sandwich Combo", "size": "", "price": "$7.99", "calories": "", "desc": "Sandwich with fries, dip and a 20 oz drink" }
+      ]
+    },
+    {
+      "category": "Sides & Dips",
+      "intro": "The Louisiana Voodoo Fries are a must. Dips are extra.",
+      "items": [
+        { "name": "Seasoned Fries (Regular)", "size": "regular", "price": "$3.79", "calories": "390", "desc": "Fresh-cut fries with Wingstop seasoning" },
+        { "name": "Louisiana Voodoo Fries", "size": "regular", "price": "$4.29", "calories": "", "desc": "Fries loaded with cheese and Cajun seasoning" },
+        { "name": "Cheese Fries", "size": "regular", "price": "$4.29", "calories": "", "desc": "Fries topped with cheese sauce" },
+        { "name": "Cajun Fried Corn", "size": "regular", "price": "$3.79", "calories": "", "desc": "Fried corn with Cajun seasoning" },
+        { "name": "Veggie Sticks", "size": "regular", "price": "$2.99", "calories": "", "desc": "Carrot and celery sticks" },
+        { "name": "Ranch or Bleu Cheese Dip", "size": "regular", "price": "$1.69", "calories": "", "desc": "Creamy dipping sauce" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Wingstop at Home",
+    "intro": "Want wings in every flavor at home? These picks help you fry, toss and dip.",
+    "cards": [
+      { "icon": "🍗", "name": "Air Fryer", "blurb": "Crisp up wings without deep frying.", "amazon_search": "air fryer wings" },
+      { "icon": "🌶️", "name": "Wing Sauce & Dry Rub Set", "blurb": "Buffalo, lemon pepper and more flavors.", "amazon_search": "wing sauce dry rub set" },
+      { "icon": "🍟", "name": "Fry Seasoning", "blurb": "For Wingstop-style seasoned fries.", "amazon_search": "cajun fry seasoning" },
+      { "icon": "📖", "name": "Copycat Wing Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Classic (Bone-In) Wings",
+    "Boneless Wings",
+    "Louisiana Voodoo Fries",
+    "Chicken Sandwich",
+    "Seasoned Fries"
+  ],
+
+  "faqs": [
+    {
+      "q": "How many flavors does Wingstop have?",
+      "a": "Wingstop offers 14 flavors, split into dry rubs like Lemon Pepper, Garlic Parmesan, Hickory Smoked BBQ and Louisiana Rub, and sauces like Original Hot, Atomic, Mango Habanero and Hawaiian."
+    },
+    {
+      "q": "What is the difference between classic and boneless wings at Wingstop?",
+      "a": "Classic wings are traditional bone-in chicken wings, while boneless wings are breaded white-meat chicken bites. Boneless are usually a bit cheaper; both come in all 14 flavors."
+    },
+    {
+      "q": "How much is a 10-piece at Wingstop?",
+      "a": "A 10-piece wing combo with fries and a drink is about $17.49 for boneless and $18.99 for classic bone-in wings. The 20-wing Boneless Meal Deal is about $18.99."
+    },
+    {
+      "q": "Why does Wingstop take so long?",
+      "a": "Every order is cooked to order, so your wings are fried fresh when you order rather than held under a heat lamp. That means a few extra minutes of wait for hotter, fresher wings."
+    },
+    {
+      "q": "What are the most popular items at Wingstop?",
+      "a": "The best known are the classic and boneless wings, the Louisiana Voodoo Fries, the chicken sandwich, and the seasoned fries. Lemon Pepper and Garlic Parmesan are the top flavors."
+    }
+  ],
+
+  "internal_links": [
+    "zaxbys-menu",
+    "popeyes-menu",
+    "kfc-menu",
+    "raising-canes-menu",
+    "chick-fil-a-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Wingstop."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from a Wingstop nutrition source.",
+    "calories": "Wing combos note wings-only calories in the description; sandwich and seasoned fries have figures. Bulk packs, tenders and dips are left blank. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location, flavor and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels buffalo wings with fries and ranch image (pexels-7734563), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Wingstop search demand: flavors, classic vs boneless, 10-piece price, cook-to-order wait, popular items."
+  }
+}
