@@ -1,0 +1,144 @@
+{
+  "slug": "marcos-pizza-menu",
+  "brand": "Marco's Pizza",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/marcos-pizza-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/2147491/pexels-photo-2147491.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Marco's Pizza style fresh-baked pizza shown from above",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-2147491",
+    "_verify_note": "Tentative hero (fresh-baked whole pizza). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Marco's Pizza Menu With Prices (2026)",
+    "meta_description": "Full Marco's Pizza menu with prices for 2026: specialty pizzas by size, build your own, The Works, CheezyBread, subs, wings, salads and dipping sauces.",
+    "h1": "Marco's Pizza Menu With Prices (2026)",
+    "primary_keyword": "marco's pizza menu with prices",
+    "keyword_volume": 8100,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and sizes are approximate, are provided as a guide only, and may vary by location. Marco's Pizza does not prominently publish per-item calories, so calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Marco's Pizza is the fast-growing pizza chain built on dough made fresh in store every day and a three-cheese blend, known for specialty pizzas like The Works and the Pepperoni Magnifico, plus CheezyBread, subs, wings and salads. It positions itself as a more 'authentic Italian' quick pizza. Below is the full Marco's Pizza menu with prices for 2026.",
+
+  "quick_answer": "At Marco's Pizza, a large specialty pizza is about $16.95 to $24.95 (The Works large is $24.95), most specialties run $18.95 large, and a build-your-own large starts at $10.95. CheezyBread is $5.49, a 9-inch sub $8.99, and 8 wings $8.99. The Works and the fresh-dough specialties are the signatures. Prices vary by location.",
+
+  "highlights": [
+    { "strong": "Fresh dough", "label": "made in store daily" },
+    { "strong": "The Works", "label": "the loaded specialty" },
+    { "strong": "CheezyBread", "label": "the signature side" },
+    { "strong": "Build your own", "label": "large from $10.95" }
+  ],
+
+  "hot_deal": "Marco's Pizza value: the Pepperoni Magnifico (large $14.95) is the cheapest specialty, and a build-your-own large ($10.95) is the best value overall. Marco's app and 'Marco's Rewards' drop regular pizza deals and bundle offers, which are usually cheaper than ordering items separately. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Specialty Pizzas",
+      "intro": "Signature pizzas, priced small / medium / large.",
+      "items": [
+        { "name": "Pepperoni Magnifico", "size": "sm / md / lg", "price": "$8.95 / $11.95 / $14.95", "calories": "", "desc": "The loaded pepperoni pizza, the value specialty" },
+        { "name": "Pepperoni Melt", "size": "sm / md / lg", "price": "$9.95 / $13.45 / $16.95", "calories": "", "desc": "Extra cheese and pepperoni melt" },
+        { "name": "Deluxe", "size": "sm / md / lg", "price": "$10.95 / $14.95 / $18.95", "calories": "", "desc": "Pepperoni, sausage, mushroom, onion and pepper" },
+        { "name": "All Meat", "size": "sm / md / lg", "price": "$10.95 / $14.95 / $18.95", "calories": "", "desc": "A loaded all-meat pizza" },
+        { "name": "Chicken Club", "size": "sm / md / lg", "price": "$10.95 / $14.95 / $18.95", "calories": "", "desc": "Chicken, bacon and a three-cheese blend" },
+        { "name": "The Works", "size": "sm / md / lg", "price": "$13.95 / $19.45 / $24.95", "calories": "", "desc": "The fully loaded pizza, the top of the menu" }
+      ]
+    },
+    {
+      "category": "Build Your Own",
+      "intro": "Start with the base and add toppings.",
+      "items": [
+        { "name": "Build Your Own Pizza", "size": "sm / md / lg", "price": "$6.95 / $8.95 / $10.95", "calories": "", "desc": "Cheese base, add your own toppings" }
+      ]
+    },
+    {
+      "category": "Subs, Wings & CheezyBread",
+      "intro": "The 9-inch subs, wings and the famous CheezyBread.",
+      "items": [
+        { "name": "CheezyBread (16 pc)", "size": "16 pieces", "price": "$5.49", "calories": "", "desc": "The signature cheesy bread side" },
+        { "name": "9-inch Sub", "size": "9 inch", "price": "$8.99", "calories": "", "desc": "Italian, steak and cheese, ham and cheese, chicken club, pizza or veggie" },
+        { "name": "Chicken Wings (8)", "size": "8 pieces", "price": "$8.99", "calories": "", "desc": "Oven-baked chicken wings" },
+        { "name": "Meatball Bake", "size": "2 servings", "price": "$10.99", "calories": "", "desc": "Baked meatballs, two servings" }
+      ]
+    },
+    {
+      "category": "Salads, Dips & Dessert",
+      "intro": "Family salads, dipping sauces and dessert.",
+      "items": [
+        { "name": "Family Salad", "size": "family", "price": "$7.49", "calories": "", "desc": "Italian Chef, Chicken Bacon Ranch, Garden or Greek" },
+        { "name": "Dipping Sauce", "size": "", "price": "$0.75", "calories": "", "desc": "Ranch, garlic butter, BBQ, hot honey and more, each $0.75" },
+        { "name": "Dessert CheezyBread (8 slices)", "size": "8 slices", "price": "$5.99", "calories": "", "desc": "Sweet cinnamon dessert bread" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Fresh Pizza at Home",
+    "intro": "Want fresh-dough pizza at home? These picks help.",
+    "cards": [
+      { "icon": "🍕", "name": "Pizza Stone", "blurb": "For a crispy fresh-dough crust.", "amazon_search": "pizza stone oven" },
+      { "icon": "🧀", "name": "Three-Cheese Blend", "blurb": "For a Marco's-style cheese top.", "amazon_search": "italian cheese blend shredded" },
+      { "icon": "🥖", "name": "Pizza Dough Mix", "blurb": "For dough made at home.", "amazon_search": "pizza dough mix" },
+      { "icon": "🔪", "name": "Pizza Cutter & Peel", "blurb": "For slicing and serving.", "amazon_search": "pizza cutter peel set" }
+    ]
+  },
+
+  "popular_items": [
+    "The Works",
+    "Pepperoni Magnifico",
+    "Build Your Own Pizza",
+    "CheezyBread",
+    "Chicken Wings"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a large pizza at Marco's?",
+      "a": "A large specialty pizza is about $16.95 to $24.95 (most specialties $18.95; The Works large $24.95), and a build-your-own large starts at $10.95. The Pepperoni Magnifico is the cheapest specialty at $14.95 large. Prices vary by location."
+    },
+    {
+      "q": "What is Marco's Pizza known for?",
+      "a": "Marco's Pizza is known for dough made fresh in store every day, a signature three-cheese blend, and specialty pizzas like The Works and the Pepperoni Magnifico. Its CheezyBread is a popular signature side."
+    },
+    {
+      "q": "What is CheezyBread at Marco's?",
+      "a": "CheezyBread is Marco's signature side, strips of fresh-baked bread topped with cheese and served with a dipping sauce. A 16-piece order is about $5.49, and there is a sweet dessert version too."
+    },
+    {
+      "q": "Does Marco's Pizza list calories?",
+      "a": "Marco's Pizza does not prominently publish per-item calories, so calories are not listed here rather than guessed. Totals depend heavily on the pizza size, crust and toppings you choose."
+    },
+    {
+      "q": "What are the most popular items at Marco's Pizza?",
+      "a": "Favorites include The Works, the Pepperoni Magnifico, the build-your-own pizza, the CheezyBread, and the oven-baked chicken wings."
+    }
+  ],
+
+  "internal_links": [
+    "dominos-menu",
+    "pizza-hut-menu",
+    "papa-johns-menu",
+    "little-caesars-menu",
+    "mellow-mushroom-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since Marco's does not prominently publish nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Marco's Pizza."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing by size; vary by location). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. Marco's does not prominently publish per-item calories, and size/crust/toppings vary totals. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels fresh-baked pizza (pexels-2147491). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Domino's/Pizza Hut/Papa Johns/Little Caesars heroes.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (pizza chain). Internal link mellow-mushroom-menu is coming later in this expansion list; drop it if not yet built. #78 of the expansion list.",
+    "keyword_notes": "High-volume brand (8.1k). Sections and FAQ shaped by real Marco's search demand: large pizza price, what it is known for, CheezyBread, calories question, popular items. Pizzas given as small/medium/large price strings."
+  }
+}
