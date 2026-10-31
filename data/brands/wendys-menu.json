@@ -1,0 +1,169 @@
+{
+  "slug": "wendys-menu",
+  "brand": "Wendy's",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/wendys-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/38895877/pexels-photo-38895877.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Wendy's Baconator style bacon-loaded cheeseburger with crispy bacon and fries",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-38895877"
+  },
+
+  "seo": {
+    "meta_title": "Wendy's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Wendy's menu with prices and calories for 2026: Dave's Single, Baconator, spicy chicken, nuggets, Biggie Bags, fries, salads and the Frosty.",
+    "h1": "Wendy's Menu With Prices (2026)",
+    "primary_keyword": "wendys menu with prices",
+    "keyword_volume": 5400,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "Wendy's is the burger chain known for fresh, never-frozen square beef patties, the stacked Baconator, spicy chicken and the one-and-only Frosty. The Biggie Bag and Biggie Deals menu keep it cheap, and breakfast brings the Breakfast Baconator. Below is the full Wendy's menu with prices and calories for 2026.",
+
+  "quick_answer": "Wendy's Dave's Single is about $5.29, the Dave's Double is $6.49, and the bacon-loaded Baconator is $7.19. The spicy chicken sandwich is $5.79, a 10-piece nuggets is $4.79, and Biggie Bags (a main, 4-pc nuggets, fries and a drink) run $5 to $7. A small Frosty is $1.99.",
+
+  "highlights": [
+    { "strong": "$5.29", "label": "Dave's Single (fresh beef)" },
+    { "strong": "Baconator", "label": "six strips of bacon, $7.19" },
+    { "strong": "$5 to $7", "label": "Biggie Bags" },
+    { "strong": "Frosty", "label": "from $1.29" }
+  ],
+
+  "hot_deal": "Wendy's value: the Biggie Bag (a burger or chicken sandwich, 4-piece nuggets, small fries and a drink) runs about $5 to $7, and the Biggie Deals menu has items from $1.29. Don't forget the Frosty, from $1.29, plus free nuggets or a Frosty through the Wendy's app. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Burgers",
+      "intro": "Fresh, never-frozen square beef. Dave's is the signature; the Baconator is the beast.",
+      "items": [
+        { "name": "Dave's Single", "size": "", "price": "$5.29", "calories": "590", "desc": "Quarter-pound fresh beef with cheese, lettuce, tomato, pickle and onion" },
+        { "name": "Dave's Double", "size": "", "price": "$6.49", "calories": "860", "desc": "Two fresh beef patties with cheese and toppings" },
+        { "name": "Dave's Triple", "size": "", "price": "$7.69", "calories": "", "desc": "Three fresh beef patties with cheese" },
+        { "name": "Baconator", "size": "", "price": "$7.19", "calories": "", "desc": "Two patties with six strips of bacon and cheese, no veggies" },
+        { "name": "Son of Baconator", "size": "", "price": "$5.59", "calories": "630", "desc": "A smaller Baconator with bacon and cheese" },
+        { "name": "Jr. Bacon Cheeseburger", "size": "", "price": "$2.69", "calories": "370", "desc": "A single patty with bacon, cheese, lettuce, tomato and mayo" },
+        { "name": "Big Bacon Classic", "size": "", "price": "$6.49", "calories": "650", "desc": "Beef with bacon, cheese and classic toppings" }
+      ]
+    },
+    {
+      "category": "Chicken",
+      "intro": "Spicy and classic chicken sandwiches plus the famous nuggets.",
+      "items": [
+        { "name": "Spicy Chicken Sandwich", "size": "", "price": "$5.79", "calories": "490", "desc": "Spicy breaded chicken fillet with lettuce, tomato and mayo" },
+        { "name": "Classic Chicken Sandwich", "size": "", "price": "$5.79", "calories": "490", "desc": "Breaded chicken fillet with lettuce, tomato and mayo" },
+        { "name": "Crispy Chicken Sandwich", "size": "", "price": "$1.79", "calories": "", "desc": "A small crispy chicken sandwich, a Biggie Deals pick" },
+        { "name": "Chicken Nuggets (6 pc)", "size": "6 pieces", "price": "$2.49", "calories": "270", "desc": "Six crispy chicken nuggets" },
+        { "name": "Chicken Nuggets (10 pc)", "size": "10 pieces", "price": "$4.79", "calories": "", "desc": "Ten nuggets, spicy or crispy" }
+      ]
+    },
+    {
+      "category": "Biggie Bags & Value",
+      "intro": "A full combo in a bag, for the price of a snack.",
+      "items": [
+        { "name": "Jr. Bacon Cheeseburger Biggie Bag", "size": "", "price": "$5.00", "calories": "", "desc": "Jr. Bacon Cheeseburger, 4-pc nuggets, small fries and a drink" },
+        { "name": "Crispy Chicken Biggie Bag", "size": "", "price": "$5.00", "calories": "", "desc": "Crispy chicken sandwich, nuggets, fries and a drink" },
+        { "name": "Double Stack Biggie Bag", "size": "", "price": "$6.00", "calories": "", "desc": "Double Stack burger, nuggets, fries and a drink" },
+        { "name": "Bacon Double Stack Biggie Bag", "size": "", "price": "$7.00", "calories": "", "desc": "Bacon Double Stack, nuggets, fries and a drink" }
+      ]
+    },
+    {
+      "category": "Fries & Sides",
+      "intro": "Natural-cut fries, loaded Baconator Fries and the famous chili.",
+      "items": [
+        { "name": "Natural-Cut Fries (Medium)", "size": "medium", "price": "$2.79", "calories": "350", "desc": "Sea-salted natural-cut fries" },
+        { "name": "Natural-Cut Fries (Large)", "size": "large", "price": "$3.29", "calories": "", "desc": "A large order of natural-cut fries" },
+        { "name": "Baconator Fries", "size": "", "price": "$3.39", "calories": "460", "desc": "Fries topped with cheese sauce and bacon" },
+        { "name": "Chili (Small)", "size": "small", "price": "$2.49", "calories": "240", "desc": "Wendy's signature beef chili" }
+      ]
+    },
+    {
+      "category": "Salads",
+      "intro": "Fresh, full-size salads with chicken.",
+      "items": [
+        { "name": "Cobb Salad", "size": "", "price": "$7.69", "calories": "", "desc": "Chicken, bacon, egg, cheese and ranch" },
+        { "name": "Apple Pecan Salad", "size": "", "price": "$7.69", "calories": "", "desc": "Chicken with apples, pecans and blue cheese" },
+        { "name": "Taco Salad", "size": "", "price": "$7.59", "calories": "", "desc": "Chili, cheese, salsa and tortilla strips over greens" },
+        { "name": "Parmesan Caesar Salad", "size": "", "price": "$7.69", "calories": "", "desc": "Grilled chicken with romaine and parmesan" }
+      ]
+    },
+    {
+      "category": "Frosty, Breakfast & Drinks",
+      "intro": "The Frosty is a must. Breakfast runs in the morning.",
+      "items": [
+        { "name": "Frosty (Small)", "size": "small", "price": "$1.99", "calories": "", "desc": "Chocolate or vanilla Frosty (medium is about 390 cal)" },
+        { "name": "Breakfast Baconator Combo", "size": "", "price": "$6.49", "calories": "", "desc": "Breakfast burger with egg and bacon, plus potatoes and coffee" },
+        { "name": "Honey Butter Chicken Biscuit", "size": "", "price": "$3.69", "calories": "", "desc": "Crispy chicken on a biscuit with honey butter" },
+        { "name": "Lemonade (Small)", "size": "small", "price": "$2.79", "calories": "", "desc": "All-natural or flavored lemonade" },
+        { "name": "Frosty Cream Cold Brew (Small)", "size": "small", "price": "$1.99", "calories": "", "desc": "Cold brew with Frosty creamer" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Wendy's at Home",
+    "intro": "Want square patties, a Baconator and a Frosty at home? These picks help.",
+    "cards": [
+      { "icon": "🍔", "name": "Burger Press", "blurb": "Form fresh square-ish patties.", "amazon_search": "hamburger patty press" },
+      { "icon": "🥓", "name": "Thick-Cut Bacon", "blurb": "Stack it high for a copycat Baconator.", "amazon_search": "thick cut bacon" },
+      { "icon": "🥤", "name": "Ice Cream Maker", "blurb": "Whip up a copycat Frosty at home.", "amazon_search": "ice cream maker" },
+      { "icon": "📖", "name": "Copycat Fast Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Dave's Single",
+    "Baconator",
+    "Spicy Chicken Sandwich",
+    "Chicken Nuggets",
+    "Frosty"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a Baconator at Wendy's?",
+      "a": "The Baconator is about $7.19. It stacks two fresh beef patties with six strips of bacon and cheese, no veggies. The smaller Son of Baconator is around $5.59."
+    },
+    {
+      "q": "What is a Biggie Bag at Wendy's?",
+      "a": "A Biggie Bag is a full combo in one bag: a burger or chicken sandwich, a 4-piece nuggets, small fries and a drink. Depending on the main, it runs about $5 to $7."
+    },
+    {
+      "q": "Why are Wendy's hamburger patties square?",
+      "a": "Wendy's uses fresh, never-frozen square beef patties so the meat sticks out past the round bun, a reminder that the chain doesn't cut corners. It has been the brand's signature since 1969."
+    },
+    {
+      "q": "Is the Frosty a milkshake?",
+      "a": "The Frosty is a frozen dairy dessert that sits between soft serve and a milkshake, thick enough to eat with a spoon. It comes in chocolate and vanilla and starts at about $1.29."
+    },
+    {
+      "q": "What are the most popular items at Wendy's?",
+      "a": "The best known are Dave's Single, the Baconator, the Spicy Chicken Sandwich, the chicken nuggets, and the Frosty."
+    }
+  ],
+
+  "internal_links": [
+    "mcdonalds-menu",
+    "five-guys-menu",
+    "jack-in-the-box-menu",
+    "culvers-menu",
+    "chick-fil-a-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Wendy's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from a Wendy's nutrition source.",
+    "calories": "Shown where a reliable single figure exists; the Baconator, 10-pc nuggets, combos and most drinks are left blank, and the Frosty figure is noted inline. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels bacon-loaded cheeseburger image (pexels-38895877), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Wendy's search demand: Baconator price, Biggie Bag, square patties, the Frosty, popular items."
+  }
+}
