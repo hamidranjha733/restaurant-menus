@@ -1,0 +1,148 @@
+{
+  "slug": "sonic-menu",
+  "brand": "Sonic Drive-In",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/sonic-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/8845008/pexels-photo-8845008.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Sonic style bright red cherry limeade over ice in a tall glass",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-8845008",
+    "_verify_note": "Tentative hero (red iced limeade for the Cherry Limeade). Not visually verified this session; confirm it is appetizing, non-alcoholic looking and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Sonic Drive-In Menu With Prices & Calories (2026)",
+    "meta_description": "Full Sonic Drive-In menu with prices and calories for 2026: cheeseburgers, chili cheese coney, tots, Cherry Limeade, slushes, Blasts and breakfast burritos.",
+    "h1": "Sonic Drive-In Menu With Prices (2026)",
+    "primary_keyword": "sonic menu with prices",
+    "keyword_volume": 4700,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "Sonic Drive-In is the carhop drive-in chain known as much for its drinks as its food: the Cherry Limeade, the endless slush and shake combinations, and the famous tater tots, alongside cheeseburgers, chili cheese coneys, corn dogs and SONIC Blasts. Happy Hour drinks (half-price mid-afternoon) are part of the appeal, and breakfast burritos run all day. Below is the full Sonic menu with prices and calories for 2026.",
+
+  "quick_answer": "A Quarter Pound Double Cheeseburger at Sonic is about $3.99, a SuperSONIC Double is $8.19, and a chili cheese coney is $1.99. Tater tots are $3.39 medium, a Cherry Limeade is $3.89, and a SONIC Blast is $5.99. The Cherry Limeade and tots are the signatures. A Quarter Pound Double is about 850 calories.",
+
+  "highlights": [
+    { "strong": "Cherry Limeade", "label": "the signature drink" },
+    { "strong": "Tater Tots", "label": "the famous side" },
+    { "strong": "Happy Hour", "label": "half-price drinks, 2 to 4 PM" },
+    { "strong": "$1.99", "label": "chili cheese coney" }
+  ],
+
+  "hot_deal": "Sonic value: Happy Hour (usually 2 to 4 PM) is half-price drinks and slushes, and the app adds that plus regular deals. The chili cheese coney ($1.99) and the Quarter Pound Double Cheeseburger ($3.99) are the cheapest food. The millions of drink combinations are the real draw. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Burgers & Coneys",
+      "intro": "Drive-in cheeseburgers and the chili cheese coney.",
+      "items": [
+        { "name": "Quarter Pound Double Cheeseburger", "size": "", "price": "$3.99", "calories": "850", "desc": "Two quarter-pound-style patties with cheese, the value burger" },
+        { "name": "SuperSONIC Double Cheeseburger", "size": "", "price": "$8.19", "calories": "", "desc": "Two patties, cheese, lettuce, tomato, pickles and mayo" },
+        { "name": "SuperSONIC Bacon Double Cheeseburger", "size": "", "price": "$8.79", "calories": "1240", "desc": "Double cheeseburger loaded with bacon" },
+        { "name": "Chili Cheese Coney", "size": "", "price": "$1.99", "calories": "480", "desc": "Hot dog topped with chili and melted cheese" },
+        { "name": "Corn Dog", "size": "", "price": "$2.79", "calories": "", "desc": "A classic battered corn dog" }
+      ]
+    },
+    {
+      "category": "Chicken & Sides",
+      "intro": "Crispy chicken, the famous tots and more.",
+      "items": [
+        { "name": "Crispy Chicken Sandwich", "size": "", "price": "$7.79", "calories": "", "desc": "Crispy chicken fillet with lettuce, tomato and mayo" },
+        { "name": "Crispy Tenders (3 pc)", "size": "3 pieces", "price": "$7.89", "calories": "", "desc": "Breaded chicken tenders with sauce (combo $9.39)" },
+        { "name": "Tater Tots (Medium)", "size": "medium", "price": "$3.39", "calories": "340", "desc": "The signature crispy tots (add chili and cheese for more)" },
+        { "name": "Onion Rings (Medium)", "size": "medium", "price": "$4.19", "calories": "440", "desc": "Thick, sweet battered onion rings" },
+        { "name": "Mozzarella Sticks (4 pc)", "size": "4 pieces", "price": "$4.99", "calories": "", "desc": "Fried mozzarella sticks with marinara (5 pc about 440 cal)" }
+      ]
+    },
+    {
+      "category": "Drinks & Slushes",
+      "intro": "The real star: Cherry Limeade, slushes and endless combinations.",
+      "items": [
+        { "name": "Cherry Limeade (Medium)", "size": "medium", "price": "$3.89", "calories": "270", "desc": "The signature limeade with cherry (mini $2.19, large $4.29)" },
+        { "name": "Cherry Slush (Medium)", "size": "medium", "price": "$3.19", "calories": "", "desc": "Frozen slush, customizable with add-ins like Nerds or gummies" },
+        { "name": "Ocean Water", "size": "medium", "price": "$3.19", "calories": "", "desc": "Sprite with blue coconut, a Sonic favorite" },
+        { "name": "Soft Drink (Medium)", "size": "medium", "price": "$2.49", "calories": "", "desc": "Fountain drinks, customizable with flavors" }
+      ]
+    },
+    {
+      "category": "Frozen Treats & Breakfast",
+      "intro": "SONIC Blasts, shakes and all-day breakfast burritos.",
+      "items": [
+        { "name": "SONIC Blast (Medium)", "size": "medium", "price": "$5.99", "calories": "", "desc": "Soft serve blended with candy or cookies (OREO Blast about 780 cal)" },
+        { "name": "Classic Shake (Medium)", "size": "medium", "price": "$5.49", "calories": "", "desc": "Hand-mixed real ice cream shake" },
+        { "name": "Bacon Breakfast Burrito", "size": "", "price": "$4.29", "calories": "", "desc": "Eggs, cheese, bacon and tots in a tortilla, served all day" },
+        { "name": "SuperSONIC Breakfast Burrito", "size": "", "price": "$5.29", "calories": "", "desc": "A loaded breakfast burrito with sausage, bacon and more" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Sonic at Home",
+    "intro": "Want the Cherry Limeade and tots at home? These picks help.",
+    "cards": [
+      { "icon": "🍒", "name": "Cherry & Lime Syrup", "blurb": "For a copycat Cherry Limeade.", "amazon_search": "cherry lime drink syrup" },
+      { "icon": "🥔", "name": "Tater Tots", "blurb": "The famous crispy side at home.", "amazon_search": "frozen tater tots" },
+      { "icon": "🧊", "name": "Slush & Shaved Ice Maker", "blurb": "For slushes and frozen drinks.", "amazon_search": "slush machine home" },
+      { "icon": "🥤", "name": "Tall Drink Cups", "blurb": "For big customizable drinks.", "amazon_search": "large plastic drink cups straws" }
+    ]
+  },
+
+  "popular_items": [
+    "Cherry Limeade",
+    "Tater Tots",
+    "Quarter Pound Double Cheeseburger",
+    "SONIC Blast",
+    "Chili Cheese Coney"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is Sonic known for?",
+      "a": "Sonic Drive-In is known for its carhop drive-in service, its enormous drink menu (especially the Cherry Limeade and customizable slushes), and the famous tater tots. It is as much a drink-and-treat stop as a burger chain."
+    },
+    {
+      "q": "When is Sonic Happy Hour?",
+      "a": "Happy Hour is usually from 2 to 4 PM, when drinks and slushes are half price. The app often extends the deal and adds app-only offers, which is the cheapest way to enjoy the drink menu."
+    },
+    {
+      "q": "How much is a Cherry Limeade at Sonic?",
+      "a": "A medium Cherry Limeade is about $3.89, a mini is $2.19, and a large is $4.29, and it is half price during Happy Hour. It is Sonic's signature drink, a limeade with cherry flavor, about 270 calories for a medium."
+    },
+    {
+      "q": "How many calories are in a Sonic burger?",
+      "a": "A Quarter Pound Double Cheeseburger is about 850 calories, and a loaded SuperSONIC Bacon Double runs about 1,240. A chili cheese coney is about 480 and medium tots about 340."
+    },
+    {
+      "q": "What are the most popular items at Sonic?",
+      "a": "The best known are the Cherry Limeade, the tater tots, the Quarter Pound Double Cheeseburger, the SONIC Blast, and the chili cheese coney."
+    }
+  ],
+
+  "internal_links": [
+    "dairy-queen-menu",
+    "whataburger-menu",
+    "mcdonalds-menu",
+    "wendys-menu",
+    "burger-king-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Sonic Drive-In."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). May vary by location.",
+    "calories": "Calories from a Sonic nutrition source. Shown where a reliable figure exists; drinks and several items left blank or noted inline rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels red iced limeade (pexels-8845008) for the signature Cherry Limeade. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Burgers & Shakes' category. Dairy Queen, Cook Out, Shake Shack and Carl's Jr can follow.",
+    "keyword_notes": "Sections and FAQ shaped by real Sonic search demand: what Sonic is known for, Happy Hour, Cherry Limeade price, burger calories, popular items."
+  }
+}
