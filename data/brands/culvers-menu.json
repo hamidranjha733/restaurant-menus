@@ -1,0 +1,191 @@
+{
+  "slug": "culvers-menu",
+  "brand": "Culver's",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/culvers-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/15388327/pexels-photo-15388327.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Culver's style ButterBurger with melted cheese on a toasted buttered bun with fries",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-15388327"
+  },
+
+  "seo": {
+    "meta_title": "Culver's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Culver's menu with prices and calories for 2026: ButterBurgers, value baskets, cheese curds, tenders, cod dinners, frozen custard and Concrete Mixers.",
+    "h1": "Culver's Menu With Prices (2026)",
+    "primary_keyword": "culvers menu with prices",
+    "keyword_volume": 12000,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
+
+  "intro": "Culver's is a Midwest favorite built around two things: the ButterBurger, a fresh beef patty on a lightly buttered, toasted bun, and fresh frozen custard with a rotating Flavor of the Day. Add Wisconsin cheese curds, crinkle-cut fries, chicken tenders and cod dinners, and you have the full menu. Below is the full Culver's menu with prices and calories for 2026.",
+
+  "quick_answer": "Culver's is known for its ButterBurgers and Wisconsin cheese curds. A single ButterBurger starts around $3.29, the Culver's Deluxe is about $4.59, and a value basket (sandwich, crinkle fries and a drink) runs from roughly $6.49. Regular cheese curds are $4.49, and frozen custard dishes start at $2.59.",
+
+  "highlights": [
+    { "strong": "$3.29", "label": "Single ButterBurger" },
+    { "strong": "$4.49", "label": "Wisconsin Cheese Curds" },
+    { "strong": "From $6.49", "label": "value baskets (meal + fries + drink)" },
+    { "strong": "Fresh", "label": "custard, Flavor of the Day" }
+  ],
+
+  "hot_deal": "Culver's value baskets are the deal to get: any sandwich or chicken basket comes with crinkle-cut fries and a drink, from around $6.49. Don't skip the Wisconsin cheese curds ($4.49) or a Concrete Mixer made with the Flavor of the Day. Offers vary by location.",
+
+  "menu": [
+    {
+      "category": "ButterBurgers",
+      "intro": "Fresh, never-frozen beef on a lightly buttered, toasted bun. Single or double.",
+      "items": [
+        { "name": "ButterBurger (Single)", "size": "", "price": "$3.29", "calories": "400", "desc": "A single fresh beef patty on a buttered, toasted bun" },
+        { "name": "ButterBurger Cheese", "size": "", "price": "$3.59", "calories": "", "desc": "ButterBurger with a slice of American cheese" },
+        { "name": "The Culver's Deluxe", "size": "", "price": "$4.59", "calories": "490", "desc": "ButterBurger with cheese, lettuce, tomato, pickle and onion" },
+        { "name": "The Culver's Deluxe (Double)", "size": "double", "price": "$6.59", "calories": "700", "desc": "Double-patty Culver's Deluxe" },
+        { "name": "The Culver's Bacon Deluxe", "size": "", "price": "$5.59", "calories": "", "desc": "Culver's Deluxe with crispy bacon" },
+        { "name": "Mushroom & Swiss", "size": "", "price": "$4.89", "calories": "", "desc": "ButterBurger with sauteed mushrooms and Swiss cheese" },
+        { "name": "Sourdough Melt", "size": "", "price": "$4.89", "calories": "", "desc": "ButterBurger on grilled sourdough with cheese and onions" }
+      ]
+    },
+    {
+      "category": "Value Baskets",
+      "intro": "Any sandwich or chicken main with crinkle-cut fries and a drink.",
+      "items": [
+        { "name": "ButterBurger Basket", "size": "", "price": "$7.09", "calories": "", "desc": "ButterBurger with fries and a drink" },
+        { "name": "The Culver's Deluxe Basket", "size": "", "price": "$8.59", "calories": "", "desc": "Culver's Deluxe with fries and a drink" },
+        { "name": "The Culver's Bacon Deluxe Basket", "size": "", "price": "$10.09", "calories": "", "desc": "Bacon Deluxe with fries and a drink" },
+        { "name": "Original Chicken Tenders Basket", "size": "", "price": "$8.19", "calories": "", "desc": "Chicken tenders with fries and a drink" },
+        { "name": "Crispy Chicken Basket", "size": "", "price": "$6.49", "calories": "", "desc": "Crispy chicken sandwich with fries and a drink" },
+        { "name": "North Atlantic Cod Sandwich Basket", "size": "", "price": "$8.09", "calories": "", "desc": "Cod sandwich with fries and a drink" },
+        { "name": "Beef Pot Roast Basket", "size": "", "price": "$7.29", "calories": "", "desc": "Pot roast sandwich with fries and a drink" }
+      ]
+    },
+    {
+      "category": "Chicken",
+      "intro": "Hand-breaded tenders and chicken sandwiches.",
+      "items": [
+        { "name": "Original Chicken Tenders (4 pc)", "size": "4 pieces", "price": "$7.39", "calories": "490", "desc": "Four hand-breaded chicken tenders" },
+        { "name": "Buffalo Chicken Tenders (4 pc)", "size": "4 pieces", "price": "$7.39", "calories": "", "desc": "Tenders tossed in buffalo sauce" },
+        { "name": "Crispy Chicken Sandwich", "size": "", "price": "$4.89", "calories": "", "desc": "Crispy chicken fillet with pickles on a bun" },
+        { "name": "Spicy Crispy Chicken Sandwich", "size": "", "price": "$5.09", "calories": "", "desc": "Crispy chicken with spicy seasoning" },
+        { "name": "Grilled Chicken Sandwich", "size": "", "price": "$5.89", "calories": "", "desc": "Grilled chicken breast with lettuce and tomato" }
+      ]
+    },
+    {
+      "category": "Cheese Curds & Sides",
+      "intro": "The Wisconsin cheese curds are a must. Crinkle-cut fries come in three sizes.",
+      "items": [
+        { "name": "Wisconsin Cheese Curds (Regular)", "size": "", "price": "$4.49", "calories": "510", "desc": "Battered, fried white cheddar cheese curds" },
+        { "name": "Wisconsin Cheese Curds (Large)", "size": "large", "price": "$7.99", "calories": "", "desc": "A large order of fried cheese curds" },
+        { "name": "Crinkle Cut Fries (Medium)", "size": "medium", "price": "$2.79", "calories": "", "desc": "Signature crinkle-cut fries; regular is about 370 cal" },
+        { "name": "Crinkle Cut Fries (Large)", "size": "large", "price": "$3.29", "calories": "", "desc": "A large order of crinkle-cut fries" },
+        { "name": "Onion Rings", "size": "", "price": "$4.49", "calories": "", "desc": "Battered, fried onion rings" }
+      ]
+    },
+    {
+      "category": "Dinners & Salads",
+      "intro": "Cod and walleye dinners plus fresh salads.",
+      "items": [
+        { "name": "North Atlantic Cod Dinner (2 pc)", "size": "2 pieces", "price": "$11.99", "calories": "", "desc": "Hand-battered cod with two sides and a roll" },
+        { "name": "North Atlantic Cod Dinner (3 pc)", "size": "3 pieces", "price": "$14.29", "calories": "", "desc": "Three pieces of cod with sides" },
+        { "name": "Butterfly Jumbo Shrimp Dinner", "size": "", "price": "$12.69", "calories": "", "desc": "Breaded butterfly shrimp with sides" },
+        { "name": "Chicken Cashew Salad", "size": "", "price": "$9.29", "calories": "", "desc": "Greens with grilled chicken and cashews" },
+        { "name": "Cranberry Bacon Bleu Salad", "size": "", "price": "$9.29", "calories": "", "desc": "Salad with cranberries, bacon and blue cheese" },
+        { "name": "Garden Fresco Side Salad", "size": "", "price": "$4.29", "calories": "", "desc": "Small mixed green salad" }
+      ]
+    },
+    {
+      "category": "Frozen Custard & Concrete Mixers",
+      "intro": "Fresh frozen custard with a daily Flavor of the Day, plus Concrete Mixers, shakes and sundaes.",
+      "items": [
+        { "name": "Vanilla or Chocolate Custard (1 Scoop)", "size": "1 scoop", "price": "$2.59", "calories": "280", "desc": "A dish of fresh vanilla or chocolate custard" },
+        { "name": "Flavor of the Day (1 Scoop)", "size": "1 scoop", "price": "$2.89", "calories": "", "desc": "The day's rotating custard flavor" },
+        { "name": "Concrete Mixer (Regular)", "size": "regular", "price": "$4.99", "calories": "640", "desc": "Thick custard blended with your choice of mix-ins (chocolate shown)" },
+        { "name": "Shake (Medium)", "size": "medium", "price": "$4.69", "calories": "", "desc": "Hand-spun custard shake" },
+        { "name": "Turtle Sundae", "size": "", "price": "$7.49", "calories": "", "desc": "Custard with caramel, chocolate and pecans" },
+        { "name": "Culver's Root Beer Float", "size": "", "price": "$5.39", "calories": "", "desc": "Custard with root beer" }
+      ]
+    },
+    {
+      "category": "Kids & Drinks",
+      "intro": "Kids meals and drinks.",
+      "items": [
+        { "name": "Kids ButterBurger", "size": "", "price": "$4.60", "calories": "", "desc": "Single ButterBurger with a kids side and drink" },
+        { "name": "Kids Chicken Tenders (2 pc)", "size": "2 pieces", "price": "$5.10", "calories": "", "desc": "Two tenders with a kids side and drink" },
+        { "name": "Fountain Drink (Medium)", "size": "medium", "price": "$2.69", "calories": "", "desc": "Coca-Cola fountain drinks" },
+        { "name": "Fresh Brewed Iced Tea", "size": "", "price": "$3.09", "calories": "", "desc": "Freshly brewed iced tea" },
+        { "name": "Signature Roast Coffee", "size": "", "price": "$2.89", "calories": "", "desc": "Hot brewed coffee" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Culver's at Home",
+    "intro": "Want the ButterBurger and custard at home? These picks help you griddle, fry and churn.",
+    "cards": [
+      { "icon": "🍔", "name": "Smash Burger Press", "blurb": "Griddle a buttery ButterBurger-style patty.", "amazon_search": "smash burger press" },
+      { "icon": "🧀", "name": "Cheese Curds", "blurb": "Wisconsin white cheddar curds for frying.", "amazon_search": "wisconsin cheese curds" },
+      { "icon": "🍦", "name": "Frozen Custard Maker", "blurb": "Churn fresh frozen custard at home.", "amazon_search": "frozen custard ice cream maker" },
+      { "icon": "📖", "name": "Copycat Fast Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "The Culver's Deluxe ButterBurger",
+    "Wisconsin Cheese Curds",
+    "Concrete Mixer",
+    "Chicken Tenders",
+    "Flavor of the Day Custard"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is a ButterBurger at Culver's?",
+      "a": "A ButterBurger is Culver's signature burger: a fresh, never-frozen beef patty served on a lightly buttered, toasted bun. A single starts around $3.29 and the Culver's Deluxe is about $4.59."
+    },
+    {
+      "q": "How much is a Culver's value basket?",
+      "a": "Value baskets include your sandwich or chicken main with crinkle-cut fries and a drink, starting around $6.49 for crispy chicken and $7.09 for a ButterBurger."
+    },
+    {
+      "q": "What are Wisconsin cheese curds?",
+      "a": "Wisconsin cheese curds are battered, deep-fried white cheddar curds, a Culver's signature. A regular order is about $4.49 (510 calories) and a large is $7.99."
+    },
+    {
+      "q": "What is a Concrete Mixer?",
+      "a": "A Concrete Mixer is Culver's fresh frozen custard blended thick with your choice of mix-ins, like candy, cookies or fruit. A regular is about $4.99."
+    },
+    {
+      "q": "What is the Flavor of the Day at Culver's?",
+      "a": "Flavor of the Day is a rotating custard flavor that changes daily at each restaurant. A single scoop is about $2.89, and you can check your local store's calendar for the schedule."
+    },
+    {
+      "q": "What are the most popular items at Culver's?",
+      "a": "The best known are the Culver's Deluxe ButterBurger, Wisconsin cheese curds, the Concrete Mixer, chicken tenders, and the Flavor of the Day custard."
+    }
+  ],
+
+  "internal_links": [
+    "raising-canes-menu",
+    "kfc-menu",
+    "popeyes-menu",
+    "applebees-menu",
+    "chilis-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Culver's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from a Culver's nutrition guide.",
+    "calories": "Shown where a reliable single figure exists; Culver's does not publish calories for every item, so many are left blank and the crinkle-fries figure is noted inline. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels buttered-bun cheeseburger image (pexels-15388327), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Culver's search demand: ButterBurger, value baskets, cheese curds, Concrete Mixer, Flavor of the Day."
+  }
+}
