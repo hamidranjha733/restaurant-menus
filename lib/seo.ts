@@ -55,14 +55,17 @@ const normalizeSize = (s: string) =>
  * as in "2 Pc Signature Chicken" (2 pieces), "Buttermilk Pancakes (2)" (2 pancakes),
  * "Shake (Medium)" or "Gallon of Tea" (gallon).
  * Only a number-plus-unit or one-word size is matched loosely; a longer size such as
- * "Chicken & Shrimp" is left off only when the name already has it in brackets.
+ * "Chicken & Shrimp" is left off only when the name already has it inside brackets,
+ * e.g. "Cheese Pizza (Extra Large, 16")" with size "extra large".
  */
+const escapeRe = (s: string) => s.replace(/[.*+?^${}()|[\]\\/]/g, "\\$&");
+
 export function itemLabel(name: string, size: string): string {
   if (!size) return name;
   const loose = /^\d/.test(size) || !/\s/.test(size.trim());
-  // "Buttermilk Pancakes (2)" already gives the count in "2 pancakes".
+  // "Buttermilk Pancakes (2)" or "Brownie (9 pc)" already gives the count in "2 pancakes" / "9 squares".
   const count = /^(\d+)\s/.exec(size)?.[1];
-  const countInName = count !== undefined && name.includes(`(${count})`);
+  const countInName = count !== undefined && new RegExp(`\\(${count}[)\\s]`).test(name);
   // "5 Chicken Fingerz Meal" or "Great 8 Boneless Wings Meal" already has the number and the unit.
   const countAndUnit = /^(\d+)\s+([a-z]+)$/i.exec(size.trim());
   const unitStem = countAndUnit && countAndUnit[2].length > 3 ? countAndUnit[2].toLowerCase().replace(/[sz]$/, "") : countAndUnit?.[2].toLowerCase();
@@ -71,8 +74,8 @@ export function itemLabel(name: string, size: string): string {
     new RegExp(`(^|[^0-9])${countAndUnit[1]}($|[^0-9])`).test(name) &&
     new RegExp(`\\b${unitStem}`, "i").test(name);
   const sizeInName = loose
-    ? new RegExp(`(^|[^a-z0-9])${normalizeSize(size).replace(/[.*+?^${}()|[\]\\/]/g, "\\$&")}($|[^a-z0-9])`).test(normalizeSize(name))
-    : name.toLowerCase().includes(`(${size.toLowerCase()})`);
+    ? new RegExp(`(^|[^a-z0-9])${escapeRe(normalizeSize(size))}($|[^a-z0-9])`).test(normalizeSize(name))
+    : (name.match(/\([^)]*\)/g) ?? []).some((group) => new RegExp(`\\b${escapeRe(size.toLowerCase())}\\b`).test(group.toLowerCase()));
   const alreadyNamed = countInName || numberAndUnitInName || sizeInName;
   return alreadyNamed ? name : `${name} (${size})`;
 }

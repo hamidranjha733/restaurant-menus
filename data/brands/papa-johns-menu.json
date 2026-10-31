@@ -1,0 +1,158 @@
+{
+  "slug": "papa-johns-menu",
+  "brand": "Papa John's",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/papa-johns-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/4109080/pexels-photo-4109080.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Papa John's style pepperoni pizza with a golden crust in a delivery box",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-4109080"
+  },
+
+  "seo": {
+    "meta_title": "Papa John's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Papa John's menu with prices and calories for 2026: original crust, The Works, The Meats, Epic Stuffed Crust, Papadias, wings, breadsticks and desserts.",
+    "h1": "Papa John's Menu With Prices (2026)",
+    "primary_keyword": "papa johns menu with prices",
+    "keyword_volume": 4200,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, size, crust and toppings. Last updated October 2026.",
+
+  "intro": "Papa John's is the pizza chain built on the slogan 'Better Ingredients. Better Pizza', known for its fresh original hand-tossed crust, the garlic dipping sauce and pepperoncini pepper that come in the box, specialty pies like The Works and The Meats, and the folded Papadia. A large original-crust cheese slice is about 290 calories, and pepperoni is about 330. Below is the full Papa John's menu with prices and calories for 2026 (large pizza prices shown).",
+
+  "quick_answer": "A large (14\") cheese or pepperoni pizza at Papa John's is about $19.99, and large specialty pizzas like The Works or The Meats run about $22.99. The Epic Stuffed Crust is $23.99, Papadias are $10.49, and 8 wings are $12.99. A large original-crust cheese slice is about 290 calories.",
+
+  "highlights": [
+    { "strong": "$19.99", "label": "large pepperoni pizza" },
+    { "strong": "Original crust", "label": "fresh hand-tossed dough" },
+    { "strong": "Garlic sauce", "label": "the signature dip" },
+    { "strong": "Papadia", "label": "folded flatbread pizza" }
+  ],
+
+  "hot_deal": "Papa John's value: the carryout and online 'large 1-topping' deals are the headline, and Papa Rewards earns points toward free pizza. Papadias ($10.49) are the cheapest full meal, and app-only Papa Pairings bundle a pizza with sides. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Pizza (Cheese / Pepperoni / Build Your Own)",
+      "intro": "Pick a size: small (6 slices), medium, large or extra large (8 slices each). Large original cheese slice is about 290 cal.",
+      "items": [
+        { "name": "Cheese or Pepperoni (Small, 10\")", "size": "small", "price": "$12.24", "calories": "", "desc": "Fresh original crust, cheese or one topping" },
+        { "name": "Cheese or Pepperoni (Medium, 12\")", "size": "medium", "price": "$16.74", "calories": "", "desc": "Medium original-crust pizza" },
+        { "name": "Cheese or Pepperoni (Large, 14\")", "size": "large", "price": "$19.99", "calories": "", "desc": "Large original-crust pizza (cheese slice about 290 cal)" },
+        { "name": "Cheese or Pepperoni (Extra Large, 16\")", "size": "extra large", "price": "$25.49", "calories": "", "desc": "The biggest size, 8 large slices" },
+        { "name": "Epic Stuffed Crust (Large, cheese)", "size": "large", "price": "$23.99", "calories": "", "desc": "Crust stuffed with cheese" },
+        { "name": "New York Style (Large)", "size": "large", "price": "$19.99", "calories": "", "desc": "Large, thin, foldable New York style slices" }
+      ]
+    },
+    {
+      "category": "Specialty Pizzas",
+      "intro": "Pre-built favorites, large prices shown.",
+      "items": [
+        { "name": "The Works", "size": "large", "price": "$22.99", "calories": "", "desc": "Pepperoni, ham, sausage, onions, peppers, mushrooms and olives" },
+        { "name": "The Meats", "size": "large", "price": "$22.99", "calories": "", "desc": "Pepperoni, ham, sausage, beef and bacon" },
+        { "name": "BBQ Chicken Bacon", "size": "large", "price": "$22.99", "calories": "", "desc": "Chicken, bacon, onions and BBQ sauce" },
+        { "name": "Garden Fresh", "size": "large", "price": "$22.99", "calories": "", "desc": "Onions, peppers, mushrooms, olives and tomatoes" },
+        { "name": "Super Hawaiian", "size": "large", "price": "$22.99", "calories": "", "desc": "Ham, pineapple and extra cheese" }
+      ]
+    },
+    {
+      "category": "Papadias & Wings",
+      "intro": "Folded flatbread Papadias and saucy wings.",
+      "items": [
+        { "name": "Papadia (Philly / BBQ Chicken / Buffalo / Build Your Own)", "size": "", "price": "$10.49", "calories": "", "desc": "A folded flatbread pizza, cut to share, with a dip" },
+        { "name": "Wings (6 pc)", "size": "6 pieces", "price": "$9.99", "calories": "", "desc": "Unsauced, Buffalo, BBQ, Garlic Parmesan or Honey Chipotle" },
+        { "name": "Wings (8 pc)", "size": "8 pieces", "price": "$12.99", "calories": "", "desc": "Bone-in wings in your choice of sauce" },
+        { "name": "Wings (16 pc)", "size": "16 pieces", "price": "$25.99", "calories": "", "desc": "A party-size order of wings" }
+      ]
+    },
+    {
+      "category": "Breadsticks & Sides",
+      "intro": "Garlic knots, cheesesticks and Papa Bites.",
+      "items": [
+        { "name": "Garlic Knots (8 pc)", "size": "8 pieces", "price": "$5.99", "calories": "", "desc": "Soft garlic knots with dipping sauce" },
+        { "name": "Original Breadsticks (10 pc)", "size": "10 pieces", "price": "$6.99", "calories": "", "desc": "Classic breadsticks with pizza sauce" },
+        { "name": "Cheesesticks (14 pc)", "size": "14 pieces", "price": "$9.99", "calories": "", "desc": "Breadsticks topped with cheese and garlic" },
+        { "name": "Papa Bites (8 rolls)", "size": "8 rolls", "price": "$8.99", "calories": "", "desc": "Stuffed rolls: OREO, Chicken Parmesan or Jalapeno" }
+      ]
+    },
+    {
+      "category": "Desserts & Drinks",
+      "intro": "Cinnamon pull aparts, brownie and the chocolate chip cookie.",
+      "items": [
+        { "name": "Cinnamon Pull Aparts", "size": "", "price": "$9.99", "calories": "", "desc": "Pull-apart cinnamon rolls with icing" },
+        { "name": "Double Chocolate Chip Brownie (9 pc)", "size": "9 squares", "price": "$9.99", "calories": "", "desc": "Rich chocolate brownie, cut into squares" },
+        { "name": "Chocolate Chip Cookie (8 slices)", "size": "8 slices", "price": "$9.99", "calories": "", "desc": "A warm, sliceable chocolate chip cookie" },
+        { "name": "Pepsi (20 oz)", "size": "20 oz", "price": "$3.29", "calories": "", "desc": "Bottled Pepsi (2 Liter about $4.50)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Pizza at Home",
+    "intro": "Want the fresh-dough, garlic-dip pizza at home? These picks help.",
+    "cards": [
+      { "icon": "🍕", "name": "Pizza Stone", "blurb": "For a crisp, golden crust.", "amazon_search": "pizza stone oven" },
+      { "icon": "🧄", "name": "Garlic Butter Sauce", "blurb": "The signature dip for the crust.", "amazon_search": "garlic butter dipping sauce" },
+      { "icon": "🍞", "name": "Pizza Dough Mix", "blurb": "Quick base for homemade pizza.", "amazon_search": "pizza dough mix" },
+      { "icon": "📖", "name": "Copycat Pizza Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Pepperoni Pizza",
+    "The Works",
+    "The Meats",
+    "Papadia",
+    "Garlic Knots"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a large pizza at Papa John's?",
+      "a": "A large (14\") cheese or pepperoni pizza is about $19.99, and large specialty pizzas like The Works or The Meats run about $22.99. The Epic Stuffed Crust is about $23.99. Carryout deals are often cheaper."
+    },
+    {
+      "q": "What is a Papadia at Papa John's?",
+      "a": "A Papadia is a folded flatbread pizza, like a stuffed, grilled pizza-sandwich, cut into pieces and served with a dipping sauce. Each is about $10.49 and comes in Philly, BBQ Chicken, Buffalo and build-your-own."
+    },
+    {
+      "q": "Why does Papa John's put a pepper in the box?",
+      "a": "Papa John's includes a pepperoncini pepper and a cup of garlic dipping sauce with most pizzas. The pepper has been a brand signature since the early days and is part of its 'Better Ingredients' identity."
+    },
+    {
+      "q": "How many calories are in a slice of Papa John's pizza?",
+      "a": "A large original-crust cheese slice is about 290 calories and pepperoni is about 330. Thin crust is lighter, while stuffed crust and loaded specialty pizzas run higher per slice."
+    },
+    {
+      "q": "What are the most popular items at Papa John's?",
+      "a": "The best known are the pepperoni pizza, The Works, The Meats, the Papadia, and the garlic knots with that signature garlic dipping sauce."
+    }
+  ],
+
+  "internal_links": [
+    "dominos-menu",
+    "pizza-hut-menu",
+    "wingstop-menu",
+    "mcdonalds-menu",
+    "subway-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Papa John's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; large sizes shown). May vary by location and franchise.",
+    "calories": "Pizza calories depend on size, crust and toppings, so per-slice figures are noted inside descriptions and intro (large original cheese slice about 290 cal, pepperoni about 330) rather than in the calorie column; most items left blank. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location, size, crust and toppings. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels pepperoni-pizza-in-delivery-box image (pexels-4109080), golden crust, no brand logo, portrait that crops well to a wide hero, hotlinked CDN URL. Distinct from Domino's slice and Pizza Hut pan pizza.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (same as Domino's and Pizza Hut). No new category needed.",
+    "keyword_notes": "Sections and FAQ shaped by real Papa John's search demand: large pizza price, Papadia, the pepper in the box, calories per slice, popular items."
+  }
+}
