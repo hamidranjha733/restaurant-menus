@@ -22,7 +22,7 @@
   },
 
   "last_updated": "2026-10",
-  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Jason's Deli does not publish full calorie counts for every item, so calories are left blank rather than guessed. Last updated October 2026.",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Jason's Deli publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
 
   "intro": "Jason's Deli is the American deli chain known for its muffalettas, big sandwiches, the Garden Fresh Salad Bar, loaded baked potatoes, and free soft-serve ice cream. It leans into fresh, additive-conscious ingredients and generous portions, with a 'Lighter' option on many items. Below is the full Jason's Deli menu with prices for 2026.",
 
@@ -118,7 +118,7 @@
     },
     {
       "q": "Does Jason's Deli list calories?",
-      "a": "Jason's Deli does not publish full calorie counts for every item, so calories are not listed here rather than guessed. The chain does offer 'Lighter' versions of many sandwiches, salads and potatoes for a smaller portion."
+      "a": "Jason's Deli publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. The chain does offer 'Lighter' versions of many sandwiches, salads and potatoes for a smaller portion."
     },
     {
       "q": "What are the most popular items at Jason's Deli?",
@@ -136,12 +136,12 @@
 
   "schema": {
     "types": ["Menu", "FAQPage", "BreadcrumbList"],
-    "note": "Generate Menu schema from the menu array (no per-item calories, since Jason's Deli does not publish full nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Jason's Deli."
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Jason's Deli."
   },
 
   "_data_notes": {
     "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing.",
-    "calories": "Deliberately left blank. Jason's Deli does not publish full calorie counts for every item. Disclaimer and FAQ state this, and note the 'Lighter' options. Never invent a calorie number.",
+    "calories": "Deliberately left blank. Jason's Deli publishes nutrition information (chains with 20+ US locations must post calories), but item calories were not reproduced this session rather than guessed. Wording changed in October 2026 from 'does not publish' to 'publishes, not reproduced here'. Never invent a calorie number.",
     "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
     "hero_image": "Tentative Pexels stacked deli sandwich (pexels-17301619). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Jersey Mike's hero.",
     "category_note": "Uses the existing 'Pizza Coffee & Subs' category (sandwich/sub deli, alongside Panera, Jersey Mike's, Jimmy John's). Free soft-serve shown as price 'Included'. #76 of the expansion list.",

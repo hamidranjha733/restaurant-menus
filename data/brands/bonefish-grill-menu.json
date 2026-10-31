@@ -22,7 +22,7 @@
   },
 
   "last_updated": "2026-10",
-  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Bonefish Grill is a casual-upscale seafood restaurant and does not publish full calorie information, so calories are left blank rather than guessed. Last updated October 2026.",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Bonefish Grill publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
 
   "intro": "Bonefish Grill is the casual-upscale seafood chain from Bloomin' Brands, the company behind Outback, best known for its cult-favorite Bang Bang Shrimp and its wood-grilled fish prepared with a choice of signature sauces. The menu runs from fresh fish and seafood combinations to steaks, chicken and shareable starters. Below is the full Bonefish Grill menu with prices for 2026.",
 
@@ -121,7 +121,7 @@
     },
     {
       "q": "Does Bonefish Grill list calories?",
-      "a": "Bonefish Grill does not publish a full calorie guide, so calories are not listed here rather than guessed. Totals vary with the fish, the grilling oils and the sauce you choose, so dishes differ."
+      "a": "Bonefish Grill publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals vary with the fish, the grilling oils and the sauce you choose, so dishes differ."
     },
     {
       "q": "What are the most popular dishes at Bonefish Grill?",
@@ -139,12 +139,12 @@
 
   "schema": {
     "types": ["Menu", "FAQPage", "BreadcrumbList"],
-    "note": "Generate Menu schema from the menu array (no per-item calories, since Bonefish Grill does not publish full nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Bonefish Grill."
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Bonefish Grill."
   },
 
   "_data_notes": {
     "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing.",
-    "calories": "Deliberately left blank. Bonefish Grill is a casual-upscale seafood restaurant that does not publish full nutrition, and sauce choices vary totals. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "calories": "Deliberately left blank. Bonefish Grill publishes nutrition information (chains with 20+ US locations must post calories), but item calories were not reproduced this session rather than guessed. Wording changed in October 2026 from 'does not publish' to 'publishes, not reproduced here'. Never invent a calorie number.",
     "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
     "hero_image": "Tentative Pexels wood-grilled salmon (pexels-29145279). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Red Lobster lobster-tail hero.",
     "category_note": "Uses the existing 'Breakfast & Dining' category (sit-down seafood restaurant, alongside Red Lobster). Internal link outback-steakhouse-menu should already exist; drop any missing-page link. #73 of the expansion list.",

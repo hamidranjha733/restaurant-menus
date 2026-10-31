@@ -22,7 +22,7 @@
   },
 
   "last_updated": "2026-10",
-  "price_disclaimer": "Prices and sizes are approximate, are provided as a guide only, and may vary by location. Mellow Mushroom does not prominently publish per-item calories, so calories are left blank rather than guessed. Last updated October 2026.",
+  "price_disclaimer": "Prices and sizes are approximate, are provided as a guide only, and may vary by location. Mellow Mushroom publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
 
   "intro": "Mellow Mushroom is the Southeastern pizza chain famous for its stone-baked pizzas on a signature spring-water dough brushed with garlic butter and parmesan, served in colorful, psychedelic-themed dining rooms. The menu runs specialty pizzas like the Kosmic Karma and Holy Shiitake, plus hoagies, calzones, pretzel bites and big salads. Below is the full Mellow Mushroom menu with prices for 2026.",
 
@@ -114,7 +114,7 @@
     },
     {
       "q": "Does Mellow Mushroom list calories?",
-      "a": "Mellow Mushroom does not prominently publish per-item calories, so calories are not listed here rather than guessed. Totals depend heavily on the pizza size, crust and toppings you choose."
+      "a": "Mellow Mushroom publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals depend heavily on the pizza size, crust and toppings you choose."
     },
     {
       "q": "What are the most popular items at Mellow Mushroom?",
@@ -132,12 +132,12 @@
 
   "schema": {
     "types": ["Menu", "FAQPage", "BreadcrumbList"],
-    "note": "Generate Menu schema from the menu array (no per-item calories, since Mellow Mushroom does not prominently publish nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Mellow Mushroom."
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Mellow Mushroom."
   },
 
   "_data_notes": {
     "price_source": "Prices from an established menu-prices publication (US pricing by size; vary by location). Real listed values at time of writing.",
-    "calories": "Deliberately left blank. Mellow Mushroom does not prominently publish per-item calories, and size/crust/toppings vary totals. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "calories": "Deliberately left blank. Mellow Mushroom publishes nutrition information (chains with 20+ US locations must post calories), but item calories were not reproduced this session rather than guessed. Wording changed in October 2026 from 'does not publish' to 'publishes, not reproduced here'. Never invent a calorie number.",
     "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
     "hero_image": "Tentative Pexels stone-baked pizza (pexels-2918521). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the other pizza-brand heroes.",
     "category_note": "Uses the existing 'Pizza Coffee & Subs' category (pizza chain, internal-linked to Marco's and the big pizza brands). #79 of the expansion list.",

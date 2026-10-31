@@ -22,7 +22,7 @@
   },
 
   "last_updated": "2026-10",
-  "price_disclaimer": "Prices and sizes are approximate, are provided as a guide only, and may vary by location. Marco's Pizza does not prominently publish per-item calories, so calories are left blank rather than guessed. Last updated October 2026.",
+  "price_disclaimer": "Prices and sizes are approximate, are provided as a guide only, and may vary by location. Marco's Pizza publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
 
   "intro": "Marco's Pizza is the fast-growing pizza chain built on dough made fresh in store every day and a three-cheese blend, known for specialty pizzas like The Works and the Pepperoni Magnifico, plus CheezyBread, subs, wings and salads. It positions itself as a more 'authentic Italian' quick pizza. Below is the full Marco's Pizza menu with prices for 2026.",
 
@@ -112,7 +112,7 @@
     },
     {
       "q": "Does Marco's Pizza list calories?",
-      "a": "Marco's Pizza does not prominently publish per-item calories, so calories are not listed here rather than guessed. Totals depend heavily on the pizza size, crust and toppings you choose."
+      "a": "Marco's Pizza publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals depend heavily on the pizza size, crust and toppings you choose."
     },
     {
       "q": "What are the most popular items at Marco's Pizza?",
@@ -130,12 +130,12 @@
 
   "schema": {
     "types": ["Menu", "FAQPage", "BreadcrumbList"],
-    "note": "Generate Menu schema from the menu array (no per-item calories, since Marco's does not prominently publish nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Marco's Pizza."
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Marco's Pizza."
   },
 
   "_data_notes": {
     "price_source": "Prices from an established menu-prices publication (US pricing by size; vary by location). Real listed values at time of writing.",
-    "calories": "Deliberately left blank. Marco's does not prominently publish per-item calories, and size/crust/toppings vary totals. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "calories": "Deliberately left blank. Marco's Pizza publishes nutrition information (chains with 20+ US locations must post calories), but item calories were not reproduced this session rather than guessed. Wording changed in October 2026 from 'does not publish' to 'publishes, not reproduced here'. Never invent a calorie number.",
     "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
     "hero_image": "Tentative Pexels fresh-baked pizza (pexels-2147491). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Domino's/Pizza Hut/Papa Johns/Little Caesars heroes.",
     "category_note": "Uses the existing 'Pizza Coffee & Subs' category (pizza chain). Internal link mellow-mushroom-menu is coming later in this expansion list; drop it if not yet built. #78 of the expansion list.",

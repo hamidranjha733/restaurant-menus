@@ -22,7 +22,7 @@
   },
 
   "last_updated": "2026-10",
-  "price_disclaimer": "Prices are approximate ranges, are provided as a guide only, and vary by location and protein choice. Newk's Eatery does not publish a fixed national price list or full per-item calories, so figures below are representative and calories are left blank rather than guessed. Last updated October 2026.",
+  "price_disclaimer": "Prices are approximate ranges, are provided as a guide only, and vary by location and protein choice. Newk's Eatery does not publish a fixed national price list, so figures below are representative. It publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
 
   "intro": "Newk's Eatery is the Southern fast-casual chain built on made-to-order sandwiches, big salads, soups like the signature Lobster & Crab Bisque, and hand-pressed pizzas, all ordered at the counter and brought to your table. It is known for fresh ingredients, the famous Newk's Pickle, and a self-serve condiment bar. Below is the Newk's Eatery menu with representative prices for 2026.",
 
@@ -112,7 +112,7 @@
     },
     {
       "q": "Does Newk's Eatery list calories?",
-      "a": "Newk's does not publish a full per-item calorie guide, so calories are not listed here rather than guessed. Totals depend on the sandwich, salad protein, soup and sides you choose, so dishes vary."
+      "a": "Newk's Eatery publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals depend on the sandwich, salad protein, soup and sides you choose, so dishes vary."
     },
     {
       "q": "What are the most popular items at Newk's Eatery?",
@@ -135,7 +135,7 @@
 
   "_data_notes": {
     "price_source": "Representative price RANGES from a Newk's menu guide (sandwiches $9.50-12.50, whole salads $11.50-14.50, pizza $10.50-13.50, soups $4.50-7.50). No fixed national list published; item NAMES are real signatures, prices given as ranges rather than guessed exact figures. On import the section-wide ranges were moved off individual sandwiches and pizzas (each now shows 'Varies'; the ranges stay in the section intros, quick answer and FAQ), and the Newk's Favorite Salad price '$7.50 / $11.50 - $14.50' became 'Varies' because a per-size price cannot also hold a range. Item-level ranges (Half & Half, lemonade, kids meal) are kept.",
-    "calories": "Deliberately left blank. Newk's does not publish full per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "calories": "Deliberately left blank. Newk's Eatery publishes nutrition information (chains with 20+ US locations must post calories), but item calories were not reproduced this session rather than guessed. Wording changed in October 2026 from 'does not publish' to 'publishes, not reproduced here'. Never invent a calorie number.",
     "accuracy": "Prices are representative ranges and vary by location and protein. Always display the disclaimer noting these are ranges.",
     "hero_image": "Tentative Pexels sandwich-and-soup combo (pexels-15305397). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
     "category_note": "Uses the existing 'Pizza Coffee & Subs' category (soup/salad/sandwich/pizza fast-casual, like Panera). Internal link mcalisters-deli-menu may not exist yet; drop any missing-page link. #80 of the expansion list.",

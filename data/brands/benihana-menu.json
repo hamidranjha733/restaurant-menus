@@ -22,7 +22,7 @@
   },
 
   "last_updated": "2026-10",
-  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary by location. Benihana is an upscale teppanyaki restaurant where hibachi entrees are cooked at your table and include soup, salad, vegetables and rice. It does not publish calorie information, so calories are left blank rather than guessed. Last updated October 2026.",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary by location. Benihana is an upscale teppanyaki restaurant where hibachi entrees are cooked at your table and include soup, salad, vegetables and rice. Benihana publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
 
   "intro": "Benihana is the famous Japanese teppanyaki steakhouse where chefs cook your meal on a hibachi grill right at the table, complete with the knife tricks, onion volcano and flying shrimp. Hibachi dinners come with soup, salad, vegetables and rice, and the menu also runs a full sushi program, appetizers and combination feasts. Below is the full Benihana menu with prices for 2026.",
 
@@ -122,7 +122,7 @@
     },
     {
       "q": "How many calories are in Benihana food?",
-      "a": "Benihana does not publish a full calorie guide, so calories are not listed here rather than guessed. Hibachi meals vary with the protein, the oils and sauces used tableside, and whether you add fried rice, so totals differ dish to dish."
+      "a": "Benihana publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Hibachi meals vary with the protein, the oils and sauces used tableside, and whether you add fried rice, so totals differ dish to dish."
     },
     {
       "q": "What are the most popular dishes at Benihana?",
@@ -140,12 +140,12 @@
 
   "schema": {
     "types": ["Menu", "FAQPage", "BreadcrumbList"],
-    "note": "Generate Menu schema from the menu array (no per-item calories, since Benihana does not publish nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Benihana."
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Benihana."
   },
 
   "_data_notes": {
     "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing. Hibachi entrees include soup, salad, vegetables and rice.",
-    "calories": "Deliberately left blank. Benihana is an upscale teppanyaki restaurant that does not publish a calorie guide, and tableside cooking varies totals. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "calories": "Deliberately left blank. Benihana publishes nutrition information (chains with 20+ US locations must post calories), but item calories were not reproduced this session rather than guessed. Wording changed in October 2026 from 'does not publish' to 'publishes, not reproduced here'. Never invent a calorie number.",
     "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
     "hero_image": "Tentative Pexels hibachi flame cooking (pexels-18263255) for the teppanyaki show. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
     "category_note": "Uses the existing 'Breakfast & Dining' category (upscale sit-down restaurant). Internal link pf-changs-menu is coming later in the same expansion list; Claude Code can drop it if not yet built. #72 of the expansion list.",
