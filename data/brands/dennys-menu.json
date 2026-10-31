@@ -1,0 +1,183 @@
+{
+  "slug": "dennys-menu",
+  "brand": "Denny's",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/dennys-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/1698441/pexels-photo-1698441.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Denny's style diner breakfast with pancakes, butter and sausage on a plate in a diner booth",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-1698441"
+  },
+
+  "seo": {
+    "meta_title": "Denny's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Denny's menu with prices and calories for 2026: Grand Slams, Moons Over My Hammy, pancakes, burgers, melts, all-day dinners, value meals and desserts.",
+    "h1": "Denny's Menu With Prices (2026)",
+    "primary_keyword": "dennys menu with prices",
+    "keyword_volume": 9000,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
+
+  "intro": "Denny's is America's Diner, open around the clock and famous for serving breakfast any time of day. The Grand Slam, where you build your own plate of pancakes, eggs, bacon and sausage, is the signature, alongside Moons Over My Hammy, burgers, melts and all-day dinners. Below is the full Denny's menu with prices and calories for 2026.",
+
+  "quick_answer": "Denny's is America's diner, serving breakfast all day. The Original Grand Slam is about $12.79, the Build Your Own Grand Slam is $11.99, and the Everyday Value Slam starts at just $5.99. Signature items like Moons Over My Hammy ($12.69) and the Lumberjack Slam ($14.69) round out the breakfast menu.",
+
+  "highlights": [
+    { "strong": "$5.99", "label": "Everyday Value Slam" },
+    { "strong": "$12.79", "label": "Original Grand Slam" },
+    { "strong": "24/7", "label": "breakfast served any time" },
+    { "strong": "Build it", "label": "your own Grand Slam" }
+  ],
+
+  "hot_deal": "Denny's value: the Everyday Value Slam starts at just $5.99, and the Everyday Value Menu runs several full meals from $5.99 to $9.99, including a quarter-pound cheeseburger and a BLT. Denny's also has a rewards program with a birthday freebie. Offers vary by location.",
+
+  "menu": [
+    {
+      "category": "Slams & Breakfast",
+      "intro": "The heart of the menu. Build your own Grand Slam or pick a classic.",
+      "items": [
+        { "name": "Original Grand Slam", "size": "", "price": "$12.79", "calories": "740", "desc": "Pancakes, eggs, bacon strips and sausage links" },
+        { "name": "Build Your Own Grand Slam", "size": "", "price": "$11.99", "calories": "", "desc": "Pick any four breakfast items to build your plate" },
+        { "name": "Lumberjack Slam", "size": "", "price": "$14.69", "calories": "1060", "desc": "Pancakes, eggs, bacon, sausage, ham, hash browns and toast" },
+        { "name": "All-American Slam", "size": "", "price": "$14.29", "calories": "780", "desc": "Three-egg omelette with cheese, hash browns and toast" },
+        { "name": "French Toast Slam", "size": "", "price": "$13.39", "calories": "740", "desc": "French toast with eggs, bacon and sausage" },
+        { "name": "The Grand Slamwich", "size": "", "price": "$13.79", "calories": "", "desc": "Scrambled eggs, bacon, sausage and cheese on grilled bread" }
+      ]
+    },
+    {
+      "category": "Diner Favorites",
+      "intro": "The classics Denny's is known for.",
+      "items": [
+        { "name": "Moons Over My Hammy", "size": "", "price": "$12.69", "calories": "760", "desc": "Scrambled eggs and ham on grilled sourdough with cheese" },
+        { "name": "Premium Chicken Tenders (5 pc)", "size": "5 pieces", "price": "$9.99", "calories": "670", "desc": "Hand-battered chicken tenders with a side" }
+      ]
+    },
+    {
+      "category": "Pancakes & Crepes",
+      "intro": "Signature pancake breakfasts and sweet crepes.",
+      "items": [
+        { "name": "Hearty 9-Grain Pancake Breakfast", "size": "", "price": "$10.19", "calories": "", "desc": "Wholegrain pancakes with eggs and a meat" },
+        { "name": "Double Berry Pancake Breakfast", "size": "", "price": "$11.79", "calories": "", "desc": "Pancakes topped with berries and cream" },
+        { "name": "Cinnamon Roll Pancake Breakfast", "size": "", "price": "$12.19", "calories": "", "desc": "Cinnamon roll pancakes with cream cheese icing" },
+        { "name": "Buttermilk Pancakes (2)", "size": "2 pancakes", "price": "$3.49", "calories": "340", "desc": "A short stack of buttermilk pancakes" }
+      ]
+    },
+    {
+      "category": "Burgers & Melts",
+      "intro": "Diner burgers and grilled melts, served with fries.",
+      "items": [
+        { "name": "The Slamburger", "size": "", "price": "$12.79", "calories": "", "desc": "Cheeseburger with hash browns, bacon and eggs" },
+        { "name": "Double Cheeseburger", "size": "", "price": "$12.99", "calories": "890", "desc": "Two beef patties with American cheese" },
+        { "name": "The Big Dipper Melt", "size": "", "price": "$13.99", "calories": "", "desc": "Steak and cheese melt with au jus for dipping" },
+        { "name": "Diner Classic Patty Melt", "size": "", "price": "$11.79", "calories": "", "desc": "Beef patty with grilled onions and cheese on rye" }
+      ]
+    },
+    {
+      "category": "Dinners",
+      "intro": "All-day diner dinners, served with sides.",
+      "items": [
+        { "name": "Sirloin Steak", "size": "", "price": "$14.99", "calories": "", "desc": "Grilled sirloin with two sides" },
+        { "name": "Country-Fried Steak Dinner", "size": "", "price": "$14.59", "calories": "960", "desc": "Breaded steak with country gravy and sides" }
+      ]
+    },
+    {
+      "category": "Everyday Value Meals",
+      "intro": "Full meals from $5.99.",
+      "items": [
+        { "name": "Everyday Value Slam", "size": "", "price": "$5.99", "calories": "", "desc": "A budget breakfast slam with eggs, pancakes and a meat" },
+        { "name": "Quarter Pound Cheeseburger", "size": "", "price": "$8.99", "calories": "", "desc": "Quarter-pound cheeseburger with fries" },
+        { "name": "BLT Sandwich", "size": "", "price": "$9.59", "calories": "", "desc": "Bacon, lettuce and tomato with fries" },
+        { "name": "Crispy Chicken Bacon Ranch Sandwich", "size": "", "price": "$9.99", "calories": "", "desc": "Crispy chicken with bacon and ranch" }
+      ]
+    },
+    {
+      "category": "Sides & Desserts",
+      "intro": "Diner sides and sweet finishes.",
+      "items": [
+        { "name": "French Fries", "size": "", "price": "$4.19", "calories": "", "desc": "Seasoned fries" },
+        { "name": "Onion Rings", "size": "", "price": "$4.49", "calories": "", "desc": "Battered onion rings" },
+        { "name": "Buttermilk Biscuits (2)", "size": "2 biscuits", "price": "$2.99", "calories": "", "desc": "Two warm buttermilk biscuits" },
+        { "name": "Lava Cookie Skillet", "size": "", "price": "$4.99", "calories": "", "desc": "Warm cookie skillet with ice cream and fudge" },
+        { "name": "New York Style Cheesecake", "size": "", "price": "$4.99", "calories": "", "desc": "Classic New York cheesecake" }
+      ]
+    },
+    {
+      "category": "Kids (Jr. Menu)",
+      "intro": "Smaller meals for kids.",
+      "items": [
+        { "name": "Build Your Own Jr. Grand Slam", "size": "", "price": "$4.99", "calories": "", "desc": "Kid-sized build-your-own breakfast" },
+        { "name": "Jr. Cheeseburger", "size": "", "price": "$4.99", "calories": "", "desc": "Kids cheeseburger with a side" },
+        { "name": "Jr. Chocolate Chip Pancakes", "size": "", "price": "$4.49", "calories": "", "desc": "Chocolate chip pancakes for kids" },
+        { "name": "Mac & Cheese", "size": "", "price": "$4.99", "calories": "", "desc": "Kids mac and cheese" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Denny's at Home",
+    "intro": "Want the diner breakfast at home? These picks help you flip pancakes and plate a Grand Slam.",
+    "cards": [
+      { "icon": "🥞", "name": "Electric Griddle", "blurb": "Flip pancakes and eggs like a short-order cook.", "amazon_search": "electric griddle pancakes" },
+      { "icon": "🍯", "name": "Pancake Mix & Syrup", "blurb": "The base for a stack of buttermilk pancakes.", "amazon_search": "buttermilk pancake mix syrup" },
+      { "icon": "🍳", "name": "Cast Iron Skillet", "blurb": "For eggs, hash browns and country-fried steak.", "amazon_search": "cast iron skillet" },
+      { "icon": "📖", "name": "Copycat Diner Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Original Grand Slam",
+    "Moons Over My Hammy",
+    "Lumberjack Slam",
+    "Country-Fried Steak",
+    "Build Your Own Grand Slam"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a Grand Slam at Denny's?",
+      "a": "The Original Grand Slam is about $12.79, and the Build Your Own Grand Slam, where you pick any four breakfast items, is around $11.99. The bigger Lumberjack Slam is about $14.69."
+    },
+    {
+      "q": "Does Denny's serve breakfast all day?",
+      "a": "Yes. Denny's is America's Diner and serves its full breakfast menu around the clock, so you can order a Grand Slam or pancakes any time of day or night."
+    },
+    {
+      "q": "What is Moons Over My Hammy?",
+      "a": "Moons Over My Hammy is a Denny's signature: scrambled eggs and ham grilled on sourdough with Swiss and American cheese. It is about $12.69 and roughly 760 calories."
+    },
+    {
+      "q": "Does Denny's have cheap meals?",
+      "a": "Yes. The Everyday Value Slam starts at just $5.99, and the Everyday Value Menu has full meals from $5.99 to $9.99, including a quarter-pound cheeseburger and a BLT."
+    },
+    {
+      "q": "What are the most popular items at Denny's?",
+      "a": "The best known are the Original Grand Slam, Moons Over My Hammy, the Lumberjack Slam, Country-Fried Steak, and the Build Your Own Grand Slam."
+    }
+  ],
+
+  "internal_links": [
+    "cracker-barrel-menu",
+    "applebees-menu",
+    "chilis-menu",
+    "olive-garden-menu",
+    "texas-roadhouse-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Denny's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from a Denny's nutrition guide.",
+    "calories": "Shown where a reliable single figure exists; build-your-own and many sides are left blank. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels diner pancakes-and-sausage image (pexels-1698441), portrait that crops well to a wide hero, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Denny's search demand: Grand Slam price, all-day breakfast, Moons Over My Hammy, value meals, popular items."
+  }
+}
