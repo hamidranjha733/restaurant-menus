@@ -1,0 +1,178 @@
+{
+  "slug": "arbys-menu",
+  "brand": "Arby's",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/arbys-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/15010303/pexels-photo-15010303.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Arby's Beef 'n Cheddar style sandwich with shredded beef and melted cheddar cheese sauce on a bun",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-15010303"
+  },
+
+  "seo": {
+    "meta_title": "Arby's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Arby's menu with prices and calories for 2026: Classic Roast Beef, Beef 'n Cheddar, French Dip, Market Fresh, gyros, curly fries, sliders and shakes.",
+    "h1": "Arby's Menu With Prices (2026)",
+    "primary_keyword": "arbys menu with prices",
+    "keyword_volume": 5100,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "Arby's is the fast-food chain that 'has the meats', built around thin-sliced roast beef piled on a toasted bun, the Beef 'n Cheddar, Market Fresh turkey sandwiches, gyros and the one-and-only curly fries. Sliders start at $1.89 and the Jamocha Shake is a classic. Below is the full Arby's menu with prices and calories for 2026.",
+
+  "quick_answer": "Arby's Classic Roast Beef is about $4.49 and the Beef 'n Cheddar is $5.29. Sliders are just $1.89 each, curly fries are about $2.69, and the Jamocha Shake is $2.99. Market Fresh turkey sandwiches and gyros run about $5 to $7. Arby's is known for its thin-sliced roast beef.",
+
+  "highlights": [
+    { "strong": "$4.49", "label": "Classic Roast Beef" },
+    { "strong": "$1.89", "label": "sliders, any kind" },
+    { "strong": "Curly Fries", "label": "the signature side" },
+    { "strong": "The Meats", "label": "roast beef, turkey & more" }
+  ],
+
+  "hot_deal": "Arby's value: the sliders (roast beef, chicken, buffalo chicken and more) are just $1.89 each, and combo deals pair a main with curly fries and a drink. The classic Roast Beef ($4.49) with curly fries is the go-to, and the app has regular coupons. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Roast Beef",
+      "intro": "The signature thin-sliced roast beef, plus the Beef 'n Cheddar and French Dip.",
+      "items": [
+        { "name": "Classic Roast Beef", "size": "", "price": "$4.49", "calories": "360", "desc": "Thin-sliced roast beef on a toasted sesame bun" },
+        { "name": "Double Roast Beef", "size": "", "price": "$6.49", "calories": "", "desc": "Double the roast beef (large is about 550 cal)" },
+        { "name": "Half Pound Roast Beef", "size": "", "price": "$6.99", "calories": "", "desc": "A half-pound of roast beef on a bun" },
+        { "name": "Beef 'n Cheddar Classic", "size": "", "price": "$5.29", "calories": "450", "desc": "Roast beef with cheddar sauce and red ranch on an onion bun" },
+        { "name": "Beef 'n Cheddar Double", "size": "", "price": "$6.99", "calories": "", "desc": "Double roast beef with cheddar sauce" },
+        { "name": "French Dip & Swiss", "size": "", "price": "$6.29", "calories": "590", "desc": "Roast beef and Swiss on a sub roll with au jus for dipping" }
+      ]
+    },
+    {
+      "category": "Market Fresh & Gyros",
+      "intro": "Turkey sandwiches, wraps and hand-rolled gyros.",
+      "items": [
+        { "name": "Roast Turkey Ranch & Bacon Sandwich", "size": "", "price": "$6.99", "calories": "800", "desc": "Roast turkey with bacon, cheddar and ranch" },
+        { "name": "Roast Turkey & Swiss Sandwich", "size": "", "price": "$6.49", "calories": "", "desc": "Roast turkey with Swiss and veggies" },
+        { "name": "Roast Beef Gyro", "size": "", "price": "$4.99", "calories": "490", "desc": "Roast beef with tzatziki, lettuce and tomato in a flatbread" },
+        { "name": "Greek Gyro", "size": "", "price": "$4.99", "calories": "", "desc": "Gyro meat with tzatziki in a warm flatbread" }
+      ]
+    },
+    {
+      "category": "Chicken",
+      "intro": "Crispy chicken sandwiches, tenders and nuggets.",
+      "items": [
+        { "name": "Crispy Chicken Sandwich", "size": "", "price": "$5.49", "calories": "570", "desc": "Crispy chicken fillet with lettuce, tomato and mayo" },
+        { "name": "Buffalo Crispy Chicken", "size": "", "price": "$5.99", "calories": "", "desc": "Crispy chicken with buffalo sauce" },
+        { "name": "Chicken Tenders (3 pc)", "size": "3 pieces", "price": "$4.99", "calories": "", "desc": "Three breaded chicken tenders with sauce" },
+        { "name": "Premium Nuggets (6 pc)", "size": "6 pieces", "price": "$3.99", "calories": "", "desc": "Six breaded chicken nuggets" }
+      ]
+    },
+    {
+      "category": "Sides",
+      "intro": "The curly fries are legendary. Mozzarella sticks and jalapeno bites too.",
+      "items": [
+        { "name": "Curly Fries (Medium)", "size": "medium", "price": "$2.69", "calories": "430", "desc": "Signature seasoned curly fries" },
+        { "name": "Crinkle Fries (Medium)", "size": "medium", "price": "$2.69", "calories": "360", "desc": "Classic crinkle-cut fries" },
+        { "name": "Loaded Curly Fries", "size": "", "price": "$4.99", "calories": "", "desc": "Curly fries with cheddar, bacon and ranch" },
+        { "name": "Mozzarella Sticks (4 pc)", "size": "4 pieces", "price": "$3.99", "calories": "440", "desc": "Fried mozzarella sticks with marinara" },
+        { "name": "Jalapeno Bites (5 pc)", "size": "5 pieces", "price": "$3.99", "calories": "", "desc": "Cream-cheese-filled jalapeno poppers" },
+        { "name": "White Cheddar Mac & Cheese", "size": "", "price": "$3.49", "calories": "", "desc": "Creamy white cheddar mac and cheese" }
+      ]
+    },
+    {
+      "category": "Sliders",
+      "intro": "Mini sandwiches, each just $1.89.",
+      "items": [
+        { "name": "Roast Beef Slider", "size": "", "price": "$1.89", "calories": "", "desc": "Mini roast beef slider" },
+        { "name": "Buffalo Chicken Slider", "size": "", "price": "$1.89", "calories": "", "desc": "Mini buffalo chicken slider" },
+        { "name": "Chicken Tender Slider", "size": "", "price": "$1.89", "calories": "", "desc": "Mini chicken tender slider" },
+        { "name": "Jalapeno Roast Beef Slider", "size": "", "price": "$1.89", "calories": "", "desc": "Roast beef slider with jalapenos" }
+      ]
+    },
+    {
+      "category": "Shakes & Desserts",
+      "intro": "The Jamocha Shake is the must-try.",
+      "items": [
+        { "name": "Jamocha Shake (Small)", "size": "small", "price": "$2.99", "calories": "430", "desc": "Coffee and chocolate blended shake" },
+        { "name": "Chocolate Shake (Small)", "size": "small", "price": "$2.99", "calories": "", "desc": "Classic chocolate shake" },
+        { "name": "Apple Turnover", "size": "", "price": "$1.89", "calories": "", "desc": "Flaky apple turnover with icing" },
+        { "name": "Triple Chocolate Cookie", "size": "", "price": "$1.99", "calories": "", "desc": "A warm triple chocolate cookie" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Fountain drinks, tea and coffee.",
+      "items": [
+        { "name": "Coca-Cola (Medium)", "size": "medium", "price": "$2.49", "calories": "", "desc": "Coca-Cola fountain drinks" },
+        { "name": "Freshly Brewed Iced Tea", "size": "", "price": "$2.19", "calories": "", "desc": "Freshly brewed iced tea" },
+        { "name": "Lemonade", "size": "", "price": "$2.49", "calories": "", "desc": "Lemonade" },
+        { "name": "Coffee", "size": "", "price": "$1.69", "calories": "", "desc": "Hot brewed coffee" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Arby's at Home",
+    "intro": "Want the roast beef, cheddar sauce and curly fries at home? These picks help.",
+    "cards": [
+      { "icon": "🥩", "name": "Deli Meat Slicer", "blurb": "Slice roast beef thin, Arby's style.", "amazon_search": "deli meat slicer" },
+      { "icon": "🌀", "name": "Curly Fry Cutter", "blurb": "Make the signature curly fries.", "amazon_search": "curly fry cutter" },
+      { "icon": "🧀", "name": "Cheddar Cheese Sauce", "blurb": "For a copycat Beef 'n Cheddar.", "amazon_search": "cheddar cheese sauce" },
+      { "icon": "📖", "name": "Copycat Fast Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Classic Roast Beef",
+    "Beef 'n Cheddar",
+    "Curly Fries",
+    "French Dip & Swiss",
+    "Jamocha Shake"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a roast beef sandwich at Arby's?",
+      "a": "The Classic Roast Beef is about $4.49, and the Beef 'n Cheddar is around $5.29. Larger options like the Half Pound Roast Beef run about $6.99. The roast beef slider is just $1.89."
+    },
+    {
+      "q": "What is the Beef 'n Cheddar at Arby's?",
+      "a": "The Beef 'n Cheddar is Arby's signature: thin-sliced roast beef topped with warm cheddar cheese sauce and tangy red ranch sauce on a toasted onion bun. It is about $5.29 and 450 calories."
+    },
+    {
+      "q": "Does Arby's have sliders?",
+      "a": "Yes. Arby's sliders are mini sandwiches, each about $1.89, including roast beef, chicken tender, buffalo chicken and jalapeno roast beef. They are the cheapest way to try the menu."
+    },
+    {
+      "q": "What is a Jamocha Shake?",
+      "a": "The Jamocha Shake is Arby's signature dessert drink, a blend of coffee and chocolate hand-spun into a milkshake. A small is about $2.99 and 430 calories."
+    },
+    {
+      "q": "What are the most popular items at Arby's?",
+      "a": "The best known are the Classic Roast Beef, the Beef 'n Cheddar, the curly fries, the French Dip & Swiss, and the Jamocha Shake."
+    }
+  ],
+
+  "internal_links": [
+    "wendys-menu",
+    "mcdonalds-menu",
+    "subway-menu",
+    "burger-king-menu",
+    "chick-fil-a-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Arby's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from an Arby's nutrition source.",
+    "calories": "Shown where a reliable single figure exists; several items and most drinks are left blank, with a large-roast-beef note inline. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels beef-and-cheddar sandwich image (pexels-15010303), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Arby's search demand: roast beef price, Beef 'n Cheddar, sliders, Jamocha Shake, popular items."
+  }
+}
