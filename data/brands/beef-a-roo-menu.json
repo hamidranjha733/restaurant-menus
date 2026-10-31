@@ -1,0 +1,151 @@
+{
+  "slug": "beef-a-roo-menu",
+  "brand": "Beef-A-Roo",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/beef-a-roo-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/2725744/pexels-photo-2725744.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Beef-A-Roo style cheeseburger with a side of fries",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-2725744",
+    "_verify_note": "Tentative hero (cheeseburger and fries). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Beef-A-Roo Menu With Prices (2026)",
+    "meta_description": "Full Beef-A-Roo menu with prices for 2026: roast beef sandwiches, burgers, the famous cheddar fries, chicken, loaded potatoes, salads and hand-dipped shakes.",
+    "h1": "Beef-A-Roo Menu With Prices (2026)",
+    "primary_keyword": "beef-a-roo menu with prices",
+    "keyword_volume": 1300,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Beef-A-Roo does not prominently publish calorie information, so calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Beef-A-Roo is the Midwest fast-food chain, born in Rockford, Illinois, best known for its roast beef sandwiches and its famous cheddar fries. Around them sits a full menu of burgers, crispy chicken, loaded potatoes, big salads and hand-dipped shakes. It is a regional favorite with a loyal following. Below is the full Beef-A-Roo menu with prices for 2026.",
+
+  "quick_answer": "At Beef-A-Roo, a Roast Beef sandwich is about $6.70, a cheeseburger is $7.06, and a double cheeseburger is $10.11. Crispy chicken sandwiches are about $6.94, loaded potatoes run $5.36 to $6.33, and a medium shake is $5.60. The roast beef and the cheddar fries are the icons. Prices vary by location.",
+
+  "highlights": [
+    { "strong": "Roast beef", "label": "the chain's signature" },
+    { "strong": "Cheddar fries", "label": "the cult-favorite side" },
+    { "strong": "Hand-dipped shakes", "label": "small to large" },
+    { "strong": "Midwest born", "label": "Rockford, Illinois" }
+  ],
+
+  "hot_deal": "Beef-A-Roo value: the Jr Beef ($3.65) and Deluxe Jr. Double Cheeseburger ($5.48) are the cheapest ways in, and a small fry is $3.40. Adding cheddar fries is the move the regulars make. The app and rewards drop occasional deals. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Roast Beef Sandwiches",
+      "intro": "The signature roast beef, from the Jr to the Big Beef.",
+      "items": [
+        { "name": "Jr Beef", "size": "", "price": "$3.65", "calories": "", "desc": "A junior roast beef sandwich, the value pick" },
+        { "name": "Roast Beef", "size": "", "price": "$6.70", "calories": "", "desc": "The classic roast beef sandwich" },
+        { "name": "Beef 'N' Cheese", "size": "", "price": "$7.55", "calories": "", "desc": "Roast beef with melted cheese" },
+        { "name": "Wild West Beef", "size": "", "price": "$7.80", "calories": "", "desc": "Roast beef with barbecue and onion rings" },
+        { "name": "Mushroom Swiss Beef", "size": "", "price": "$8.04", "calories": "", "desc": "Roast beef with mushrooms and Swiss" },
+        { "name": "Big Beef", "size": "", "price": "$8.77", "calories": "", "desc": "The extra-large roast beef" }
+      ]
+    },
+    {
+      "category": "Burgers",
+      "intro": "Burgers from the single to the bacon double.",
+      "items": [
+        { "name": "Hamburger", "size": "", "price": "$6.82", "calories": "", "desc": "The classic hamburger" },
+        { "name": "Cheeseburger", "size": "", "price": "$7.06", "calories": "", "desc": "Single cheeseburger" },
+        { "name": "Bacon Cheeseburger", "size": "", "price": "$8.16", "calories": "", "desc": "Cheeseburger with bacon" },
+        { "name": "Wild West Burger", "size": "", "price": "$8.53", "calories": "", "desc": "Burger with barbecue and onion rings" },
+        { "name": "Double Cheeseburger", "size": "", "price": "$10.11", "calories": "", "desc": "Two patties with cheese" },
+        { "name": "Bacon Double Cheeseburger", "size": "", "price": "$11.21", "calories": "", "desc": "Double with bacon, the biggest" }
+      ]
+    },
+    {
+      "category": "Chicken",
+      "intro": "Crispy chicken sandwiches and strips.",
+      "items": [
+        { "name": "Crispy Chicken Sandwich", "size": "", "price": "$6.94", "calories": "", "desc": "A crispy chicken fillet sandwich" },
+        { "name": "Buffalo Chicken", "size": "", "price": "$6.94", "calories": "", "desc": "Crispy chicken with buffalo sauce" },
+        { "name": "Ultimate Chikn", "size": "", "price": "$8.04", "calories": "", "desc": "The loaded chicken sandwich" },
+        { "name": "Chicken Strips (3 pc)", "size": "3 pieces", "price": "$7.31", "calories": "", "desc": "Three chicken strips (5 pc $10.48)" }
+      ]
+    },
+    {
+      "category": "Cheddar Fries, Potatoes & Shakes",
+      "intro": "The famous cheddar fries, loaded potatoes, sides and shakes.",
+      "items": [
+        { "name": "Jr Cheddar Fries", "size": "", "price": "$4.26", "calories": "", "desc": "The famous fries topped with cheddar cheese sauce" },
+        { "name": "French Fries", "size": "sm / md / lg", "price": "$3.40 / $4.14 / $4.75", "calories": "", "desc": "Classic fries by size" },
+        { "name": "Loaded Potato", "size": "", "price": "$6.33", "calories": "", "desc": "A fully loaded baked potato (bacon cheddar $6.09, broccoli cheese $5.72)" },
+        { "name": "Onion Rings", "size": "", "price": "$5.60", "calories": "", "desc": "Crispy onion rings" },
+        { "name": "Hand-Dipped Shake", "size": "sm / md / lg", "price": "$3.77 / $5.60 / $7.92", "calories": "", "desc": "Hand-dipped shakes by size" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Beef-A-Roo Favorites at Home",
+    "intro": "Want roast beef and cheddar fries at home? These picks help.",
+    "cards": [
+      { "icon": "🥪", "name": "Deli Meat Slicer", "blurb": "For thin-sliced roast beef.", "amazon_search": "electric meat slicer" },
+      { "icon": "🧀", "name": "Cheddar Cheese Sauce", "blurb": "For copycat cheddar fries.", "amazon_search": "cheddar cheese sauce" },
+      { "icon": "🥔", "name": "Fry Cutter", "blurb": "For fresh-cut fries.", "amazon_search": "french fry cutter potato" },
+      { "icon": "🥤", "name": "Milkshake Blender", "blurb": "For hand-dipped shakes.", "amazon_search": "milkshake maker blender" }
+    ]
+  },
+
+  "popular_items": [
+    "Roast Beef",
+    "Cheddar Fries",
+    "Cheeseburger",
+    "Wild West Beef",
+    "Hand-Dipped Shake"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a roast beef at Beef-A-Roo?",
+      "a": "A classic Roast Beef sandwich is about $6.70, the Jr Beef is $3.65, and the extra-large Big Beef is $8.77. Loaded versions like the Wild West Beef ($7.80) and Mushroom Swiss Beef ($8.04) cost a little more. Prices vary by location."
+    },
+    {
+      "q": "What are Beef-A-Roo cheddar fries?",
+      "a": "Cheddar fries are Beef-A-Roo's cult-favorite side: crispy fries topped with warm cheddar cheese sauce. They are one of the most ordered items at the chain and the thing most regulars add to any meal. A Jr Cheddar Fry is about $4.26."
+    },
+    {
+      "q": "Where is Beef-A-Roo located?",
+      "a": "Beef-A-Roo is a Midwest fast-food chain that started in Rockford, Illinois, with locations across Illinois and expansion into other states including Texas. It is a regional favorite rather than a coast-to-coast national chain."
+    },
+    {
+      "q": "Does Beef-A-Roo have shakes?",
+      "a": "Yes. Beef-A-Roo serves hand-dipped shakes in small, medium and large (about $3.77 to $7.92), a popular pairing with the roast beef and cheddar fries. Reviewers often single out the shakes as a highlight."
+    },
+    {
+      "q": "What are the most popular items at Beef-A-Roo?",
+      "a": "The best known are the roast beef sandwich, the famous cheddar fries, the cheeseburger, the Wild West Beef, and the hand-dipped shakes."
+    }
+  ],
+
+  "internal_links": [
+    "arbys-menu",
+    "cook-out-menu",
+    "whataburger-menu",
+    "dairy-queen-menu",
+    "hardees-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since Beef-A-Roo does not prominently publish nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Beef-A-Roo."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from Beef-A-Roo's online-ordering menu (DoorDash, estimates that vary by store). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. Beef-A-Roo does not prominently publish a calorie guide (only crowd-sourced figures exist, which are not used). Disclaimer states this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels cheeseburger and fries (pexels-2725744), covering both the burger and the famous fries. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Burgers & Shakes' category (roast beef, burgers, shakes; internal-linked to Arby's for roast beef). #71 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Beef-A-Roo search demand: roast beef price, the cheddar fries, locations, shakes, popular items. Fries/shakes given as per-size price strings."
+  }
+}
