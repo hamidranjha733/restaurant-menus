@@ -1,0 +1,264 @@
+{
+  "slug": "skyline-chili-menu",
+  "brand": "Skyline Chili",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/skyline-chili-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/20234578/pexels-photo-20234578.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Skyline Chili style spaghetti topped with chili and a mound of cheese",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-20234578",
+    "_verify_note": "Tentative hero (cheese-topped chili spaghetti for the 3-Way). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Skyline Chili Menu With Prices (2026)",
+    "meta_description": "Full Skyline Chili menu with prices for 2026: the Cheese Coney, the 3-Way, 4-Way and 5-Way chili spaghetti, burritos, chili spuds, salads and kids meals.",
+    "h1": "Skyline Chili Menu With Prices (2026)",
+    "primary_keyword": "skyline chili menu with prices",
+    "keyword_volume": 4400,
+    "keyword_kd": 1
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location (dine-in and delivery can differ). Skyline Chili publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "Skyline Chili is the Cincinnati institution serving Cincinnati-style chili, a cinnamon-and-spice-scented chili ladled over spaghetti or hot dogs and buried under a mound of shredded cheddar. The icons are the Cheese Coney and the '3-Way' (spaghetti, chili and cheese), with 4-Way and 5-Way adding onions and beans. Below is the full Skyline Chili menu with prices for 2026.",
+  "quick_answer": "At Skyline Chili, a Cheese Coney is about $1.85, a classic 3-Way (spaghetti, chili and cheese) runs $3.75 to $6.00 by size, and a 5-Way (with onions and beans) $4.25 to $6.50. Burritos are $4.00 to $4.75, chili spuds $2.00 to $4.50, and kids meals from $2.00. The Cheese Coney and the 3-Way are the icons. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Cheese Coney",
+      "label": "the chili cheese dog, ~$1.85"
+    },
+    {
+      "strong": "The 3-Way",
+      "label": "spaghetti, chili and cheese"
+    },
+    {
+      "strong": "4-Way & 5-Way",
+      "label": "add onions and beans"
+    },
+    {
+      "strong": "Cincinnati style",
+      "label": "the spiced chili"
+    }
+  ],
+  "hot_deal": "Skyline Chili value: the Cheese Coney (about $1.85) is one of the cheapest full-flavored bites in fast food, and a stack of coneys is the classic order. A small 3-Way ($3.75) is a cheap full meal, and kids eat from $2.00. The app and Skyline rewards drop occasional deals. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Coneys & Sandwiches",
+      "intro": "The famous chili-and-cheese coneys.",
+      "items": [
+        {
+          "name": "Cheese Coney",
+          "size": "",
+          "price": "$1.85",
+          "calories": "",
+          "desc": "A hot dog topped with chili, mustard, onions and a mound of cheddar"
+        },
+        {
+          "name": "Regular Coney",
+          "size": "",
+          "price": "$1.60",
+          "calories": "",
+          "desc": "The coney without cheese"
+        },
+        {
+          "name": "Chili Cheese Sandwich",
+          "size": "",
+          "price": "$1.85",
+          "calories": "",
+          "desc": "Chili and cheese on a bun"
+        },
+        {
+          "name": "Low Carb Bowl",
+          "size": "",
+          "price": "$5.50",
+          "calories": "",
+          "desc": "Three hot dogs in chili, no bun"
+        }
+      ]
+    },
+    {
+      "category": "Ways (Chili Spaghetti)",
+      "intro": "Cincinnati-style chili over spaghetti, by size.",
+      "items": [
+        {
+          "name": "Chili Spaghetti",
+          "size": "sm to lg",
+          "price": "$3.50 - $5.75",
+          "calories": "",
+          "desc": "Spaghetti topped with chili"
+        },
+        {
+          "name": "3-Way",
+          "size": "sm to lg",
+          "price": "$3.75 - $6.00",
+          "calories": "",
+          "desc": "Spaghetti, chili and a mound of shredded cheddar, the classic"
+        },
+        {
+          "name": "4-Way",
+          "size": "sm to lg",
+          "price": "$4.00 - $6.25",
+          "calories": "",
+          "desc": "3-Way plus onions or beans"
+        },
+        {
+          "name": "5-Way",
+          "size": "sm to lg",
+          "price": "$4.25 - $6.50",
+          "calories": "",
+          "desc": "Spaghetti, chili, cheese, onions and beans"
+        }
+      ]
+    },
+    {
+      "category": "Burritos & Spuds",
+      "intro": "Chili burritos and loaded chili spuds.",
+      "items": [
+        {
+          "name": "Skyline Burrito",
+          "size": "",
+          "price": "$4.00",
+          "calories": "",
+          "desc": "Chili burrito (deluxe $4.75)"
+        },
+        {
+          "name": "Black Bean Burrito",
+          "size": "",
+          "price": "$4.00",
+          "calories": "",
+          "desc": "Black bean burrito (deluxe $4.75)"
+        },
+        {
+          "name": "3-Way Potato",
+          "size": "",
+          "price": "$4.00",
+          "calories": "",
+          "desc": "Baked potato topped 3-Way style (4-Way $4.25, 5-Way $4.50)"
+        },
+        {
+          "name": "Cheddar Potato",
+          "size": "",
+          "price": "$2.75",
+          "calories": "",
+          "desc": "Baked potato with cheddar (basic potato $2.00)"
+        }
+      ]
+    },
+    {
+      "category": "Salads & Kids",
+      "intro": "Salads, wraps and kids meals.",
+      "items": [
+        {
+          "name": "Classic Chicken Salad",
+          "size": "",
+          "price": "$4.25",
+          "calories": "",
+          "desc": "Chicken salad (Greek and Southwestern $4.25 to $5.50)"
+        },
+        {
+          "name": "Southwestern Chicken Wrap",
+          "size": "",
+          "price": "$6.25",
+          "calories": "",
+          "desc": "Southwest chicken wrap (classic $5.25, Greek $6.00)"
+        },
+        {
+          "name": "Garden Salad",
+          "size": "",
+          "price": "$2.75",
+          "calories": "",
+          "desc": "A simple side garden salad"
+        },
+        {
+          "name": "Kid's Way",
+          "size": "",
+          "price": "$4.25",
+          "calories": "",
+          "desc": "Kids chili spaghetti meal (coney special $2.85)"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Cincinnati Chili at Home",
+    "intro": "Want Cheese Coneys and a 3-Way at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🌭",
+        "name": "Hot Dogs & Buns",
+        "blurb": "For Cheese Coneys.",
+        "amazon_search": "hot dogs and buns"
+      },
+      {
+        "icon": "🫘",
+        "name": "Cincinnati Chili Mix",
+        "blurb": "For the spiced chili.",
+        "amazon_search": "cincinnati chili seasoning"
+      },
+      {
+        "icon": "🧀",
+        "name": "Cheese Grater",
+        "blurb": "For the mound of cheddar.",
+        "amazon_search": "cheese grater"
+      },
+      {
+        "icon": "🍝",
+        "name": "Spaghetti",
+        "blurb": "The base for a 3-Way.",
+        "amazon_search": "spaghetti pasta"
+      }
+    ]
+  },
+  "popular_items": [
+    "Cheese Coney",
+    "3-Way",
+    "5-Way",
+    "Chili Spaghetti",
+    "3-Way Potato"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a Cheese Coney at Skyline Chili?",
+      "a": "A Cheese Coney is about $1.85, and a regular coney without cheese is $1.60. Coneys are the cheapest and most iconic order, and most people get two or three. Prices vary by location."
+    },
+    {
+      "q": "What is a 3-Way at Skyline Chili?",
+      "a": "A 3-Way is the Cincinnati classic: spaghetti topped with Skyline's spiced chili and a mound of shredded cheddar. A 4-Way adds onions or beans, and a 5-Way adds both. A 3-Way runs about $3.75 to $6.00 depending on size."
+    },
+    {
+      "q": "What is Cincinnati-style chili?",
+      "a": "Cincinnati-style chili is a thinner, spiced chili scented with cinnamon and warm spices, served not as a bowl but over spaghetti (the Ways) or on hot dogs (coneys) and topped with a mound of fine-shredded cheddar. Skyline is its most famous maker."
+    },
+    {
+      "q": "Does Skyline Chili list calories?",
+      "a": "Skyline Chili publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals depend on the size and whether you add cheese, onions and beans."
+    },
+    {
+      "q": "What are the most popular items at Skyline Chili?",
+      "a": "The best known are the Cheese Coney, the 3-Way, the 5-Way, the chili spaghetti, and the 3-Way loaded potato."
+    }
+  ],
+  "internal_links": [
+    "costco-food-court-menu",
+    "sonnys-bbq-menu",
+    "steak-n-shake-menu",
+    "cook-out-menu",
+    "golden-corral-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Skyline Chili."
+  },
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices listing (US pricing; vary by location). Real listed values at time of writing. Ways/spaghetti given as small-to-large ranges.",
+    "calories": "Deliberately left blank. Skyline does not prominently publish per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number. On import the 'does not publish' wording in the disclaimer and FAQ was changed to match the site rule (chains with 20+ US locations must post calories, so it publishes nutrition; item calories are simply not reproduced here).",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels cheese-topped chili spaghetti (pexels-20234578) for the 3-Way. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category as the quick-serve catch-all (coneys like hot dogs, following the Costco Food Court precedent). #92 of the expansion list.",
+    "keyword_notes": "Strong brand interest (4.4k). Sections and FAQ shaped by real Skyline search demand: Cheese Coney price, what a 3-Way is, Cincinnati-style chili, calories question, popular items. Ways given as size ranges."
+  }
+}

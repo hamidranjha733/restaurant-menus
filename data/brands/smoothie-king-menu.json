@@ -1,0 +1,244 @@
+{
+  "slug": "smoothie-king-menu",
+  "brand": "Smoothie King",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/smoothie-king-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/39536484/pexels-photo-39536484.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Smoothie King style strawberry smoothie in a clear cup",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-39536484",
+    "_verify_note": "Tentative hero (strawberry smoothie in a cup). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Smoothie King Menu With Prices (2026)",
+    "meta_description": "Full Smoothie King menu with prices for 2026: The Hulk, Gladiator, Angel Food, Peanut Power Plus and Caribbean Way smoothies by size, plus snacks and food.",
+    "h1": "Smoothie King Menu With Prices (2026)",
+    "primary_keyword": "smoothie king menu with prices",
+    "keyword_volume": 8100,
+    "keyword_kd": 2
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary by location and size. Smoothie King publishes nutrition, but item calories are not reproduced here and are left blank rather than guessed; many smoothies are customizable. Last updated October 2026.",
+  "intro": "Smoothie King is the smoothie chain built around purpose: blends organized by goal, from Slim and Fitness to Wellness and the muscle-building Gladiator and Hulk. Smoothies come in 20, 32 and 40 ounce sizes, and the chain has added protein snacks, bars and a growing food menu. Below is the full Smoothie King menu with prices for 2026.",
+  "quick_answer": "At Smoothie King, most popular smoothies (The Hulk, Gladiator, Angel Food, Peanut Power Plus) are about $5.49 for a 20 oz, $7.49 for a 32 oz, and $8.69 for a 40 oz. The Caribbean Way is a bit cheaper ($4.69 to $8.49), and protein snacks and muffins run $2 to $3.39. The goal-based smoothies are the whole idea. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Purpose blends",
+      "label": "smoothies by goal"
+    },
+    {
+      "strong": "The Hulk & Gladiator",
+      "label": "the high-protein picks"
+    },
+    {
+      "strong": "20 / 32 / 40 oz",
+      "label": "three sizes"
+    },
+    {
+      "strong": "Protein snacks",
+      "label": "bars, muffins and more"
+    }
+  ],
+  "hot_deal": "Smoothie King value: the Caribbean Way (from $4.69 for a 20 oz) is the cheapest smoothie, and the Healthy Rewards app drops a sign-up reward, a birthday smoothie and points toward free drinks. A 20 oz is the budget size; the 40 oz is the best value per ounce. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Popular Smoothies",
+      "intro": "The best-known blends, priced 20 oz / 32 oz / 40 oz.",
+      "items": [
+        {
+          "name": "The Hulk",
+          "size": "20 / 32 / 40 oz",
+          "price": "$5.49 / $7.49 / $8.69",
+          "calories": "",
+          "desc": "A high-calorie weight-gain blend (vanilla, chocolate or strawberry)"
+        },
+        {
+          "name": "Gladiator",
+          "size": "20 / 32 / 40 oz",
+          "price": "$5.49 / $7.49 / $8.69",
+          "calories": "",
+          "desc": "A high-protein, low-carb blend"
+        },
+        {
+          "name": "Angel Food",
+          "size": "20 / 32 / 40 oz",
+          "price": "$5.49 / $7.49 / $8.69",
+          "calories": "",
+          "desc": "Strawberry, banana and vanilla, a fan favorite"
+        },
+        {
+          "name": "The Activator",
+          "size": "20 / 32 / 40 oz",
+          "price": "$5.49 / $7.49 / $8.69",
+          "calories": "",
+          "desc": "A recovery blend"
+        },
+        {
+          "name": "Peanut Power Plus",
+          "size": "20 / 32 / 40 oz",
+          "price": "$5.49 / $7.49 / $8.69",
+          "calories": "",
+          "desc": "Peanut butter and banana protein blend"
+        },
+        {
+          "name": "Caribbean Way",
+          "size": "20 / 32 / 40 oz",
+          "price": "$4.69 / $6.89 / $8.49",
+          "calories": "",
+          "desc": "A tropical fruit blend, the value smoothie"
+        }
+      ]
+    },
+    {
+      "category": "Snacks & Food",
+      "intro": "Protein snacks, muffins, bars and breads.",
+      "items": [
+        {
+          "name": "Protein Muffin",
+          "size": "",
+          "price": "$2.29",
+          "calories": "",
+          "desc": "Blueberry, chocolate or banana"
+        },
+        {
+          "name": "Protein Cookie",
+          "size": "",
+          "price": "$2.39",
+          "calories": "",
+          "desc": "Chocolate chip, double chocolate or peanut butter"
+        },
+        {
+          "name": "Protein Bar",
+          "size": "",
+          "price": "$3.39",
+          "calories": "",
+          "desc": "A grab-and-go protein bar"
+        },
+        {
+          "name": "Naturally Delicious Bread",
+          "size": "",
+          "price": "$2.29",
+          "calories": "",
+          "desc": "Banana nut, carrot, zucchini or pumpkin"
+        }
+      ]
+    },
+    {
+      "category": "Snack Packs & Kids",
+      "intro": "Trail snacks and kids options.",
+      "items": [
+        {
+          "name": "Smoothie King Snack",
+          "size": "",
+          "price": "$2.09",
+          "calories": "",
+          "desc": "Banana chips, gummi bears or granola (yogurt pretzels $3.19)"
+        },
+        {
+          "name": "Apple Chips",
+          "size": "",
+          "price": "$3.69",
+          "calories": "",
+          "desc": "Crunchy apple chips"
+        },
+        {
+          "name": "Snack Pack (2 oz)",
+          "size": "2 oz",
+          "price": "$2.19",
+          "calories": "",
+          "desc": "A small snack pack"
+        },
+        {
+          "name": "Kids Snack",
+          "size": "",
+          "price": "$1.39",
+          "calories": "",
+          "desc": "A kids snack (veggie chips also $1.39)"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Protein Smoothies at Home",
+    "intro": "Want goal-based smoothies at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🥤",
+        "name": "High-Power Blender",
+        "blurb": "For thick, smooth blends.",
+        "amazon_search": "high power blender smoothie"
+      },
+      {
+        "icon": "💪",
+        "name": "Protein Powder",
+        "blurb": "For Gladiator-style protein smoothies.",
+        "amazon_search": "whey protein powder"
+      },
+      {
+        "icon": "🍓",
+        "name": "Frozen Fruit Mix",
+        "blurb": "Strawberry, banana, mango and more.",
+        "amazon_search": "frozen fruit smoothie mix"
+      },
+      {
+        "icon": "🥜",
+        "name": "Peanut Butter",
+        "blurb": "For Peanut Power Plus.",
+        "amazon_search": "natural peanut butter"
+      }
+    ]
+  },
+  "popular_items": [
+    "Angel Food",
+    "The Hulk",
+    "Gladiator",
+    "Peanut Power Plus",
+    "Caribbean Way"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a smoothie at Smoothie King?",
+      "a": "Most popular smoothies are about $5.49 for a 20 oz, $7.49 for a 32 oz, and $8.69 for a 40 oz. The Caribbean Way is cheaper, from $4.69. Prices vary by location, and the Healthy Rewards app often has deals."
+    },
+    {
+      "q": "What is Smoothie King known for?",
+      "a": "Smoothie King is known for its purpose-driven smoothies, blends organized by goal such as Slim, Fitness and Wellness, including the high-protein Gladiator and the weight-gain Hulk. It positions itself as a nutrition-focused smoothie chain rather than a treat shop."
+    },
+    {
+      "q": "What is the Gladiator smoothie?",
+      "a": "The Gladiator is Smoothie King's high-protein, low-sugar blend, made with protein and your choice of fruit or no fruit, aimed at people building muscle or wanting a clean protein smoothie. It is one of the most ordered fitness smoothies."
+    },
+    {
+      "q": "Does Smoothie King publish calories?",
+      "a": "Smoothie King publishes nutrition on its website and app, but item calories are not reproduced here and are left blank rather than guessed. Because smoothies are customizable and vary a lot by blend and size, totals differ from drink to drink."
+    },
+    {
+      "q": "What are the most popular smoothies at Smoothie King?",
+      "a": "Favorites include Angel Food, The Hulk, the Gladiator, Peanut Power Plus, and the Caribbean Way."
+    }
+  ],
+  "internal_links": [
+    "tropical-smoothie-cafe-menu",
+    "starbucks-menu",
+    "dunkin-menu",
+    "peets-coffee-menu",
+    "salad-and-go-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Smoothie King."
+  },
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing by size; vary by location). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. Smoothie King publishes nutrition, but smoothies are customizable and no reliable item calories were pulled this session, so none are reproduced rather than guessed. Disclaimer and FAQ note this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location and size. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels strawberry smoothie (pexels-39536484). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Tropical Smoothie Cafe hero.",
+    "category_note": "Uses the existing 'Coffee & Drinks' category (smoothie chain, alongside Tropical Smoothie Cafe). #93 of the expansion list.",
+    "keyword_notes": "High-volume brand (8.1k). Sections and FAQ shaped by real Smoothie King search demand: smoothie price, what it is known for, the Gladiator, calories question, popular smoothies. Smoothies given as 20/32/40 oz price strings."
+  }
+}

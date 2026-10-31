@@ -1,0 +1,271 @@
+{
+  "slug": "steak-n-shake-menu",
+  "brand": "Steak 'n Shake",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/steak-n-shake-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/4728858/pexels-photo-4728858.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Steak 'n Shake style steakburger with a drink",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-4728858",
+    "_verify_note": "Tentative hero (steakburger with a drink). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Steak 'n Shake Menu With Prices (2026)",
+    "meta_description": "Full Steak 'n Shake menu with prices for 2026: Steakburgers single to triple, the Frisco Melt, combos, beef-tallow fries, chili and hand-dipped milkshakes.",
+    "h1": "Steak 'n Shake Menu With Prices (2026)",
+    "primary_keyword": "steak 'n shake menu with prices",
+    "keyword_volume": 9900,
+    "keyword_kd": 2
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Steak 'n Shake publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "Steak 'n Shake is the American classic known for its thin, griddle-seared Steakburgers, beef-tallow fries, chili, and hand-dipped milkshakes, now a counter-service chain. The Frisco Melt and the single-to-triple Steakburgers are the icons, and the shakes come in a long list of flavors. Below is the full Steak 'n Shake menu with prices for 2026.",
+  "quick_answer": "At Steak 'n Shake, a single Steakburger with cheese is about $7.29, a double $8.19, and a triple $11.29. The Frisco Melt is $10.59, combos (with fries and a drink) run about $11 to $15, and a hand-dipped milkshake is $6.49 to $7.19. Beef-tallow fries are $2.99. The Steakburgers and milkshakes are the icons. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Steakburgers",
+      "label": "thin, griddle-seared"
+    },
+    {
+      "strong": "Frisco Melt",
+      "label": "the signature melt"
+    },
+    {
+      "strong": "Beef-tallow fries",
+      "label": "the fried-in-tallow fries"
+    },
+    {
+      "strong": "Hand-dipped shakes",
+      "label": "a long flavor list"
+    }
+  ],
+  "hot_deal": "Steak 'n Shake value: the single Steakburger with cheese ($7.29) and beef-tallow fries ($2.99) are the cheapest way in, and combos bundle fries and a drink for a few dollars more. The chain has leaned on kiosk-order deals and value Steakburger offers. A hand-dipped shake ($6.49) is the classic add-on. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Steakburgers",
+      "intro": "The thin, griddle-seared Steakburgers.",
+      "items": [
+        {
+          "name": "Single Steakburger with Cheese",
+          "size": "",
+          "price": "$7.29",
+          "calories": "",
+          "desc": "The classic single with cheese"
+        },
+        {
+          "name": "Original Double with Cheese",
+          "size": "",
+          "price": "$8.19",
+          "calories": "",
+          "desc": "The double-patty Steakburger"
+        },
+        {
+          "name": "Bacon 'n Cheese Double",
+          "size": "",
+          "price": "$10.49",
+          "calories": "",
+          "desc": "Double with bacon and cheese"
+        },
+        {
+          "name": "Frisco Melt",
+          "size": "",
+          "price": "$10.59",
+          "calories": "",
+          "desc": "Steakburger with Swiss and Frisco sauce on toasted sourdough"
+        },
+        {
+          "name": "Triple Steakburger",
+          "size": "",
+          "price": "$11.29",
+          "calories": "",
+          "desc": "Three patties with triple cheese"
+        }
+      ]
+    },
+    {
+      "category": "Combos",
+      "intro": "Steakburgers with beef-tallow fries and a drink.",
+      "items": [
+        {
+          "name": "Single Steakburger Combo",
+          "size": "",
+          "price": "$11.09",
+          "calories": "",
+          "desc": "Single with cheese, fries and a drink"
+        },
+        {
+          "name": "Original Double Combo",
+          "size": "",
+          "price": "$11.99",
+          "calories": "",
+          "desc": "Double with cheese combo"
+        },
+        {
+          "name": "Frisco Melt Combo",
+          "size": "",
+          "price": "$14.09",
+          "calories": "",
+          "desc": "The Frisco Melt combo"
+        },
+        {
+          "name": "Triple Steakburger Combo",
+          "size": "",
+          "price": "$14.79",
+          "calories": "",
+          "desc": "The triple combo, the biggest"
+        }
+      ]
+    },
+    {
+      "category": "Fries, Chili & Sides",
+      "intro": "Beef-tallow fries, tots and chili.",
+      "items": [
+        {
+          "name": "Beef Tallow Fries",
+          "size": "",
+          "price": "$2.99",
+          "calories": "",
+          "desc": "The signature fries, fried in beef tallow (cheese fries $4.29)"
+        },
+        {
+          "name": "Chili Cheese Fries",
+          "size": "",
+          "price": "$6.29",
+          "calories": "",
+          "desc": "Fries loaded with chili and cheese"
+        },
+        {
+          "name": "Chili (cup or bowl)",
+          "size": "",
+          "price": "$4.99",
+          "calories": "",
+          "desc": "Steak 'n Shake chili (chili mac $7.29, 5-way $8.29)"
+        },
+        {
+          "name": "Beef Tallow Tots",
+          "size": "",
+          "price": "$3.19",
+          "calories": "",
+          "desc": "Potato tots fried in beef tallow (onion rings $3.99)"
+        }
+      ]
+    },
+    {
+      "category": "Milkshakes & Drinks",
+      "intro": "The famous hand-dipped milkshakes.",
+      "items": [
+        {
+          "name": "Classic Milkshake",
+          "size": "",
+          "price": "$6.49",
+          "calories": "",
+          "desc": "Vanilla, chocolate or strawberry hand-dipped shake"
+        },
+        {
+          "name": "Specialty Milkshake",
+          "size": "",
+          "price": "$7.19",
+          "calories": "",
+          "desc": "Oreo, cookie dough, mint and more (banana/birthday cake $6.99)"
+        },
+        {
+          "name": "Fountain Drink",
+          "size": "",
+          "price": "$2.99",
+          "calories": "",
+          "desc": "Soft drinks and iced tea"
+        },
+        {
+          "name": "Red Bull Spritz",
+          "size": "",
+          "price": "$5.49",
+          "calories": "",
+          "desc": "Peach, blue razz or strawberry"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Steakburgers & Shakes at Home",
+    "intro": "Want thin Steakburgers and hand-dipped shakes at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🍔",
+        "name": "Burger Smasher & Griddle",
+        "blurb": "For thin, seared Steakburgers.",
+        "amazon_search": "burger smasher press griddle"
+      },
+      {
+        "icon": "🥔",
+        "name": "Beef Tallow",
+        "blurb": "For tallow-fried fries.",
+        "amazon_search": "beef tallow cooking"
+      },
+      {
+        "icon": "🥤",
+        "name": "Milkshake Blender",
+        "blurb": "For hand-dipped shakes.",
+        "amazon_search": "milkshake maker blender"
+      },
+      {
+        "icon": "🫘",
+        "name": "Chili Mix",
+        "blurb": "For chili and chili mac.",
+        "amazon_search": "chili seasoning mix"
+      }
+    ]
+  },
+  "popular_items": [
+    "Original Double Steakburger",
+    "Frisco Melt",
+    "Beef Tallow Fries",
+    "Hand-Dipped Milkshake",
+    "Chili"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a Steakburger at Steak 'n Shake?",
+      "a": "A single Steakburger with cheese is about $7.29, an Original Double $8.19, and a Triple $11.29. The Frisco Melt is $10.59. Combos add beef-tallow fries and a drink for a few dollars more. Prices vary by location."
+    },
+    {
+      "q": "What is Steak 'n Shake known for?",
+      "a": "Steak 'n Shake is known for its thin, griddle-seared Steakburgers, its fries now fried in beef tallow, its chili, and its hand-dipped milkshakes in a long list of flavors. The Frisco Melt is a signature. It has shifted to counter and kiosk service."
+    },
+    {
+      "q": "How much is a milkshake at Steak 'n Shake?",
+      "a": "A classic hand-dipped milkshake (vanilla, chocolate or strawberry) is about $6.49, and specialty shakes like Oreo or cookie dough are $7.19. They are one of the chain's most famous items. Prices vary by location."
+    },
+    {
+      "q": "Does Steak 'n Shake list calories?",
+      "a": "Steak 'n Shake publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals depend on the Steakburger size, the toppings and whether you add fries and a shake."
+    },
+    {
+      "q": "What are the most popular items at Steak 'n Shake?",
+      "a": "Favorites include the Original Double Steakburger, the Frisco Melt, the beef-tallow fries, the hand-dipped milkshakes, and the chili."
+    }
+  ],
+  "internal_links": [
+    "cook-out-menu",
+    "whataburger-menu",
+    "sonic-menu",
+    "dairy-queen-menu",
+    "culvers-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Steak 'n Shake."
+  },
+  "_data_notes": {
+    "price_source": "Prices from Steak 'n Shake's online-ordering menu (DoorDash; estimates that vary by store). Real listed values at time of writing (includes the newer beef-tallow fries).",
+    "calories": "Deliberately left blank. Steak 'n Shake does not prominently publish per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number. On import the 'does not publish' wording in the disclaimer and FAQ was changed to match the site rule (chains with 20+ US locations must post calories, so it publishes nutrition; item calories are simply not reproduced here).",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels steakburger with a drink (pexels-4728858). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Burgers & Shakes' category (literally steakburgers and shakes). Internal link culvers-menu may not exist yet; drop any missing-page link. #95 of the expansion list.",
+    "keyword_notes": "High-volume brand (9.9k). Sections and FAQ shaped by real Steak 'n Shake search demand: Steakburger price, what it is known for, milkshake price, calories question, popular items. Notes the newer beef-tallow fries."
+  }
+}

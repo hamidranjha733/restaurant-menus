@@ -1,0 +1,243 @@
+{
+  "slug": "steak-48-menu",
+  "brand": "Steak 48",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/steak-48-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/6542790/pexels-photo-6542790.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Steak 48 style prime steak plated in an upscale restaurant",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-6542790",
+    "_verify_note": "Tentative hero (upscale plated steak). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Steak 48 Menu & Prices (2026)",
+    "meta_description": "Steak 48 menu guide for 2026: the upscale steakhouse's USDA Prime, dry-aged and Wagyu steaks, famous bacon, seafood tower, au gratin potatoes and sides.",
+    "h1": "Steak 48 Menu (2026)",
+    "primary_keyword": "steak 48 menu",
+    "keyword_volume": 3600,
+    "keyword_kd": 3
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Steak 48 is an upscale contemporary steakhouse where many cuts are priced at market, and it does not publish a fixed national price list. Dish names are real, but exact prices change and are mostly left blank rather than guessed, and calories are not published. Expect a high-end ($$$$) bill. Last updated October 2026.",
+  "intro": "Steak 48 is the upscale, high-energy steakhouse brand (with locations in cities like Chicago, Houston, Philadelphia, Beverly Hills and more) known for USDA Prime, dry-aged and Wagyu beef, an iced seafood tower, its famous thick bacon appetizer, and chef's au gratin potatoes. It is a special-occasion, reservation-based restaurant. Below is a guide to the Steak 48 menu for 2026.",
+  "quick_answer": "Steak 48 is an upscale ($$$$) steakhouse serving USDA Prime, dry-aged and Wagyu steaks, a raw seafood tower, its famous thick-cut bacon appetizer, and sides like the chef's au gratin potatoes. Many steaks are priced at market and change, so it does not publish a fixed price list, and a full dinner with wine is a special-occasion bill. Reservations are strongly recommended.",
+  "highlights": [
+    {
+      "strong": "Prime & Wagyu",
+      "label": "USDA Prime, dry-aged, Wagyu"
+    },
+    {
+      "strong": "Famous bacon",
+      "label": "the thick-cut appetizer"
+    },
+    {
+      "strong": "Seafood tower",
+      "label": "the iced raw bar"
+    },
+    {
+      "strong": "Market price",
+      "label": "many cuts, ask for current"
+    }
+  ],
+  "hot_deal": "Steak 48 value: this is a special-occasion steakhouse, not a value spot. The lighter way to experience it is the bar, a starter like the famous bacon, and a shared side rather than a full Wagyu dinner. Many steaks are market price, so ask before ordering. Reservations are strongly recommended and can book out well in advance.",
+  "menu": [
+    {
+      "category": "Steaks",
+      "intro": "USDA Prime, dry-aged and Wagyu cuts. Many are priced at market.",
+      "items": [
+        {
+          "name": "Filet Mignon",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "Center-cut filet (priced at the restaurant)"
+        },
+        {
+          "name": "Bone-In Ribeye",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "USDA Prime bone-in ribeye (market price)"
+        },
+        {
+          "name": "New York Strip",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "Prime New York strip (market price)"
+        },
+        {
+          "name": "Dry-Aged Steak",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "Dry-aged cuts (market price)"
+        },
+        {
+          "name": "Wagyu Selections",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "Domestic and Japanese Wagyu (market price, by the ounce)"
+        }
+      ]
+    },
+    {
+      "category": "Appetizers & Raw Bar",
+      "intro": "The famous bacon and the iced seafood.",
+      "items": [
+        {
+          "name": "Steak 48 Bacon",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "The famous thick-cut bacon appetizer, a signature (priced at the restaurant)"
+        },
+        {
+          "name": "Seafood Tower",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "An iced tower of oysters, crab, shrimp and more (market price)"
+        },
+        {
+          "name": "Tuna or Beef Tartare",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "Hand-cut tartare starters"
+        }
+      ]
+    },
+    {
+      "category": "Seafood & Mains",
+      "intro": "Fresh fish and non-steak mains.",
+      "items": [
+        {
+          "name": "Fresh Fish",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "Seasonal fresh fish (market price)"
+        },
+        {
+          "name": "Lobster",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "Whole or tail lobster (market price)"
+        }
+      ]
+    },
+    {
+      "category": "Sides & Dessert",
+      "intro": "The shareable steakhouse sides and desserts.",
+      "items": [
+        {
+          "name": "Chef's Au Gratin Potatoes",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "The signature au gratin potatoes (priced at the restaurant)"
+        },
+        {
+          "name": "Creamed Corn / Spinach",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "Classic steakhouse sides"
+        },
+        {
+          "name": "Dessert",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "Signature cakes and desserts"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make a Steakhouse Dinner at Home",
+    "intro": "Want a Prime steakhouse dinner at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🥩",
+        "name": "Cast Iron Skillet",
+        "blurb": "For a seared Prime steak.",
+        "amazon_search": "cast iron skillet steak"
+      },
+      {
+        "icon": "🌡️",
+        "name": "Meat Thermometer",
+        "blurb": "For a perfect temperature.",
+        "amazon_search": "instant read meat thermometer"
+      },
+      {
+        "icon": "🥓",
+        "name": "Thick-Cut Bacon",
+        "blurb": "For a Steak-48-style bacon starter.",
+        "amazon_search": "thick cut bacon"
+      },
+      {
+        "icon": "🥔",
+        "name": "Au Gratin Dish",
+        "blurb": "For cheesy au gratin potatoes.",
+        "amazon_search": "au gratin baking dish"
+      }
+    ]
+  },
+  "popular_items": [
+    "Steak 48 Bacon",
+    "Filet Mignon",
+    "Wagyu",
+    "Seafood Tower",
+    "Au Gratin Potatoes"
+  ],
+  "faqs": [
+    {
+      "q": "How much does Steak 48 cost?",
+      "a": "Steak 48 is a high-end ($$$$) steakhouse. Many steaks, including dry-aged and Wagyu cuts, are priced at market and change, so it does not publish a fixed price list. A full dinner with appetizers, sides and wine is a special-occasion bill. Ask for current pricing when you order."
+    },
+    {
+      "q": "What is Steak 48 known for?",
+      "a": "Steak 48 is known for USDA Prime, dry-aged and Wagyu beef, its iced seafood tower, its famous thick-cut bacon appetizer, and chef's au gratin potatoes, served in a glamorous, high-energy dining room. It is an upscale special-occasion steakhouse."
+    },
+    {
+      "q": "Where is Steak 48 located?",
+      "a": "Steak 48 is an upscale steakhouse brand with locations in several major US cities, including Chicago, Houston, Philadelphia, Charlotte, Beverly Hills and others. Each is a destination restaurant rather than a quick-service chain."
+    },
+    {
+      "q": "Do I need a reservation for Steak 48?",
+      "a": "Yes, a reservation is strongly recommended. Steak 48 is a popular, high-end restaurant and can book out well in advance, especially on weekends, so plan ahead through the restaurant or a reservation service."
+    },
+    {
+      "q": "What are the most popular dishes at Steak 48?",
+      "a": "Favorites include the famous Steak 48 bacon appetizer, the filet mignon, the Wagyu cuts, the seafood tower, and the chef's au gratin potatoes."
+    }
+  ],
+  "internal_links": [
+    "peter-luger-menu",
+    "longhorn-steakhouse-menu",
+    "benihana-menu",
+    "amalfi-llama-menu",
+    "sexy-fish-miami-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (mostly no prices or calories, since many cuts are market price and no fixed list is published), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Steak 48."
+  },
+  "_data_notes": {
+    "price_source": "No fixed published price list. Steak 48 is upscale, with many cuts at market price. Dish NAMES are real (USDA Prime/dry-aged/Wagyu steaks, the famous bacon, seafood tower, au gratin potatoes); prices deliberately left blank with a clear disclaimer rather than guessed.",
+    "calories": "Not published and deliberately left blank. Upscale steakhouse, no nutrition guide. Never invent a calorie number. On import, 13 blank prices became 'Varies' (as on Beauty & Essex and Sexy Fish), because the site does not accept an empty price.",
+    "accuracy": "This is a menu GUIDE for a brand-name search, not a priced fast-food menu. The disclaimer states many cuts are market price and no fixed list is published. Always display it.",
+    "hero_image": "Tentative Pexels upscale plated steak (pexels-6542790). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Peter Luger sliced-steak hero.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (upscale steakhouse). Internal-linked to Peter Luger and the other upscale brands. #96 of the expansion list.",
+    "keyword_notes": "Strong brand interest (3.6k). Honest no-price / market-price approach (as approved for thin upscale brands). Sections and FAQ shaped around cost, what it is known for, locations, reservations, popular dishes."
+  }
+}

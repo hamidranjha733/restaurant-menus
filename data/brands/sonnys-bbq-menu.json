@@ -1,0 +1,271 @@
+{
+  "slug": "sonnys-bbq-menu",
+  "brand": "Sonny's BBQ",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/sonnys-bbq-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/4001869/pexels-photo-4001869.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Sonny's BBQ style smoked meats and ribs on a board",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-4001869",
+    "_verify_note": "Tentative hero (smoked BBQ meats). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Sonny's BBQ Menu With Prices (2026)",
+    "meta_description": "Full Sonny's BBQ menu with prices for 2026: pulled pork, sliced brisket, St. Louis & baby back ribs, chicken, sandwiches, Pitmaster platters and family feasts.",
+    "h1": "Sonny's BBQ Menu With Prices (2026)",
+    "primary_keyword": "sonny's bbq menu with prices",
+    "keyword_volume": 6600,
+    "keyword_kd": 2
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Sonny's BBQ publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "Sonny's BBQ is the Southern barbecue chain, founded in Florida in 1968, known for its slow-smoked pulled pork, sliced brisket, St. Louis and baby back ribs, and classic Southern sides. Meals come as sandwiches, 'Signature' plates with two sidekicks and bread, Pitmaster combo platters and big family feasts. Below is the full Sonny's BBQ menu with prices for 2026.",
+  "quick_answer": "At Sonny's BBQ, a pulled pork sandwich is about $4.99 and a Signature pulled pork plate (with two sides and bread) is $9.79. Sliced brisket is $11.89, St. Louis ribs $10.99, and a full slab of baby back ribs $13.49. The Sonny's Sampler platter is $12.89 and a Family Feast for four is $35.79. The slow-smoked pork and ribs are the signatures.",
+  "highlights": [
+    {
+      "strong": "Slow-smoked",
+      "label": "pork, brisket and ribs"
+    },
+    {
+      "strong": "Signature plates",
+      "label": "meat, two sides and bread"
+    },
+    {
+      "strong": "Pitmaster platters",
+      "label": "combo plates"
+    },
+    {
+      "strong": "Family Feast",
+      "label": "serves four, $35.79"
+    }
+  ],
+  "hot_deal": "Sonny's BBQ value: the pulled pork or sliced pork sandwich ($4.99) is the cheapest way in, and lunch plates (around $7.19) are cheaper than the full Signature plates. The Family Feast ($35.79) feeds four with three sides and drinks, the best value for a group. Sonny's also runs weekday specials. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Signature Plates",
+      "intro": "A smoked meat with two sidekicks and bread.",
+      "items": [
+        {
+          "name": "Pulled Pork Plate",
+          "size": "",
+          "price": "$9.79",
+          "calories": "",
+          "desc": "Signature pulled or sliced pork with two sides and bread"
+        },
+        {
+          "name": "Half Chicken Plate",
+          "size": "",
+          "price": "$9.79",
+          "calories": "",
+          "desc": "Smoked half chicken (pulled chicken and smoked turkey also $9.79)"
+        },
+        {
+          "name": "St. Louis Ribs Plate",
+          "size": "",
+          "price": "$10.99",
+          "calories": "",
+          "desc": "St. Louis-cut ribs with two sides and bread"
+        },
+        {
+          "name": "Beef Brisket Plate",
+          "size": "",
+          "price": "$11.89",
+          "calories": "",
+          "desc": "Signature sliced brisket with two sides and bread"
+        },
+        {
+          "name": "Baby Back Ribs (full slab)",
+          "size": "full slab",
+          "price": "$13.49",
+          "calories": "",
+          "desc": "A full slab of baby back ribs with two sides and bread"
+        }
+      ]
+    },
+    {
+      "category": "Sandwiches",
+      "intro": "The smoked-meat sandwiches.",
+      "items": [
+        {
+          "name": "Pulled Pork Sandwich",
+          "size": "",
+          "price": "$4.99",
+          "calories": "",
+          "desc": "Pulled pork on a bun (sliced pork also $4.99)"
+        },
+        {
+          "name": "Smoked Turkey Sandwich",
+          "size": "",
+          "price": "$5.29",
+          "calories": "",
+          "desc": "Smoked turkey sandwich"
+        },
+        {
+          "name": "Beef Brisket Sandwich",
+          "size": "",
+          "price": "$5.89",
+          "calories": "",
+          "desc": "Sliced brisket sandwich (Sweet Carolina also $5.89)"
+        },
+        {
+          "name": "Whole Hog / Smokin' Gun",
+          "size": "",
+          "price": "$6.69",
+          "calories": "",
+          "desc": "Loaded signature sandwiches"
+        }
+      ]
+    },
+    {
+      "category": "Pitmaster Platters & Family",
+      "intro": "Combo platters and family packs.",
+      "items": [
+        {
+          "name": "Ribs & Chicken",
+          "size": "",
+          "price": "$10.89",
+          "calories": "",
+          "desc": "Ribs with chicken (chicken & pork, ribs & wings also $10.89)"
+        },
+        {
+          "name": "Pork 3 Ways",
+          "size": "",
+          "price": "$11.79",
+          "calories": "",
+          "desc": "Pulled, sliced and sandwich pork"
+        },
+        {
+          "name": "Sonny's Sampler",
+          "size": "",
+          "price": "$12.89",
+          "calories": "",
+          "desc": "A sampler of smoked meats, the combo to try it all"
+        },
+        {
+          "name": "Family Feast (serves 4)",
+          "size": "serves 4",
+          "price": "$35.79",
+          "calories": "",
+          "desc": "Meats with three sides and four drinks, feeds four"
+        }
+      ]
+    },
+    {
+      "category": "Sides (Sidekicks)",
+      "intro": "The Southern sides.",
+      "items": [
+        {
+          "name": "Sidekick (single)",
+          "size": "",
+          "price": "$2.39",
+          "calories": "",
+          "desc": "A single side: mac & cheese, BBQ beans, coleslaw, green beans and more"
+        },
+        {
+          "name": "Mac & Cheese (small)",
+          "size": "small",
+          "price": "$3.99",
+          "calories": "",
+          "desc": "Creamy mac and cheese (medium $5.69)"
+        },
+        {
+          "name": "BBQ Beans (small)",
+          "size": "small",
+          "price": "$3.69",
+          "calories": "",
+          "desc": "Sweet BBQ baked beans (coleslaw also $3.69)"
+        },
+        {
+          "name": "Green Beans (small)",
+          "size": "small",
+          "price": "$3.99",
+          "calories": "",
+          "desc": "Southern-style green beans"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Southern BBQ at Home",
+    "intro": "Want slow-smoked pork and ribs at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🍖",
+        "name": "Smoker",
+        "blurb": "For slow-smoked pork and ribs.",
+        "amazon_search": "backyard smoker"
+      },
+      {
+        "icon": "🧂",
+        "name": "BBQ Dry Rub",
+        "blurb": "For pork, brisket and ribs.",
+        "amazon_search": "bbq dry rub"
+      },
+      {
+        "icon": "🥫",
+        "name": "BBQ Sauce Set",
+        "blurb": "Sweet and smoky sauces.",
+        "amazon_search": "bbq sauce variety pack"
+      },
+      {
+        "icon": "🫘",
+        "name": "Baked Bean Mix",
+        "blurb": "For the classic side.",
+        "amazon_search": "bbq baked beans"
+      }
+    ]
+  },
+  "popular_items": [
+    "Pulled Pork",
+    "Baby Back Ribs",
+    "Beef Brisket",
+    "Sonny's Sampler",
+    "St. Louis Ribs"
+  ],
+  "faqs": [
+    {
+      "q": "How much is pulled pork at Sonny's BBQ?",
+      "a": "A pulled pork sandwich is about $4.99 and a Signature pulled pork plate with two sides and bread is $9.79. A lunch plate is around $7.19. Pulled pork is also sold by the pound at $9.79. Prices vary by location."
+    },
+    {
+      "q": "How much are ribs at Sonny's BBQ?",
+      "a": "St. Louis ribs with two sides and bread are about $10.99, and a full slab of baby back ribs is $13.49. Lunch portions are cheaper, around $8.29 to $8.69. Ribs by the pound run about $11.29. Prices vary by location."
+    },
+    {
+      "q": "What is Sonny's BBQ known for?",
+      "a": "Sonny's BBQ, founded in Florida in 1968, is a Southern barbecue chain known for its slow-smoked pulled pork, sliced brisket, St. Louis and baby back ribs, and classic Southern sides, served as plates, sandwiches, combo platters and family feasts."
+    },
+    {
+      "q": "Does Sonny's BBQ list calories?",
+      "a": "Sonny's BBQ publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals depend on the meat, the portion, the sides and the sauce you add."
+    },
+    {
+      "q": "What are the most popular dishes at Sonny's BBQ?",
+      "a": "Favorites include the pulled pork, the baby back ribs, the beef brisket, the Sonny's Sampler platter, and the St. Louis ribs."
+    }
+  ],
+  "internal_links": [
+    "skyline-chili-menu",
+    "golden-corral-menu",
+    "cook-out-menu",
+    "cheddars-menu",
+    "ocharleys-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Sonny's BBQ."
+  },
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. Sonny's BBQ does not prominently publish per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number. On import the 'does not publish' wording in the disclaimer and FAQ was changed to match the site rule (chains with 20+ US locations must post calories, so it publishes nutrition; item calories are simply not reproduced here).",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer. On import the meta description (161 chars, over the 160 limit) was trimmed by changing 'and' to '&'.",
+    "hero_image": "Tentative Pexels smoked BBQ meats (pexels-4001869). NOT visually verified this session; confirm it is appetizing and unbranded (and clearly a BBQ/ribs plate) before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (casual sit-down/counter BBQ restaurant). #94 of the expansion list.",
+    "keyword_notes": "High-volume brand (6.6k). Sections and FAQ shaped by real Sonny's search demand: pulled pork price, rib price, what it is known for, calories question, popular dishes. Sides given as single/small portion prices."
+  }
+}
