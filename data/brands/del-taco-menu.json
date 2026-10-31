@@ -1,0 +1,156 @@
+{
+  "slug": "del-taco-menu",
+  "brand": "Del Taco",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/del-taco-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/3264572/pexels-photo-3264572.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Del Taco style plate of tacos with seasoned meat, cheese and lettuce",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-3264572",
+    "_verify_note": "Tentative hero (a plate of tacos). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Del Taco Menu With Prices & Calories (2026)",
+    "meta_description": "Full Del Taco menu with prices and calories for 2026: tacos, Epic burritos, crinkle-cut fries, quesadillas, the Crunchtada, shakes and the value menu.",
+    "h1": "Del Taco Menu With Prices (2026)",
+    "primary_keyword": "del taco menu with prices",
+    "keyword_volume": 3400,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "Del Taco is the California-born Mexican fast-food chain that mixes tacos, burritos and quesadillas with one thing no other taco chain has: crinkle-cut fries, including the Queso Loaded Fries. The lineup runs from The Del Taco and the value menu to the big Epic Burritos, the Crunchtada tostada and real ice cream shakes. Below is the full Del Taco menu with prices and calories for 2026.",
+
+  "quick_answer": "The Del Taco is about $2.79, a Bean & Cheese Burrito is $2.99, and an Epic Burrito runs $6.99 to $8.89. Crinkle-cut fries are $2.99 medium, Queso Loaded Fries are $4.49, and a shake is $3.99. The value menu has tacos and quesadillas from $1.29. The Del Taco and the crinkle fries are the signatures. The Del Taco is about 300 calories.",
+
+  "highlights": [
+    { "strong": "Crinkle fries", "label": "the only taco chain with them" },
+    { "strong": "$1.29", "label": "value menu tacos" },
+    { "strong": "Epic Burritos", "label": "the big, loaded burritos" },
+    { "strong": "Crunchtada", "label": "the signature tostada" }
+  ],
+
+  "hot_deal": "Del Taco value: the Real Deal$ value menu is the draw, with Snack Tacos, Value Tacos and the Mini Cheddar Quesadilla from $1.29 and a Value Bean & Cheese Burrito at $1.49. The app adds regular deals, and a couple of value items plus fries makes a cheap meal. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Tacos",
+      "intro": "From the signature The Del Taco to street-style tacos. The Del Taco is about 300 cal.",
+      "items": [
+        { "name": "The Del Taco (Crunchy)", "size": "", "price": "$2.79", "calories": "300", "desc": "Seasoned beef, cheddar, lettuce and tomato in a crunchy shell (soft about 290 cal)" },
+        { "name": "Crispy Chicken Taco", "size": "", "price": "$2.39", "calories": "", "desc": "Crispy chicken with lettuce and sauce" },
+        { "name": "Street Taco (Carne Asada)", "size": "", "price": "$2.99", "calories": "", "desc": "Carne asada on a soft corn tortilla with onion and cilantro" },
+        { "name": "Soft Taco", "size": "", "price": "$1.89", "calories": "", "desc": "Seasoned beef in a soft tortilla with cheese and lettuce" }
+      ]
+    },
+    {
+      "category": "Epic Burritos",
+      "intro": "The big, loaded burritos (about 740 to 1,050 cal each).",
+      "items": [
+        { "name": "Epic Cali Steak & Guac", "size": "", "price": "$7.99", "calories": "", "desc": "Carne asada, guacamole, cheese, pico and sour cream" },
+        { "name": "Epic Crispy Chicken & Guac", "size": "", "price": "$8.89", "calories": "", "desc": "Crispy chicken, guacamole, cheese and pico" },
+        { "name": "Epic Carne Asada", "size": "", "price": "$7.49", "calories": "", "desc": "Carne asada loaded burrito" },
+        { "name": "Epic Loaded Queso", "size": "", "price": "$6.99", "calories": "", "desc": "Grilled chicken with queso and fries inside" }
+      ]
+    },
+    {
+      "category": "Classic Burritos & Quesadillas",
+      "intro": "The everyday burritos and quesadillas.",
+      "items": [
+        { "name": "Del Combo Burrito", "size": "", "price": "$4.79", "calories": "", "desc": "Beef, beans, cheese, red sauce and onions" },
+        { "name": "Bean & Cheese Burrito", "size": "", "price": "$2.99", "calories": "510", "desc": "Beans, cheese and red or green sauce (about 500 to 520 cal)" },
+        { "name": "Classic Grilled Chicken Burrito", "size": "", "price": "$4.99", "calories": "", "desc": "Grilled chicken, rice, beans and cheese" },
+        { "name": "Chicken Cheddar Quesadilla", "size": "", "price": "$5.99", "calories": "", "desc": "Grilled chicken and cheddar in a flour tortilla (cheese only $4.99)" }
+      ]
+    },
+    {
+      "category": "Fries, Crunchtada & Shakes",
+      "intro": "The crinkle-cut fries, the Crunchtada and shakes.",
+      "items": [
+        { "name": "Crinkle Cut Fries (Medium)", "size": "medium", "price": "$2.99", "calories": "", "desc": "Signature crinkle-cut fries (small about 160 cal, large 410)" },
+        { "name": "Queso Loaded Fries", "size": "", "price": "$4.49", "calories": "660", "desc": "Crinkle fries topped with queso and more" },
+        { "name": "Crunchtada Tostada", "size": "", "price": "$2.49", "calories": "350", "desc": "A crunchy corn tostada with beans, cheese, lettuce and sauce" },
+        { "name": "Shake (Vanilla / Chocolate / Strawberry)", "size": "regular", "price": "$3.99", "calories": "", "desc": "Real ice cream shake" }
+      ]
+    },
+    {
+      "category": "Value Menu (Real Deal$)",
+      "intro": "The cheapest way to eat, from $1.29.",
+      "items": [
+        { "name": "Snack Taco", "size": "", "price": "$1.29", "calories": "", "desc": "A small seasoned-beef taco" },
+        { "name": "Value Taco", "size": "", "price": "$1.29", "calories": "", "desc": "The classic value taco" },
+        { "name": "Mini Cheddar Quesadilla", "size": "", "price": "$1.29", "calories": "", "desc": "A small cheddar quesadilla" },
+        { "name": "Value Bean & Cheese Burrito", "size": "", "price": "$1.49", "calories": "", "desc": "Beans and cheese in a tortilla, the cheapest burrito" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Del Taco at Home",
+    "intro": "Want tacos with crinkle fries at home? These picks help.",
+    "cards": [
+      { "icon": "🌮", "name": "Taco Seasoning", "blurb": "For seasoned-beef tacos and burritos.", "amazon_search": "taco seasoning" },
+      { "icon": "🥔", "name": "Crinkle Cutter", "blurb": "For Del Taco-style crinkle fries.", "amazon_search": "crinkle cutter fries" },
+      { "icon": "🧀", "name": "Queso Dip", "blurb": "For Queso Loaded Fries at home.", "amazon_search": "queso cheese dip" },
+      { "icon": "🫓", "name": "Tortillas & Taco Shells", "blurb": "Soft and crunchy shells.", "amazon_search": "taco shells tortillas variety" }
+    ]
+  },
+
+  "popular_items": [
+    "The Del Taco",
+    "Epic Burrito",
+    "Crinkle Cut Fries",
+    "Queso Loaded Fries",
+    "Crunchtada Tostada"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is Del Taco known for?",
+      "a": "Del Taco is a Mexican fast-food chain known for pairing tacos, burritos and quesadillas with crinkle-cut fries, including Queso Loaded Fries. The signature items are The Del Taco, the big Epic Burritos and the Crunchtada tostada."
+    },
+    {
+      "q": "How much is a Del Taco?",
+      "a": "The Del Taco is about $2.79, a soft taco is $1.89, and value-menu tacos start at $1.29. Epic Burritos run $6.99 to $8.89, and a Bean & Cheese Burrito is $2.99. The Real Deal$ value menu is the cheapest way to order."
+    },
+    {
+      "q": "Does Del Taco have fries?",
+      "a": "Yes, and it is one of the few taco chains that does. Del Taco serves crinkle-cut fries (small to large) and the loaded version, Queso Loaded Fries, topped with queso. The fries are a signature part of the menu."
+    },
+    {
+      "q": "How many calories are in a Del Taco?",
+      "a": "The crunchy Del Taco is about 300 calories and the soft version about 290. A Bean & Cheese Burrito is around 510, the Crunchtada about 350, and Epic Burritos run 740 to 1,050 depending on the filling."
+    },
+    {
+      "q": "What are the most popular items at Del Taco?",
+      "a": "The best known are The Del Taco, the Epic Burritos, the crinkle-cut fries, the Queso Loaded Fries, and the Crunchtada tostada."
+    }
+  ],
+
+  "internal_links": [
+    "taco-bell-menu",
+    "chipotle-menu",
+    "mcdonalds-menu",
+    "wendys-menu",
+    "kfc-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Del Taco."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). May vary by location.",
+    "calories": "Calories from a Del Taco nutrition source. Epic Burritos and fries noted inline (they vary by filling and size); several items left blank rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels plate of tacos (pexels-3264572). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Chicken & Fast Food' category (shared with Taco Bell etc.). This completes the fast-food brands; dining brands (IHOP, Olive Garden, Outback, LongHorn, Red Lobster, Cheddar's, Twin Peaks) and extras (Krispy Kreme, Costco Food Court) remain.",
+    "keyword_notes": "Sections and FAQ shaped by real Del Taco search demand: what it is known for, taco price, the crinkle fries, calories, popular items."
+  }
+}
