@@ -1,0 +1,144 @@
+{
+  "slug": "in-n-out-menu",
+  "brand": "In-N-Out",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/in-n-out-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/1199960/pexels-photo-1199960.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "In-N-Out style cheeseburger with lettuce, tomato and spread on a soft bun",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-1199960",
+    "_verify_note": "Tentative hero, not visually verified this session. Confirm it is an appetizing, unbranded cheeseburger before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "In-N-Out Menu With Prices & Calories (2026)",
+    "meta_description": "Full In-N-Out menu with prices and calories for 2026: the Double-Double, cheeseburger, hamburger, fries, shakes and the famous secret menu.",
+    "h1": "In-N-Out Menu With Prices (2026)",
+    "primary_keyword": "in n out menu with prices",
+    "keyword_volume": 4800,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location. In-N-Out keeps a short menu and does not frequently change prices. Last updated October 2026.",
+
+  "intro": "In-N-Out is the California burger chain with a famously short menu and a cult following, built on fresh, never-frozen beef, hand-cut fries and real ice cream shakes. The whole menu is the Double-Double, the cheeseburger, the hamburger, fries and shakes, but the not-so-secret menu (Animal Style, 3x3, 4x4, Protein Style and the Flying Dutchman) is half the fun. Below is the full In-N-Out menu with prices and calories for 2026.",
+
+  "quick_answer": "A Double-Double at In-N-Out is about $5.65, a cheeseburger is $3.95, and a hamburger is $3.20. Fries are $2.45, a shake is $3.45, and a Double-Double combo runs about $10.15. Everything can be ordered Animal Style or Protein Style from the secret menu. A Double-Double is about 670 calories.",
+
+  "highlights": [
+    { "strong": "Double-Double", "label": "the signature, about $5.65" },
+    { "strong": "Animal Style", "label": "the secret-menu classic" },
+    { "strong": "Fresh", "label": "never-frozen beef, hand-cut fries" },
+    { "strong": "Protein Style", "label": "lettuce wrap, no bun" }
+  ],
+
+  "hot_deal": "In-N-Out value: prices are low to begin with and the chain runs no app or loyalty deals, which is part of its appeal. The hamburger ($3.20) and cheeseburger ($3.95) are among the cheapest fresh-beef burgers anywhere. The secret menu (Animal Style, Protein Style) costs little to nothing extra. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Burgers",
+      "intro": "The entire burger menu, made to order with fresh beef.",
+      "items": [
+        { "name": "Double-Double", "size": "", "price": "$5.65", "calories": "670", "desc": "Two beef patties, two slices of cheese, lettuce, tomato and spread" },
+        { "name": "Cheeseburger", "size": "", "price": "$3.95", "calories": "480", "desc": "One patty with cheese, lettuce, tomato and spread" },
+        { "name": "Hamburger", "size": "", "price": "$3.20", "calories": "390", "desc": "One patty with lettuce, tomato and spread, no cheese" }
+      ]
+    },
+    {
+      "category": "Fries & Shakes",
+      "intro": "Hand-cut fries and real ice cream shakes.",
+      "items": [
+        { "name": "French Fries", "size": "", "price": "$2.45", "calories": "395", "desc": "Fresh potatoes cut and fried in store (order Animal Style for cheese, spread and onions)" },
+        { "name": "Shake (Chocolate / Vanilla / Strawberry)", "size": "", "price": "$3.45", "calories": "590", "desc": "Real ice cream shake (ask for a Neapolitan to get all three)" }
+      ]
+    },
+    {
+      "category": "Combos & Drinks",
+      "intro": "Meal combos add fries and a drink.",
+      "items": [
+        { "name": "Double-Double Combo", "size": "", "price": "$10.15", "calories": "", "desc": "Double-Double with fries and a drink" },
+        { "name": "Cheeseburger Combo", "size": "", "price": "$8.75", "calories": "", "desc": "Cheeseburger with fries and a drink" },
+        { "name": "Soft Drink (Medium)", "size": "medium", "price": "$2.25", "calories": "", "desc": "Fountain soft drinks" },
+        { "name": "Coffee or Milk", "size": "", "price": "$1.49", "calories": "", "desc": "Hot coffee, milk or a small drink" }
+      ]
+    },
+    {
+      "category": "Not-So-Secret Menu",
+      "intro": "The famous off-menu orders. Prices are the base item plus small add-ons.",
+      "items": [
+        { "name": "3x3 (Three Patties, Three Cheese)", "size": "", "price": "$7.10", "calories": "", "desc": "Three patties and three slices of cheese" },
+        { "name": "4x4 (Four Patties, Four Cheese)", "size": "", "price": "$8.55", "calories": "", "desc": "Four patties and four slices of cheese" },
+        { "name": "Animal Style Burger", "size": "", "price": "$6.15", "calories": "", "desc": "Mustard-cooked patty, extra spread, pickles and grilled onions" },
+        { "name": "Protein Style Burger", "size": "", "price": "$5.65", "calories": "240", "desc": "Any burger wrapped in lettuce instead of a bun (Double-Double Protein Style about 520 cal)" },
+        { "name": "Flying Dutchman", "size": "", "price": "$4.10", "calories": "", "desc": "Two patties and two slices of cheese, no bun or veggies" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make In-N-Out at Home",
+    "intro": "Want a Double-Double and Animal Style fries at home? These picks help.",
+    "cards": [
+      { "icon": "🍔", "name": "Soft Burger Buns", "blurb": "Soft, squishy buns like In-N-Out's.", "amazon_search": "soft hamburger buns" },
+      { "icon": "🍟", "name": "Fry Cutter", "blurb": "Hand-cut fries from fresh potatoes.", "amazon_search": "french fry cutter potato" },
+      { "icon": "🥄", "name": "Burger Spread Kit", "blurb": "For copycat In-N-Out spread (Thousand Island style).", "amazon_search": "thousand island dressing" },
+      { "icon": "📖", "name": "Copycat Fast Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Double-Double",
+    "Cheeseburger",
+    "Animal Style Fries",
+    "Neapolitan Shake",
+    "Protein Style Burger"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a Double-Double at In-N-Out?",
+      "a": "A Double-Double is about $5.65, and a combo with fries and a drink is around $10.15. It is In-N-Out's signature: two patties, two slices of cheese, lettuce, tomato and spread. It is about 670 calories."
+    },
+    {
+      "q": "What is Animal Style at In-N-Out?",
+      "a": "Animal Style is the most famous secret-menu order. On a burger it means a mustard-cooked patty with extra spread, pickles and grilled onions. On fries it adds cheese, spread and grilled onions. It costs little to nothing extra."
+    },
+    {
+      "q": "What is on the In-N-Out secret menu?",
+      "a": "The best-known off-menu orders are Animal Style (burgers and fries), the 3x3 and 4x4 (extra patties and cheese), Protein Style (lettuce wrap instead of a bun), the Flying Dutchman (two patties and cheese, nothing else) and the Neapolitan shake."
+    },
+    {
+      "q": "How many calories are in an In-N-Out burger?",
+      "a": "A hamburger is about 390 calories, a cheeseburger about 480, and a Double-Double about 670. Ordering Protein Style (lettuce wrap) cuts a burger down significantly, and fries are about 395."
+    },
+    {
+      "q": "What are the most popular items at In-N-Out?",
+      "a": "The best known are the Double-Double, the cheeseburger, Animal Style fries, the Neapolitan shake, and Protein Style burgers."
+    }
+  ],
+
+  "internal_links": [
+    "whataburger-menu",
+    "five-guys-menu",
+    "shake-shack-menu",
+    "mcdonalds-menu",
+    "wendys-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > In-N-Out."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (May 2026 sample plus typical ranges). Secret-menu prices are the base item plus small add-ons, approximate. In-N-Out prices vary by location.",
+    "calories": "Calories from In-N-Out's published nutrition (widely cited figures). Shown where a reliable figure exists; combos and some secret-menu items left blank rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels cheeseburger (pexels-1199960). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Burgers & Shakes' category. Sonic, Dairy Queen, Cook Out, Shake Shack and Carl's Jr can follow.",
+    "keyword_notes": "Sections and FAQ shaped by real In-N-Out search demand: Double-Double price, Animal Style, the secret menu, calories, popular items."
+  }
+}
