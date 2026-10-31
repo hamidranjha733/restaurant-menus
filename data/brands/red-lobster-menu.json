@@ -1,0 +1,146 @@
+{
+  "slug": "red-lobster-menu",
+  "brand": "Red Lobster",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/red-lobster-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/28446386/pexels-photo-28446386.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Red Lobster style grilled lobster tail plated with butter",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-28446386",
+    "_verify_note": "Tentative hero (plated lobster tail). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Red Lobster Menu With Prices & Calories (2026)",
+    "meta_description": "Full Red Lobster menu with prices and calories for 2026: the Ultimate Feast, shrimp, lobster tails, snow crab, Cheddar Bay Biscuits, fish and appetizers.",
+    "h1": "Red Lobster Menu With Prices (2026)",
+    "primary_keyword": "red lobster menu with prices",
+    "keyword_volume": 4200,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Some shrimp, lobster and crab items are add-ons to a base plate. Last updated October 2026.",
+
+  "intro": "Red Lobster is the casual seafood chain famous for its warm, free Cheddar Bay Biscuits, the towering Ultimate Feast, shrimp cooked your way, lobster tails, snow crab legs and wood-grilled fish. It is a special-occasion seafood spot built on combos and feasts, with Lobsterfest and Endless Shrimp as its best-known events. Below is the full Red Lobster menu with prices and calories for 2026.",
+
+  "quick_answer": "The Ultimate Feast at Red Lobster is about $43.99, the Admiral's Feast is $26.99, and Walt's Favorite Shrimp surf and turf is $28.99. A dozen Cheddar Bay Biscuits is $7.99, Atlantic Salmon is $24.99, and snow crab legs are a $15.99 add-on. The Cheddar Bay Biscuits and the Ultimate Feast are the signatures. An Ultimate Feast is about 1,080 calories.",
+
+  "highlights": [
+    { "strong": "Cheddar Bay", "label": "the free warm biscuits" },
+    { "strong": "Ultimate Feast", "label": "lobster, crab, shrimp and more" },
+    { "strong": "Shrimp Your Way", "label": "pick two, three or four" },
+    { "strong": "Lobsterfest", "label": "the seasonal lobster event" }
+  ],
+
+  "hot_deal": "Red Lobster value: the Cheddar Bay Biscuits are free and bottomless at the table, and the best-value entrees are the fish like Atlantic Salmon ($24.99) and the Shrimp Your Way (two for about $17). Seasonal events like Endless Shrimp and Lobsterfest are the big draws. Lunch specials run cheaper. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Feasts & Combos",
+      "intro": "The big combination platters Red Lobster is known for.",
+      "items": [
+        { "name": "Ultimate Feast", "size": "", "price": "$43.99", "calories": "1080", "desc": "Maine lobster tail, snow crab, shrimp scampi and fried shrimp" },
+        { "name": "Admiral's Feast", "size": "", "price": "$26.99", "calories": "1290", "desc": "A fried platter of shrimp, scallops, flounder and clam strips" },
+        { "name": "Walt's Favorite Shrimp Surf & Turf", "size": "", "price": "$28.99", "calories": "", "desc": "Hand-breaded shrimp with a sirloin (shrimp alone about 530 cal)" },
+        { "name": "Lobster Lover's Duo", "size": "", "price": "$42.99", "calories": "", "desc": "A Maine lobster tail with lobster-and-shrimp pasta" }
+      ]
+    },
+    {
+      "category": "Shrimp, Lobster & Crab",
+      "intro": "Shrimp your way, lobster tails and snow crab.",
+      "items": [
+        { "name": "Shrimp Your Way (Choose Two)", "size": "", "price": "$17.00", "calories": "", "desc": "Pick two shrimp preparations (three $20, four $25)" },
+        { "name": "Garlic Shrimp Scampi", "size": "", "price": "$8.49", "calories": "230", "desc": "Shrimp in garlic butter (as an add-on; about 230 cal)" },
+        { "name": "Classic Maine Lobster Tail (Add-On)", "size": "", "price": "$20.49", "calories": "", "desc": "A steamed or grilled Maine lobster tail to add to any plate" },
+        { "name": "Snow Crab Legs (Add-On)", "size": "", "price": "$15.99", "calories": "280", "desc": "A pound of snow crab legs with drawn butter" }
+      ]
+    },
+    {
+      "category": "Fish & Appetizers",
+      "intro": "Wood-grilled fish and seafood starters.",
+      "items": [
+        { "name": "Atlantic Salmon", "size": "", "price": "$24.99", "calories": "660", "desc": "Wood-grilled salmon (about 660 cal)" },
+        { "name": "Fish and Chips", "size": "", "price": "$18.49", "calories": "", "desc": "Battered fish with fries" },
+        { "name": "Parrot Isle Jumbo Coconut Shrimp", "size": "", "price": "$13.99", "calories": "", "desc": "Coconut-breaded shrimp with pina colada sauce" },
+        { "name": "Lobster Flatbread", "size": "", "price": "$16.49", "calories": "", "desc": "Flatbread topped with lobster and cheese" }
+      ]
+    },
+    {
+      "category": "Biscuits, Sides & Desserts",
+      "intro": "The famous Cheddar Bay Biscuits and sides.",
+      "items": [
+        { "name": "Cheddar Bay Biscuits (Half Dozen)", "size": "6 biscuits", "price": "$4.99", "calories": "", "desc": "The signature warm biscuits (one about 160 cal; dozen $7.99; free with meals)" },
+        { "name": "New England Clam Chowder (Bowl)", "size": "bowl", "price": "$8.99", "calories": "", "desc": "Creamy New England clam chowder (cup $6.99)" },
+        { "name": "Chesapeake Fries", "size": "", "price": "$4.99", "calories": "", "desc": "Seasoned fries" },
+        { "name": "Baked Potato", "size": "", "price": "$3.99", "calories": "", "desc": "A loaded-ready baked potato side" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Red Lobster at Home",
+    "intro": "Want Cheddar Bay Biscuits and seafood at home? These picks help.",
+    "cards": [
+      { "icon": "🫓", "name": "Cheddar Bay Biscuit Mix", "blurb": "The famous biscuits, from the box.", "amazon_search": "red lobster cheddar bay biscuit mix" },
+      { "icon": "🦞", "name": "Lobster Crackers & Tools", "blurb": "For lobster and crab at home.", "amazon_search": "seafood crackers tools set" },
+      { "icon": "🧄", "name": "Garlic Butter", "blurb": "For shrimp scampi and dipping.", "amazon_search": "garlic butter sauce" },
+      { "icon": "📖", "name": "Copycat Seafood Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Cheddar Bay Biscuits",
+    "Ultimate Feast",
+    "Walt's Favorite Shrimp",
+    "Snow Crab Legs",
+    "Atlantic Salmon"
+  ],
+
+  "faqs": [
+    {
+      "q": "Are the Cheddar Bay Biscuits free at Red Lobster?",
+      "a": "Yes. The warm Cheddar Bay Biscuits are brought to the table free and are bottomless with a meal. You can also order them to take home, about $4.99 for a half dozen and $7.99 for a dozen. Each biscuit is around 160 calories."
+    },
+    {
+      "q": "How much is the Ultimate Feast at Red Lobster?",
+      "a": "The Ultimate Feast is about $43.99 and includes a Maine lobster tail, snow crab legs, shrimp scampi and hand-breaded shrimp. It is the chain's signature big plate, around 1,080 calories before sides and biscuits."
+    },
+    {
+      "q": "What is Shrimp Your Way?",
+      "a": "Shrimp Your Way lets you pick two, three or four shrimp preparations, like garlic scampi, hand-breaded Walt's Favorite and grilled, on one plate. Two is about $17, three $20 and four $25, a flexible way to try several styles."
+    },
+    {
+      "q": "How many calories are in Red Lobster food?",
+      "a": "The Ultimate Feast is about 1,080 calories and the fried Admiral's Feast around 1,290. Lighter picks include wood-grilled salmon (about 660), snow crab legs (280) and garlic shrimp scampi (230). Each Cheddar Bay Biscuit adds about 160."
+    },
+    {
+      "q": "What are the most popular items at Red Lobster?",
+      "a": "The best known are the Cheddar Bay Biscuits, the Ultimate Feast, Walt's Favorite Shrimp, the snow crab legs, and the wood-grilled Atlantic Salmon."
+    }
+  ],
+
+  "internal_links": [
+    "longhorn-steakhouse-menu",
+    "outback-steakhouse-menu",
+    "olive-garden-menu",
+    "cheddars-menu",
+    "cheesecake-factory-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Red Lobster."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (average US locations; may lag current menu). Some shrimp, lobster and crab items are add-ons to a base plate. May vary by location.",
+    "calories": "Calories from a Red Lobster nutrition source. Shown where a reliable figure exists; add-ons and several items left blank or noted inline rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels plated lobster tail (pexels-28446386). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (with the other dining brands). Cheddar's and Twin Peaks remain, plus extras (Krispy Kreme, Costco Food Court).",
+    "keyword_notes": "Sections and FAQ shaped by real Red Lobster search demand: free biscuits, Ultimate Feast price, Shrimp Your Way, calories, popular items."
+  }
+}
