@@ -530,10 +530,6 @@ main.wrap {
   color: var(--muted);
 }
 
-.menu-table .size {
-  white-space: nowrap;
-}
-
 @media (max-width: 480px) {
   .menu-table th,
   .menu-table td {

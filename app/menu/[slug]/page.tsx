@@ -3,7 +3,7 @@ import { AMAZON_ASSOCIATE_TAG } from "@/site.config";
 import { BrandList } from "@/components/BrandList";
 import { Breadcrumbs, JsonLd } from "@/components/Layout";
 import { brandPath, categoryPath, getBrand, getBrands, getCategory, getRelatedBrands } from "@/lib/brands";
-import { brandCrumbs, brandJsonLd, formatCalories, formatDate, pageMetadata, priceNumber } from "@/lib/seo";
+import { brandCrumbs, brandJsonLd, formatCalories, formatDate, itemLabel, pageMetadata, priceNumber } from "@/lib/seo";
 import type { MenuSection } from "@/lib/types";
 
 export const dynamicParams = false;
@@ -161,9 +161,9 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
       ) : null}
 
       {brand.menu.map((section) => {
-        // Size and Calories columns appear only in sections where at least one item has a value.
-        const hasSize = section.items.some((item) => item.size);
-        const hasCalories = section.items.some((item) => item.calories);
+        // No Size column: the size is folded into the item name. Calories get their own column only
+        // when every item in the section has a figure; otherwise known calories go on the sub-line.
+        const caloriesColumn = section.items.every((item) => item.calories);
         return (
           <section key={section.category} aria-labelledby={sectionId(section.category)}>
             <h2 id={sectionId(section.category)}>
@@ -176,8 +176,7 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
                 <thead>
                   <tr>
                     <th scope="col">Item</th>
-                    {hasSize ? <th scope="col">Size</th> : null}
-                    {hasCalories ? (
+                    {caloriesColumn ? (
                       <th scope="col" className="num">
                         Calories
                       </th>
@@ -188,17 +187,21 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
                   </tr>
                 </thead>
                 <tbody>
-                  {section.items.map((item, i) => (
-                    <tr key={`${item.name}-${item.size}-${i}`}>
-                      <th scope="row">
-                        {item.name}
-                        {item.desc ? <span className="item-desc">{item.desc}</span> : null}
-                      </th>
-                      {hasSize ? <td className="size">{item.size}</td> : null}
-                      {hasCalories ? <td className="num">{item.calories ? formatCalories(item.calories) : null}</td> : null}
-                      <td className="price">{item.price}</td>
-                    </tr>
-                  ))}
+                  {section.items.map((item, i) => {
+                    const subLine = [item.desc, !caloriesColumn && item.calories ? `${formatCalories(item.calories)} cal` : ""]
+                      .filter(Boolean)
+                      .join(" · ");
+                    return (
+                      <tr key={`${item.name}-${item.size}-${i}`}>
+                        <th scope="row">
+                          {itemLabel(item.name, item.size)}
+                          {subLine ? <span className="item-desc">{subLine}</span> : null}
+                        </th>
+                        {caloriesColumn ? <td className="num">{formatCalories(item.calories!)}</td> : null}
+                        <td className="price">{item.price}</td>
+                      </tr>
+                    );
+                  })}
                 </tbody>
               </table>
             </div>

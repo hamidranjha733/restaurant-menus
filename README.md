@@ -38,7 +38,7 @@ Add `data/brands/<slug>.json`. The file name must equal `slug`, and the page goe
 | `last_updated` | `YYYY-MM` or `YYYY-MM-DD` |
 | `price_disclaimer` | Shown at the top and bottom of the page |
 | `intro` | Opening paragraph |
-| `menu[]` | `{ category, intro?, note?, items: [{ name, size, price, calories?, desc? }] }`. `size` is `""` when there is one size; `price` is `$12.99`; `calories` is digits only or `""` (never estimate). Size and Calories columns appear only in sections where at least one item has a value; empty cells stay blank. `desc` is a short muted line under the item name. Calories and descriptions go into the Menu JSON-LD. Every brand page also gets a row of jump links, one per menu section |
+| `menu[]` | `{ category, intro?, note?, items: [{ name, size, price, calories?, desc? }] }`. `size` is `""` when there is one size; `price` is `$12.99`; `calories` is digits only or `""` (never estimate). Tables never have empty cells: the size is shown in the item name, e.g. "Hand-Cut Sirloin (6 oz)", and a Calories column appears only when every item in the section has calories; otherwise known calories go on the item's sub-line ("desc · 290 cal"). `desc` is a short muted line under the item name. Calories and descriptions go into the Menu JSON-LD. Every brand page also gets a row of jump links, one per menu section |
 | `quick_answer` | Optional short answer shown in a box above the intro |
 | `hot_deal` | Optional current deal, shown as a callout under the disclaimer |
 | `included_box` | Optional `{ title, rows: [{ label, detail }] }` table, e.g. what comes free with every meal |
