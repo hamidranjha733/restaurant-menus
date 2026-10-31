@@ -1,0 +1,177 @@
+{
+  "slug": "waffle-house-menu",
+  "brand": "Waffle House",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/waffle-house-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/8160967/pexels-photo-8160967.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Waffle House style golden waffle with a scoop of butter and syrup being poured over it",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-8160967"
+  },
+
+  "seo": {
+    "meta_title": "Waffle House Menu With Prices & Calories (2026)",
+    "meta_description": "Full Waffle House menu with prices and calories for 2026: All-Star Special, waffles, hashbrowns scattered and smothered, Texas melts, burgers and sides.",
+    "h1": "Waffle House Menu With Prices (2026)",
+    "primary_keyword": "waffle house menu with prices",
+    "keyword_volume": 6900,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "Waffle House is the 24-hour Southern institution that never closes, famous for its golden waffles, eggs cooked to order and hashbrowns served 'scattered, smothered and covered'. The All-Star Special is the classic order, alongside Texas melts, burgers and bottomless coffee. Below is the full Waffle House menu with prices and calories for 2026.",
+
+  "quick_answer": "Waffle House is the 24-hour Southern diner. The All-Star Special (eggs, a waffle, hashbrowns and a meat) is about $10.30, a classic waffle is $4.30, and the famous hashbrowns start at $2.90, served scattered, smothered and covered. Burgers and Texas melts run about $5 to $6.",
+
+  "highlights": [
+    { "strong": "24/7", "label": "open 365 days, never closes" },
+    { "strong": "$10.30", "label": "All-Star Special" },
+    { "strong": "Scattered", "label": "hashbrowns, your way" },
+    { "strong": "$4.30", "label": "classic waffle" }
+  ],
+
+  "hot_deal": "Waffle House value: the All-Star Special packs eggs, a waffle, hashbrowns and a meat for about $10.30, and the famous hashbrowns start at just $2.90. There's a value dollar menu with Angus burgers too. Waffle House is open 24/7, 365 days a year. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Breakfast & All-Star",
+      "intro": "The All-Star Special is the classic Waffle House plate.",
+      "items": [
+        { "name": "All-Star Special", "size": "", "price": "$10.30", "calories": "1060", "desc": "Two eggs, a waffle, hashbrowns, toast and a meat" },
+        { "name": "Breakfast Hashbrown Bowl", "size": "", "price": "$9.15", "calories": "635", "desc": "Hashbrowns topped with eggs, cheese and your choice of meat" },
+        { "name": "Cheese 'N Eggs with Raisin Toast", "size": "", "price": "$6.15", "calories": "", "desc": "Scrambled cheese eggs with toast" },
+        { "name": "Bacon Texas Cheesesteak Melt with Hashbrowns", "size": "", "price": "$10.15", "calories": "", "desc": "Cheesesteak melt on Texas toast with a side of hashbrowns" }
+      ]
+    },
+    {
+      "category": "Waffles & Eggs",
+      "intro": "The golden waffle is the icon. Add chocolate chips or pecans.",
+      "items": [
+        { "name": "Classic Waffle (Single)", "size": "", "price": "$4.30", "calories": "410", "desc": "The signature golden Waffle House waffle" },
+        { "name": "Classic Waffle (Double)", "size": "double", "price": "$6.25", "calories": "", "desc": "Two classic waffles" },
+        { "name": "Pecan Waffle", "size": "", "price": "$4.75", "calories": "560", "desc": "Waffle made with toasted pecans" },
+        { "name": "Cheese Omelet", "size": "", "price": "$5.75", "calories": "", "desc": "Three-egg omelet with American cheese" },
+        { "name": "Cheesesteak Omelet", "size": "", "price": "$6.80", "calories": "", "desc": "Omelet with grilled steak, onions and cheese" }
+      ]
+    },
+    {
+      "category": "Hashbrowns",
+      "intro": "Order them scattered (on the grill), smothered (onions), covered (cheese), chunked (ham), diced (tomato), peppered (jalapenos), capped (mushrooms), topped (chili) or country (gravy).",
+      "items": [
+        { "name": "Hashbrowns (Single)", "size": "single", "price": "$2.90", "calories": "250", "desc": "A single serving of grilled hashbrowns (plain)" },
+        { "name": "Hashbrowns (Double)", "size": "double", "price": "$3.95", "calories": "", "desc": "A double order of hashbrowns" },
+        { "name": "Hashbrowns (Triple)", "size": "triple", "price": "$4.85", "calories": "", "desc": "A triple order of hashbrowns" },
+        { "name": "Hashbrowns All the Way", "size": "", "price": "$5.30", "calories": "", "desc": "Hashbrowns with every topping" }
+      ]
+    },
+    {
+      "category": "Burgers & Melts",
+      "intro": "Angus burgers and the signature Texas melts.",
+      "items": [
+        { "name": "Angus Hamburger", "size": "", "price": "$5.20", "calories": "", "desc": "Quarter-pound Angus beef burger" },
+        { "name": "Angus Cheeseburger", "size": "", "price": "$5.80", "calories": "", "desc": "Angus burger with American cheese" },
+        { "name": "Texas Bacon Cheesesteak Melt", "size": "", "price": "$5.95", "calories": "", "desc": "Grilled steak with bacon and cheese on Texas toast" },
+        { "name": "Texas Patty Melt", "size": "", "price": "$5.45", "calories": "710", "desc": "Beef patty with grilled onions and cheese on Texas toast" },
+        { "name": "Texas Cheesesteak Melt", "size": "", "price": "$5.40", "calories": "", "desc": "Grilled steak and cheese on Texas toast" }
+      ]
+    },
+    {
+      "category": "Lunch & Dinner",
+      "intro": "Grilled chicken, salads and classic sandwiches.",
+      "items": [
+        { "name": "Grilled Chicken (Side)", "size": "", "price": "$5.20", "calories": "140", "desc": "A grilled chicken breast" },
+        { "name": "Grilled Chicken Salad", "size": "", "price": "$6.20", "calories": "230", "desc": "Garden salad topped with grilled chicken" },
+        { "name": "Grilled Cheese", "size": "", "price": "$2.55", "calories": "", "desc": "Classic grilled cheese sandwich" },
+        { "name": "Texas Bacon Lover's B.L.T.", "size": "", "price": "$4.80", "calories": "", "desc": "Bacon, lettuce and tomato on Texas toast" }
+      ]
+    },
+    {
+      "category": "Sides & Desserts",
+      "intro": "Southern sides and pie.",
+      "items": [
+        { "name": "Bacon (3 strips)", "size": "3 strips", "price": "$3.35", "calories": "", "desc": "Three strips of crispy bacon" },
+        { "name": "Sausage (2 patties)", "size": "2 patties", "price": "$3.35", "calories": "", "desc": "Two sausage patties" },
+        { "name": "Bowl of Grits", "size": "", "price": "$2.90", "calories": "", "desc": "Southern-style grits" },
+        { "name": "Bert's Chili (Regular)", "size": "", "price": "$3.50", "calories": "", "desc": "A bowl of hearty chili" },
+        { "name": "Pecan or Chocolate Pie", "size": "", "price": "$2.55", "calories": "", "desc": "A slice of Southern pecan or triple chocolate pie" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Bottomless coffee and classic diner drinks.",
+      "items": [
+        { "name": "Coffee", "size": "", "price": "$2.45", "calories": "", "desc": "Hot brewed coffee, classic or dark roast" },
+        { "name": "Soft Drinks", "size": "", "price": "$2.45", "calories": "", "desc": "Coca-Cola fountain drinks" },
+        { "name": "Alice's Iced Tea", "size": "", "price": "$2.45", "calories": "", "desc": "Freshly brewed iced tea" },
+        { "name": "Orange Juice (Large)", "size": "large", "price": "$2.65", "calories": "", "desc": "Large orange juice" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Waffle House at Home",
+    "intro": "Want that golden waffle and hashbrowns at home? These picks help you grill and griddle.",
+    "cards": [
+      { "icon": "🧇", "name": "Classic Waffle Maker", "blurb": "Make the signature round waffle at home.", "amazon_search": "classic round waffle maker" },
+      { "icon": "🥔", "name": "Hashbrown Shredder", "blurb": "Shred potatoes for scattered hashbrowns.", "amazon_search": "potato shredder hashbrowns" },
+      { "icon": "🍳", "name": "Flat-Top Griddle", "blurb": "For eggs, hashbrowns and melts.", "amazon_search": "electric flat top griddle" },
+      { "icon": "📖", "name": "Copycat Diner Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "All-Star Special",
+    "Classic Waffle",
+    "Hashbrowns Scattered Smothered Covered",
+    "Texas Bacon Cheesesteak Melt",
+    "Pecan Waffle"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is the All-Star Special at Waffle House?",
+      "a": "The All-Star Special is about $10.30 and includes two eggs, a waffle, hashbrowns, toast and your choice of meat. It is roughly 1,060 calories, the most complete plate on the menu."
+    },
+    {
+      "q": "What does scattered, smothered and covered mean?",
+      "a": "It is how you order hashbrowns at Waffle House. Scattered means spread on the grill, smothered adds onions, covered adds cheese, chunked adds ham, diced adds tomato, peppered adds jalapenos, capped adds mushrooms, topped adds chili and country adds sausage gravy."
+    },
+    {
+      "q": "Is Waffle House open 24/7?",
+      "a": "Yes. Waffle House is famously open 24 hours a day, 365 days a year, including holidays. It is so reliable that FEMA informally tracks the 'Waffle House Index' during storms."
+    },
+    {
+      "q": "How much is a waffle at Waffle House?",
+      "a": "A single classic waffle is about $4.30, a double is around $6.25, and a pecan waffle is about $4.75. You can add chocolate chips or peanut butter for a little more."
+    },
+    {
+      "q": "What are the most popular items at Waffle House?",
+      "a": "The best known are the All-Star Special, the classic waffle, hashbrowns scattered smothered and covered, the Texas Bacon Cheesesteak Melt, and the pecan waffle."
+    }
+  ],
+
+  "internal_links": [
+    "dennys-menu",
+    "cracker-barrel-menu",
+    "first-watch-menu",
+    "applebees-menu",
+    "chilis-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Waffle House."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from established menu-prices publications (typical US pricing; Waffle House prices vary notably by location). Calories from a Waffle House nutrition source.",
+    "calories": "Shown where a reliable single figure exists; Waffle House does not publish calories for every item, so many are left blank. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels golden waffle with butter and syrup image (pexels-8160967), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Waffle House search demand: All-Star Special, scattered smothered covered, 24/7 hours, waffle price, popular items."
+  }
+}
