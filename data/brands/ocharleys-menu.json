@@ -1,0 +1,150 @@
+{
+  "slug": "ocharleys-menu",
+  "brand": "O'Charley's",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/ocharleys-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/33569113/pexels-photo-33569113.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "O'Charley's style crispy chicken tenders with french fries",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-33569113",
+    "_verify_note": "Tentative hero (crispy chicken and fries for the Famous Chicken Tenders). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "O'Charley's Menu With Prices (2026)",
+    "meta_description": "Full O'Charley's menu with prices for 2026: Famous Chicken Tenders, steaks, baby back ribs, salmon, burgers, salads, free rolls and the Ooey Gooey Caramel Pie.",
+    "h1": "O'Charley's Menu With Prices (2026)",
+    "primary_keyword": "o'charley's menu with prices",
+    "keyword_volume": 6600,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. O'Charley's is a casual sit-down restaurant and does not publish full calorie information, so calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "O'Charley's is a casual American sit-down chain across the South and Midwest, known for its Famous Chicken Tenders, steaks and baby back ribs, hand-battered seafood, the free hot yeast rolls brought to every table, and its Famous Pies like the Ooey Gooey Caramel. Below is the full O'Charley's menu with prices for 2026.",
+
+  "quick_answer": "At O'Charley's, the Famous Chicken Tenders dinner is about $13.49, a 6 oz top sirloin $15.99, a half rack of baby back ribs $16.99, and grilled salmon $17.99. Burgers run about $12 to $14, and a slice of the Ooey Gooey Caramel Pie is $5.49. The Famous Chicken Tenders, the free hot rolls and the Famous Pies are the signatures. Prices vary by location.",
+
+  "highlights": [
+    { "strong": "Famous Chicken Tenders", "label": "the signature" },
+    { "strong": "Free hot rolls", "label": "brought to every table" },
+    { "strong": "Steaks & ribs", "label": "sirloin, filet, baby backs" },
+    { "strong": "Ooey Gooey Pie", "label": "the famous caramel pie" }
+  ],
+
+  "hot_deal": "O'Charley's value: the free hot yeast rolls come with every meal, and the $8.99 to $9.99 appetizers plus the Famous Chicken Tenders & Fries ($12.49) are the cheapest ways into a full meal. Family meals and the O'Charley's rewards program drop regular deals, and kids eat from $4.99. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Famous Chicken Tenders",
+      "intro": "The signature hand-breaded tenders, as dinners and combos.",
+      "items": [
+        { "name": "Famous Chicken Tenders & Fries", "size": "", "price": "$12.49", "calories": "", "desc": "The signature tenders with fries" },
+        { "name": "Famous Chicken Tenders Dinner", "size": "", "price": "$13.49", "calories": "", "desc": "Tenders dinner with two sides and rolls" },
+        { "name": "Southern Pecan Chicken Tender Dinner", "size": "", "price": "$14.49", "calories": "", "desc": "Pecan-crusted tenders dinner" },
+        { "name": "Ribs & Chicken Tenders", "size": "", "price": "$20.99", "calories": "", "desc": "A combo of baby back ribs and tenders" }
+      ]
+    },
+    {
+      "category": "Steaks, Ribs & Seafood",
+      "intro": "Steaks, baby back ribs and hand-battered seafood.",
+      "items": [
+        { "name": "Meatloaf", "size": "", "price": "$13.99", "calories": "", "desc": "Home-style meatloaf with gravy" },
+        { "name": "Top Sirloin (6 oz)", "size": "6 oz", "price": "$15.99", "calories": "", "desc": "6 oz top sirloin (12 oz $20.99)" },
+        { "name": "Baby Back Ribs (half)", "size": "half rack", "price": "$16.99", "calories": "", "desc": "Half rack of baby back ribs (full rack $23.98)" },
+        { "name": "Grilled Atlantic Salmon (6 oz)", "size": "6 oz", "price": "$17.99", "calories": "", "desc": "Grilled salmon (9 oz $19.99)" },
+        { "name": "Hand-Battered Fish & Chips", "size": "", "price": "$13.99", "calories": "", "desc": "Hand-battered fish and fries" },
+        { "name": "Filet Mignon", "size": "", "price": "$26.99", "calories": "", "desc": "Filet mignon with garlic butter, the top steak" }
+      ]
+    },
+    {
+      "category": "Burgers, Sandwiches & Salads",
+      "intro": "Burgers, sandwiches and big salads.",
+      "items": [
+        { "name": "Classic Cheeseburger", "size": "", "price": "$11.99", "calories": "", "desc": "The classic cheeseburger" },
+        { "name": "Bacon Cheddar Burger", "size": "", "price": "$12.99", "calories": "", "desc": "Bacon cheddar burger" },
+        { "name": "Chicken Bacon Ranch Sandwich", "size": "", "price": "$13.49", "calories": "", "desc": "Chicken with bacon and ranch" },
+        { "name": "Southern-Fried Chicken Tender Salad", "size": "", "price": "$13.99", "calories": "", "desc": "Tenders over a big salad" },
+        { "name": "Black & Bleu Caesar", "size": "", "price": "$17.99", "calories": "", "desc": "Blackened steak Caesar salad" }
+      ]
+    },
+    {
+      "category": "Soups, Sides, Pies & Kids",
+      "intro": "Soups, sides, the Famous Pies and kids meals.",
+      "items": [
+        { "name": "Loaded Potato Soup", "size": "", "price": "$5.99", "calories": "", "desc": "Loaded baked potato soup" },
+        { "name": "Individual Side", "size": "", "price": "$2.99", "calories": "", "desc": "Fries, mac, green beans and more (loaded sides $3.99)" },
+        { "name": "Ooey Gooey Caramel Pie (slice)", "size": "slice", "price": "$5.49", "calories": "", "desc": "The famous caramel pie (whole $14.99)" },
+        { "name": "Key Lime Pie (slice)", "size": "slice", "price": "$5.49", "calories": "", "desc": "Key lime pie slice (whole $14.99)" },
+        { "name": "Kids Chicken Tenders", "size": "", "price": "$5.99", "calories": "", "desc": "A kids tenders meal (grilled cheese/mac $4.99)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make O'Charley's Favorites at Home",
+    "intro": "Want famous tenders and yeast rolls at home? These picks help.",
+    "cards": [
+      { "icon": "🍗", "name": "Chicken Tender Breading", "blurb": "For hand-breaded tenders.", "amazon_search": "chicken tender breading mix" },
+      { "icon": "🫓", "name": "Yeast Roll Mix", "blurb": "For the famous hot rolls.", "amazon_search": "yeast dinner roll mix" },
+      { "icon": "🍖", "name": "Rib Rack & Rub", "blurb": "For baby back ribs.", "amazon_search": "bbq rib rub" },
+      { "icon": "🥧", "name": "Pie Dish", "blurb": "For a caramel or key lime pie.", "amazon_search": "pie dish" }
+    ]
+  },
+
+  "popular_items": [
+    "Famous Chicken Tenders",
+    "Baby Back Ribs",
+    "Free Hot Rolls",
+    "Ooey Gooey Caramel Pie",
+    "Top Sirloin"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much are the Famous Chicken Tenders at O'Charley's?",
+      "a": "The Famous Chicken Tenders & Fries is about $12.49, and the full Famous Chicken Tenders Dinner with two sides and rolls is $13.49. There are also pecan-crusted and combo versions, and tender salads and wraps around $13.99. Prices vary by location."
+    },
+    {
+      "q": "Does O'Charley's have free rolls?",
+      "a": "Yes. O'Charley's is known for the free hot yeast rolls brought to every table with your meal, a long-standing signature. They come warm and are a big part of the chain's draw."
+    },
+    {
+      "q": "What is the Ooey Gooey Caramel Pie?",
+      "a": "The Ooey Gooey Caramel Pie is O'Charley's most famous dessert, a rich caramel pie. A slice is about $5.49 and a whole pie $14.99 to take home. The Key Lime Pie is priced the same and is the other Famous Pie."
+    },
+    {
+      "q": "Does O'Charley's list calories?",
+      "a": "O'Charley's is a casual sit-down restaurant and does not publish a full calorie guide, so calories are not listed here rather than guessed. The menu is broad, from tenders and salads to steaks and pies, so totals vary a lot."
+    },
+    {
+      "q": "What are the most popular dishes at O'Charley's?",
+      "a": "Favorites include the Famous Chicken Tenders, the baby back ribs, the free hot rolls, the Ooey Gooey Caramel Pie, and the top sirloin steak."
+    }
+  ],
+
+  "internal_links": [
+    "cheddars-menu",
+    "applebees-menu",
+    "longhorn-steakhouse-menu",
+    "ihop-menu",
+    "golden-corral-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since O'Charley's does not publish full nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > O'Charley's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. O'Charley's is a casual sit-down restaurant that does not publish full nutrition. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels crispy chicken and fries (pexels-33569113) for the Famous Chicken Tenders. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Dave's Hot Chicken hero.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (casual full-service restaurant, alongside Cheddar's, Applebee's). Internal link applebees-menu may not exist yet; drop any missing-page link. #82 of the expansion list.",
+    "keyword_notes": "High-volume brand (6.6k). Sections and FAQ shaped by real O'Charley's search demand: Famous Chicken Tenders price, free rolls, the Ooey Gooey Caramel Pie, calories question, popular dishes. Steaks/ribs/salmon given with size alternatives inline."
+  }
+}
