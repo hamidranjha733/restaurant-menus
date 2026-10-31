@@ -1,0 +1,147 @@
+{
+  "slug": "twin-peaks-menu",
+  "brand": "Twin Peaks",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/twin-peaks-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/38836537/pexels-photo-38836537.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Twin Peaks style cheeseburger and fries in a sports bar setting",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-38836537",
+    "_verify_note": "Tentative hero (cheeseburger and fries). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Twin Peaks Menu With Prices (2026)",
+    "meta_description": "Full Twin Peaks menu with prices for 2026: smash burgers, wings, chicken sandwiches, flatbreads, smokehouse ribs, shareable starters, sides and desserts.",
+    "h1": "Twin Peaks Menu With Prices (2026)",
+    "primary_keyword": "twin peaks menu with prices",
+    "keyword_volume": 2600,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Twin Peaks is a sports-bar restaurant and does not publish a full nutrition table, so calorie figures are not listed. Last updated October 2026.",
+
+  "intro": "Twin Peaks is the sports-lodge restaurant chain known for its ice-cold 29-degree draft beer and a scratch-made menu of wings, smash burgers, chicken sandwiches, flatbreads and smokehouse ribs, served across big screens for game day. It leans casual and shareable, with a long list of starters and a full bar. Below is the full Twin Peaks food menu with prices for 2026.",
+
+  "quick_answer": "A Twin Peaks cheeseburger is about $10.29 and the loaded Billionaire's Bacon Burger is $13.29. Six boneless wings are $9.79, a chicken sandwich is $11.29, flatbreads run about $12, and a half rack of ribs is $14.79. The 29-degree draft beer, wings and smash burgers are the draw. Portions are shareable.",
+
+  "highlights": [
+    { "strong": "29-degree beer", "label": "ice-cold draft" },
+    { "strong": "Smash burgers", "label": "and scratch-made wings" },
+    { "strong": "Game day", "label": "sports on every screen" },
+    { "strong": "Smokehouse ribs", "label": "half or full rack" }
+  ],
+
+  "hot_deal": "Twin Peaks value: Happy Hour and game-day specials on the 29-degree draft beers and shareable starters are the draw, and weekday lunch combos run cheaper. Wings by the dozen and the burgers (from about $10.29) feed a hungry table. The full bar means it is more a night-out spot than a quick bite. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Wings",
+      "intro": "Boneless, bone-in and smoked, tossed in your choice of sauce. Priced by count.",
+      "items": [
+        { "name": "Boneless Wings (6 pc)", "size": "6 pieces", "price": "$9.79", "calories": "", "desc": "Breaded boneless wings (12 pc $15.79)" },
+        { "name": "Bone-In Breaded Wings (10 pc)", "size": "10 pieces", "price": "$17.79", "calories": "", "desc": "Classic breaded bone-in wings" },
+        { "name": "Smoked & Grilled Wings (6 pc)", "size": "6 pieces", "price": "$11.29", "calories": "", "desc": "Smoked then grilled bone-in wings" },
+        { "name": "Party Wings (24 pc)", "size": "24 pieces", "price": "$26.79", "calories": "", "desc": "A big shareable order of boneless wings" }
+      ]
+    },
+    {
+      "category": "Burgers & Chicken Sandwiches",
+      "intro": "Smash burgers and chicken sandwiches.",
+      "items": [
+        { "name": "Cheeseburger", "size": "", "price": "$10.29", "calories": "", "desc": "A classic cheeseburger with fries" },
+        { "name": "Avocado Smash Burger", "size": "", "price": "$11.29", "calories": "", "desc": "Smash burger with avocado" },
+        { "name": "Billionaire's Bacon Burger", "size": "", "price": "$13.29", "calories": "", "desc": "Loaded burger with candied bacon" },
+        { "name": "Nashville Hot Chicken Sandwich", "size": "", "price": "$11.29", "calories": "", "desc": "Spicy crispy chicken sandwich" },
+        { "name": "Chicken Ranch Sandwich", "size": "", "price": "$11.29", "calories": "", "desc": "Crispy chicken with ranch" }
+      ]
+    },
+    {
+      "category": "Flatbreads, Ribs & Tenders",
+      "intro": "Shareable flatbreads and smokehouse ribs.",
+      "items": [
+        { "name": "OG Pepperoni Flatbread", "size": "", "price": "$11.99", "calories": "", "desc": "Pepperoni flatbread (Italian and Jalapeno Popper $12.99)" },
+        { "name": "Sweet n' Smoky Ribs (Half Rack)", "size": "half rack", "price": "$14.79", "calories": "", "desc": "Smokehouse ribs with BBQ (full rack $26.29)" },
+        { "name": "Spicy Thai Ribs", "size": "", "price": "$15.99", "calories": "", "desc": "Ribs tossed in a spicy Thai glaze" },
+        { "name": "Chicken Tenders & Fries", "size": "", "price": "$11.49", "calories": "", "desc": "Crispy tenders with fries" }
+      ]
+    },
+    {
+      "category": "Starters, Sides & Desserts",
+      "intro": "Shareable starters, sides and sweets.",
+      "items": [
+        { "name": "Chipotle Queso & Chips", "size": "", "price": "$7.79", "calories": "", "desc": "Warm chipotle queso with chips" },
+        { "name": "Fire Roasted Chips & Salsa", "size": "", "price": "$5.29", "calories": "", "desc": "Chips with fire-roasted salsa" },
+        { "name": "French Fries", "size": "", "price": "$3.50", "calories": "", "desc": "A side of fries (most sides $3.50)" },
+        { "name": "Twin Peaks Sundae", "size": "", "price": "$6.99", "calories": "", "desc": "Ice cream sundae" },
+        { "name": "Cinnamon Toast Crunch Cheesecake", "size": "", "price": "$8.29", "calories": "", "desc": "Cheesecake with a cinnamon crunch topping" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Game-Day Food at Home",
+    "intro": "Want sports-bar food at home? These picks help.",
+    "cards": [
+      { "icon": "🍔", "name": "Burger Smasher", "blurb": "For smash burgers at home.", "amazon_search": "burger smasher press" },
+      { "icon": "🔥", "name": "Wing Sauce Variety", "blurb": "For wings in every flavor.", "amazon_search": "wing sauce variety pack" },
+      { "icon": "🍺", "name": "Chilled Beer Mugs", "blurb": "For ice-cold draft-style beer.", "amazon_search": "frosted beer mugs freezer" },
+      { "icon": "📖", "name": "Copycat Pub Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Wings",
+    "Avocado Smash Burger",
+    "Nashville Hot Chicken Sandwich",
+    "Sweet n' Smoky Ribs",
+    "Flatbreads"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is Twin Peaks known for?",
+      "a": "Twin Peaks is a sports-lodge restaurant known for its ice-cold 29-degree draft beer, scratch-made wings, smash burgers, flatbreads and smokehouse ribs, all served across big screens for game day. It is a night-out sports bar more than a quick-service spot."
+    },
+    {
+      "q": "How much is a burger at Twin Peaks?",
+      "a": "A cheeseburger is about $10.29, the Avocado Smash Burger is $11.29, and the loaded Billionaire's Bacon Burger is $13.29, all served with fries. Chicken sandwiches are around $11.29 and flatbreads about $12."
+    },
+    {
+      "q": "What is 29-degree beer at Twin Peaks?",
+      "a": "Twin Peaks serves its draft beer at 29 degrees Fahrenheit, colder than standard, which the chain markets as its signature ice-cold pour. It is a big part of the Twin Peaks sports-bar experience alongside the food."
+    },
+    {
+      "q": "Does Twin Peaks publish nutrition information?",
+      "a": "Twin Peaks is a sports-bar restaurant and does not publish a full nutrition table, so calorie figures are not listed here. The menu leans toward hearty, shareable pub food, so lighter options are limited."
+    },
+    {
+      "q": "What are the most popular items at Twin Peaks?",
+      "a": "The best known are the wings, the smash burgers, the Nashville Hot Chicken Sandwich, the Sweet n' Smoky ribs, and the flatbreads, all paired with the 29-degree draft beer."
+    }
+  ],
+
+  "internal_links": [
+    "buffalo-wild-wings-menu",
+    "applebees-menu",
+    "chilis-menu",
+    "longhorn-steakhouse-menu",
+    "outback-steakhouse-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no calories, since Twin Peaks publishes none), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Twin Peaks."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). May vary by location.",
+    "calories": "Deliberately left blank. Twin Peaks is a sports-bar restaurant and does not publish a full nutrition table, so none are guessed. The disclaimer and an FAQ state this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer. Page kept food-and-drink focused.",
+    "hero_image": "Tentative Pexels cheeseburger and fries (pexels-38836537). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category. This completes the main casual-dining brands; extras (Krispy Kreme, Costco Food Court, and optional Golden Corral, Hardee's, Tropical Smoothie) remain.",
+    "keyword_notes": "Sections and FAQ shaped by real Twin Peaks search demand: what it is known for, burger price, 29-degree beer, whether nutrition is published, popular items."  }
+}
