@@ -1,0 +1,149 @@
+{
+  "slug": "peets-coffee-menu",
+  "brand": "Peet's Coffee",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/peets-coffee-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/11137171/pexels-photo-11137171.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Peet's Coffee style latte with latte art in a cup",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-11137171",
+    "_verify_note": "Tentative hero (latte with latte art). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Peet's Coffee Menu With Prices & Calories (2026)",
+    "meta_description": "Full Peet's Coffee menu with prices and calories for 2026: lattes, cappuccinos, mochas, cold brew, matcha and chai lattes, espresso drinks and food.",
+    "h1": "Peet's Coffee Menu With Prices (2026)",
+    "primary_keyword": "peet's coffee menu with prices",
+    "keyword_volume": 5400,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and vary by location and size. Peet's publishes nutrition, so confirmed calories are shown where available; iced and blended drinks vary with add-ons. Last updated October 2026.",
+
+  "intro": "Peet's Coffee is the California coffee pioneer, founded in Berkeley in 1966, known for its bold, dark-roast beans and a full cafe menu of espresso drinks, lattes, cold brew, matcha and chai, plus warm sandwiches and baked goods. It is often credited as an inspiration for the modern American coffeehouse. Below is the full Peet's Coffee menu with prices and calories for 2026.",
+
+  "quick_answer": "At Peet's Coffee, a caffe latte is about $5.60 (300 calories), a cappuccino $5.50 (160), and a caffe mocha $6.05 (360). Drip coffee is $3.75, an Americano $4.45, and flavored lattes like caramel or vanilla $6.30. Food runs $4 to $8.35. Peet's bold dark-roast espresso is the signature. Prices and sizes vary by location.",
+
+  "highlights": [
+    { "strong": "Dark roast", "label": "the bold Peet's signature" },
+    { "strong": "Caffe Latte", "label": "$5.60, about 300 cal" },
+    { "strong": "Cold brew", "label": "Baridi and oat lattes" },
+    { "strong": "Matcha & chai", "label": "the tea lattes" }
+  ],
+
+  "hot_deal": "Peet's value: drip coffee ($3.75) and a traditional cappuccino ($4.75) are the cheapest ways in, and Peetnik Rewards (the app) gives a birthday drink, a sign-up reward and points toward free drinks. Oatmeal ($4.70) or a muffin ($4.00) rounds out a cheap breakfast. Prices and sizes vary by location.",
+
+  "menu": [
+    {
+      "category": "Hot Coffee & Espresso",
+      "intro": "Drip coffee and classic espresso drinks.",
+      "items": [
+        { "name": "Drip Coffee", "size": "", "price": "$3.75", "calories": "", "desc": "Featured dark or medium roast, or decaf" },
+        { "name": "Espresso", "size": "", "price": "$3.30", "calories": "10", "desc": "A shot of Peet's bold espresso" },
+        { "name": "Americano", "size": "", "price": "$4.45", "calories": "25", "desc": "Espresso with hot water" },
+        { "name": "Caffe Macchiato", "size": "", "price": "$3.75", "calories": "10", "desc": "Espresso marked with foam" }
+      ]
+    },
+    {
+      "category": "Lattes & Cappuccinos",
+      "intro": "Lattes, flavored lattes and cappuccinos.",
+      "items": [
+        { "name": "Caffe Latte", "size": "", "price": "$5.60", "calories": "300", "desc": "Espresso with steamed milk" },
+        { "name": "Cappuccino", "size": "", "price": "$5.50", "calories": "160", "desc": "Espresso with foamed milk (traditional $4.75, 70 cal)" },
+        { "name": "Caramel Latte", "size": "", "price": "$6.30", "calories": "325", "desc": "Caramel latte (vanilla 370, sugar-free vanilla 125)" },
+        { "name": "Golden Caffe Latte", "size": "", "price": "$6.30", "calories": "240", "desc": "Turmeric golden latte" },
+        { "name": "Havana Cappuccino", "size": "", "price": "$6.25", "calories": "280", "desc": "The sweet Havana cappuccino" }
+      ]
+    },
+    {
+      "category": "Mochas, Tea & Cold Brew",
+      "intro": "Mochas, matcha, chai and cold brew.",
+      "items": [
+        { "name": "Caffe Mocha", "size": "", "price": "$6.05", "calories": "360", "desc": "Espresso with chocolate and milk (white chocolate 230)" },
+        { "name": "Fiery Mocha", "size": "", "price": "$6.75", "calories": "470", "desc": "A spiced mocha, the richest" },
+        { "name": "Matcha Latte", "size": "", "price": "$6.10", "calories": "140", "desc": "Matcha green tea latte" },
+        { "name": "Chai Latte", "size": "", "price": "$5.90", "calories": "160", "desc": "Spiced chai latte (espresso chai $7.05, 200)" },
+        { "name": "Baridi Cold Brew", "size": "", "price": "Varies", "calories": "", "desc": "Peet's cold brew, priced by add-ons and size (iced espresso $3.30)" }
+      ]
+    },
+    {
+      "category": "Food & Bakery",
+      "intro": "Warm sandwiches, baked goods and snacks.",
+      "items": [
+        { "name": "Turkey Bacon & Egg White Sandwich", "size": "", "price": "$6.30", "calories": "240", "desc": "A lighter breakfast sandwich" },
+        { "name": "Chicken & Waffles Sandwich", "size": "", "price": "$7.60", "calories": "540", "desc": "The chicken and waffles breakfast sandwich" },
+        { "name": "All Butter Croissant", "size": "", "price": "$4.35", "calories": "270", "desc": "A flaky butter croissant (almond croissant $5.15, 490)" },
+        { "name": "Blueberry Crumble Muffin", "size": "", "price": "$4.00", "calories": "390", "desc": "A blueberry muffin (brownie $4.00, 360)" },
+        { "name": "Oatmeal", "size": "", "price": "$4.70", "calories": "140", "desc": "Warm oatmeal, the lightest breakfast" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Peet's-Style Coffee at Home",
+    "intro": "Want bold dark-roast coffee at home? These picks help.",
+    "cards": [
+      { "icon": "☕", "name": "Peet's Coffee Beans", "blurb": "The signature dark roast.", "amazon_search": "peets coffee beans dark roast" },
+      { "icon": "🔥", "name": "Espresso Machine", "blurb": "For lattes and cappuccinos.", "amazon_search": "espresso machine home" },
+      { "icon": "🧊", "name": "Cold Brew Maker", "blurb": "For Baridi-style cold brew.", "amazon_search": "cold brew coffee maker" },
+      { "icon": "🍵", "name": "Matcha Whisk Set", "blurb": "For a matcha latte.", "amazon_search": "matcha whisk set" }
+    ]
+  },
+
+  "popular_items": [
+    "Caffe Latte",
+    "Caffe Mocha",
+    "Cappuccino",
+    "Baridi Cold Brew",
+    "Matcha Latte"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a latte at Peet's Coffee?",
+      "a": "A caffe latte is about $5.60 and a flavored latte (caramel, vanilla, golden) about $6.30. A cappuccino is $5.50, a mocha $6.05, and drip coffee $3.75. Prices and sizes vary by location, and the app's Peetnik Rewards drops regular deals."
+    },
+    {
+      "q": "How many calories are in a Peet's latte?",
+      "a": "A caffe latte is about 300 calories, a cappuccino 160, and a caffe mocha 360. Lighter picks include the matcha latte (140) and the sugar-free vanilla latte (125). Peet's publishes nutrition, so you can check each drink and size in store or on the app."
+    },
+    {
+      "q": "What is Peet's Coffee known for?",
+      "a": "Peet's Coffee is known for its bold, dark-roast beans, founded in Berkeley in 1966 by Alfred Peet, and is often credited as an inspiration for the modern American coffeehouse. It is famous for deep-roasted espresso and single-origin coffees."
+    },
+    {
+      "q": "Does Peet's have cold brew?",
+      "a": "Yes. Peet's serves its Baridi cold brew along with iced lattes, oat-milk cold brew lattes, the Black Tie, and iced espresso drinks. Iced and blended drinks are often priced by size and add-ons, so the final price varies."
+    },
+    {
+      "q": "What are the most popular drinks at Peet's Coffee?",
+      "a": "Favorites include the caffe latte, the caffe mocha, the cappuccino, the Baridi cold brew, and the matcha latte."
+    }
+  ],
+
+  "internal_links": [
+    "starbucks-menu",
+    "dunkin-menu",
+    "dutch-bros-menu",
+    "scooters-coffee-menu",
+    "krispy-kreme-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Peet's Coffee."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location and size). Real listed values at time of writing. Iced/blended drinks priced by add-ons, left blank where no single figure applies. On import the blank Baridi Cold Brew price became 'Varies' (the site does not accept an empty price).",
+    "calories": "Confirmed calories shown for espresso drinks, lattes, cappuccinos, mochas, tea lattes and food (Peet's publishes nutrition). Iced/blended drinks and a few items left blank. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and size. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels latte art (pexels-11137171). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the other coffee-brand heroes.",
+    "category_note": "Uses the existing 'Coffee & Drinks' category (coffeehouse, alongside Starbucks, Dunkin, Peet's peers). #83 of the expansion list.",
+    "keyword_notes": "High-volume brand (5.4k). Sections and FAQ shaped by real Peet's search demand: latte price, latte calories, what it is known for, cold brew, popular drinks. One of the few new-list brands with CONFIRMED calories, so they are shown."
+  }
+}
