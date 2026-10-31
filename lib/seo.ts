@@ -41,11 +41,11 @@ export function breadcrumbJsonLd(crumbs: Crumb[]) {
   };
 }
 
-/** Lowercase, with "pcs"/"pieces" as "pc" and "fingers" as "finger", so "2 Pc" and "2 pieces" compare equal. */
+/** Lowercase, with "pcs"/"pieces"/"ct"/"count" as "pc" and "fingers" as "finger", so "2 Pc", "2 ct" and "2 pieces" compare equal. */
 const normalizeSize = (s: string) =>
   s
     .toLowerCase()
-    .replace(/\b(pcs?|pieces?)\b/g, "pc")
+    .replace(/\b(pcs?|pieces?|ct|count)\b/g, "pc")
     .replace(/\bfingers\b/g, "finger")
     .replace(/\s+/g, " ")
     .trim();
