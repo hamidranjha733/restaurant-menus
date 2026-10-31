@@ -1,0 +1,151 @@
+{
+  "slug": "noodles-company-menu",
+  "brand": "Noodles & Company",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/noodles-company-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/2347311/pexels-photo-2347311.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Noodles & Company style noodle bowl",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-2347311",
+    "_verify_note": "Tentative hero (noodle bowl). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Noodles & Company Menu With Prices (2026)",
+    "meta_description": "Full Noodles & Company menu with prices for 2026: Wisconsin Mac & Cheese, Pad Thai, Pesto Cavatappi, Penne Rosa, Japanese Pan Noodles, salads and proteins.",
+    "h1": "Noodles & Company Menu With Prices (2026)",
+    "primary_keyword": "noodles and company menu with prices",
+    "keyword_volume": 9900,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and sizes are approximate, are provided as a guide only, and vary by location. Added proteins are extra. Noodles & Company publishes nutrition, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Noodles & Company is the fast-casual chain built entirely around noodles and pasta, from around the world: American Wisconsin Mac & Cheese, Italian Pesto Cavatappi and Penne Rosa, Thai-style Pad Thai and Japanese Pan Noodles, all made to order with your choice of added protein. Below is the full Noodles & Company menu with prices for 2026.",
+
+  "quick_answer": "At Noodles & Company, a regular Wisconsin Mac & Cheese is about $7.35, Pad Thai $7.75, Pesto Cavatappi $7.50, and Penne Rosa $7.50. Loaded dishes like Crispy Chicken Bacon Alfredo run about $12.95, and added proteins (grilled chicken, steak, shrimp) are $4 to $4.25 extra. Small sizes are about $1 less. The Wisconsin Mac & Cheese and Pad Thai are the signatures.",
+
+  "highlights": [
+    { "strong": "Noodles worldwide", "label": "Italian, Thai, Japanese, American" },
+    { "strong": "Wisconsin Mac", "label": "the signature mac and cheese" },
+    { "strong": "Add a protein", "label": "chicken, steak, shrimp, tofu" },
+    { "strong": "Reg or small", "label": "two sizes on most dishes" }
+  ],
+
+  "hot_deal": "Noodles & Company value: Buttered Noodles ($7.00) and the small sizes (about $1 less than regular) are the cheapest ways in, and Pasta Fresca ($7.25) is a good-value lighter dish. Noodles Rewards and the app drop regular deals, sometimes dishes under $8. Adding a protein is $4 to $4.25. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Noodles & Pasta",
+      "intro": "The core noodle and pasta dishes, regular / small.",
+      "items": [
+        { "name": "Wisconsin Mac & Cheese", "size": "reg / sm", "price": "$7.35 / $6.10", "calories": "", "desc": "The signature creamy cheddar mac" },
+        { "name": "Buttered Noodles", "size": "reg / sm", "price": "$7.00 / $6.00", "calories": "", "desc": "Simple buttered noodles with parmesan" },
+        { "name": "Pad Thai", "size": "reg / sm", "price": "$7.75 / $6.50", "calories": "", "desc": "Rice noodles, egg, peanuts and lime" },
+        { "name": "Pesto Cavatappi", "size": "reg / sm", "price": "$7.50 / $6.25", "calories": "", "desc": "Cavatappi in basil pesto cream" },
+        { "name": "Penne Rosa", "size": "reg / sm", "price": "$7.50 / $6.25", "calories": "", "desc": "Penne in a spicy tomato cream" },
+        { "name": "Japanese Pan Noodles", "size": "reg / sm", "price": "$7.50 / $6.25", "calories": "", "desc": "Udon-style noodles in a sweet soy sauce" }
+      ]
+    },
+    {
+      "category": "Loaded & Specialty Dishes",
+      "intro": "The bigger, protein-loaded noodle dishes.",
+      "items": [
+        { "name": "Chicken Parmesan", "size": "", "price": "$10.95", "calories": "", "desc": "Noodles topped with parmesan-crusted chicken" },
+        { "name": "Spaghetti & Meatballs", "size": "reg / sm", "price": "$11.00 / $10.00", "calories": "", "desc": "Spaghetti with oven-roasted meatballs" },
+        { "name": "Spicy Korean Steak Noodles", "size": "reg / sm", "price": "$12.00 / $10.75", "calories": "", "desc": "Noodles with marinated steak and Korean sauce" },
+        { "name": "Chipotle Chicken Cavatappi", "size": "reg / sm", "price": "$12.50 / $11.25", "calories": "", "desc": "Cavatappi with chicken in chipotle cream" },
+        { "name": "Crispy Chicken Bacon Alfredo", "size": "reg / sm", "price": "$12.95 / $11.70", "calories": "", "desc": "Alfredo noodles with crispy chicken and bacon" },
+        { "name": "Lemon Garlic Shrimp Scampi", "size": "reg / sm", "price": "$12.95 / $11.70", "calories": "", "desc": "Noodles with shrimp in lemon garlic butter" }
+      ]
+    },
+    {
+      "category": "Salads & Soup",
+      "intro": "Entree salads and the chicken noodle soup.",
+      "items": [
+        { "name": "Grilled Chicken Caesar Salad", "size": "", "price": "$10.75", "calories": "", "desc": "Caesar with grilled chicken" },
+        { "name": "Med Salad with Chicken", "size": "", "price": "$11.25", "calories": "", "desc": "Mediterranean salad with chicken" },
+        { "name": "Backyard BBQ Chicken Salad", "size": "", "price": "$11.50", "calories": "", "desc": "BBQ chicken salad" },
+        { "name": "Chicken Noodle Soup", "size": "", "price": "$6.50", "calories": "", "desc": "Classic chicken noodle soup (side $2.85)" }
+      ]
+    },
+    {
+      "category": "Add a Protein & Sides",
+      "intro": "Proteins to add to any dish, plus sides.",
+      "items": [
+        { "name": "Grilled Chicken (add)", "size": "", "price": "$4.00", "calories": "", "desc": "Add grilled chicken (meatballs also $4.00)" },
+        { "name": "Marinated Steak / Shrimp (add)", "size": "", "price": "$4.25", "calories": "", "desc": "Add steak, shrimp or parmesan-crusted chicken ($4.25)" },
+        { "name": "Seasoned Tofu (add)", "size": "", "price": "$3.75", "calories": "", "desc": "Add seasoned tofu, the cheapest protein" },
+        { "name": "Side Wisconsin Mac", "size": "", "price": "$2.85", "calories": "", "desc": "A side of mac and cheese (side Caesar also $2.85)" },
+        { "name": "Baguette", "size": "", "price": "$1.25", "calories": "", "desc": "A toasted baguette side" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Noodle Bowls at Home",
+    "intro": "Want world noodles and mac at home? These picks help.",
+    "cards": [
+      { "icon": "🧀", "name": "Cheddar Cheese Sauce", "blurb": "For Wisconsin-style mac.", "amazon_search": "cheddar cheese sauce mac" },
+      { "icon": "🍜", "name": "Pad Thai Kit", "blurb": "For rice-noodle pad thai.", "amazon_search": "pad thai kit" },
+      { "icon": "🌿", "name": "Basil Pesto", "blurb": "For pesto cavatappi.", "amazon_search": "basil pesto jar" },
+      { "icon": "🥢", "name": "Wok", "blurb": "For stir-fried pan noodles.", "amazon_search": "carbon steel wok" }
+    ]
+  },
+
+  "popular_items": [
+    "Wisconsin Mac & Cheese",
+    "Pad Thai",
+    "Pesto Cavatappi",
+    "Penne Rosa",
+    "Japanese Pan Noodles"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is mac and cheese at Noodles & Company?",
+      "a": "A regular Wisconsin Mac & Cheese is about $7.35 and a small is $6.10. Loaded versions like Buffalo Chicken Mac ($12.10) and BBQ Chicken Mac ($11.85) cost more. A side of mac is $2.85. Prices vary by location."
+    },
+    {
+      "q": "What is Noodles & Company known for?",
+      "a": "Noodles & Company is a fast-casual chain built entirely around noodles and pasta from around the world, from the signature Wisconsin Mac & Cheese to Pad Thai, Pesto Cavatappi, Penne Rosa and Japanese Pan Noodles, each made to order with an optional added protein."
+    },
+    {
+      "q": "How much does it cost to add a protein at Noodles & Company?",
+      "a": "Adding a protein is about $3.75 for seasoned tofu, $4.00 for grilled chicken or meatballs, and $4.25 for marinated steak, shrimp or parmesan-crusted chicken. You can add it to any noodle dish or salad."
+    },
+    {
+      "q": "Does Noodles & Company publish calories?",
+      "a": "Noodles & Company publishes nutrition on its website and in store, but item calories are not reproduced here and are left blank rather than guessed. The chain offers lighter options, smaller sizes, and a build-your-own approach, so totals vary a lot."
+    },
+    {
+      "q": "What are the most popular dishes at Noodles & Company?",
+      "a": "Favorites include the Wisconsin Mac & Cheese, Pad Thai, Pesto Cavatappi, Penne Rosa, and the Japanese Pan Noodles."
+    }
+  ],
+
+  "internal_links": [
+    "panera-menu",
+    "jasons-deli-menu",
+    "chipotle-menu",
+    "newks-eatery-menu",
+    "pf-changs-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Noodles & Company."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing by size; vary by location). Real listed values at time of writing. Added proteins extra.",
+    "calories": "Deliberately left blank. Noodles & Company publishes nutrition, but no reliable item calories were pulled this session, so none are reproduced rather than guessed. Disclaimer and FAQ note this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels noodle bowl (pexels-2347311). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category as the fast-casual lunch catch-all (like Panera, Jason's Deli, Newk's). Internal links chipotle-menu and pf-changs-menu may not exist yet; drop any missing-page link. #81 of the expansion list.",
+    "keyword_notes": "High-volume brand (9.9k). Sections and FAQ shaped by real Noodles & Company search demand: mac and cheese price, what it is known for, protein add-on cost, calories question, popular dishes. Dishes given as regular/small price strings."
+  }
+}
