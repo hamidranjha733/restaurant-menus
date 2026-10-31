@@ -1,0 +1,148 @@
+{
+  "slug": "cheddars-menu",
+  "brand": "Cheddar's Scratch Kitchen",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/cheddars-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/14537709/pexels-photo-14537709.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Cheddar's style comfort food plate with steak and mashed potatoes",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-14537709",
+    "_verify_note": "Tentative hero (comfort-food plate). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Cheddar's Scratch Kitchen Menu With Prices (2026)",
+    "meta_description": "Full Cheddar's Scratch Kitchen menu with prices for 2026: chicken tenders, country fried steak, ribs, Monte Cristo, Honey Butter Croissants, combos and dessert.",
+    "h1": "Cheddar's Scratch Kitchen Menu With Prices (2026)",
+    "primary_keyword": "cheddars menu with prices",
+    "keyword_volume": 2900,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location (lunch and comfort-food sections are often cheaper). Cheddar's publishes an official nutrition guide, but calorie figures are not listed here where they were not confirmed. Last updated October 2026.",
+
+  "intro": "Cheddar's Scratch Kitchen is the casual-dining chain that makes most of its menu from scratch in house, known for big portions at low prices: hand-breaded chicken tenders, country fried steak, baby back ribs, the deep-fried Monte Cristo sandwich, and the warm Honey Butter Croissants that come with every meal. The Legendary Monster Cookie is the dessert everyone shares. Below is the full Cheddar's Scratch Kitchen menu with prices for 2026.",
+
+  "quick_answer": "A chicken tender basket at Cheddar's is about $14.39, country fried steak is $13.79, and a 6 oz top sirloin is $14.49. The Monte Cristo sandwich is $11.79, a classic cheeseburger is $9.49, and Honey Butter Croissants are $1.99. The scratch-made comfort food and low prices are the draw. Portions are large.",
+
+  "highlights": [
+    { "strong": "Made from scratch", "label": "most of the menu, in house" },
+    { "strong": "Honey Butter", "label": "the warm croissants" },
+    { "strong": "Big portions", "label": "for low prices" },
+    { "strong": "Monster Cookie", "label": "the shareable dessert" }
+  ],
+
+  "hot_deal": "Cheddar's value: it is one of the best-value sit-down chains, with comfort-food plates and a weekday lunch that run cheaper (chicken pot pie from about $9.99 at lunch). The Honey Butter Croissants are $1.99, and the combination plates feed a big appetite. The Monster Cookie is made to share. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Comfort Food Entrees",
+      "intro": "The scratch-made plates Cheddar's is known for.",
+      "items": [
+        { "name": "Chicken Tender Basket", "size": "", "price": "$14.39", "calories": "", "desc": "Hand-breaded chicken tenders with fries and toast" },
+        { "name": "Country Fried Steak", "size": "", "price": "$13.79", "calories": "", "desc": "Breaded steak with country gravy and two sides" },
+        { "name": "Homemade Chicken Pot Pie", "size": "", "price": "$12.49", "calories": "", "desc": "Chicken and vegetables under a flaky crust (lunch about $9.99)" },
+        { "name": "Baby Back Ribs (Full Rack)", "size": "full rack", "price": "$16.79", "calories": "", "desc": "Slow-cooked ribs with BBQ sauce" },
+        { "name": "Grilled Salmon", "size": "", "price": "$15.49", "calories": "", "desc": "Seasoned grilled salmon with two sides" }
+      ]
+    },
+    {
+      "category": "Steaks & Combinations",
+      "intro": "Top sirloin steaks and the mix-and-match combos.",
+      "items": [
+        { "name": "6 oz Top Sirloin Steak", "size": "6 oz", "price": "$14.49", "calories": "", "desc": "A seasoned top sirloin (8 oz $16.49)" },
+        { "name": "Top Sirloin & Chicken Tenders", "size": "", "price": "$18.49", "calories": "", "desc": "Steak paired with hand-breaded tenders" },
+        { "name": "Top Sirloin & Ribs", "size": "", "price": "$20.99", "calories": "", "desc": "Steak with a half rack of ribs" },
+        { "name": "Half Rack of Ribs & Chicken Tenders", "size": "", "price": "$19.49", "calories": "", "desc": "Ribs paired with tenders" }
+      ]
+    },
+    {
+      "category": "Sandwiches & Burgers",
+      "intro": "The famous Monte Cristo and the burgers.",
+      "items": [
+        { "name": "Monte Cristo", "size": "", "price": "$11.79", "calories": "", "desc": "A deep-fried ham and cheese sandwich dusted with powdered sugar, with jam" },
+        { "name": "Classic Cheeseburger", "size": "", "price": "$9.49", "calories": "", "desc": "A handmade cheeseburger with fries" },
+        { "name": "Smokehouse Burger", "size": "", "price": "$10.49", "calories": "", "desc": "Cheeseburger with bacon and BBQ sauce" },
+        { "name": "Philly Cheesesteak", "size": "", "price": "$10.99", "calories": "", "desc": "Steak, peppers, onions and cheese on a hoagie" }
+      ]
+    },
+    {
+      "category": "Starters, Sides & Dessert",
+      "intro": "The croissants, starters and the Monster Cookie.",
+      "items": [
+        { "name": "Honey Butter Croissants", "size": "", "price": "$1.99", "calories": "", "desc": "Warm, sweet croissants with honey butter, a signature" },
+        { "name": "Santa Fe Spinach Dip", "size": "", "price": "$9.29", "calories": "", "desc": "Creamy spinach dip with chips" },
+        { "name": "Wisconsin Cheese Bites", "size": "", "price": "$8.49", "calories": "", "desc": "Fried white cheddar cheese bites" },
+        { "name": "Broccoli Cheese Casserole", "size": "", "price": "$2.79", "calories": "", "desc": "A cheesy baked broccoli side" },
+        { "name": "Legendary Monster Cookie", "size": "", "price": "$7.49", "calories": "", "desc": "A giant warm cookie with ice cream, made to share" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Cheddar's at Home",
+    "intro": "Want scratch comfort food at home? These picks help.",
+    "cards": [
+      { "icon": "🫓", "name": "Croissant Dough", "blurb": "For warm honey butter croissants.", "amazon_search": "croissant dough" },
+      { "icon": "🍯", "name": "Honey Butter", "blurb": "The sweet spread for the croissants.", "amazon_search": "honey butter spread" },
+      { "icon": "🍳", "name": "Cast Iron Skillet", "blurb": "For country fried steak and comfort food.", "amazon_search": "cast iron skillet" },
+      { "icon": "📖", "name": "Copycat Comfort Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Honey Butter Croissants",
+    "Chicken Tenders",
+    "Country Fried Steak",
+    "Monte Cristo",
+    "Legendary Monster Cookie"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is Cheddar's Scratch Kitchen known for?",
+      "a": "Cheddar's is known for making most of its menu from scratch in house, serving big portions of comfort food at low prices. The signatures are the Honey Butter Croissants, hand-breaded chicken tenders, country fried steak, the deep-fried Monte Cristo and the Legendary Monster Cookie."
+    },
+    {
+      "q": "How much is a meal at Cheddar's?",
+      "a": "Most comfort-food entrees are about $12 to $17, burgers around $9.50 to $11, and the weekday lunch is cheaper. A chicken tender basket is about $14.39 and country fried steak $13.79. It is one of the best-value sit-down chains."
+    },
+    {
+      "q": "What is the Monte Cristo at Cheddar's?",
+      "a": "The Monte Cristo is a ham and Swiss sandwich battered and deep-fried, then dusted with powdered sugar and served with raspberry jam for dipping. It is a Cheddar's signature, about $11.79, and a sweet-and-savory indulgence."
+    },
+    {
+      "q": "Are the Honey Butter Croissants free at Cheddar's?",
+      "a": "Honey Butter Croissants come warm with most meals and can also be ordered for about $1.99. They are a soft, slightly sweet croissant brushed with honey butter and are one of the most popular things on the menu."
+    },
+    {
+      "q": "What are the most popular items at Cheddar's?",
+      "a": "The best known are the Honey Butter Croissants, the hand-breaded chicken tenders, the country fried steak, the Monte Cristo, and the Legendary Monster Cookie."
+    }
+  ],
+
+  "internal_links": [
+    "longhorn-steakhouse-menu",
+    "texas-roadhouse-menu",
+    "applebees-menu",
+    "chilis-menu",
+    "cracker-barrel-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no calories, since confirmed figures were not available), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Cheddar's Scratch Kitchen."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; lunch and comfort-food sections cheaper). May vary by location.",
+    "calories": "Deliberately left blank. Cheddar's publishes an official nutrition guide, but per-item figures were not reliably confirmed this session, so none are guessed. The disclaimer and FAQ note the official guide exists. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels comfort-food plate (pexels-14537709). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category. Twin Peaks remains, plus extras (Krispy Kreme, Costco Food Court).",
+    "keyword_notes": "Sections and FAQ shaped by real Cheddar's search demand: what it is known for, meal price, the Monte Cristo, Honey Butter Croissants, popular items."
+  }
+}
