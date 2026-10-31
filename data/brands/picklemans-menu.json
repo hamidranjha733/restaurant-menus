@@ -1,0 +1,149 @@
+{
+  "slug": "picklemans-menu",
+  "brand": "Pickleman's Gourmet Cafe",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/picklemans-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/6605340/pexels-photo-6605340.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Pickleman's style toasted sub sandwich on a table",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-6605340",
+    "_verify_note": "Tentative hero (toasted sub sandwich). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Pickleman's Menu With Prices (2026)",
+    "meta_description": "Full Pickleman's Gourmet Cafe menu with prices for 2026: toasted sandwiches, 12-inch pizzas, soups, salads, mac and cheese, cookies and combos.",
+    "h1": "Pickleman's Gourmet Cafe Menu With Prices (2026)",
+    "primary_keyword": "pickleman's menu with prices",
+    "keyword_volume": 2900,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location (third-party delivery listings can run higher). Pickleman's publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Pickleman's Gourmet Cafe is the fast-casual chain, big in college towns, known for its toasted gourmet sandwiches, 12-inch pizzas, soups like the Tomato Basil Bisque, fresh salads, and famously fast delivery. Menu items are numbered, and warm cookies are a staple add-on. Below is the full Pickleman's menu with prices for 2026.",
+
+  "quick_answer": "At Pickleman's, a toasted sandwich runs about $9 to $12 (the #1 Turkey is $9.88, Italian Beef $12.08), a 12-inch cheese pizza is $13.18, and a bowl of Tomato Basil Bisque $8.23. Grilled cheese is the cheapest sandwich at $7.13, and a cookie is about $1.96. The toasted sandwiches and fast delivery are the draw. Prices vary by location.",
+
+  "highlights": [
+    { "strong": "Toasted sandwiches", "label": "the numbered menu" },
+    { "strong": "12-inch pizzas", "label": "cheese to The Hog" },
+    { "strong": "Tomato Basil Bisque", "label": "the signature soup" },
+    { "strong": "Fast delivery", "label": "the college-town draw" }
+  ],
+
+  "hot_deal": "Pickleman's value: the grilled cheese ($7.13) and a cup of soup are the cheapest ways in, and sandwich combo meals start around $9.97 with a side and a drink. Adding a warm cookie (about $1.96) is the classic move. The app and rewards drop occasional deals. Prices vary by location, and delivery listings run higher.",
+
+  "menu": [
+    {
+      "category": "Toasted Sandwiches",
+      "intro": "The numbered gourmet toasted sandwiches.",
+      "items": [
+        { "name": "#16 Grilled Cheese", "size": "", "price": "$7.13", "calories": "", "desc": "The classic grilled cheese, the value pick" },
+        { "name": "#2 Ham", "size": "", "price": "$9.33", "calories": "", "desc": "Ham with cheese, toasted" },
+        { "name": "#1 Turkey", "size": "", "price": "$9.88", "calories": "", "desc": "Turkey with cheese, toasted" },
+        { "name": "#13 B.L.T.C", "size": "", "price": "$9.88", "calories": "", "desc": "Bacon, lettuce, tomato and cheese" },
+        { "name": "#5 Turkey Bacon Club", "size": "", "price": "$10.65", "calories": "", "desc": "Turkey, bacon and the club fixings" },
+        { "name": "#17 Chipotle Chicken", "size": "", "price": "$10.76", "calories": "", "desc": "Chicken with chipotle (Asiago and buffalo chicken also $10.76)" },
+        { "name": "#9 Italian Beef", "size": "", "price": "$12.08", "calories": "", "desc": "Italian beef, the priciest sandwich" }
+      ]
+    },
+    {
+      "category": "Pizzas (12-inch)",
+      "intro": "The 12-inch pizzas, cheese to loaded.",
+      "items": [
+        { "name": "Cheese Pizza", "size": "12 inch", "price": "$13.18", "calories": "", "desc": "Classic cheese pizza" },
+        { "name": "Pepperoni Pizza", "size": "12 inch", "price": "$14.28", "calories": "", "desc": "Pepperoni pizza" },
+        { "name": "Italian Sausage Pizza", "size": "12 inch", "price": "$15.38", "calories": "", "desc": "Italian sausage pizza" },
+        { "name": "BBQ Chicken Pizza", "size": "12 inch", "price": "$17.69", "calories": "", "desc": "BBQ chicken pizza" },
+        { "name": "The Hog", "size": "12 inch", "price": "$23.08", "calories": "", "desc": "The fully loaded meat pizza, the top of the menu" }
+      ]
+    },
+    {
+      "category": "Soups & Sides",
+      "intro": "The signature soups and sides.",
+      "items": [
+        { "name": "Tomato Basil Bisque", "size": "8 oz / 12 oz", "price": "$6.58 / $8.23", "calories": "", "desc": "The signature creamy tomato basil soup" },
+        { "name": "Broccoli Cheese Soup", "size": "12 oz", "price": "$8.23", "calories": "", "desc": "Broccoli cheese soup" },
+        { "name": "Mac & Cheese", "size": "", "price": "$6.91", "calories": "", "desc": "Plain mac and cheese side" },
+        { "name": "Garlic Cheese Bread", "size": "", "price": "$8.23", "calories": "", "desc": "Toasted garlic cheese bread" }
+      ]
+    },
+    {
+      "category": "Cookies, Combos & Drinks",
+      "intro": "Cookies, combos and drinks.",
+      "items": [
+        { "name": "Chocolate Chip Cookie", "size": "", "price": "$1.96", "calories": "", "desc": "A warm cookie, the classic add-on" },
+        { "name": "Sandwich Combo Meal", "size": "", "price": "$9.97", "calories": "", "desc": "A sandwich with a side and a drink, starting around $9.97" },
+        { "name": "Fountain Beverage", "size": "", "price": "$3.28", "calories": "", "desc": "Fountain soda" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Toasted Sandwiches at Home",
+    "intro": "Want toasted gourmet sandwiches at home? These picks help.",
+    "cards": [
+      { "icon": "🥪", "name": "Panini Press", "blurb": "For toasted gourmet sandwiches.", "amazon_search": "panini press grill" },
+      { "icon": "🍅", "name": "Tomato Bisque Base", "blurb": "For a tomato basil bisque.", "amazon_search": "tomato bisque soup" },
+      { "icon": "🍕", "name": "Pizza Stone", "blurb": "For 12-inch pizzas at home.", "amazon_search": "pizza stone oven" },
+      { "icon": "🍪", "name": "Cookie Dough", "blurb": "For warm cookies.", "amazon_search": "chocolate chip cookie dough" }
+    ]
+  },
+
+  "popular_items": [
+    "#1 Turkey",
+    "#9 Italian Beef",
+    "Tomato Basil Bisque",
+    "Cheese Pizza",
+    "Chocolate Chip Cookie"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a sandwich at Pickleman's?",
+      "a": "Toasted sandwiches run about $9 to $12 (the #1 Turkey is $9.88, the #9 Italian Beef $12.08), and the grilled cheese is the cheapest at $7.13. A combo meal with a side and a drink starts around $9.97. Prices vary by location."
+    },
+    {
+      "q": "What is Pickleman's known for?",
+      "a": "Pickleman's Gourmet Cafe is a fast-casual chain, especially popular in college towns, known for its toasted gourmet sandwiches, 12-inch pizzas, soups like the Tomato Basil Bisque, and fast delivery, often late into the night."
+    },
+    {
+      "q": "Does Pickleman's have pizza?",
+      "a": "Yes. Pickleman's serves 12-inch pizzas from a $13.18 cheese up to the loaded meat pizza, The Hog, at $23.08. Pepperoni ($14.28), Italian sausage ($15.38) and BBQ chicken ($17.69) sit in between."
+    },
+    {
+      "q": "Does Pickleman's list calories?",
+      "a": "Pickleman's publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals depend on the sandwich, toppings, pizza size and sides you choose."
+    },
+    {
+      "q": "What are the most popular items at Pickleman's?",
+      "a": "Favorites include the #1 Turkey, the #9 Italian Beef, the Tomato Basil Bisque, the cheese pizza, and the warm chocolate chip cookies."
+    }
+  ],
+
+  "internal_links": [
+    "jimmy-johns-menu",
+    "jersey-mikes-menu",
+    "panera-menu",
+    "jasons-deli-menu",
+    "newks-eatery-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Pickleman's Gourmet Cafe."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication / delivery listings (US pricing; vary by location, delivery higher). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. Pickleman's publishes nutrition information (chains with 20+ US locations must post calories), but item calories were not reproduced rather than guessed. On import the 'does not publish' wording was changed to match the site rule, and the combo price '$9.97+' became '$9.97' (the site does not accept '+'; the description says 'starting around'). Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels toasted sub sandwich (pexels-6605340). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the other sandwich/deli heroes.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (sandwiches + pizza fast-casual, alongside Jimmy John's, Jersey Mike's). #86 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Pickleman's search demand: sandwich price, what it is known for, the pizza, calories question, popular items. Soup given as a two-size price string."
+  }
+}
