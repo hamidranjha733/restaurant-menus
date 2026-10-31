@@ -1,0 +1,147 @@
+{
+  "slug": "auntie-annes-menu",
+  "brand": "Auntie Anne's",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/auntie-annes-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/12101105/pexels-photo-12101105.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Auntie Anne's style warm soft pretzel in a basket",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-12101105",
+    "_verify_note": "Tentative hero (warm soft pretzel). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Auntie Anne's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Auntie Anne's menu with prices and calories for 2026: the Original and Cinnamon Sugar pretzels, pretzel nuggets, pretzel dogs, dips and lemonade.",
+    "h1": "Auntie Anne's Menu With Prices (2026)",
+    "primary_keyword": "auntie anne's menu with prices",
+    "keyword_volume": 4400,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location (mall and airport locations run higher). Auntie Anne's publishes a full nutrition guide, so confirmed calories are shown where available. Last updated October 2026.",
+
+  "intro": "Auntie Anne's is the mall pretzel chain famous for its hand-rolled soft pretzels baked fresh in store, led by the salted Original and the Cinnamon Sugar. Around them sit pretzel nuggets, pretzel dogs, a row of dips, and the fresh-squeezed lemonade and lemonade mixers, plus Cinnabon-branded coffee drinks at many locations. Below is the full Auntie Anne's menu with prices and calories for 2026.",
+
+  "quick_answer": "An Original Pretzel at Auntie Anne's is about $4.59 (340 calories) and a Cinnamon Sugar Pretzel is $5.05 (470 calories). Pretzel nuggets are $6.43 to $7.35, a pretzel dog is $5.05, dips are $1.61 each, and a small lemonade is $4.13. The Original and Cinnamon Sugar pretzels are the icons. Prices run higher at airports.",
+
+  "highlights": [
+    { "strong": "Original Pretzel", "label": "hand-rolled, 340 cal" },
+    { "strong": "Cinnamon Sugar", "label": "the sweet classic, 470 cal" },
+    { "strong": "Pretzel Nuggets", "label": "poppable, for sharing" },
+    { "strong": "Fresh lemonade", "label": "the signature drink" }
+  ],
+
+  "hot_deal": "Auntie Anne's value: the app and Pretzel Perks rewards drop regular deals, a free birthday pretzel and points toward free items, and Pretzel Day (late April) often means a free or discounted Original. The dips at $1.61 are a cheap upgrade, and nuggets are the best way to share. Prices run higher in airports and some malls.",
+
+  "menu": [
+    {
+      "category": "Classic Pretzels",
+      "intro": "The hand-rolled soft pretzels, baked fresh.",
+      "items": [
+        { "name": "Original Pretzel", "size": "", "price": "$4.59", "calories": "340", "desc": "The salted, buttered hand-rolled soft pretzel" },
+        { "name": "Cinnamon Sugar Pretzel", "size": "", "price": "$5.05", "calories": "470", "desc": "Soft pretzel rolled in cinnamon sugar" },
+        { "name": "Jalapeno Pretzel", "size": "", "price": "$4.59", "calories": "", "desc": "The Original with jalapeno for a kick" },
+        { "name": "Pretzel Dog", "size": "", "price": "$5.05", "calories": "", "desc": "A hot dog wrapped in pretzel dough" }
+      ]
+    },
+    {
+      "category": "Pretzel Nuggets & Dogs",
+      "intro": "Poppable nuggets and mini pretzel dogs.",
+      "items": [
+        { "name": "Original Pretzel Nuggets (Small)", "size": "small", "price": "$6.43", "calories": "", "desc": "A small cup of salted pretzel nuggets" },
+        { "name": "Original Pretzel Nuggets (Regular)", "size": "regular", "price": "$7.35", "calories": "", "desc": "A regular tub of pretzel nuggets" },
+        { "name": "Cinnamon Sugar Nuggets (Regular)", "size": "regular", "price": "$7.35", "calories": "", "desc": "Cinnamon sugar pretzel nuggets" },
+        { "name": "Mini Pretzel Dogs", "size": "", "price": "$7.35", "calories": "", "desc": "Bite-size pretzel-wrapped mini dogs" }
+      ]
+    },
+    {
+      "category": "Dips",
+      "intro": "The dips, $1.61 each or a set of six.",
+      "items": [
+        { "name": "Cheese Dip", "size": "", "price": "$1.61", "calories": "", "desc": "Warm cheese dip, the classic" },
+        { "name": "Sweet Glaze / Caramel Dip", "size": "", "price": "$1.61", "calories": "", "desc": "Sweet dips for cinnamon sugar" },
+        { "name": "Honey Mustard / Marinara / Hot Salsa", "size": "", "price": "$1.61", "calories": "", "desc": "Savory dips, each $1.61" },
+        { "name": "Assorted Dip Set (6)", "size": "6 packs", "price": "$11.94", "calories": "", "desc": "A set of six dips" }
+      ]
+    },
+    {
+      "category": "Lemonade & Drinks",
+      "intro": "Fresh-squeezed lemonade, mixers and Cinnabon coffee drinks.",
+      "items": [
+        { "name": "Original Lemonade", "size": "sm / md / lg", "price": "$4.13 / $4.59 / $5.05", "calories": "", "desc": "Fresh-squeezed lemonade, the signature drink" },
+        { "name": "Lemonade Mixer", "size": "sm / md / lg", "price": "$4.59 / $5.05 / $5.51", "calories": "", "desc": "Lemonade mixed with fruit flavors" },
+        { "name": "Frozen Lemonade Mixer", "size": "sm / md / lg", "price": "$5.28 / $7.00 / $7.12", "calories": "", "desc": "Blended frozen lemonade mixer" },
+        { "name": "Fruit Smoothie", "size": "", "price": "$6.39", "calories": "", "desc": "Freshly blended fruit smoothie" },
+        { "name": "Cinnabon Chillatta", "size": "sm / reg", "price": "$5.49 / $5.99", "calories": "", "desc": "Blended Cinnabon coffee drink (at Cinnabon-combo locations)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Soft Pretzels at Home",
+    "intro": "Want hand-rolled soft pretzels at home? These picks help.",
+    "cards": [
+      { "icon": "🥨", "name": "Soft Pretzel Mix", "blurb": "For Auntie Anne's-style soft pretzels.", "amazon_search": "soft pretzel mix" },
+      { "icon": "🧂", "name": "Pretzel Salt", "blurb": "The coarse salt that tops the Original.", "amazon_search": "pretzel salt coarse" },
+      { "icon": "🧈", "name": "Pastry Brush", "blurb": "For the buttered finish.", "amazon_search": "pastry basting brush" },
+      { "icon": "🧀", "name": "Cheese Dip", "blurb": "The classic warm cheese dip.", "amazon_search": "cheese dip pretzel" }
+    ]
+  },
+
+  "popular_items": [
+    "Original Pretzel",
+    "Cinnamon Sugar Pretzel",
+    "Pretzel Nuggets",
+    "Pretzel Dog",
+    "Original Lemonade"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is an Auntie Anne's pretzel?",
+      "a": "An Original Pretzel is about $4.59 and a Cinnamon Sugar Pretzel is $5.05. Pretzel nuggets run $6.43 to $7.35, a pretzel dog is $5.05, and dips are $1.61 each. Prices run higher at airport and some mall locations."
+    },
+    {
+      "q": "How many calories are in an Auntie Anne's pretzel?",
+      "a": "An Original Pretzel is about 340 calories and a Cinnamon Sugar Pretzel about 470. Auntie Anne's publishes a full nutrition guide, so exact figures for each item and dip are available in store and on the app."
+    },
+    {
+      "q": "What is the most popular item at Auntie Anne's?",
+      "a": "The Original Pretzel, hand-rolled and salted with a buttery finish, is the signature and best seller, closely followed by the Cinnamon Sugar Pretzel. Pretzel nuggets are the favorite for sharing, and the fresh-squeezed lemonade is the signature drink."
+    },
+    {
+      "q": "Does Auntie Anne's have a rewards program?",
+      "a": "Yes. Pretzel Perks, through the app, earns points toward free pretzels and drinks, gives a free birthday pretzel, and drops regular deals. Pretzel Day in late April usually brings a free or discounted Original Pretzel."
+    },
+    {
+      "q": "What are the most popular items at Auntie Anne's?",
+      "a": "The best known are the Original Pretzel, the Cinnamon Sugar Pretzel, the pretzel nuggets, the pretzel dog, and the fresh-squeezed Original Lemonade."
+    }
+  ],
+
+  "internal_links": [
+    "krispy-kreme-menu",
+    "cinnabon-menu",
+    "dunkin-menu",
+    "starbucks-menu",
+    "wetzels-pretzels-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Auntie Anne's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location, airports higher). Real listed values at time of writing.",
+    "calories": "Original Pretzel (340) and Cinnamon Sugar Pretzel (470) are confirmed figures. Auntie Anne's publishes a full nutrition guide. Other items left blank rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels soft pretzel (pexels-12101105). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Coffee & Drinks' category, following the Krispy Kreme precedent (sweet/snack treat chain with drinks). Internal links include cinnabon-menu and wetzels-pretzels-menu which may not exist yet; Claude Code can drop any missing-page link. #66 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Auntie Anne's search demand: pretzel price, pretzel calories, most popular item, rewards program, popular items. Lemonade/mixer prices given as per-size strings."
+  }
+}
