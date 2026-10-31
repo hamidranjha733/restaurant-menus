@@ -1,0 +1,145 @@
+{
+  "slug": "151-coffee-menu",
+  "brand": "151 Coffee",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/151-coffee-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/28901490/pexels-photo-28901490.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "151 Coffee style iced coffee drink in a clear cup on a cafe counter",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-28901490",
+    "_verify_note": "Tentative hero (iced coffee drink). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "151 Coffee Menu With Prices (2026)",
+    "meta_description": "151 Coffee menu with prices for 2026: the Texas drive-thru coffee chain's lattes, breves, cold brew, energy drinks, teas and smoothies, by size.",
+    "h1": "151 Coffee Menu With Prices (2026)",
+    "primary_keyword": "151 coffee menu with prices",
+    "keyword_volume": 1200,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary by location. 151 Coffee is a fast-growing Texas drive-thru coffee chain that does not publish a standard national menu with prices, so the prices below are representative drive-thru coffee prices to confirm locally. 151 Coffee does not publish full nutrition information, so calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "151 Coffee is a fast-growing drive-thru coffee chain out of Texas, built for speed with double drive-thru lanes and a wide menu of hot and iced espresso drinks, breves, cold brew, blended freezes, energy drinks, teas and smoothies. Like other new drive-thru coffee brands, it keeps portions generous and leans on customization and seasonal flavors. Below is the 151 Coffee menu with representative prices for 2026.",
+
+  "quick_answer": "151 Coffee is a Texas drive-thru coffee chain where a medium latte runs about $5.25 to $6, a breve is a touch more, cold brew is about $5, and signature energy drinks are around $5.50 to $6.50. Sizes are small, medium and large. 151 Coffee does not publish a national price list or full nutrition, so prices are representative and calories are not listed.",
+
+  "highlights": [
+    { "strong": "Double drive-thru", "label": "built for speed" },
+    { "strong": "Breves & lattes", "label": "the espresso core" },
+    { "strong": "Energy drinks", "label": "the customizable favorites" },
+    { "strong": "Texas-grown", "label": "a fast-expanding chain" }
+  ],
+
+  "hot_deal": "151 Coffee value: the app and rewards program drop regular deals and a birthday reward, and loyalty points add up to free drinks. Like most drive-thru coffee chains, prices vary by location and 151 Coffee does not publish a fixed national price list, so the figures here are representative. Check the app for current pricing and offers.",
+
+  "menu": [
+    {
+      "category": "Espresso & Lattes",
+      "intro": "Hot and iced espresso drinks. Sizes small / medium / large.",
+      "items": [
+        { "name": "Latte", "size": "sm / md / lg", "price": "$4.75 / $5.45 / $6.15", "calories": "", "desc": "Espresso with steamed milk, hot or iced" },
+        { "name": "Breve", "size": "sm / md / lg", "price": "$5.25 / $5.95 / $6.65", "calories": "", "desc": "A latte made with half-and-half for a richer cup" },
+        { "name": "Caramel Macchiato", "size": "sm / md / lg", "price": "$5.25 / $5.95 / $6.65", "calories": "", "desc": "Vanilla, espresso and milk with caramel" },
+        { "name": "Mocha", "size": "sm / md / lg", "price": "$5.25 / $5.95 / $6.65", "calories": "", "desc": "Espresso with chocolate and steamed milk" },
+        { "name": "Americano", "size": "sm / md / lg", "price": "$3.75 / $4.25 / $4.75", "calories": "", "desc": "Espresso shots with water, hot or iced" }
+      ]
+    },
+    {
+      "category": "Cold Brew & Freezes",
+      "intro": "Cold brew and blended frozen drinks.",
+      "items": [
+        { "name": "Cold Brew", "size": "sm / md / lg", "price": "$4.45 / $4.95 / $5.45", "calories": "", "desc": "Slow-steeped cold brew coffee" },
+        { "name": "Sweet Cream Cold Brew", "size": "sm / md / lg", "price": "$5.25 / $5.75 / $6.25", "calories": "", "desc": "Cold brew topped with sweet cream" },
+        { "name": "Coffee Freeze / Blended", "size": "sm / md / lg", "price": "$5.75 / $6.25 / $6.75", "calories": "", "desc": "Blended frozen coffee drink with flavor" }
+      ]
+    },
+    {
+      "category": "Energy Drinks & Refreshers",
+      "intro": "The customizable energy drinks and fruit refreshers.",
+      "items": [
+        { "name": "Signature Energy Drink", "size": "md / lg", "price": "$5.75 / $6.50", "calories": "", "desc": "Energy base with flavor syrups, a drive-thru favorite" },
+        { "name": "Fruit Refresher", "size": "md / lg", "price": "$5.25 / $5.95", "calories": "", "desc": "Fruit-flavored iced refresher" },
+        { "name": "Lemonade", "size": "md / lg", "price": "$4.25 / $4.95", "calories": "", "desc": "Iced lemonade, flavors available" }
+      ]
+    },
+    {
+      "category": "Tea, Smoothies & Extras",
+      "intro": "Teas, smoothies and a few non-coffee picks.",
+      "items": [
+        { "name": "Chai Latte", "size": "sm / md / lg", "price": "$4.95 / $5.45 / $5.95", "calories": "", "desc": "Spiced chai with steamed milk, hot or iced" },
+        { "name": "Iced / Hot Tea", "size": "md / lg", "price": "$3.25 / $3.75", "calories": "", "desc": "Brewed tea, sweet or unsweet" },
+        { "name": "Smoothie", "size": "md / lg", "price": "$5.45 / $5.95", "calories": "", "desc": "Blended fruit smoothie" },
+        { "name": "Hot Chocolate", "size": "sm / md / lg", "price": "$3.95 / $4.45 / $4.95", "calories": "", "desc": "Steamed milk with chocolate, a kid favorite" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Drive-Thru Coffee at Home",
+    "intro": "Want 151-style breves and energy drinks at home? These picks help.",
+    "cards": [
+      { "icon": "☕", "name": "Espresso Machine", "blurb": "For lattes, breves and macchiatos.", "amazon_search": "espresso machine home" },
+      { "icon": "🧊", "name": "Cold Brew Maker", "blurb": "For smooth cold brew.", "amazon_search": "cold brew coffee maker" },
+      { "icon": "🥛", "name": "Half-and-Half & Sweet Cream", "blurb": "The secret to a rich breve.", "amazon_search": "sweet cream coffee creamer" },
+      { "icon": "🍓", "name": "Flavor Syrups", "blurb": "Build energy drinks and refreshers.", "amazon_search": "coffee flavor syrup set" }
+    ]
+  },
+
+  "popular_items": [
+    "Breve",
+    "Signature Energy Drink",
+    "Caramel Macchiato",
+    "Sweet Cream Cold Brew",
+    "Fruit Refresher"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a drink at 151 Coffee?",
+      "a": "A medium latte is about $5.25 to $6, a breve a little more, cold brew around $5, and a signature energy drink about $5.75 to $6.50. 151 Coffee does not publish a fixed national price list, so prices vary by location. The app often has deals and a loyalty reward."
+    },
+    {
+      "q": "What is 151 Coffee known for?",
+      "a": "151 Coffee is a Texas drive-thru coffee chain built for speed with double drive-thru lanes, known for its breves, customizable energy drinks, cold brew and blended freezes. It is one of the fast-growing new drive-thru coffee brands, similar in style to 7 Brew and Scooter's."
+    },
+    {
+      "q": "Does 151 Coffee have energy drinks?",
+      "a": "Yes. The customizable signature energy drinks, built on an energy base with fruit and flavor syrups over ice, are among the most popular orders, usually about $5.75 for a medium and $6.50 for a large."
+    },
+    {
+      "q": "Does 151 Coffee publish calories?",
+      "a": "151 Coffee does not publish full nutrition information for its drinks, so calorie counts are not listed here rather than guessed. Calories depend heavily on the milk, syrups and sweet cream you add, so a custom drink can vary a lot."
+    },
+    {
+      "q": "What are the most popular items at 151 Coffee?",
+      "a": "The best known are the breve, the signature energy drinks, the caramel macchiato, the sweet cream cold brew, and the fruit refreshers."
+    }
+  ],
+
+  "internal_links": [
+    "7-brew-menu",
+    "scooters-coffee-menu",
+    "dutch-bros-menu",
+    "starbucks-menu",
+    "dunkin-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since 151 Coffee does not publish nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > 151 Coffee."
+  },
+
+  "_data_notes": {
+    "price_source": "151 Coffee does not publish a standard national menu with prices. Prices here are REPRESENTATIVE drive-thru coffee prices by size, to confirm locally. Vary by location. Same honest approach as 7 Brew.",
+    "calories": "Deliberately left blank. 151 Coffee does not publish full nutrition, and custom drive-thru drinks vary widely with milk, syrups and sweet cream. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are representative/approximate and vary by location. Always display the disclaimer noting prices are representative and no national price list is published.",
+    "hero_image": "Tentative Pexels iced coffee (pexels-28901490). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Coffee & Drinks' category, alongside 7 Brew, Scooter's and Dutch Bros. First brand of the new ~47-brand expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by drive-thru coffee search demand: drink prices, what it is known for, energy drinks, calories question, popular items. Per-size price strings like the 7 Brew / Scooter's files."
+  }
+}
