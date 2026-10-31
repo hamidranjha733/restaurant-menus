@@ -1,0 +1,159 @@
+{
+  "slug": "subway-menu",
+  "brand": "Subway",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/subway-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/28396784/pexels-photo-28396784.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Subway style submarine sandwich with ham, cheese, tomato and fresh veggies on a plate",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-28396784"
+  },
+
+  "seo": {
+    "meta_title": "Subway Menu With Prices & Calories (2026)",
+    "meta_description": "Full Subway menu with prices and calories for 2026: footlong and 6-inch subs, Subway Series, wraps, No Bready Bowls, breakfast, cookies and drinks.",
+    "h1": "Subway Menu With Prices (2026)",
+    "primary_keyword": "subway menu with prices",
+    "keyword_volume": 5300,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "Subway is the build-your-own sandwich giant, where you pick a 6-inch or footlong, choose your bread, protein and toppings, and watch it made to order. The Subway Series signature subs took the guesswork out, and No Bready Bowls, wraps and salads round it out. Below is the full Subway menu with prices and calories for 2026.",
+
+  "quick_answer": "A 6-inch Subway sub runs about $5.29 to $6.99 and a footlong about $7.99 to $10.49, depending on the filling. The Subway Series signature subs are roughly $12 to $15. The Meatball Marinara footlong is 1,040 calories, while a 6-inch Veggie Delite is just 230. Everything is built to order.",
+
+  "highlights": [
+    { "strong": "Footlong", "label": "or 6-inch, your choice" },
+    { "strong": "Series", "label": "numbered signature subs" },
+    { "strong": "$5.29+", "label": "6-inch value subs" },
+    { "strong": "Made", "label": "fresh to order" }
+  ],
+
+  "hot_deal": "Subway value: the chain has leaned into footlong value meals and app-only deals, including $6.99 footlongs on select subs and footlong-plus-sides bundles. The 6-inch Veggie Delite ($5.29) and Black Forest Ham ($5.99) are the cheapest subs, and the Subway Series is the premium tier. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Subway Series (Signature Subs)",
+      "intro": "The numbered signature subs, built and named for you. One size, loaded.",
+      "items": [
+        { "name": "The Boss", "size": "", "price": "$12.18", "calories": "510", "desc": "Pepperoni, meatballs, marinara and mozzarella" },
+        { "name": "The Philly", "size": "", "price": "$13.78", "calories": "505", "desc": "Steak, cheese, onions and peppers" },
+        { "name": "The Ultimate B.M.T.", "size": "", "price": "$12.78", "calories": "560", "desc": "Genoa salami, pepperoni and ham with cheese" },
+        { "name": "The Monster", "size": "", "price": "$14.28", "calories": "540", "desc": "Double pepperoni, salami, ham and bacon" },
+        { "name": "The MexiCali", "size": "", "price": "$13.78", "calories": "510", "desc": "Rotisserie chicken with pepper jack and baja chipotle" },
+        { "name": "All-American Club", "size": "", "price": "$14.28", "calories": "540", "desc": "Turkey, ham and bacon with cheese" }
+      ]
+    },
+    {
+      "category": "Classic Subs",
+      "intro": "Build your own in 6-inch or footlong. Calories shown are for the 6-inch.",
+      "items": [
+        { "name": "Meatball Marinara", "size": "6in / footlong", "price": "$6.99 / $10.49", "calories": "520", "desc": "Meatballs in marinara with cheese (footlong about 1,040 cal)" },
+        { "name": "Oven-Roasted Turkey", "size": "6in / footlong", "price": "$5.99 / $9.69", "calories": "310", "desc": "Sliced turkey with your choice of toppings (footlong about 620 cal)" },
+        { "name": "Tuna", "size": "6in / footlong", "price": "$6.29 / $8.79", "calories": "517", "desc": "Creamy tuna salad (footlong about 1,034 cal)" },
+        { "name": "Steak & Cheese", "size": "6in / footlong", "price": "$6.99 / $10.49", "calories": "360", "desc": "Steak with melted cheese (footlong about 720 cal)" },
+        { "name": "Veggie Delite", "size": "6in / footlong", "price": "$5.29 / $7.99", "calories": "230", "desc": "Fresh veggies, the lightest sub (footlong about 460 cal)" },
+        { "name": "Black Forest Ham", "size": "6in", "price": "$5.99", "calories": "320", "desc": "Sliced Black Forest ham with toppings" },
+        { "name": "Cold Cut Combo", "size": "6in", "price": "$5.99", "calories": "370", "desc": "Turkey-based ham, salami and bologna" }
+      ]
+    },
+    {
+      "category": "Wraps & No Bready Bowls",
+      "intro": "The same fillings in a wrap or a bowl (no bread).",
+      "items": [
+        { "name": "Italian B.M.T. Wrap", "size": "", "price": "$10.49", "calories": "490", "desc": "BMT fillings in a tortilla wrap" },
+        { "name": "Steak & Cheese Wrap", "size": "", "price": "$10.49", "calories": "500", "desc": "Steak and cheese in a wrap" },
+        { "name": "Meatball Marinara Bowl", "size": "", "price": "$10.29", "calories": "520", "desc": "No Bready Bowl with meatballs and marinara" },
+        { "name": "Oven-Roasted Turkey Bowl", "size": "", "price": "$9.29", "calories": "170", "desc": "Turkey bowl with no bread, only 170 cal" }
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "intro": "6-inch breakfast subs, served in the morning.",
+      "items": [
+        { "name": "Egg & Cheese (6in)", "size": "6in", "price": "$4.49", "calories": "380", "desc": "Egg and cheese on your choice of bread" },
+        { "name": "Bacon, Egg & Cheese (6in)", "size": "6in", "price": "$4.99", "calories": "450", "desc": "Bacon, egg and cheese sub" },
+        { "name": "Steak, Egg & Cheese (6in)", "size": "6in", "price": "$5.99", "calories": "450", "desc": "Steak, egg and cheese sub" }
+      ]
+    },
+    {
+      "category": "Sides & Drinks",
+      "intro": "Cookies, chips and drinks to complete the meal.",
+      "items": [
+        { "name": "Chocolate Chip Cookie", "size": "", "price": "$0.89", "calories": "210", "desc": "A warm, soft chocolate chip cookie" },
+        { "name": "Cookies (12 count)", "size": "12 cookies", "price": "$5.99", "calories": "", "desc": "A box of a dozen cookies to share" },
+        { "name": "Lay's Classic Chips", "size": "", "price": "$1.79", "calories": "230", "desc": "A bag of chips" },
+        { "name": "Apple Slices", "size": "", "price": "$1.79", "calories": "35", "desc": "Fresh apple slices" },
+        { "name": "Fountain Drink (Medium)", "size": "medium", "price": "$2.99", "calories": "", "desc": "Coca-Cola fountain drinks" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Subway at Home",
+    "intro": "Want to build your own subs at home? These picks help with bread, meats and that cookie.",
+    "cards": [
+      { "icon": "🥖", "name": "Sub Rolls", "blurb": "Fresh hoagie rolls for footlong subs.", "amazon_search": "hoagie sub rolls" },
+      { "icon": "🥪", "name": "Deli Meats Variety", "blurb": "Ham, turkey, salami and more.", "amazon_search": "deli meat variety pack" },
+      { "icon": "🍪", "name": "Cookie Dough", "blurb": "Bake the famous soft cookies at home.", "amazon_search": "chocolate chip cookie dough" },
+      { "icon": "📖", "name": "Copycat Sandwich Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Italian B.M.T.",
+    "Meatball Marinara",
+    "Steak & Cheese",
+    "Oven-Roasted Turkey",
+    "Veggie Delite"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a footlong at Subway?",
+      "a": "A footlong sub runs about $7.99 to $10.49 depending on the filling, with the Veggie Delite the cheapest and Meatball Marinara and Steak & Cheese at the top. The 6-inch versions are a few dollars less."
+    },
+    {
+      "q": "What is the difference between a 6-inch and a footlong?",
+      "a": "A footlong is a full 12-inch sub, essentially two 6-inch subs, and has roughly double the calories. A 6-inch is the half size and the cheaper, lighter option."
+    },
+    {
+      "q": "What is the Subway Series?",
+      "a": "The Subway Series is a lineup of numbered, pre-built signature subs like The Boss, The Philly and The Ultimate B.M.T., so you can order a popular combination by name instead of building your own."
+    },
+    {
+      "q": "What is the healthiest sub at Subway?",
+      "a": "The 6-inch Veggie Delite (about 230 calories) and the Oven-Roasted Turkey (about 310) are the lightest. The No Bready Bowls, like the turkey bowl at 170 calories, drop even more by skipping the bread."
+    },
+    {
+      "q": "What are the most popular items at Subway?",
+      "a": "The best known are the Italian B.M.T., Meatball Marinara, Steak & Cheese, Oven-Roasted Turkey, and the Veggie Delite, along with the warm chocolate chip cookies."
+    }
+  ],
+
+  "internal_links": [
+    "mcdonalds-menu",
+    "chick-fil-a-menu",
+    "chipotle-menu",
+    "taco-bell-menu",
+    "wendys-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Subway."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from Subway nutrition sources.",
+    "calories": "Classic subs show 6-inch calories with the footlong noted in the description. Most items have figures; a few are left blank. Figures vary by bread and toppings. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location, bread and toppings. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels submarine sandwich image (pexels-28396784), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Subway search demand: footlong price, 6-inch vs footlong, Subway Series, healthiest sub, popular subs."
+  }
+}
