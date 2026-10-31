@@ -37,10 +37,11 @@ Add `data/brands/<slug>.json`. The file name must equal `slug`, and the page goe
 | `seo.h1` | Page heading |
 | `last_updated` | `YYYY-MM` or `YYYY-MM-DD` |
 | `price_disclaimer` | Shown at the top and bottom of the page |
-| `intro` | Opening paragraph |
+| `intro` | Opening paragraph, under the heading "<Brand> Menu Prices at a Glance" |
 | `menu[]` | `{ category, intro?, note?, items: [{ name, size, price, calories?, desc? }] }`. `size` is `""` when there is one size; `price` is `$12.99`; `calories` is digits only or `""` (never estimate). Tables never have empty cells: the size is shown in the item name, e.g. "Hand-Cut Sirloin (6 oz)", and a Calories column appears only when every item in the section has calories; otherwise known calories go on the item's sub-line ("desc · 290 cal"). `desc` is a short muted line under the item name. Calories and descriptions go into the Menu JSON-LD. Every brand page also gets a row of jump links, one per menu section |
-| `quick_answer` | Optional short answer shown in a box above the intro |
-| `hot_deal` | Optional current deal, shown as a callout under the disclaimer |
+| `highlights` | Optional `[{ strong, label }]`, shown as pills under the hero (`strong` in bold accent) |
+| `quick_answer` | Optional short answer shown in a box after the intro, inside "<Brand> Menu Prices at a Glance" |
+| `hot_deal` | Optional current deal, shown as a callout under the jump tabs |
 | `included_box` | Optional `{ title, rows: [{ label, detail }] }` table, e.g. what comes free with every meal |
 | `hero_image` | Optional `{ url, alt, credit? }`. Full-width banner with the breadcrumb and H1 over it. `url` must be https and is loaded by the visitor's browser (e.g. the Pexels CDN), never downloaded at build time |
 | `make_at_home` | Optional `{ title, intro?, cards: [{ icon?, name, blurb, amazon_search }] }`. `icon` is an emoji shown large on the card. Each card links to an Amazon search with `rel="sponsored nofollow"`. Set `AMAZON_ASSOCIATE_TAG` in `site.config.ts` to add your tracking ID and show the Amazon disclosure |

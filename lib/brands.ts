@@ -53,6 +53,10 @@ function validate(b: Brand, file: string): string[] {
     need(b.included_box.title && b.included_box.rows?.length, "included_box needs a title and at least one row");
     for (const row of b.included_box.rows ?? []) need(row.label && row.detail, "every included_box row needs label and detail");
   }
+  if (b.highlights !== undefined) {
+    need(Array.isArray(b.highlights), "highlights must be a list");
+    for (const h of Array.isArray(b.highlights) ? b.highlights : []) need(h?.strong && h?.label, "every highlight needs strong and label");
+  }
   if (b.hero_image) {
     need(/^https:\/\/\S+$/.test(b.hero_image.url ?? ""), "hero_image.url must start with https://");
     need(b.hero_image.alt, "hero_image.alt is required");

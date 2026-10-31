@@ -536,3 +536,39 @@ main.wrap {
     padding: 0.5rem 0.45rem;
   }
 }
+
+/* Feature pills under the hero. */
+.highlights {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0 0 0.75rem;
+  padding: 0;
+}
+
+.highlights li {
+  padding: 0.35rem 0.85rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.highlights strong {
+  color: var(--cta);
+  font-weight: 800;
+}
+
+.table-caption {
+  caption-side: top;
+  text-align: left;
+  padding: 0.55rem 0.8rem;
+  font-weight: 700;
+  border-bottom: 1px solid var(--line);
+}
+
+.disclaimer.small {
+  padding: 0.5rem 0.85rem;
+}

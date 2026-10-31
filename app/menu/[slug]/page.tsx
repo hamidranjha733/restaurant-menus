@@ -75,6 +75,16 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
         </>
       )}
 
+      {brand.highlights?.length ? (
+        <ul className="highlights" aria-label="Highlights">
+          {brand.highlights.map((h) => (
+            <li key={`${h.strong}-${h.label}`}>
+              <strong>{h.strong}</strong> <span>{h.label}</span>
+            </li>
+          ))}
+        </ul>
+      ) : null}
+
       {/* One pill per menu section; the row scrolls sideways on narrow screens and sticks to the top. */}
       <nav className="jump-tabs" aria-label="Menu sections">
         <ul>
@@ -86,18 +96,6 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
         </ul>
       </nav>
 
-      {brand.quick_answer ? (
-        <aside className="callout quick-answer" aria-label="Quick answer">
-          <p className="callout-label">Quick answer</p>
-          <p>{brand.quick_answer}</p>
-        </aside>
-      ) : null}
-
-      <p className="lead">{brand.intro}</p>
-      <p className="disclaimer" role="note">
-        {brand.price_disclaimer}
-      </p>
-
       {brand.hot_deal ? (
         <aside className="callout hot-deal" aria-label="Current deal">
           <p className="callout-label">Hot deal</p>
@@ -105,28 +103,22 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
         </aside>
       ) : null}
 
-      {brand.included_box ? (
-        <section aria-labelledby="included">
-          <h2 id="included">{brand.included_box.title}</h2>
-          <div className="table-scroll">
-            <table className="menu-table included-table">
-              <tbody>
-                {brand.included_box.rows.map((row) => (
-                  <tr key={row.label}>
-                    <th scope="row">{row.label}</th>
-                    <td>{row.detail}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        </section>
-      ) : null}
+      <p className="disclaimer small" role="note">
+        {brand.price_disclaimer}
+      </p>
 
       <section aria-labelledby="at-a-glance">
-        <h2 id="at-a-glance">{brand.brand} prices at a glance</h2>
+        <h2 id="at-a-glance">{brand.brand} Menu Prices at a Glance</h2>
+        <p className="lead">{brand.intro}</p>
+        {brand.quick_answer ? (
+          <aside className="callout quick-answer" aria-label="Quick answer">
+            <p className="callout-label">Quick answer</p>
+            <p>{brand.quick_answer}</p>
+          </aside>
+        ) : null}
         <div className="table-scroll">
           <table className="menu-table">
+            <caption className="table-caption">Price range by menu section</caption>
             <thead>
               <tr>
                 <th scope="col">Menu section</th>
@@ -149,14 +141,21 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
         </div>
       </section>
 
-      {brand.popular_items?.length ? (
-        <section aria-labelledby="popular">
-          <h2 id="popular">Most popular at {brand.brand}</h2>
-          <ul className="popular">
-            {brand.popular_items.map((p) => (
-              <li key={p}>{p}</li>
-            ))}
-          </ul>
+      {brand.included_box ? (
+        <section aria-labelledby="included">
+          <h2 id="included">{brand.included_box.title}</h2>
+          <div className="table-scroll">
+            <table className="menu-table included-table">
+              <tbody>
+                {brand.included_box.rows.map((row) => (
+                  <tr key={row.label}>
+                    <th scope="row">{row.label}</th>
+                    <td>{row.detail}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
         </section>
       ) : null}
 
@@ -230,6 +229,17 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
             ))}
           </ul>
           {AMAZON_ASSOCIATE_TAG ? <p className="small muted disclosure-line">As an Amazon Associate we earn from qualifying purchases.</p> : null}
+        </section>
+      ) : null}
+
+      {brand.popular_items?.length ? (
+        <section aria-labelledby="popular">
+          <h2 id="popular">Most popular at {brand.brand}</h2>
+          <ul className="popular">
+            {brand.popular_items.map((p) => (
+              <li key={p}>{p}</li>
+            ))}
+          </ul>
         </section>
       ) : null}
 

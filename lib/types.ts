@@ -67,6 +67,8 @@ export interface Brand {
   intro: string;
   /** Short direct answer shown in a box near the top. */
   quick_answer?: string;
+  /** Feature pills under the hero: `strong` in bold accent, then `label`. */
+  highlights?: { strong: string; label: string }[];
   /** A current deal, shown as a callout. */
   hot_deal?: string;
   /** "What comes with every meal" table. */

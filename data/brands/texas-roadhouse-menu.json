@@ -26,6 +26,13 @@
 
   "quick_answer": "A 6 oz hand-cut sirloin is around $13.99 and comes with two sides. The cheapest steak is the Road Kill chopped steak at about $12.49. The famous Cactus Blossom appetizer is around $7.99 (and a shareable 2,250 calories). Kids meals start at $4.99, and the fresh-baked rolls with cinnamon butter are free with every meal.",
 
+  "highlights": [
+    { "strong": "$13.99", "label": "6 oz sirloin with 2 sides" },
+    { "strong": "Free", "label": "rolls and cinnamon butter" },
+    { "strong": "$4.99", "label": "kids meals start here" },
+    { "strong": "Mon to Thu", "label": "Early Dine deal" }
+  ],
+
   "hot_deal": "Early Dine specials: at most locations you can get several full dinners, each with two sides, at a lower price when you eat early (usually before 6pm, Monday to Thursday). Exact dishes, prices and times vary by location.",
 
   "included_box": {
