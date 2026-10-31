@@ -1,0 +1,149 @@
+{
+  "slug": "longhorn-steakhouse-menu",
+  "brand": "LongHorn Steakhouse",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/longhorn-steakhouse-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/6166801/pexels-photo-6166801.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "LongHorn Steakhouse style grilled steak with asparagus on a plate",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-6166801",
+    "_verify_note": "Tentative hero (plated grilled steak). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "LongHorn Steakhouse Menu With Prices & Calories (2026)",
+    "meta_description": "Full LongHorn Steakhouse menu with prices and calories for 2026: Renegade Sirloin, Flo's Filet, Outlaw Ribeye, chicken, salmon, ribs, appetizers and sides.",
+    "h1": "LongHorn Steakhouse Menu With Prices (2026)",
+    "primary_keyword": "longhorn steakhouse menu with prices",
+    "keyword_volume": 3300,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Entree prices are for the steak or dish alone; sides may be extra. Last updated October 2026.",
+
+  "intro": "LongHorn Steakhouse is the casual Western-themed steakhouse known for its grill-marked steaks hand-seasoned and fire-grilled to order: the Renegade Sirloin, the tender Flo's Filet, and the 20-ounce Outlaw Ribeye. Beyond steak there is Parmesan Crusted Chicken, grilled salmon, baby back ribs, loaded appetizers like the Texas Tonion, and the famous Chocolate Stampede dessert. Below is the full LongHorn Steakhouse menu with prices and calories for 2026.",
+
+  "quick_answer": "A 6 oz Renegade Sirloin at LongHorn is about $15.99, a Flo's Filet is $26.99, and the 20 oz Outlaw Ribeye is $33.99. Parmesan Crusted Chicken is about $17.99, salmon $19.79, and appetizers run $9 to $14. Steaks come fire-grilled to order. A 7 oz Renegade Sirloin is about 340 calories.",
+
+  "highlights": [
+    { "strong": "Fire-grilled", "label": "steaks seasoned and grilled to order" },
+    { "strong": "Flo's Filet", "label": "the tender signature filet" },
+    { "strong": "Outlaw Ribeye", "label": "the 20 oz bone-in ribeye" },
+    { "strong": "Chocolate Stampede", "label": "the famous dessert" }
+  ],
+
+  "hot_deal": "LongHorn value: the Renegade Sirloin (from about $15.99) is the best-value steak, and lunch sizes run cheaper. The eClub and app drop a free appetizer or dessert and birthday rewards, and the steak-and-side combos make a full meal. Steaks are the draw, so the sirloin plus a loaded baked potato is the classic order. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Steaks",
+      "intro": "Hand-seasoned and fire-grilled to order. Calories noted per size where known.",
+      "items": [
+        { "name": "Renegade Sirloin (6 oz)", "size": "6 oz", "price": "$15.99", "calories": "", "desc": "The value sirloin (7 oz about 340 cal; 8 oz $18.99, 12 oz $22.99)" },
+        { "name": "Flo's Filet (6 oz)", "size": "6 oz", "price": "$26.99", "calories": "520", "desc": "The tender signature filet (9 oz $31.99)" },
+        { "name": "Outlaw Ribeye (20 oz)", "size": "20 oz", "price": "$33.99", "calories": "1570", "desc": "A big, bone-in, marbled ribeye" },
+        { "name": "Ribeye (12 oz)", "size": "12 oz", "price": "$25.79", "calories": "", "desc": "A well-marbled 12 oz ribeye" },
+        { "name": "New York Strip (12 oz)", "size": "12 oz", "price": "$25.99", "calories": "", "desc": "A firm, flavorful strip steak" },
+        { "name": "LongHorn Porterhouse (22 oz)", "size": "22 oz", "price": "$38.99", "calories": "", "desc": "A huge porterhouse, strip and filet in one" }
+      ]
+    },
+    {
+      "category": "Chicken, Seafood & Ribs",
+      "intro": "Grilled chicken, salmon and fall-off-the-bone ribs.",
+      "items": [
+        { "name": "Parmesan Crusted Chicken (9 oz)", "size": "9 oz", "price": "$17.99", "calories": "900", "desc": "Grilled chicken topped with a parmesan crust (12 oz $19.99)" },
+        { "name": "LongHorn Salmon (7 oz)", "size": "7 oz", "price": "$19.79", "calories": "700", "desc": "Fire-grilled seasoned salmon (10 oz $22.29)" },
+        { "name": "Baby Back Ribs (Half Rack)", "size": "half rack", "price": "$18.99", "calories": "", "desc": "Fall-off-the-bone ribs with BBQ sauce (full rack $26.99)" },
+        { "name": "Hand-Breaded Chicken Tenders", "size": "", "price": "$16.99", "calories": "", "desc": "Crispy hand-breaded chicken tenders" }
+      ]
+    },
+    {
+      "category": "Appetizers & Salads",
+      "intro": "The famous Texas Tonion and loaded starters.",
+      "items": [
+        { "name": "Texas Tonion", "size": "", "price": "$9.29", "calories": "1560", "desc": "A huge fried blooming onion with dipping sauce (share it)" },
+        { "name": "Wild West Shrimp", "size": "", "price": "$14.29", "calories": "820", "desc": "Crispy shrimp tossed in a spicy ranch" },
+        { "name": "White Cheddar Stuffed Mushrooms", "size": "", "price": "$11.79", "calories": "", "desc": "Mushrooms stuffed with white cheddar" },
+        { "name": "Caesar Salad", "size": "", "price": "$11.99", "calories": "", "desc": "Romaine, parmesan and croutons (add chicken or salmon)" }
+      ]
+    },
+    {
+      "category": "Sides & Desserts",
+      "intro": "Steakhouse sides and the legendary Chocolate Stampede.",
+      "items": [
+        { "name": "Loaded Baked Potato", "size": "", "price": "$4.49", "calories": "", "desc": "Baked potato with cheese, bacon and sour cream" },
+        { "name": "Steakhouse Mac & Cheese", "size": "", "price": "$5.99", "calories": "", "desc": "Creamy baked mac and cheese" },
+        { "name": "Seasoned French Fries", "size": "", "price": "$3.99", "calories": "", "desc": "Steakhouse seasoned fries" },
+        { "name": "Chocolate Stampede", "size": "", "price": "$10.99", "calories": "", "desc": "A towering six-layer chocolate dessert, made to share" },
+        { "name": "Molten Lava Cake", "size": "", "price": "$10.49", "calories": "", "desc": "Warm chocolate cake with a molten center" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Steakhouse at Home",
+    "intro": "Want fire-grilled steaks at home? These picks help.",
+    "cards": [
+      { "icon": "🔥", "name": "Cast Iron Grill Pan", "blurb": "For restaurant-style grill marks.", "amazon_search": "cast iron grill pan" },
+      { "icon": "🧂", "name": "Steak Seasoning", "blurb": "Hand-season like a steakhouse.", "amazon_search": "steak seasoning rub" },
+      { "icon": "🌡️", "name": "Meat Thermometer", "blurb": "For a perfect medium-rare.", "amazon_search": "instant read meat thermometer" },
+      { "icon": "📖", "name": "Copycat Steakhouse Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Renegade Sirloin",
+    "Flo's Filet",
+    "Outlaw Ribeye",
+    "Parmesan Crusted Chicken",
+    "Chocolate Stampede"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a steak at LongHorn Steakhouse?",
+      "a": "A 6 oz Renegade Sirloin is about $15.99, the tender Flo's Filet is $26.99, and the 20 oz Outlaw Ribeye is $33.99. Lunch sizes run cheaper. Entree prices are for the steak; some come with a side, others add a few dollars."
+    },
+    {
+      "q": "What is Flo's Filet?",
+      "a": "Flo's Filet is LongHorn's signature filet mignon, named after a company figure. It is the most tender steak on the menu, hand-cut and fire-grilled, about $26.99 for a 6 oz and $31.99 for a 9 oz."
+    },
+    {
+      "q": "What is the Chocolate Stampede?",
+      "a": "The Chocolate Stampede is LongHorn's famous dessert: a towering stack of chocolate cake, mousse and sauces with ice cream, big enough to share. It is about $10.99 and the signature way to finish a meal."
+    },
+    {
+      "q": "How many calories are in a LongHorn steak?",
+      "a": "A 7 oz Renegade Sirloin is about 340 calories and a Flo's Filet about 520, while the 20 oz Outlaw Ribeye is around 1,570. Parmesan Crusted Chicken is about 900, and the Texas Tonion appetizer is around 1,560 for the whole thing."
+    },
+    {
+      "q": "What are the most popular items at LongHorn Steakhouse?",
+      "a": "The best known are the Renegade Sirloin, Flo's Filet, the Outlaw Ribeye, the Parmesan Crusted Chicken, and the Chocolate Stampede dessert."
+    }
+  ],
+
+  "internal_links": [
+    "texas-roadhouse-menu",
+    "outback-steakhouse-menu",
+    "olive-garden-menu",
+    "cheddars-menu",
+    "applebees-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > LongHorn Steakhouse."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). May vary by location.",
+    "calories": "Calories from a LongHorn nutrition source. Shown where a reliable figure exists (sizes noted); several steaks and sides left blank rather than guessing. Renegade Sirloin (6 oz) calorie field cleared on import: 340 is the 7 oz figure, kept in the description. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels plated grilled steak (pexels-6166801). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (with the other steak and casual dining brands). Red Lobster, Cheddar's and Twin Peaks remain.",
+    "keyword_notes": "Sections and FAQ shaped by real LongHorn search demand: steak price, Flo's Filet, Chocolate Stampede, steak calories, popular items."
+  }
+}
