@@ -1,0 +1,149 @@
+{
+  "slug": "little-caesars-menu",
+  "brand": "Little Caesars",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/little-caesars-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/17907817/pexels-photo-17907817.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Little Caesars style whole pepperoni pizza overhead on a bold red background",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-17907817"
+  },
+
+  "seo": {
+    "meta_title": "Little Caesars Menu With Prices & Calories (2026)",
+    "meta_description": "Full Little Caesars menu with prices and calories for 2026: Hot-N-Ready Classic, ExtraMostBestest, Deep Dish, Crazy Bread, Caesar Wings and combos.",
+    "h1": "Little Caesars Menu With Prices (2026)",
+    "primary_keyword": "little caesars menu with prices",
+    "keyword_volume": 4000,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, size, crust and toppings. Last updated October 2026.",
+
+  "intro": "Little Caesars is the value pizza chain famous for Hot-N-Ready pizzas you can grab without ordering ahead, the ExtraMostBestest with extra cheese and pepperoni, the square Deep! Deep! Dish, and the one-and-only Crazy Bread. It's built on low prices and speed. A classic pepperoni slice is about 270 calories and cheese is about 230. Below is the full Little Caesars menu with prices and calories for 2026 (large pizza prices shown).",
+
+  "quick_answer": "A large Hot-N-Ready Classic pepperoni or cheese pizza at Little Caesars is about $6.99, the ExtraMostBestest is $7.99, and the Deep! Deep! Dish runs $8.99 to $9.49. Crazy Bread is $3.99 for 8, and 8 Caesar Wings are about $8.99. A classic pepperoni slice is about 270 calories.",
+
+  "highlights": [
+    { "strong": "$6.99", "label": "Hot-N-Ready Classic" },
+    { "strong": "Hot-N-Ready", "label": "no ordering ahead" },
+    { "strong": "$3.99", "label": "Crazy Bread (8 pc)" },
+    { "strong": "Deep Dish", "label": "the square crispy pie" }
+  ],
+
+  "hot_deal": "Little Caesars value: the Hot-N-Ready Classic (about $6.99) is already the cheapest hot pizza in fast food, and combos like the Hot-N-Ready Classic Combo ($9.99, pizza plus Crazy Bread and a drink) stretch it further. The app adds coupons and free Crazy Bread offers. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Classic & Hot-N-Ready Pizzas",
+      "intro": "Grab-and-go large pizzas. Pepperoni slice is about 270 cal, cheese about 230.",
+      "items": [
+        { "name": "Classic Cheese (Large)", "size": "large", "price": "$6.99", "calories": "", "desc": "Hot-N-Ready cheese pizza (about 230 cal per slice)" },
+        { "name": "Classic Pepperoni (Large)", "size": "large", "price": "$6.99", "calories": "", "desc": "Hot-N-Ready pepperoni (about 270 cal per slice)" },
+        { "name": "Classic Sausage (Large)", "size": "large", "price": "$7.49", "calories": "", "desc": "Hot-N-Ready sausage pizza" },
+        { "name": "ExtraMostBestest Pepperoni", "size": "large", "price": "$7.99", "calories": "", "desc": "Extra cheese and extra pepperoni" },
+        { "name": "3 Meat Treat", "size": "large", "price": "$8.99", "calories": "", "desc": "Pepperoni, Italian sausage and bacon" },
+        { "name": "Ultimate Supreme", "size": "large", "price": "$9.99", "calories": "", "desc": "Pepperoni, sausage, mushrooms, onions and green peppers" }
+      ]
+    },
+    {
+      "category": "Deep! Deep! Dish",
+      "intro": "Square, thick Detroit-style pizza with a crispy, cheesy edge. Pepperoni slice is about 320 cal.",
+      "items": [
+        { "name": "Deep Dish Cheese", "size": "8 slices", "price": "$8.99", "calories": "", "desc": "Thick, square cheese deep dish" },
+        { "name": "Deep Dish Pepperoni", "size": "8 slices", "price": "$9.49", "calories": "", "desc": "Square deep dish pepperoni (about 320 cal per slice)" },
+        { "name": "Deep Dish 3 Meat Treat", "size": "8 slices", "price": "$10.99", "calories": "", "desc": "Deep dish with pepperoni, sausage and bacon" },
+        { "name": "Deep Dish 5 Meat Feast", "size": "8 slices", "price": "$13.99", "calories": "", "desc": "Loaded with five meats" }
+      ]
+    },
+    {
+      "category": "Crazy Bread & Sides",
+      "intro": "The famous Crazy Bread, cheese bread and wings.",
+      "items": [
+        { "name": "Crazy Bread (8 pc)", "size": "8 pieces", "price": "$3.99", "calories": "", "desc": "Warm breadsticks with garlic butter and parmesan (about 100 cal each)" },
+        { "name": "Crazy Combo (Bread + Sauce)", "size": "", "price": "$4.49", "calories": "", "desc": "Crazy Bread with a side of marinara dipping sauce" },
+        { "name": "Italian Cheese Bread (10 pc)", "size": "10 pieces", "price": "$4.99", "calories": "", "desc": "Cheese-topped bread (about 100 cal each)" },
+        { "name": "Stuffed Crazy Bread (3 pc)", "size": "3 pieces", "price": "$5.00", "calories": "", "desc": "Crazy Bread stuffed with mozzarella" },
+        { "name": "Caesar Wings (8 pc)", "size": "8 pieces", "price": "$8.99", "calories": "", "desc": "Oven Roasted, Buffalo, BBQ or Garlic Parmesan (about 75 cal per plain wing)" }
+      ]
+    },
+    {
+      "category": "Combos & Desserts",
+      "intro": "Meal combos and the Cookie Dough Brownie.",
+      "items": [
+        { "name": "Hot-N-Ready Classic Combo", "size": "", "price": "$9.99", "calories": "", "desc": "Classic pizza, Crazy Bread and a 2-liter drink" },
+        { "name": "Lunch Combo", "size": "", "price": "$5.49", "calories": "", "desc": "Deep dish lunch pizza with a drink (11am to 2pm)" },
+        { "name": "Family Feast", "size": "", "price": "$15.99", "calories": "", "desc": "Two pizzas, Crazy Bread and a drink to feed a family" },
+        { "name": "Cookie Dough Brownie", "size": "", "price": "$4.99", "calories": "", "desc": "A warm cookie dough brownie" },
+        { "name": "Pepsi (2 Liter)", "size": "2 L", "price": "$3.29", "calories": "", "desc": "A 2-liter bottle (20 oz about $2.19)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Pizza at Home",
+    "intro": "Want cheap, fast pizza night at home? These picks help.",
+    "cards": [
+      { "icon": "🟥", "name": "Deep Dish Pizza Pan", "blurb": "For a square, crispy deep dish.", "amazon_search": "detroit style deep dish pizza pan" },
+      { "icon": "🧄", "name": "Garlic Butter & Parmesan", "blurb": "For copycat Crazy Bread.", "amazon_search": "garlic butter parmesan seasoning" },
+      { "icon": "🧀", "name": "Shredded Mozzarella", "blurb": "The cheese every pizza needs.", "amazon_search": "shredded mozzarella cheese" },
+      { "icon": "📖", "name": "Copycat Pizza Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Hot-N-Ready Classic Pepperoni",
+    "ExtraMostBestest",
+    "Deep! Deep! Dish",
+    "Crazy Bread",
+    "Caesar Wings"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a pizza at Little Caesars?",
+      "a": "A large Hot-N-Ready Classic cheese or pepperoni pizza is about $6.99, the ExtraMostBestest is $7.99, and the Deep! Deep! Dish runs $8.99 to $9.49. Little Caesars is the cheapest of the big pizza chains."
+    },
+    {
+      "q": "What is Hot-N-Ready at Little Caesars?",
+      "a": "Hot-N-Ready means the Classic pizzas are made fresh through the day and kept ready to grab, so you can walk in and leave with a pizza without ordering ahead or waiting. It is what Little Caesars is best known for."
+    },
+    {
+      "q": "What is Crazy Bread?",
+      "a": "Crazy Bread is Little Caesars' signature side: warm breadsticks brushed with garlic butter and topped with parmesan. An order of 8 is about $3.99, and each piece is roughly 100 calories. Add marinara with the Crazy Combo."
+    },
+    {
+      "q": "How many calories are in a Little Caesars slice?",
+      "a": "A classic pepperoni slice is about 270 calories and cheese is about 230. The square Deep! Deep! Dish is richer at about 320 calories per pepperoni slice."
+    },
+    {
+      "q": "What are the most popular items at Little Caesars?",
+      "a": "The best known are the Hot-N-Ready Classic Pepperoni, the ExtraMostBestest, the Deep! Deep! Dish, Crazy Bread, and the Caesar Wings."
+    }
+  ],
+
+  "internal_links": [
+    "dominos-menu",
+    "pizza-hut-menu",
+    "papa-johns-menu",
+    "wingstop-menu",
+    "taco-bell-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Little Caesars."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing, stated as ranges there; representative single prices used). Hot-N-Ready pricing varies by location.",
+    "calories": "Per-slice figures from a nutrition source are noted in descriptions (classic pepperoni 270, cheese 230, deep dish pepperoni 320 per slice; Crazy Bread ~100 each) rather than in the calorie column; most items left blank. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location, size and toppings. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels overhead whole pizza on a bold red background (pexels-17907817), landscape, no branding, matches the Little Caesars red brand color. Distinct from the other pizza brands' heroes.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (same as Domino's, Pizza Hut, Papa John's). No new category needed. This completes the four main pizza brands.",
+    "keyword_notes": "Sections and FAQ shaped by real Little Caesars search demand: pizza price, Hot-N-Ready, Crazy Bread, calories per slice, popular items."
+  }
+}
