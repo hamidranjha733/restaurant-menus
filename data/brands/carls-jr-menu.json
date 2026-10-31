@@ -1,0 +1,146 @@
+{
+  "slug": "carls-jr-menu",
+  "brand": "Carl's Jr.",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/carls-jr-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/2271099/pexels-photo-2271099.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Carl's Jr style charbroiled cheeseburger with lettuce, tomato and onion",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-2271099",
+    "_verify_note": "Tentative hero (a hearty charbroiled-style cheeseburger for the Famous Star). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Carl's Jr. Menu With Prices & Calories (2026)",
+    "meta_description": "Full Carl's Jr. menu with prices and calories for 2026: the Famous Star, Western Bacon Cheeseburger, Big Carl, charbroiled chicken, fries, shakes and breakfast.",
+    "h1": "Carl's Jr. Menu With Prices (2026)",
+    "primary_keyword": "carls jr menu with prices",
+    "keyword_volume": 3600,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location. California, Hawaii and the Pacific Northwest often run 10 to 15% higher. Last updated October 2026.",
+
+  "intro": "Carl's Jr. is the West Coast burger chain known for its large charbroiled burgers, the Famous Star, the Western Bacon Cheeseburger with onion rings and BBQ sauce, and the Big Carl. It cooks its patties over an open flame rather than on a flat griddle, and rounds out the menu with charbroiled and hand-breaded chicken, CrissCut fries, hand-scooped shakes and a loaded breakfast. Below is the full Carl's Jr. menu with prices and calories for 2026.",
+
+  "quick_answer": "A Famous Star with Cheese at Carl's Jr. is about $6.99, the Western Bacon Cheeseburger is $8.99, and the Big Carl is $5.99. A Spicy Chicken Sandwich is $5.99, CrissCut fries are $3.49 medium, and a hand-scooped shake is $4.99. Burgers are charbroiled. A Famous Star with Cheese is about 610 calories.",
+
+  "highlights": [
+    { "strong": "Charbroiled", "label": "burgers over an open flame" },
+    { "strong": "$6.99", "label": "Famous Star with Cheese" },
+    { "strong": "Western Bacon", "label": "onion rings and BBQ on a burger" },
+    { "strong": "CrissCut", "label": "the lattice-cut fries" }
+  ],
+
+  "hot_deal": "Carl's Jr. value: the Big Carl ($5.99) is the cheapest full burger, and the $5.99 Spicy Chicken Sandwich is a long-running value pick. The My Rewards app drops regular deals, including free fries and BOGO offers. The real-deal $6 meal and similar bundles pair a burger with fries and a drink. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Charbroiled Burgers",
+      "intro": "Big burgers cooked over an open flame.",
+      "items": [
+        { "name": "Famous Star with Cheese", "size": "", "price": "$6.99", "calories": "610", "desc": "Charbroiled patty, cheese, lettuce, tomato, onion, pickles and special sauce" },
+        { "name": "Super Star with Cheese", "size": "", "price": "$9.49", "calories": "", "desc": "Two charbroiled patties with cheese and the Famous Star toppings" },
+        { "name": "Western Bacon Cheeseburger", "size": "", "price": "$8.99", "calories": "", "desc": "Charbroiled patty with bacon, onion rings, cheese and BBQ sauce" },
+        { "name": "Big Carl", "size": "", "price": "$5.99", "calories": "", "desc": "Two patties, cheese and special sauce, the value burger" },
+        { "name": "Guacamole Bacon Angus Burger", "size": "", "price": "$9.99", "calories": "", "desc": "Angus patty with guacamole, bacon and pepper jack" }
+      ]
+    },
+    {
+      "category": "Chicken",
+      "intro": "Charbroiled and hand-breaded chicken.",
+      "items": [
+        { "name": "Charbroiled Chicken Club", "size": "", "price": "$8.49", "calories": "", "desc": "Charbroiled chicken breast with bacon, Swiss, lettuce and tomato" },
+        { "name": "Spicy Chicken Sandwich", "size": "", "price": "$5.99", "calories": "", "desc": "Crispy spicy chicken fillet with lettuce and mayo, a value pick" },
+        { "name": "Hand-Breaded Chicken Tenders (3 pc)", "size": "3 pieces", "price": "$5.49", "calories": "", "desc": "Hand-breaded tenders with dipping sauce (5 pc $7.49)" },
+        { "name": "Hand-Breaded Chicken Tenders (10 pc)", "size": "10 pieces", "price": "$13.49", "calories": "", "desc": "Ten tenders to share" }
+      ]
+    },
+    {
+      "category": "Fries & Sides",
+      "intro": "The lattice CrissCut fries, natural-cut fries and onion rings.",
+      "items": [
+        { "name": "CrissCut Fries (Medium)", "size": "medium", "price": "$3.49", "calories": "", "desc": "Signature lattice-cut fries (small $2.79, large $3.99)" },
+        { "name": "Natural-Cut Fries (Small)", "size": "small", "price": "$2.79", "calories": "", "desc": "Skin-on natural-cut fries" },
+        { "name": "Onion Rings", "size": "", "price": "$3.79", "calories": "", "desc": "Thick battered onion rings" }
+      ]
+    },
+    {
+      "category": "Shakes & Breakfast",
+      "intro": "Hand-scooped shakes and a loaded breakfast.",
+      "items": [
+        { "name": "Hand-Scooped Ice Cream Shake", "size": "", "price": "$4.99", "calories": "", "desc": "Real ice cream shake, any flavor" },
+        { "name": "Loaded Breakfast Burrito", "size": "", "price": "$5.99", "calories": "", "desc": "Eggs, bacon, sausage, hash browns and cheese in a tortilla" },
+        { "name": "Steak & Egg Burrito", "size": "", "price": "$6.49", "calories": "", "desc": "Steak, eggs, cheese and potatoes in a tortilla" },
+        { "name": "Iced Coffee", "size": "", "price": "$2.99", "calories": "", "desc": "Iced coffee" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Carl's Jr. at Home",
+    "intro": "Want charbroiled burgers and CrissCut fries at home? These picks help.",
+    "cards": [
+      { "icon": "🔥", "name": "Charcoal Grill", "blurb": "For flame-charbroiled burgers.", "amazon_search": "charcoal grill" },
+      { "icon": "🥔", "name": "Crinkle / Lattice Cutter", "blurb": "For CrissCut-style lattice fries.", "amazon_search": "crinkle lattice fry cutter" },
+      { "icon": "🧅", "name": "Onion Ring Batter", "blurb": "For the Western Bacon rings.", "amazon_search": "onion ring batter mix" },
+      { "icon": "📖", "name": "Copycat Fast Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Famous Star with Cheese",
+    "Western Bacon Cheeseburger",
+    "Big Carl",
+    "Spicy Chicken Sandwich",
+    "CrissCut Fries"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a Famous Star at Carl's Jr?",
+      "a": "The Famous Star with Cheese is about $6.99, the larger Super Star is $9.49, and the Western Bacon Cheeseburger is $8.99. The Big Carl is the cheapest full burger at $5.99. Prices run 10 to 15% higher on the West Coast."
+    },
+    {
+      "q": "What makes Carl's Jr burgers charbroiled?",
+      "a": "Carl's Jr. cooks its beef patties over an open flame rather than on a flat griddle, giving them char marks and a grilled, smoky taste. It is the brand's main point of difference, shared with its sister chain Hardee's."
+    },
+    {
+      "q": "What is the Western Bacon Cheeseburger?",
+      "a": "The Western Bacon Cheeseburger is a Carl's Jr. signature: a charbroiled patty topped with bacon, two onion rings, melted American cheese and tangy BBQ sauce on a seeded bun. It is about $8.99."
+    },
+    {
+      "q": "How many calories are in a Famous Star with Cheese?",
+      "a": "A Famous Star with Cheese is about 610 calories. The larger Super Star and loaded burgers like the Western Bacon Cheeseburger and Big Carl run higher. Carl's Jr. publishes full nutrition on its website for exact figures."
+    },
+    {
+      "q": "What are the most popular items at Carl's Jr?",
+      "a": "The best known are the Famous Star with Cheese, the Western Bacon Cheeseburger, the Big Carl, the Spicy Chicken Sandwich, and the CrissCut fries."
+    }
+  ],
+
+  "internal_links": [
+    "shake-shack-menu",
+    "whataburger-menu",
+    "mcdonalds-menu",
+    "burger-king-menu",
+    "wendys-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Carl's Jr."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices are national averages from an established menu-prices publication; California, Hawaii and the Pacific Northwest run 10 to 15% higher. Prices vary by location.",
+    "calories": "Only the Famous Star with Cheese (610) is filled, from a confirmed source. Carl's Jr. publishes full nutrition on its site, but other figures were not reliably confirmed this session, so they are left blank rather than guessed. The FAQ points to the official nutrition page. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels charbroiled-style cheeseburger (pexels-2271099) for the Famous Star. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Burgers & Shakes' category. This completes the main burger brands; Hardee's (the sister chain) could be added later as an optional extra.",
+    "keyword_notes": "Sections and FAQ shaped by real Carl's Jr search demand: Famous Star price, charbroiled, Western Bacon Cheeseburger, calories, popular items."
+  }
+}
