@@ -1,0 +1,154 @@
+{
+  "slug": "benihana-menu",
+  "brand": "Benihana",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/benihana-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/18263255/pexels-photo-18263255.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Benihana style teppanyaki hibachi grill with flames",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-18263255",
+    "_verify_note": "Tentative hero (hibachi flame cooking). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Benihana Menu With Prices (2026)",
+    "meta_description": "Full Benihana menu with prices for 2026: hibachi steak, chicken and shrimp teppanyaki, combinations, sushi rolls, appetizers, kids meals and sides.",
+    "h1": "Benihana Menu With Prices (2026)",
+    "primary_keyword": "benihana menu with prices",
+    "keyword_volume": 9900,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary by location. Benihana is an upscale teppanyaki restaurant where hibachi entrees are cooked at your table and include soup, salad, vegetables and rice. It does not publish calorie information, so calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Benihana is the famous Japanese teppanyaki steakhouse where chefs cook your meal on a hibachi grill right at the table, complete with the knife tricks, onion volcano and flying shrimp. Hibachi dinners come with soup, salad, vegetables and rice, and the menu also runs a full sushi program, appetizers and combination feasts. Below is the full Benihana menu with prices for 2026.",
+
+  "quick_answer": "At Benihana, hibachi chicken is about $40.50, hibachi steak $46, and filet mignon $49, each cooked tableside with soup, salad, vegetables and rice. Combinations like Steak & Shrimp ($56) and the Hibachi Supreme ($73) feed bigger appetites, sushi rolls run $10 to $23, and kids hibachi meals start around $27. It is an upscale tableside teppanyaki experience.",
+
+  "highlights": [
+    { "strong": "Tableside hibachi", "label": "cooked in front of you" },
+    { "strong": "Includes sides", "label": "soup, salad, veg and rice" },
+    { "strong": "Combinations", "label": "surf-and-turf feasts" },
+    { "strong": "Full sushi", "label": "rolls, nigiri and sashimi" }
+  ],
+
+  "hot_deal": "Benihana value: hibachi chicken ($40.50) is the entry point and still includes the full show plus soup, salad, vegetables and rice, which makes it better value than it first looks. The Benihana Rewards program (the Chef's Table) gives a birthday reward and a joining bonus. Lunch, where available, is cheaper than dinner. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Hibachi Teppanyaki Entrees",
+      "intro": "Cooked tableside, served with soup, salad, vegetables and rice.",
+      "items": [
+        { "name": "Hibachi Chicken", "size": "", "price": "$40.50", "calories": "", "desc": "Grilled chicken, the entry hibachi entree" },
+        { "name": "Teriyaki Chicken", "size": "", "price": "$41.00", "calories": "", "desc": "Chicken with teriyaki glaze" },
+        { "name": "Hibachi Steak", "size": "", "price": "$46.00", "calories": "", "desc": "Grilled steak" },
+        { "name": "Hibachi Shrimp", "size": "", "price": "$46.50", "calories": "", "desc": "Grilled jumbo shrimp" },
+        { "name": "Filet Mignon", "size": "", "price": "$49.00", "calories": "", "desc": "Tender filet mignon, the premium steak" },
+        { "name": "Hibachi Scallops", "size": "", "price": "$51.00", "calories": "", "desc": "Grilled sea scallops" }
+      ]
+    },
+    {
+      "category": "Combinations & Feasts",
+      "intro": "Surf-and-turf and the big combination feasts.",
+      "items": [
+        { "name": "Chicken & Shrimp", "size": "", "price": "$38.00", "calories": "", "desc": "Hibachi chicken and shrimp" },
+        { "name": "Benihana Delight", "size": "", "price": "$51.50", "calories": "", "desc": "A signature combination" },
+        { "name": "Steak & Chicken", "size": "", "price": "$52.00", "calories": "", "desc": "Hibachi steak and chicken" },
+        { "name": "Steak & Shrimp", "size": "", "price": "$56.00", "calories": "", "desc": "The classic surf and turf" },
+        { "name": "Teppan Trio", "size": "", "price": "$63.00", "calories": "", "desc": "A three-protein combination" },
+        { "name": "Hibachi Supreme", "size": "", "price": "$73.00", "calories": "", "desc": "The top-tier feast" }
+      ]
+    },
+    {
+      "category": "Sushi & Rolls",
+      "intro": "Specialty rolls, nigiri and sashimi.",
+      "items": [
+        { "name": "California Roll", "size": "", "price": "$12.70", "calories": "", "desc": "The classic California roll" },
+        { "name": "Spicy Tuna Roll", "size": "", "price": "$15.60", "calories": "", "desc": "Spicy tuna roll" },
+        { "name": "Rainbow Roll", "size": "", "price": "$21.50", "calories": "", "desc": "Assorted fish over a California roll" },
+        { "name": "Dragon Roll", "size": "", "price": "$22.10", "calories": "", "desc": "Eel and avocado specialty roll" },
+        { "name": "Nigiri Assortment", "size": "", "price": "$41.00", "calories": "", "desc": "A nigiri platter" },
+        { "name": "Sashimi Assortment", "size": "", "price": "$49.00", "calories": "", "desc": "A sashimi platter" }
+      ]
+    },
+    {
+      "category": "Appetizers, Soups & Kids",
+      "intro": "Starters, soups, salads and kids hibachi.",
+      "items": [
+        { "name": "Edamame", "size": "", "price": "$9.40", "calories": "", "desc": "Steamed, salted soybeans" },
+        { "name": "Spicy Chicken Gyoza", "size": "", "price": "$13.00", "calories": "", "desc": "Pan-fried chicken dumplings" },
+        { "name": "Tokyo Wings", "size": "", "price": "$20.00", "calories": "", "desc": "Japanese-style chicken wings" },
+        { "name": "Miso Soup", "size": "", "price": "$8.00", "calories": "", "desc": "Traditional miso soup (onion soup also $8)" },
+        { "name": "Benihana Salad", "size": "", "price": "$7.50", "calories": "", "desc": "Salad with ginger dressing" },
+        { "name": "Kids Hibachi Chicken Rice", "size": "", "price": "$8.00", "calories": "", "desc": "A kids hibachi chicken rice plate (full kids hibachi meals from about $27)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Hibachi at Home",
+    "intro": "Want teppanyaki-style hibachi at home? These picks help.",
+    "cards": [
+      { "icon": "🔥", "name": "Electric Teppanyaki Griddle", "blurb": "For a tableside hibachi cook.", "amazon_search": "electric teppanyaki griddle" },
+      { "icon": "🍚", "name": "Fried Rice Kit", "blurb": "For hibachi fried rice.", "amazon_search": "hibachi fried rice seasoning" },
+      { "icon": "🥢", "name": "Yum Yum Sauce", "blurb": "The famous Benihana-style sauce.", "amazon_search": "yum yum sauce" },
+      { "icon": "🍤", "name": "Hibachi Spatula Set", "blurb": "For the griddle cook.", "amazon_search": "teppanyaki spatula set" }
+    ]
+  },
+
+  "popular_items": [
+    "Hibachi Chicken",
+    "Filet Mignon",
+    "Steak & Shrimp",
+    "California Roll",
+    "Benihana Salad"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is dinner at Benihana?",
+      "a": "Hibachi entrees run about $40.50 for chicken, $46 for steak and $49 for filet mignon, each including soup, salad, vegetables and rice cooked tableside. Combinations like Steak & Shrimp ($56) and the Hibachi Supreme ($73) cost more. With appetizers and drinks, a dinner for two is a higher-end bill."
+    },
+    {
+      "q": "What is included with a Benihana hibachi entree?",
+      "a": "Each hibachi teppanyaki entree includes Benihana onion soup, a salad with ginger dressing, hibachi vegetables, and steamed rice, all cooked and served at the table as part of the show. Fried rice is usually an upgrade."
+    },
+    {
+      "q": "Does Benihana have sushi?",
+      "a": "Yes. Alongside the hibachi grill, Benihana has a full sushi menu: specialty rolls from about $10 to $23 (California $12.70, Dragon $22.10), plus nigiri, sashimi and combination platters. You can order sushi with or instead of a hibachi entree."
+    },
+    {
+      "q": "How many calories are in Benihana food?",
+      "a": "Benihana does not publish a full calorie guide, so calories are not listed here rather than guessed. Hibachi meals vary with the protein, the oils and sauces used tableside, and whether you add fried rice, so totals differ dish to dish."
+    },
+    {
+      "q": "What are the most popular dishes at Benihana?",
+      "a": "Favorites include hibachi chicken, filet mignon, the Steak & Shrimp combination, the California roll, and the Benihana salad with ginger dressing. The tableside chef show is the real draw."
+    }
+  ],
+
+  "internal_links": [
+    "longhorn-steakhouse-menu",
+    "red-lobster-menu",
+    "pf-changs-menu",
+    "amalfi-llama-menu",
+    "cheddars-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since Benihana does not publish nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Benihana."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing. Hibachi entrees include soup, salad, vegetables and rice.",
+    "calories": "Deliberately left blank. Benihana is an upscale teppanyaki restaurant that does not publish a calorie guide, and tableside cooking varies totals. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels hibachi flame cooking (pexels-18263255) for the teppanyaki show. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (upscale sit-down restaurant). Internal link pf-changs-menu is coming later in the same expansion list; Claude Code can drop it if not yet built. #72 of the expansion list.",
+    "keyword_notes": "High-volume brand (9.9k). Sections and FAQ shaped by real Benihana search demand: dinner cost, what is included with hibachi, the sushi menu, calories question, popular dishes."
+  }
+}
