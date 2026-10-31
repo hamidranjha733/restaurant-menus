@@ -1,0 +1,224 @@
+{
+  "slug": "chilis-menu",
+  "brand": "Chili's",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/chilis-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/40135708/pexels-photo-40135708.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Sizzling Chili's style steak fajitas with bell peppers and onions in a cast-iron skillet with condiments",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-40135708"
+  },
+
+  "seo": {
+    "meta_title": "Chili's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Chili's menu with prices and calories for 2026: 3 for Me combos, fajitas, Big Mouth burgers, Triple Dipper, baby back ribs, desserts and kids meals.",
+    "h1": "Chili's Menu With Prices (2026)",
+    "primary_keyword": "chilis menu with prices",
+    "keyword_volume": 18000,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
+
+  "intro": "Chili's Grill & Bar is a Tex-Mex casual-dining chain famous for its sizzling fajitas, Big Mouth burgers, baby back ribs and the build-your-own Triple Dipper. The big draw is value: the 3 for Me combo bundles a drink, an appetizer and a full entree starting around $10.99. Below is the full Chili's menu with prices and calories for 2026, organized by category.",
+
+  "quick_answer": "Chili's is best known for its 3 for Me combo, which starts at $10.99 and includes a drink, an appetizer and an entree. The signature sizzling fajitas run about $17.59 for chicken and $19.99 for steak, and the Triple Dipper (pick any three appetizers) is $15.99. Big Mouth burgers start around $12.99.",
+
+  "highlights": [
+    { "strong": "$10.99", "label": "3 for Me (drink + app + entree)" },
+    { "strong": "2 for $25", "label": "app, 2 entrees + dessert" },
+    { "strong": "$15.99", "label": "Triple Dipper, pick any 3" },
+    { "strong": "Sizzling", "label": "fajitas made to order" }
+  ],
+
+  "hot_deal": "3 For Me: Chili's signature value deal bundles a drink, a starter and an entree starting at $10.99 — one of the best-value meals in casual dining. The 2 for $25 deal adds an appetizer, two entrees and a dessert for two. Deals vary by location.",
+
+  "menu": [
+    {
+      "category": "Appetizers",
+      "intro": "Chili's starters are built for sharing. The Triple Dipper, where you pick any three, is the signature.",
+      "items": [
+        { "name": "Triple Dipper", "size": "pick any 3", "price": "$15.99", "calories": "", "desc": "Choose three appetizers with dipping sauces; about 1,170 to 2,330 cal depending on picks" },
+        { "name": "Southwestern Eggrolls", "size": "", "price": "$9.79", "calories": "800", "desc": "Crispy eggrolls with chicken, black beans, corn and spinach" },
+        { "name": "Boneless Wings", "size": "", "price": "$16.99", "calories": "", "desc": "Boneless wings tossed in your choice of sauce; about 1,060 to 1,200 cal" },
+        { "name": "Bone-In Wings", "size": "", "price": "$16.99", "calories": "", "desc": "Traditional wings with sauce; about 860 to 1,060 cal" },
+        { "name": "Fried Mozzarella", "size": "", "price": "$9.59", "calories": "", "desc": "Breaded mozzarella with marinara" },
+        { "name": "Skillet Queso", "size": "", "price": "$7.79", "calories": "", "desc": "Warm queso with seasoned beef and chips" },
+        { "name": "Chips & Salsa", "size": "", "price": "$5.29", "calories": "910", "desc": "Fresh tortilla chips with house salsa" },
+        { "name": "Dip Trio", "size": "", "price": "$8.99", "calories": "", "desc": "Three dips with chips" }
+      ]
+    },
+    {
+      "category": "Fajitas",
+      "intro": "The sizzling signature. Served on a hot skillet with peppers, onions, tortillas and all the fixings.",
+      "items": [
+        { "name": "Classic Chicken Fajitas", "size": "", "price": "$17.59", "calories": "980", "desc": "Grilled chicken with peppers and onions, tortillas and toppings" },
+        { "name": "Classic Steak Fajitas", "size": "", "price": "$19.99", "calories": "", "desc": "Grilled steak fajitas with all the fixings" },
+        { "name": "Classic Shrimp Fajitas", "size": "", "price": "$19.29", "calories": "890", "desc": "Grilled shrimp fajitas with peppers and onions" },
+        { "name": "The Original Trio Fajitas", "size": "", "price": "$21.99", "calories": "", "desc": "Chicken, steak and shrimp together" },
+        { "name": "Pick Any 2 Fajitas", "size": "", "price": "$19.79", "calories": "", "desc": "Choose any two proteins" },
+        { "name": "Fajitas for 2", "size": "serves 2", "price": "$39.99", "calories": "", "desc": "A large sizzling platter to share" }
+      ]
+    },
+    {
+      "category": "Big Mouth Burgers",
+      "intro": "Chili's half-pound Big Mouth burgers come with fries. The Oldtimer is the classic.",
+      "items": [
+        { "name": "Oldtimer with Cheese", "size": "", "price": "$13.79", "calories": "850", "desc": "The classic cheeseburger with mustard, pickles and onions" },
+        { "name": "The Big QP Burger", "size": "", "price": "$12.99", "calories": "", "desc": "Quarter-pound double cheeseburger" },
+        { "name": "Big Smasher Burger", "size": "", "price": "$14.59", "calories": "", "desc": "Smash-style patties with secret sauce" },
+        { "name": "Alex's Santa Fe Burger", "size": "", "price": "$14.99", "calories": "920", "desc": "Burger with Santa Fe sauce, avocado and spicy seasoning" },
+        { "name": "BBQ Brisket Burger", "size": "", "price": "$15.99", "calories": "1270", "desc": "Burger topped with smoked brisket and BBQ sauce" },
+        { "name": "Just Bacon Burger", "size": "", "price": "$14.29", "calories": "1020", "desc": "Cheeseburger loaded with bacon" },
+        { "name": "Bacon Rancher Burger", "size": "", "price": "$18.49", "calories": "1710", "desc": "Double patty with bacon, cheese and ranch" },
+        { "name": "Big Mouth Bites", "size": "", "price": "$11.79", "calories": "", "desc": "Four mini burgers with fries" }
+      ]
+    },
+    {
+      "category": "Chicken Crispers & Chicken",
+      "intro": "Hand-battered crispers and grilled chicken plates, served with sides.",
+      "items": [
+        { "name": "Crispy Chicken Crispers", "size": "", "price": "$14.59", "calories": "", "desc": "Hand-battered crispy chicken tenders; about 1,450 to 1,590 cal" },
+        { "name": "Honey-Chipotle Crispers", "size": "", "price": "$14.99", "calories": "", "desc": "Crispers tossed in honey-chipotle sauce; about 1,470 to 1,590 cal" },
+        { "name": "Nashville Hot Crispers", "size": "", "price": "$14.99", "calories": "", "desc": "Crispers with spicy Nashville hot seasoning" },
+        { "name": "Margarita Grilled Chicken", "size": "", "price": "$14.79", "calories": "", "desc": "Grilled chicken with rice, black beans and pico" },
+        { "name": "Chipotle Fresh Mex Bowl", "size": "", "price": "$12.99", "calories": "", "desc": "Rice bowl with chicken, beans, corn and chipotle sauce" }
+      ]
+    },
+    {
+      "category": "Ribs & Steaks",
+      "intro": "Baby back ribs with a choice of sauce, plus grilled sirloin and ribeye.",
+      "items": [
+        { "name": "Half Order Baby Back Ribs", "size": "", "price": "$17.99", "calories": "", "desc": "Choice of dry rub, honey-chipotle or house BBQ; about 1,360 to 1,410 cal" },
+        { "name": "Full Order Baby Back Ribs", "size": "", "price": "$22.99", "calories": "", "desc": "Full rack with your choice of sauce; about 2,240 to 2,320 cal" },
+        { "name": "Classic Sirloin (6 oz)", "size": "6 oz", "price": "$15.99", "calories": "", "desc": "Grilled sirloin with two sides" },
+        { "name": "Classic Sirloin (10 oz)", "size": "10 oz", "price": "$19.79", "calories": "", "desc": "Larger grilled sirloin with two sides" },
+        { "name": "Classic Ribeye (12 oz)", "size": "12 oz", "price": "$23.99", "calories": "", "desc": "Grilled ribeye with two sides" },
+        { "name": "Smokehouse Combo", "size": "", "price": "$19.49", "calories": "", "desc": "Pick smoked meats like ribs, brisket and sausage" }
+      ]
+    },
+    {
+      "category": "Sandwiches & Pasta",
+      "intro": "Crispy and grilled chicken sandwiches plus Cajun pasta.",
+      "items": [
+        { "name": "Crispy Chicken Sandwich", "size": "", "price": "$13.29", "calories": "", "desc": "Crispy chicken breast with pickles on a brioche bun" },
+        { "name": "Bacon Guac Grilled Chicken Sandwich", "size": "", "price": "$15.99", "calories": "", "desc": "Grilled chicken with bacon and guacamole" },
+        { "name": "Buffalo Chicken Ranch Sandwich", "size": "", "price": "$14.09", "calories": "", "desc": "Crispy chicken with buffalo sauce and ranch" },
+        { "name": "Cajun Pasta", "size": "", "price": "$15.49", "calories": "", "desc": "Creamy Cajun Alfredo with grilled chicken" },
+        { "name": "Ultimate Cajun Pasta", "size": "", "price": "$17.99", "calories": "", "desc": "Cajun pasta with chicken and shrimp" }
+      ]
+    },
+    {
+      "category": "Soups & Salads",
+      "intro": "Fresh salads and bottomless soup options.",
+      "items": [
+        { "name": "Santa Fe Chicken Salad", "size": "", "price": "$13.99", "calories": "560", "desc": "Grilled chicken over greens with Santa Fe dressing" },
+        { "name": "Quesadilla Explosion Salad", "size": "", "price": "$13.79", "calories": "1290", "desc": "Salad with cheese quesadillas and crispy tortilla strips" },
+        { "name": "Soup & House Salad", "size": "", "price": "$8.99", "calories": "", "desc": "A cup of soup with a house salad" },
+        { "name": "Bowl of Soup", "size": "", "price": "$6.49", "calories": "", "desc": "Chili's original chili or soup of the day" },
+        { "name": "Side House Salad", "size": "", "price": "$5.49", "calories": "", "desc": "Small mixed green salad" }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "intro": "The Molten Chocolate Cake is the icon.",
+      "items": [
+        { "name": "Molten Chocolate Cake", "size": "", "price": "$8.79", "calories": "1170", "desc": "Warm chocolate cake with a fudge center and ice cream" },
+        { "name": "Skillet Chocolate Chip Cookie", "size": "", "price": "$8.99", "calories": "", "desc": "Warm cookie in a skillet with ice cream" },
+        { "name": "Reese's Peanut Butter Pie", "size": "", "price": "$9.29", "calories": "", "desc": "Peanut butter pie with Reese's" }
+      ]
+    },
+    {
+      "category": "Kids (Pepper Pals)",
+      "intro": "Kids meals for the little ones.",
+      "items": [
+        { "name": "Pepper Pals Cheeseburger Bites", "size": "", "price": "$7.29", "calories": "", "desc": "Mini cheeseburgers with a side" },
+        { "name": "Pepper Pals Crispy Crispers", "size": "", "price": "$7.29", "calories": "", "desc": "Kids chicken crispers with a side" },
+        { "name": "Pepper Pals Grilled Chicken", "size": "", "price": "$7.29", "calories": "", "desc": "Grilled chicken with a side" },
+        { "name": "Pepper Pals Cheese Quesadilla", "size": "", "price": "$6.99", "calories": "", "desc": "Cheese quesadilla with a side" },
+        { "name": "Kraft Macaroni & Cheese", "size": "", "price": "$6.49", "calories": "", "desc": "Kids mac and cheese" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Soft drinks, teas and Chili's famous margaritas.",
+      "items": [
+        { "name": "Soft Drinks", "size": "", "price": "$3.19", "calories": "", "desc": "Coca-Cola fountain drinks with free refills" },
+        { "name": "Iced Tea", "size": "", "price": "$3.19", "calories": "", "desc": "Freshly brewed iced tea" },
+        { "name": "Lemonade", "size": "", "price": "$3.59", "calories": "", "desc": "House lemonade" },
+        { "name": "Skinny Margarita", "size": "", "price": "$9.99", "calories": "", "desc": "Lighter margarita (21+)" },
+        { "name": "Presidente Margarita", "size": "", "price": "$12.00", "calories": "", "desc": "Chili's signature margarita (21+)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Chili's at Home",
+    "intro": "Want the sizzle at home? These picks help you make fajitas and Tex-Mex favorites yourself.",
+    "cards": [
+      { "icon": "🍳", "name": "Cast Iron Fajita Skillet", "blurb": "Serve fajitas sizzling, just like Chili's.", "amazon_search": "cast iron fajita skillet set" },
+      { "icon": "🌯", "name": "Flour Tortillas", "blurb": "Soft tortillas for wrapping your fajitas.", "amazon_search": "flour tortillas fajita" },
+      { "icon": "🌶️", "name": "Fajita Seasoning", "blurb": "The Tex-Mex spice blend for chicken and steak.", "amazon_search": "fajita seasoning mix" },
+      { "icon": "📖", "name": "Copycat Tex-Mex Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Sizzling Fajitas",
+    "Triple Dipper",
+    "Oldtimer Big Mouth Burger",
+    "Baby Back Ribs",
+    "Molten Chocolate Cake"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is the 3 for Me deal at Chili's?",
+      "a": "3 for Me is Chili's value combo: a drink, an appetizer and a full entree starting at $10.99. You can upgrade the entree and some premium picks cost a little more."
+    },
+    {
+      "q": "How much are fajitas at Chili's?",
+      "a": "Classic chicken fajitas are about $17.59 and classic steak fajitas about $19.99. The Original Trio (chicken, steak and shrimp) is around $21.99, and Fajitas for 2 is about $39.99."
+    },
+    {
+      "q": "What is the Triple Dipper at Chili's?",
+      "a": "The Triple Dipper lets you pick any three appetizers with dipping sauces for one price, about $15.99. It is Chili's most popular shareable starter."
+    },
+    {
+      "q": "Does Chili's have baby back ribs?",
+      "a": "Yes. A half order of baby back ribs is about $17.99 and a full order about $22.99, with a choice of dry rub, honey-chipotle or house BBQ sauce."
+    },
+    {
+      "q": "What are the most popular items at Chili's?",
+      "a": "The best known are the sizzling fajitas, the Triple Dipper, the Oldtimer Big Mouth burger, baby back ribs, and the Molten Chocolate Cake."
+    },
+    {
+      "q": "Does Chili's have a lunch menu?",
+      "a": "Yes. Chili's runs weekday lunch specials, with items like the Big Smasher burger, boneless wings and the Santa Fe salad starting around $10.99 to $11.99 until 3 PM."
+    }
+  ],
+
+  "internal_links": [
+    "applebees-menu",
+    "texas-roadhouse-menu",
+    "outback-steakhouse-menu",
+    "olive-garden-menu",
+    "kfc-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Chili's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from a Chili's nutrition database.",
+    "calories": "Shown only where a reliable single figure exists; range-only items (Triple Dipper, wings, crispers, ribs) are noted inside the description instead, and others left blank. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location, portion and promotion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels sizzling steak fajitas image (pexels-40135708), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Chili's search demand: 3 for Me deal, fajita prices, Triple Dipper, baby back ribs, Big Mouth burgers, lunch specials."
+  }
+}
