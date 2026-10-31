@@ -1,0 +1,159 @@
+{
+  "slug": "shake-shack-menu",
+  "brand": "Shake Shack",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/shake-shack-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/19247562/pexels-photo-19247562.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Shake Shack style cheeseburger with lettuce, tomato and sauce on a potato bun",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-19247562",
+    "_verify_note": "Tentative hero (a griddled cheeseburger for the ShackBurger). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Shake Shack Menu With Prices & Calories (2026)",
+    "meta_description": "Full Shake Shack menu with prices and calories for 2026: the ShackBurger, SmokeShack, Chick'n Shack, crinkle-cut fries, shakes and concretes.",
+    "h1": "Shake Shack Menu With Prices (2026)",
+    "primary_keyword": "shake shack menu with prices",
+    "keyword_volume": 4100,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location. Manhattan, San Francisco and Hawaii run about 20% higher. Last updated October 2026.",
+
+  "intro": "Shake Shack is the modern burger chain that grew out of a New York City hot dog cart, known for its griddled ShackBurger made with 100% Angus beef and ShackSauce, crinkle-cut fries, the crispy Chick'n Shack, and frozen custard shakes and concretes. It sits at the premium end of fast food, with a menu that feels more like a roadside stand than a chain. Below is the full Shake Shack menu with prices and calories for 2026.",
+
+  "quick_answer": "A single ShackBurger is about $7.69 and a double is $11.49. The SmokeShack is $9.69, the Chick'n Shack is $8.29, and crinkle-cut fries are $4.49. A hand-spun shake is $6.39 and a concrete is about $6.99. The ShackBurger and the shakes are the signatures. A single ShackBurger is about 530 calories.",
+
+  "highlights": [
+    { "strong": "ShackBurger", "label": "griddled Angus with ShackSauce" },
+    { "strong": "Crinkle-cut", "label": "the signature fries" },
+    { "strong": "Frozen custard", "label": "shakes and concretes" },
+    { "strong": "$7.69", "label": "single ShackBurger" }
+  ],
+
+  "hot_deal": "Shake Shack value: it sits at the premium end, so the best value is the single ShackBurger ($7.69) over the double, and skipping the combo (Shake Shack has no set meal deals). The app and Shack Perks drop occasional free-fries and free-shake offers. Prices run about 20% higher in Manhattan, San Francisco and Hawaii. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Burgers",
+      "intro": "Griddled Angus beef burgers with ShackSauce on a potato bun.",
+      "items": [
+        { "name": "ShackBurger (Single)", "size": "single", "price": "$7.69", "calories": "530", "desc": "One patty, American cheese, lettuce, tomato and ShackSauce" },
+        { "name": "ShackBurger (Double)", "size": "double", "price": "$11.49", "calories": "770", "desc": "Two patties with cheese and ShackSauce" },
+        { "name": "SmokeShack (Single)", "size": "single", "price": "$9.69", "calories": "610", "desc": "Cheeseburger with applewood bacon, cherry peppers and ShackSauce" },
+        { "name": "'Shroom Burger", "size": "", "price": "$8.69", "calories": "490", "desc": "A crisp-fried portobello filled with melted cheese, the veggie pick" },
+        { "name": "Hamburger (Single)", "size": "single", "price": "$6.59", "calories": "400", "desc": "A plain Angus burger, no cheese" },
+        { "name": "Cheeseburger (Single)", "size": "single", "price": "$7.19", "calories": "", "desc": "Angus burger with American cheese" }
+      ]
+    },
+    {
+      "category": "Chicken & Dogs",
+      "intro": "The Chick'n Shack and the NYC-style hot dogs.",
+      "items": [
+        { "name": "Chick'n Shack", "size": "", "price": "$8.29", "calories": "600", "desc": "Crispy chicken breast with lettuce, pickles and buttermilk herb mayo" },
+        { "name": "Hot Chick'n", "size": "", "price": "$8.49", "calories": "", "desc": "Spicy crispy chicken with slaw and pickles" },
+        { "name": "Chick'n Bites", "size": "", "price": "$6.99", "calories": "", "desc": "Breaded white-meat chicken bites" },
+        { "name": "Hot Dog", "size": "", "price": "$5.79", "calories": "", "desc": "A griddled, split-top all-beef hot dog" },
+        { "name": "Shack-cago Dog", "size": "", "price": "$6.49", "calories": "", "desc": "Chicago-style dog with relish, onion, cucumber, peppers and celery salt" }
+      ]
+    },
+    {
+      "category": "Fries",
+      "intro": "The famous crinkle-cut fries, plain or loaded.",
+      "items": [
+        { "name": "Crinkle-Cut Fries", "size": "", "price": "$4.49", "calories": "470", "desc": "The signature crinkle-cut fries" },
+        { "name": "Cheese Fries", "size": "", "price": "$5.49", "calories": "580", "desc": "Crinkle fries with cheese sauce" },
+        { "name": "Bacon Cheese Fries", "size": "", "price": "$7.29", "calories": "", "desc": "Cheese fries loaded with bacon" }
+      ]
+    },
+    {
+      "category": "Shakes & Frozen Custard",
+      "intro": "Hand-spun shakes, concretes and custard.",
+      "items": [
+        { "name": "Hand-Spun Shake", "size": "", "price": "$6.39", "calories": "", "desc": "Frozen custard shake, any flavor (vanilla about 740, chocolate 810)" },
+        { "name": "Shack Attack Concrete", "size": "", "price": "$6.99", "calories": "", "desc": "Chocolate custard with fudge, chocolate chips and chocolate cookies" },
+        { "name": "Concrete (Custom)", "size": "", "price": "$6.49", "calories": "", "desc": "Frozen custard blended with your choice of mix-ins" },
+        { "name": "Single Scoop (Cup or Cone)", "size": "", "price": "$4.69", "calories": "", "desc": "A scoop of vanilla or chocolate frozen custard" },
+        { "name": "Float", "size": "", "price": "$5.49", "calories": "", "desc": "Soda or ShackMeister ale with vanilla custard" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Housemade lemonade and more.",
+      "items": [
+        { "name": "Lemonade", "size": "", "price": "$3.49", "calories": "", "desc": "Housemade lemonade" },
+        { "name": "Fifty/Fifty", "size": "", "price": "$3.49", "calories": "", "desc": "Half lemonade, half iced tea" },
+        { "name": "Iced Tea", "size": "", "price": "$3.29", "calories": "", "desc": "Freshly brewed iced tea" },
+        { "name": "Fountain Drink", "size": "", "price": "$3.29", "calories": "", "desc": "Fountain soft drinks" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Shake Shack at Home",
+    "intro": "Want a griddled ShackBurger and crinkle fries at home? These picks help.",
+    "cards": [
+      { "icon": "🍔", "name": "Burger Smasher & Griddle", "blurb": "For a griddled smash-style ShackBurger.", "amazon_search": "burger smasher press griddle" },
+      { "icon": "🥔", "name": "Crinkle Cutter", "blurb": "For the signature crinkle-cut fries.", "amazon_search": "crinkle cutter fries" },
+      { "icon": "🥄", "name": "Burger Sauce", "blurb": "For a copycat ShackSauce.", "amazon_search": "burger sauce" },
+      { "icon": "🍦", "name": "Frozen Custard Maker", "blurb": "For shakes and concretes.", "amazon_search": "frozen custard ice cream maker" }
+    ]
+  },
+
+  "popular_items": [
+    "ShackBurger",
+    "SmokeShack",
+    "Chick'n Shack",
+    "Crinkle-Cut Fries",
+    "Hand-Spun Shake"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a ShackBurger?",
+      "a": "A single ShackBurger is about $7.69 and a double is $11.49. It is Shake Shack's signature: a griddled Angus patty with American cheese, lettuce, tomato and ShackSauce on a potato bun. A single is about 530 calories."
+    },
+    {
+      "q": "What is a concrete at Shake Shack?",
+      "a": "A concrete is frozen custard blended at high speed with mix-ins until thick, like a Shack version of a Blizzard. The Shack Attack (chocolate everything) is the most famous, about $6.99, and you can build a custom one too."
+    },
+    {
+      "q": "Why is Shake Shack more expensive?",
+      "a": "Shake Shack uses 100% Angus beef with no hormones or antibiotics, fresh produce and frozen custard made in-house, and positions itself as premium fast food. That is why a single ShackBurger runs higher than a classic drive-thru burger."
+    },
+    {
+      "q": "How many calories are in a ShackBurger?",
+      "a": "A single ShackBurger is about 530 calories, a double about 770, and the SmokeShack about 610. Crinkle-cut fries add about 470, and a vanilla shake is around 740, so a full meal adds up quickly."
+    },
+    {
+      "q": "What are the most popular items at Shake Shack?",
+      "a": "The best known are the ShackBurger, the SmokeShack, the Chick'n Shack, the crinkle-cut fries, and the hand-spun shakes and concretes."
+    }
+  ],
+
+  "internal_links": [
+    "in-n-out-menu",
+    "five-guys-menu",
+    "whataburger-menu",
+    "mcdonalds-menu",
+    "wendys-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Shake Shack."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices are national averages from an established menu-prices publication; Manhattan, San Francisco and Hawaii run about 20% higher. Prices vary by location.",
+    "calories": "Calories from a Shake Shack nutrition source. Shown where a reliable figure exists; several items left blank or noted inline rather than guessing. Hand-Spun Shake calorie field cleared on import: the item is any flavor and 740 is the vanilla figure, kept in the description with chocolate 810. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels cheeseburger (pexels-19247562) for the ShackBurger. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Burgers & Shakes' category. Carl's Jr can follow.",
+    "keyword_notes": "Sections and FAQ shaped by real Shake Shack search demand: ShackBurger price, concretes, why it costs more, calories, popular items."
+  }
+}
