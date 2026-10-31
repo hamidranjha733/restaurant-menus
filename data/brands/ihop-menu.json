@@ -1,0 +1,157 @@
+{
+  "slug": "ihop-menu",
+  "brand": "IHOP",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/ihop-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/38929320/pexels-photo-38929320.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "IHOP style stack of buttermilk pancakes with butter and maple syrup",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-38929320",
+    "_verify_note": "Tentative hero (buttermilk pancake stack). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "IHOP Menu With Prices & Calories (2026)",
+    "meta_description": "Full IHOP menu with prices and calories for 2026: buttermilk pancakes, combos, omelettes, French toast, crepes, Steakburgers and family feasts.",
+    "h1": "IHOP Menu With Prices (2026)",
+    "primary_keyword": "ihop menu with prices",
+    "keyword_volume": 4900,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "IHOP (the International House of Pancakes) is the all-day breakfast chain famous for its Original Buttermilk Pancakes, big combo plates like the Breakfast Sampler and 2x2x2, omelettes, Thick 'N Fluffy French Toast, crepes and, since it added lunch and dinner, Steakburgers. Pancakes come as a short or full stack, and the whole menu runs 24 hours at many locations. Below is the full IHOP menu with prices and calories for 2026.",
+
+  "quick_answer": "A short stack of IHOP Original Buttermilk Pancakes is about $8.99 and a full stack is $11.99. The Breakfast Sampler is $10.59, a 2x2x2 combo is $10.99, and omelettes run $14.99 to $16.99. A Steakburger is $14.99. The buttermilk pancakes are the signature. A full stack is about 820 calories.",
+
+  "highlights": [
+    { "strong": "Buttermilk", "label": "the famous Original Pancakes" },
+    { "strong": "2x2x2", "label": "eggs, meat and pancakes combo" },
+    { "strong": "All day", "label": "breakfast served anytime" },
+    { "strong": "Family Feasts", "label": "to feed four to go" }
+  ],
+
+  "hot_deal": "IHOP value: the House Faves 2x2x2 (about $6.00) is the cheapest full breakfast, and kids eat cheap with pancake combos from $5.49. The International Bank of Pancakes app rewards program and regular 'all you can eat pancakes' promotions add value. Family Feasts (about $29.99) feed four to go. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Pancakes",
+      "intro": "The signature Original Buttermilk and flavored stacks. A full stack is about 820 cal.",
+      "items": [
+        { "name": "Original Buttermilk Pancakes (Short Stack)", "size": "short stack", "price": "$8.99", "calories": "", "desc": "A short stack of the famous buttermilk pancakes" },
+        { "name": "Original Buttermilk Pancakes (Full Stack)", "size": "full stack", "price": "$11.99", "calories": "820", "desc": "A full stack of five buttermilk pancakes, about 820 cal" },
+        { "name": "Double Blueberry Pancakes", "size": "", "price": "$12.99", "calories": "", "desc": "Pancakes with blueberries in the batter and on top" },
+        { "name": "Chocolate Chip Pancakes", "size": "", "price": "$12.99", "calories": "", "desc": "Buttermilk pancakes loaded with chocolate chips" }
+      ]
+    },
+    {
+      "category": "Combos",
+      "intro": "The classic breakfast combo plates.",
+      "items": [
+        { "name": "Breakfast Sampler", "size": "", "price": "$10.59", "calories": "", "desc": "Eggs, bacon, sausage, hash browns and pancakes" },
+        { "name": "2 x 2 x 2", "size": "", "price": "$10.99", "calories": "", "desc": "Two eggs, two bacon or sausage, and two pancakes" },
+        { "name": "House Faves 2 x 2 x 2", "size": "", "price": "$6.00", "calories": "", "desc": "The value version of the 2x2x2, the cheapest full breakfast" },
+        { "name": "World Famous Pancake Combo", "size": "", "price": "$15.99", "calories": "", "desc": "Pancakes with eggs, hash browns and a choice of meat" }
+      ]
+    },
+    {
+      "category": "Omelettes & French Toast",
+      "intro": "Big omelettes and Thick 'N Fluffy French toast.",
+      "items": [
+        { "name": "Big Steak Omelette", "size": "", "price": "$16.99", "calories": "770", "desc": "Steak, hash browns, peppers, onions and cheese, with pancakes" },
+        { "name": "Colorado Omelette", "size": "", "price": "$14.99", "calories": "", "desc": "Bacon, sausage, ham, beef, peppers, onions and cheese" },
+        { "name": "Thick 'N Fluffy Classic French Toast", "size": "", "price": "$12.49", "calories": "", "desc": "Thick French toast dusted with powdered sugar (2 slices about 490 cal)" },
+        { "name": "Strawberry Banana French Toast", "size": "", "price": "$13.99", "calories": "", "desc": "French toast topped with strawberries and banana" }
+      ]
+    },
+    {
+      "category": "Crepes, Burgers & Chicken",
+      "intro": "Crepes and the all-day lunch and dinner items.",
+      "items": [
+        { "name": "Breakfast Crepes", "size": "", "price": "$13.49", "calories": "", "desc": "Thin crepes with scrambled eggs, cheese and meat" },
+        { "name": "Steakburger", "size": "", "price": "$14.99", "calories": "", "desc": "A classic steakburger with fries (classic burger about 740 cal)" },
+        { "name": "Crispy Chicken Sandwich", "size": "", "price": "$14.99", "calories": "", "desc": "Crispy chicken sandwich with fries" },
+        { "name": "Buttermilk Crispy Chicken Strips & Fries", "size": "", "price": "$14.49", "calories": "", "desc": "Chicken strips with fries and a dip" }
+      ]
+    },
+    {
+      "category": "Kids & Drinks",
+      "intro": "Kids pancakes and drinks.",
+      "items": [
+        { "name": "Happy Face Pancake Combo (Kids)", "size": "", "price": "$8.49", "calories": "", "desc": "A pancake with a whipped-cream face, egg and meat" },
+        { "name": "Silver Dollar Pancakes (Kids)", "size": "", "price": "$5.49", "calories": "", "desc": "Mini pancakes for kids" },
+        { "name": "Coffee", "size": "", "price": "$3.99", "calories": "", "desc": "Bottomless hot coffee" },
+        { "name": "Milkshake", "size": "", "price": "$6.59", "calories": "", "desc": "Hand-mixed milkshake, various flavors" },
+        { "name": "Fresh Orange Juice (16 oz)", "size": "16 oz", "price": "$4.59", "calories": "", "desc": "Freshly squeezed orange juice" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make IHOP at Home",
+    "intro": "Want fluffy pancakes and French toast at home? These picks help.",
+    "cards": [
+      { "icon": "🥞", "name": "Buttermilk Pancake Mix", "blurb": "For a short stack at home.", "amazon_search": "buttermilk pancake mix" },
+      { "icon": "🍯", "name": "Maple Syrup & Fruit Syrups", "blurb": "The IHOP syrup caddy at home.", "amazon_search": "pancake syrup variety" },
+      { "icon": "🍳", "name": "Nonstick Griddle", "blurb": "For even, fluffy pancakes.", "amazon_search": "nonstick griddle pancakes" },
+      { "icon": "📖", "name": "Copycat Breakfast Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Original Buttermilk Pancakes",
+    "Breakfast Sampler",
+    "2 x 2 x 2 Combo",
+    "Big Steak Omelette",
+    "Thick 'N Fluffy French Toast"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much are pancakes at IHOP?",
+      "a": "A short stack of Original Buttermilk Pancakes is about $8.99 and a full stack is $11.99. Flavored stacks like Double Blueberry or Chocolate Chip are around $12.99. Combos that add eggs and meat start at about $6.00 for the House Faves 2x2x2."
+    },
+    {
+      "q": "Does IHOP serve breakfast all day?",
+      "a": "Yes. IHOP serves its full breakfast menu, including pancakes, all day and all night at many locations, which run 24 hours. It also has a lunch and dinner menu with burgers, chicken and dinner plates."
+    },
+    {
+      "q": "What is the 2x2x2 at IHOP?",
+      "a": "The 2x2x2 is IHOP's classic combo: two eggs, two strips of bacon or sausage links, and two buttermilk pancakes, for about $10.99. The cheaper House Faves version is around $6.00, the best value full breakfast."
+    },
+    {
+      "q": "How many calories are in IHOP pancakes?",
+      "a": "A full stack of five Original Buttermilk Pancakes is about 820 calories before syrup, roughly 164 per pancake. A Big Steak Omelette is about 770 and a Classic Burger about 740. Syrup and butter add more."
+    },
+    {
+      "q": "What are the most popular items at IHOP?",
+      "a": "The best known are the Original Buttermilk Pancakes, the Breakfast Sampler, the 2x2x2 combo, the Big Steak Omelette, and the Thick 'N Fluffy French Toast."
+    }
+  ],
+
+  "internal_links": [
+    "dennys-menu",
+    "waffle-house-menu",
+    "first-watch-menu",
+    "cracker-barrel-menu",
+    "applebees-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > IHOP."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). May vary by location.",
+    "calories": "Calories from an IHOP nutrition source. Shown where a reliable figure exists; combos and several items left blank or noted inline rather than guessing. Steakburger calorie field cleared on import: the item comes with fries, but 740 is the burger alone, kept in the description. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels buttermilk pancake stack (pexels-38929320). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (with Denny's, Waffle House, First Watch etc.). Olive Garden, Outback, LongHorn, Red Lobster, Cheddar's and Twin Peaks remain.",
+    "keyword_notes": "Sections and FAQ shaped by real IHOP search demand: pancake price, all-day breakfast, the 2x2x2, pancake calories, popular items."
+  }
+}
