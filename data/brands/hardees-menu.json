@@ -1,0 +1,145 @@
+{
+  "slug": "hardees-menu",
+  "brand": "Hardee's",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/hardees-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/1893557/pexels-photo-1893557.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Hardee's style charbroiled Thickburger with lettuce, tomato and cheese",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-1893557",
+    "_verify_note": "Tentative hero (charbroiled-style burger for the Thickburger). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Hardee's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Hardee's menu with prices and calories for 2026: charbroiled Thickburgers, the Frisco, hand-breaded chicken tenders, biscuits, breakfast and shakes.",
+    "h1": "Hardee's Menu With Prices (2026)",
+    "primary_keyword": "hardees menu with prices",
+    "keyword_volume": 3300,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location. Hardee's is the eastern US sister chain of Carl's Jr., with a very similar menu. Last updated October 2026.",
+
+  "intro": "Hardee's is the burger chain of the eastern and southern US, the sister of Carl's Jr., known for its charbroiled Thickburgers, the Frisco Thickburger on sourdough, hand-breaded chicken tenders, and a big breakfast built on Made From Scratch Biscuits. Burgers are cooked over an open flame, and the Monster Burger is the over-the-top headliner. Below is the full Hardee's menu with prices and calories for 2026.",
+
+  "quick_answer": "A Hardee's Famous Star is about $6.61, the Frisco Thickburger is $7.50, and the loaded Monster Burger is $13.50. A hand-breaded chicken sandwich is $6.24, 3-piece tenders are $3.99, and a Made From Scratch biscuit is $1.75. Burgers are charbroiled. An Original Thickburger is about 830 calories.",
+
+  "highlights": [
+    { "strong": "Charbroiled", "label": "Thickburgers over an open flame" },
+    { "strong": "Frisco", "label": "the sourdough Thickburger" },
+    { "strong": "Made From Scratch", "label": "the biscuits at breakfast" },
+    { "strong": "$13.50", "label": "the loaded Monster Burger" }
+  ],
+
+  "hot_deal": "Hardee's value: the $5 deals and 2-for value bundles are the headline, and the My Rewards app drops regular coupons and free-item offers. The Frisco Breakfast Sandwich ($3.49) and a Made From Scratch biscuit ($1.75) are the cheapest breakfast, and the hand-breaded tenders start at $3.99. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Charbroiled Thickburgers",
+      "intro": "Big burgers cooked over an open flame.",
+      "items": [
+        { "name": "Famous Star", "size": "", "price": "$6.61", "calories": "", "desc": "Charbroiled patty, cheese, lettuce, tomato and special sauce" },
+        { "name": "Original Thickburger (1/3 lb)", "size": "1/3 lb", "price": "$7.25", "calories": "830", "desc": "A third-pound charbroiled Thickburger with the classic toppings" },
+        { "name": "Frisco Thickburger", "size": "", "price": "$7.50", "calories": "850", "desc": "Charbroiled patty with bacon and Swiss on grilled sourdough" },
+        { "name": "Mushroom & Swiss Thickburger", "size": "", "price": "$8.25", "calories": "", "desc": "Thickburger with mushrooms and Swiss" },
+        { "name": "Monster Burger", "size": "", "price": "$13.50", "calories": "", "desc": "Two patties loaded with bacon and cheese, the big one" }
+      ]
+    },
+    {
+      "category": "Chicken",
+      "intro": "Hand-breaded chicken sandwiches and tenders.",
+      "items": [
+        { "name": "Hand-Breaded Chicken Sandwich", "size": "", "price": "$6.24", "calories": "", "desc": "A hand-breaded crispy chicken fillet with pickles" },
+        { "name": "Hand-Breaded Chicken Tenders (3 pc)", "size": "3 pieces", "price": "$3.99", "calories": "350", "desc": "Three hand-breaded tenders with a dip (5 pc $5.79)" },
+        { "name": "Charbroiled / Grilled Chicken Sandwich", "size": "", "price": "$6.49", "calories": "360", "desc": "A grilled chicken sandwich, the lighter pick (about 360 cal)" }
+      ]
+    },
+    {
+      "category": "Fries & Sides",
+      "intro": "Natural-cut fries, hash rounds and more.",
+      "items": [
+        { "name": "Natural-Cut French Fries", "size": "", "price": "$3.75", "calories": "380", "desc": "Skin-on natural-cut fries (medium about 380 cal)" },
+        { "name": "Hash Rounds", "size": "", "price": "$2.75", "calories": "270", "desc": "Crispy potato hash rounds (breakfast side)" },
+        { "name": "Hand-Scooped Ice Cream Shake", "size": "", "price": "$4.55", "calories": "", "desc": "Real ice cream shake, various flavors" }
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "intro": "The Made From Scratch Biscuit breakfast.",
+      "items": [
+        { "name": "Made From Scratch Biscuit", "size": "", "price": "$1.75", "calories": "310", "desc": "A fresh-baked biscuit (plain about 310 cal; with sausage or bacon more)" },
+        { "name": "Frisco Breakfast Sandwich", "size": "", "price": "$3.49", "calories": "", "desc": "Ham, egg and cheese on grilled sourdough, the value breakfast" },
+        { "name": "Loaded Breakfast Burrito", "size": "", "price": "$4.99", "calories": "", "desc": "Eggs, bacon, sausage, hash rounds and cheese in a tortilla" },
+        { "name": "Cinnamon Roll", "size": "", "price": "$3.10", "calories": "", "desc": "A warm iced cinnamon roll" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Hardee's at Home",
+    "intro": "Want charbroiled burgers and scratch biscuits at home? These picks help.",
+    "cards": [
+      { "icon": "🔥", "name": "Charcoal Grill", "blurb": "For flame-charbroiled Thickburgers.", "amazon_search": "charcoal grill" },
+      { "icon": "🫓", "name": "Buttermilk Biscuit Mix", "blurb": "For Made From Scratch-style biscuits.", "amazon_search": "buttermilk biscuit mix" },
+      { "icon": "🥔", "name": "Fry Cutter", "blurb": "For natural-cut fries.", "amazon_search": "french fry cutter potato" },
+      { "icon": "📖", "name": "Copycat Fast Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Original Thickburger",
+    "Frisco Thickburger",
+    "Famous Star",
+    "Made From Scratch Biscuit",
+    "Hand-Breaded Chicken Tenders"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a Thickburger at Hardee's?",
+      "a": "The Famous Star is about $6.61, the Original Thickburger around $7.25, and the Frisco Thickburger $7.50. The loaded Monster Burger is $13.50. Prices vary by location, and the $5 bundle deals are the best value."
+    },
+    {
+      "q": "What is the difference between Hardee's and Carl's Jr?",
+      "a": "They are sister chains with nearly the same menu and charbroiled burgers. Carl's Jr. operates mostly in the western US and Hardee's in the eastern and southern US. Hardee's leans harder into its Made From Scratch Biscuit breakfast."
+    },
+    {
+      "q": "What are Made From Scratch Biscuits?",
+      "a": "They are biscuits baked fresh in the restaurant every morning, a Hardee's breakfast signature. A plain biscuit is about $1.75, and versions with sausage, bacon or gravy cost a little more. A plain biscuit is around 310 calories."
+    },
+    {
+      "q": "How many calories are in a Hardee's burger?",
+      "a": "An Original Thickburger is about 830 calories and the Frisco Thickburger about 850. Lighter options include the grilled chicken sandwich (about 360) and the hand-breaded tenders (about 350 for three). Fries add roughly 380."
+    },
+    {
+      "q": "What are the most popular items at Hardee's?",
+      "a": "The best known are the Original Thickburger, the Frisco Thickburger, the Famous Star, the Made From Scratch Biscuits, and the hand-breaded chicken tenders."
+    }
+  ],
+
+  "internal_links": [
+    "carls-jr-menu",
+    "whataburger-menu",
+    "mcdonalds-menu",
+    "burger-king-menu",
+    "wendys-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Hardee's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). May vary by location.",
+    "calories": "Calories from a Hardee's nutrition source (the chain publishes a full guide). Shown where a reliable figure exists; several items left blank rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels charbroiled-style burger (pexels-1893557) for the Thickburger. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct shot from the Carl's Jr hero.",
+    "category_note": "Uses the existing 'Burgers & Shakes' category (sister chain to Carl's Jr.). This is the final brand, completing the 62-brand build plan.",
+    "keyword_notes": "Sections and FAQ shaped by real Hardee's search demand: Thickburger price, Hardee's vs Carl's Jr, Made From Scratch Biscuits, burger calories, popular items."
+  }
+}
