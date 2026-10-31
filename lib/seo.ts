@@ -52,16 +52,21 @@ const normalizeSize = (s: string) =>
 
 /**
  * "Hand-Cut Sirloin (6 oz)". The size is left off when the name already says it,
- * as in "2 Pc Signature Chicken" (2 pieces), "Shake (Medium)" or "Gallon of Tea" (gallon).
+ * as in "2 Pc Signature Chicken" (2 pieces), "Buttermilk Pancakes (2)" (2 pancakes),
+ * "Shake (Medium)" or "Gallon of Tea" (gallon).
  * Only a number-plus-unit or one-word size is matched loosely; a longer size such as
  * "Chicken & Shrimp" is left off only when the name already has it in brackets.
  */
 export function itemLabel(name: string, size: string): string {
   if (!size) return name;
   const loose = /^\d/.test(size) || !/\s/.test(size.trim());
-  const alreadyNamed = loose
+  // "Buttermilk Pancakes (2)" already gives the count in "2 pancakes".
+  const count = /^(\d+)\s/.exec(size)?.[1];
+  const countInName = count !== undefined && name.includes(`(${count})`);
+  const sizeInName = loose
     ? new RegExp(`(^|[^a-z0-9])${normalizeSize(size).replace(/[.*+?^${}()|[\]\\/]/g, "\\$&")}($|[^a-z0-9])`).test(normalizeSize(name))
     : name.toLowerCase().includes(`(${size.toLowerCase()})`);
+  const alreadyNamed = countInName || sizeInName;
   return alreadyNamed ? name : `${name} (${size})`;
 }
 
