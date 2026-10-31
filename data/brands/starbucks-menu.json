@@ -1,0 +1,165 @@
+{
+  "slug": "starbucks-menu",
+  "brand": "Starbucks",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/starbucks-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/4913342/pexels-photo-4913342.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Starbucks style latte with rosetta latte art in a white cup on a marble table",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-4913342"
+  },
+
+  "seo": {
+    "meta_title": "Starbucks Menu With Prices & Calories (2026)",
+    "meta_description": "Full Starbucks menu with prices and calories for 2026: lattes, Caramel Macchiato, Frappuccinos, cold brew, Refreshers, Pink Drink, teas and food.",
+    "h1": "Starbucks Menu With Prices (2026)",
+    "primary_keyword": "starbucks menu with prices",
+    "keyword_volume": 5000,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate (grande sizes), are provided as a guide only, and may vary by location, size and customization. Last updated October 2026.",
+
+  "intro": "Starbucks is the world's biggest coffeehouse, famous for its espresso drinks like the Caramel Macchiato and Caffe Latte, blended Frappuccinos, fruity Refreshers including the Pink Drink, and a full lineup of teas and pastries. Drinks come in tall, grande and venti, and almost everything can be customized. Below is the full Starbucks menu with prices and calories for 2026 (grande sizes).",
+
+  "quick_answer": "A grande (16 oz) Caffe Latte at Starbucks is about $5.95, a Caramel Macchiato is $7.25, and a Frappuccino is about $7.35. Cold Brew is the cheapest coffee at $3.75, Refreshers are $6.95, and a butter croissant is $3.95. Prices rise with size (tall, grande, venti) and add-ons.",
+
+  "highlights": [
+    { "strong": "Grande", "label": "16 oz, the go-to size" },
+    { "strong": "$5.95", "label": "Caffe Latte" },
+    { "strong": "$3.75", "label": "Cold Brew, cheapest coffee" },
+    { "strong": "Customize", "label": "any drink, your way" }
+  ],
+
+  "hot_deal": "Starbucks value: the Starbucks Rewards app is where the deals live, with free drinks after enough Stars, a birthday reward, and Double-Star days. The cheapest caffeine fix is a brewed Pike Place or a Cold Brew ($3.75), and ordering a 'tall' instead of a grande trims both the price and the calories. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Hot Espresso",
+      "intro": "The core espresso lineup, priced for a grande (16 oz).",
+      "items": [
+        { "name": "Caffe Latte", "size": "grande", "price": "$5.95", "calories": "", "desc": "Espresso with steamed milk and light foam" },
+        { "name": "Cappuccino", "size": "grande", "price": "$6.25", "calories": "140", "desc": "Espresso with steamed milk and a deep layer of foam" },
+        { "name": "Caramel Macchiato", "size": "grande", "price": "$7.25", "calories": "250", "desc": "Vanilla, steamed milk, espresso and caramel drizzle" },
+        { "name": "Caffe Mocha", "size": "grande", "price": "$7.45", "calories": "", "desc": "Espresso with mocha sauce, milk and whipped cream" },
+        { "name": "Flat White", "size": "grande", "price": "$7.45", "calories": "", "desc": "Ristretto espresso with steamed whole milk" },
+        { "name": "Caffe Americano", "size": "grande", "price": "$5.45", "calories": "", "desc": "Espresso shots topped with hot water" }
+      ]
+    },
+    {
+      "category": "Cold Coffee",
+      "intro": "Iced espresso and cold brew.",
+      "items": [
+        { "name": "Iced Caramel Macchiato", "size": "grande", "price": "$7.25", "calories": "", "desc": "Iced vanilla, milk, espresso and caramel drizzle" },
+        { "name": "Iced Caffe Latte", "size": "grande", "price": "$6.75", "calories": "", "desc": "Espresso and milk over ice" },
+        { "name": "Cold Brew", "size": "grande", "price": "$3.75", "calories": "", "desc": "Slow-steeped cold brew coffee, black (about 5 cal)" },
+        { "name": "Nitro Cold Brew", "size": "", "price": "$5.45", "calories": "", "desc": "Cold brew infused with nitrogen for a creamy head" }
+      ]
+    },
+    {
+      "category": "Frappuccinos",
+      "intro": "Blended, iced and topped with whipped cream.",
+      "items": [
+        { "name": "Caramel Frappuccino", "size": "grande", "price": "$7.35", "calories": "380", "desc": "Blended coffee with caramel and whipped cream" },
+        { "name": "Mocha Frappuccino", "size": "grande", "price": "$7.35", "calories": "360", "desc": "Blended coffee with mocha and whipped cream" },
+        { "name": "Java Chip Frappuccino", "size": "grande", "price": "$7.35", "calories": "440", "desc": "Blended coffee with mocha and chocolate chips" },
+        { "name": "Vanilla Bean Creme Frappuccino", "size": "grande", "price": "$6.85", "calories": "", "desc": "Blended vanilla bean creme, no coffee" }
+      ]
+    },
+    {
+      "category": "Refreshers",
+      "intro": "Fruity, caffeinated and light. The Pink Drink is the icon.",
+      "items": [
+        { "name": "Strawberry Acai Lemonade", "size": "grande", "price": "$6.95", "calories": "", "desc": "Strawberry acai refresher with lemonade (refresher base about 100 cal)" },
+        { "name": "Mango Dragonfruit Lemonade", "size": "grande", "price": "$6.95", "calories": "", "desc": "Mango dragonfruit refresher with lemonade" },
+        { "name": "Pink Drink", "size": "grande", "price": "$6.95", "calories": "", "desc": "Strawberry acai refresher with coconut milk" }
+      ]
+    },
+    {
+      "category": "Tea & Brewed Coffee",
+      "intro": "Chai, matcha and brewed coffee.",
+      "items": [
+        { "name": "Chai Tea Latte", "size": "grande", "price": "$6.45", "calories": "240", "desc": "Spiced black tea with steamed milk" },
+        { "name": "Matcha Green Tea Latte", "size": "grande", "price": "$6.95", "calories": "", "desc": "Matcha with steamed milk (iced about 200 cal)" },
+        { "name": "Pike Place Roast (Brewed)", "size": "grande", "price": "$4.15", "calories": "", "desc": "Fresh-brewed medium-roast coffee, about 5 cal black" },
+        { "name": "Hot Tea (Earl Grey)", "size": "grande", "price": "$4.15", "calories": "", "desc": "Brewed hot tea" }
+      ]
+    },
+    {
+      "category": "Food",
+      "intro": "Pastries, cake pops and breakfast.",
+      "items": [
+        { "name": "Butter Croissant", "size": "", "price": "$3.95", "calories": "", "desc": "A flaky, buttery croissant" },
+        { "name": "Cake Pop", "size": "", "price": "$3.45", "calories": "", "desc": "Birthday or chocolate cake pop" },
+        { "name": "Bacon, Gouda & Egg Sandwich", "size": "", "price": "$6.25", "calories": "", "desc": "Breakfast sandwich on an artisan roll" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Starbucks at Home",
+    "intro": "Want cafe drinks at home? These picks help you pull shots, froth milk and syrup it up.",
+    "cards": [
+      { "icon": "☕", "name": "Espresso Machine", "blurb": "Pull espresso for lattes and macchiatos.", "amazon_search": "espresso machine home" },
+      { "icon": "🥛", "name": "Milk Frother", "blurb": "Steam and froth milk for latte art.", "amazon_search": "milk frother" },
+      { "icon": "🍯", "name": "Coffee Syrups", "blurb": "Caramel, vanilla and mocha syrups.", "amazon_search": "coffee syrup caramel vanilla" },
+      { "icon": "🧊", "name": "Cold Brew Maker", "blurb": "Steep smooth cold brew at home.", "amazon_search": "cold brew coffee maker" }
+    ]
+  },
+
+  "popular_items": [
+    "Caramel Macchiato",
+    "Caffe Latte",
+    "Caramel Frappuccino",
+    "Pink Drink",
+    "Cold Brew"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a latte at Starbucks?",
+      "a": "A grande (16 oz) Caffe Latte is about $5.95. A tall is cheaper and a venti is more, and milk alternatives or extra syrups add a little. A Caramel Macchiato grande is about $7.25."
+    },
+    {
+      "q": "What size is a grande at Starbucks?",
+      "a": "Grande is 16 ounces, the middle size. A tall is 12 ounces, a venti is 20 ounces hot or 24 ounces iced, and a short (hot only) is 8 ounces."
+    },
+    {
+      "q": "What is the Pink Drink?",
+      "a": "The Pink Drink is a Strawberry Acai Refresher made with coconut milk instead of water, giving it a creamy pink color. A grande is about $6.95 and it is lightly caffeinated."
+    },
+    {
+      "q": "What is the lowest-calorie drink at Starbucks?",
+      "a": "Black coffee, an Americano and plain cold brew are nearly calorie-free. Among flavored drinks, the Refreshers are among the lightest at around 100 calories for a grande before milk."
+    },
+    {
+      "q": "What are the most popular items at Starbucks?",
+      "a": "The best known are the Caramel Macchiato, the Caffe Latte, the Caramel Frappuccino, the Pink Drink, and Cold Brew."
+    }
+  ],
+
+  "internal_links": [
+    "mcdonalds-menu",
+    "subway-menu",
+    "chick-fil-a-menu",
+    "taco-bell-menu",
+    "burger-king-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Starbucks."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US grande pricing; Starbucks prices vary by market and size). Calories from a Starbucks nutrition source, grande size.",
+    "calories": "Shown for grande where a reliable figure exists; plain coffees and several drinks are left blank or noted inline (black coffee/cold brew are near zero). Calories change a lot with milk, syrups and size. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate (grande) and vary by location, size and customization. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels latte art image (pexels-4913342), portrait that crops well to a wide hero, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "category_note": "This brand uses a NEW category, 'Coffee & Drinks', which must be added to data/categories.json before building, or the build fails. Other coffee brands (Dunkin, Dutch Bros, 7 Brew, Scooter's) will use the same category.",
+    "keyword_notes": "Sections and FAQ shaped by real Starbucks search demand: latte price, grande size, Pink Drink, lowest-calorie drink, popular drinks."
+  }
+}

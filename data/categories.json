@@ -18,5 +18,10 @@
     "name": "Breakfast & Dining",
     "slug": "breakfast-dining",
     "description": "Sit-down restaurants, steakhouses, diners and breakfast chains, with full menu prices."
+  },
+  {
+    "name": "Coffee & Drinks",
+    "slug": "coffee-drinks",
+    "description": "Coffee chains and drive-thru drink stands: lattes, cold brew, Frappuccinos, refreshers and teas, with prices by size."
   }
 ]
