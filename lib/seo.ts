@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { DOMAIN, INDEXING, MENU_BASE, SITE_NAME } from "@/site.config";
 import { brandPath, categoryPath, getCategory } from "./brands";
+import { priceOffer } from "./price";
 import type { Brand } from "./types";
 
 export const robotsMeta: Metadata["robots"] = INDEXING ? { index: true, follow: true } : { index: false, follow: false };
@@ -40,11 +41,9 @@ export function breadcrumbJsonLd(crumbs: Crumb[]) {
   };
 }
 
-/** "$12.99" -> 12.99 */
-export const priceNumber = (price: string) => Number(price.replace("$", ""));
-
-/** "Hand-Cut Sirloin (6 oz)" */
-export const itemLabel = (name: string, size: string) => (size ? `${name} (${size})` : name);
+/** "Hand-Cut Sirloin (6 oz)". A name that already ends in "(6 oz)" is left as is. */
+export const itemLabel = (name: string, size: string) =>
+  size && !name.toLowerCase().includes(`(${size.toLowerCase()})`) ? `${name} (${size})` : name;
 
 /** "2250" -> "2,250" */
 export const formatCalories = (calories: string) => Number(calories).toLocaleString("en-US");
@@ -86,7 +85,7 @@ export function brandJsonLd(brand: Brand) {
           "@type": "MenuItem",
           name: itemLabel(item.name, item.size),
           ...(item.desc ? { description: item.desc } : {}),
-          offers: { "@type": "Offer", price: priceNumber(item.price).toFixed(2), priceCurrency: "USD" },
+          ...(priceOffer(item.price) ? { offers: priceOffer(item.price) } : {}),
           ...(item.calories ? { nutrition: { "@type": "NutritionInformation", calories: `${item.calories} calories` } } : {}),
         })),
       })),

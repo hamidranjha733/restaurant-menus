@@ -2,13 +2,13 @@ import fs from "node:fs";
 import path from "node:path";
 import { MENU_BASE } from "@/site.config";
 import categoriesJson from "@/data/categories.json";
+import { parsePrice } from "./price";
 import type { Brand, Category } from "./types";
 
 const BRANDS_DIR = path.join(process.cwd(), "data", "brands");
 
 export const CATEGORIES: Category[] = categoriesJson;
 
-const PRICE_RE = /^\$\d{1,4}(\.\d{2})?$/;
 const CALORIES_RE = /^\d{1,5}$/;
 const DATE_RE =/^\d{4}-\d{2}(-\d{2})?$/;
 const SLUG_RE = /^[a-z0-9]+(-[a-z0-9]+)*$/;
@@ -43,7 +43,7 @@ function validate(b: Brand, file: string): string[] {
     for (const item of section.items ?? []) {
       need(item.name, `an item in "${section.category}" has no name`);
       need(typeof item.size === "string", `"${item.name}" needs a size ("" if none)`);
-      need(PRICE_RE.test(item.price ?? ""), `"${item.name}" price "${item.price}" must look like $12.99`);
+      need(parsePrice(item.price ?? ""), `"${item.name}" price "${item.price}" must look like $12.99, $11.85 – $13.55, +$0.75 or a short word like Included`);
       need(!item.calories || CALORIES_RE.test(item.calories), `"${item.name}" calories "${item.calories}" must be digits only, or ""`);
       need(item.desc === undefined || typeof item.desc === "string", `"${item.name}" desc must be text`);
     }

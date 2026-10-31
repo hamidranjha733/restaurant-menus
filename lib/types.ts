@@ -4,7 +4,7 @@ export interface MenuItem {
   name: string;
   /** "" when the item has one size. */
   size: string;
-  /** "$12.99" */
+  /** "$12.99", a range "$11.85 – $13.55", an add-on "+$0.75" or a short word like "Included". See lib/price.ts. */
   price: string;
   /** Digits only, e.g. "2250". "" or missing when there is no reliable figure; never estimate. */
   calories?: string;

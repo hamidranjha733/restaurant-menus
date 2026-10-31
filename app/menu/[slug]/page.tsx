@@ -3,7 +3,8 @@ import { AMAZON_ASSOCIATE_TAG } from "@/site.config";
 import { BrandList } from "@/components/BrandList";
 import { Breadcrumbs, JsonLd } from "@/components/Layout";
 import { brandPath, categoryPath, getBrand, getBrands, getCategory, getRelatedBrands } from "@/lib/brands";
-import { brandCrumbs, brandJsonLd, formatCalories, formatDate, itemLabel, pageMetadata, priceNumber } from "@/lib/seo";
+import { sectionPriceRange } from "@/lib/price";
+import { brandCrumbs, brandJsonLd, formatCalories, formatDate, itemLabel, pageMetadata } from "@/lib/seo";
 import type { MenuSection } from "@/lib/types";
 
 export const dynamicParams = false;
@@ -26,12 +27,10 @@ const sectionId = (name: string) =>
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "");
 
-function priceRange(section: MenuSection): string {
-  const prices = section.items.map((i) => priceNumber(i.price));
-  const low = Math.min(...prices);
-  const high = Math.max(...prices);
-  return low === high ? `$${low.toFixed(2)}` : `$${low.toFixed(2)} - $${high.toFixed(2)}`;
-}
+const priceRange = (section: MenuSection) => sectionPriceRange(section.items.map((i) => i.price));
+
+/** "Pexels (free license)" -> "Photo: Pexels (free license)"; a credit that already says "Photo" is kept as is. */
+const photoCredit = (credit: string) => (/^photo\b/i.test(credit) ? credit : `Photo: ${credit}`);
 
 const amazonSearchUrl = (query: string) =>
   `https://www.amazon.com/s?k=${encodeURIComponent(query)}${AMAZON_ASSOCIATE_TAG ? `&tag=${encodeURIComponent(AMAZON_ASSOCIATE_TAG)}` : ""}`;
@@ -61,7 +60,7 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
               </p>
             </header>
           </div>
-          {brand.hero_image.credit ? <figcaption className="hero-credit">Photo: {brand.hero_image.credit}</figcaption> : null}
+          {brand.hero_image.credit ? <figcaption className="hero-credit">{photoCredit(brand.hero_image.credit)}</figcaption> : null}
         </figure>
       ) : (
         <>
