@@ -1,0 +1,140 @@
+{
+  "slug": "firehouse-subs-menu",
+  "brand": "Firehouse Subs",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/firehouse-subs-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/37624173/pexels-photo-37624173.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Firehouse Subs style hot sub with melted cheese and veggies on a sub roll",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-37624173",
+    "_verify_note": "NOT visually verified yet (browser was unavailable). Confirm it loads, is appetizing and has no third-party branding before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Firehouse Subs Menu With Prices & Calories (2026)",
+    "meta_description": "Full Firehouse Subs menu with prices and calories for 2026: the Hook & Ladder, Engineer, Italian, Smokehouse Brisket, hot steamed subs, salads and sides.",
+    "h1": "Firehouse Subs Menu With Prices (2026)",
+    "primary_keyword": "firehouse subs menu with prices",
+    "keyword_volume": 3400,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate. Prices are national-average benchmarks shown by size (Medium / Large). Calories are for a Medium sub. Firehouse Subs is franchise owned, so prices vary by location. Last updated October 2026.",
+
+  "intro": "Firehouse Subs is the firefighter-founded chain known for its hot, steamed subs, piled with meats and cheese that are steamed to bring out the flavor, then served on a toasted roll. Signatures include the Hook & Ladder, the Italian, and the hearty Smokehouse Beef & Cheddar Brisket, plus the Firehouse Meatball. Subs come in Medium and Large, and a portion of every sale supports the Firehouse Subs Public Safety Foundation. Prices and calories below are for a Medium. Below is the full Firehouse Subs menu with prices and calories for 2026.",
+
+  "quick_answer": "A Medium sub at Firehouse Subs is about $10.49 to $11.49, with the Hook & Ladder and Italian at $10.49 and the Smokehouse Brisket at $11.49. A Large runs about $3 more. The Veggie is the cheapest at $9.49. Subs are steamed hot. A Medium Hook & Ladder is about 600 calories.",
+
+  "highlights": [
+    { "strong": "Steamed hot", "label": "meats and cheese" },
+    { "strong": "$10.49", "label": "Medium Hook & Ladder" },
+    { "strong": "2 sizes", "label": "Medium and Large" },
+    { "strong": "Gives back", "label": "supports first responders" }
+  ],
+
+  "hot_deal": "Firehouse Subs value: the Firehouse Rewards app drops points toward free subs plus a birthday reward and regular offers. A Medium sub is plenty for most, and the Veggie ($9.49) is the cheapest. Rounding up for the Public Safety Foundation at checkout is how the chain funds equipment for first responders. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Hot Specialty Subs",
+      "intro": "Steamed hot and served on a toasted roll. Prices Medium / Large, calories for a Medium.",
+      "items": [
+        { "name": "Hook & Ladder", "size": "medium", "price": "$10.49", "calories": "600", "desc": "Smoked turkey, Virginia honey ham and Monterey Jack (Large $13.49)" },
+        { "name": "Engineer", "size": "medium", "price": "$10.49", "calories": "500", "desc": "Smoked turkey, Swiss, sauteed mushrooms and onions (Large $13.49)" },
+        { "name": "Italian", "size": "medium", "price": "$10.49", "calories": "770", "desc": "Salami, pepperoni, ham, provolone, Italian dressing (Large $13.49)" },
+        { "name": "New York Steamer", "size": "medium", "price": "$10.99", "calories": "", "desc": "Corned beef, pastrami, Swiss and mustard (Large $13.99)" },
+        { "name": "Firehouse Hero", "size": "medium", "price": "$10.49", "calories": "630", "desc": "Turkey, ham, roast beef and provolone (Large $13.49)" },
+        { "name": "Turkey Bacon Ranch", "size": "medium", "price": "$10.49", "calories": "670", "desc": "Smoked turkey, bacon, cheddar and ranch (Large $13.49)" }
+      ]
+    },
+    {
+      "category": "Premium & Classic Subs",
+      "intro": "The heartier subs and the classics. Prices Medium / Large.",
+      "items": [
+        { "name": "Smokehouse Beef & Cheddar Brisket", "size": "medium", "price": "$11.49", "calories": "900", "desc": "Smoked brisket, melted cheddar and mayo (Large $14.49)" },
+        { "name": "Steak & Cheese", "size": "medium", "price": "$11.49", "calories": "", "desc": "Steak with melted provolone, peppers and onions (Large $14.49)" },
+        { "name": "Club on a Sub", "size": "medium", "price": "$10.49", "calories": "", "desc": "Turkey, ham, bacon and cheese, club style (Large $13.49)" },
+        { "name": "Firehouse Meatball", "size": "medium", "price": "Varies", "calories": "830", "desc": "Meatballs with marinara and melted provolone (ask for current price)" },
+        { "name": "Veggie", "size": "medium", "price": "$9.49", "calories": "", "desc": "Grilled peppers, onions, mushrooms and cheese (Large $12.49)" }
+      ]
+    },
+    {
+      "category": "Sides, Combos & Drinks",
+      "intro": "Chips, chili, brownies and the kids combo to complete the order.",
+      "items": [
+        { "name": "Chips", "size": "", "price": "$1.99", "calories": "", "desc": "A bag of chips" },
+        { "name": "Firehouse Chili", "size": "", "price": "Varies", "calories": "", "desc": "Hearty chili with beans and beef (price varies by location)" },
+        { "name": "Kids Combo", "size": "", "price": "$6.49", "calories": "", "desc": "A kids sub with chips and a drink (about $5.99 to $6.99)" },
+        { "name": "Brownie", "size": "", "price": "$2.29", "calories": "", "desc": "A fudge brownie (about $1.99 to $2.49)" },
+        { "name": "Fountain Drink (Medium)", "size": "medium", "price": "$2.49", "calories": "", "desc": "Fountain soft drinks" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Hot Subs at Home",
+    "intro": "Want hot, steamed subs at home? These picks help.",
+    "cards": [
+      { "icon": "🥖", "name": "Sub Rolls", "blurb": "Toasted hoagie rolls for the base.", "amazon_search": "sub hoagie rolls" },
+      { "icon": "🧀", "name": "Provolone & Cheddar", "blurb": "The melty cheese on a hot sub.", "amazon_search": "sliced provolone cheese" },
+      { "icon": "♨️", "name": "Food Steamer", "blurb": "Steam the meats, Firehouse style.", "amazon_search": "countertop food steamer" },
+      { "icon": "📖", "name": "Copycat Sub Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Hook & Ladder",
+    "Italian",
+    "Smokehouse Beef & Cheddar Brisket",
+    "Firehouse Meatball",
+    "New York Steamer"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is Firehouse Subs known for?",
+      "a": "Firehouse Subs is known for hot, steamed subs: the meats and cheese are steamed to bring out the flavor before being piled on a toasted roll. It was founded by firefighter brothers, and it supports a Public Safety Foundation that funds equipment for first responders."
+    },
+    {
+      "q": "How much is a sub at Firehouse Subs?",
+      "a": "A Medium sub is about $10.49 to $11.49, and a Large runs about $3 more. The Hook & Ladder and Italian are $10.49 Medium, the Smokehouse Brisket is $11.49, and the Veggie is the cheapest at $9.49."
+    },
+    {
+      "q": "What sizes does Firehouse Subs offer?",
+      "a": "Two: Medium and Large. The Medium is the standard single-person size and the Large is longer, for a big appetite or to split. Most subs are also offered as a salad bowl without the bread."
+    },
+    {
+      "q": "How many calories are in a Firehouse sub?",
+      "a": "A Medium Hook & Ladder is about 600 calories and the Engineer is about 500. Heartier subs run higher, like the Italian at about 770 and the Smokehouse Brisket at about 900. Ordering a salad bowl cuts the calories."
+    },
+    {
+      "q": "What are the most popular items at Firehouse Subs?",
+      "a": "The best known are the Hook & Ladder, the Italian, the Smokehouse Beef & Cheddar Brisket, the Firehouse Meatball, and the New York Steamer."
+    }
+  ],
+
+  "internal_links": [
+    "jersey-mikes-menu",
+    "jimmy-johns-menu",
+    "subway-menu",
+    "arbys-menu",
+    "mcdonalds-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Firehouse Subs."
+  },
+
+  "_data_notes": {
+    "price_source": "Medium/Large prices are national-average benchmarks from an established menu-prices publication. A couple of items (Firehouse Meatball, Firehouse Chili) had no reliable price, so the price is shown as 'Varies' with a note rather than guessed (changed on import from an empty string, which the site does not accept). Prices vary by location.",
+    "calories": "Medium-sub calories from a Firehouse Subs nutrition source. Shown where a reliable figure exists; several subs left blank rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate (Medium) and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Pexels hot melted-cheese sub (pexels-37624173), chosen for the steamed/hot Firehouse look. NOT visually verified this session because no browser was available; confirm it loads, is appetizing and has no third-party branding before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (with pizza, Jersey Mike's and Jimmy John's). Panera can follow as the last sub/cafe.",
+    "keyword_notes": "Sections and FAQ shaped by real Firehouse Subs search demand: steamed subs, sub prices, sizes, calories, popular subs."
+  }
+}
