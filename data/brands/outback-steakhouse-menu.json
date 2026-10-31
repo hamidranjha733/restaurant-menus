@@ -5,8 +5,8 @@
   "url_path": "/menu/outback-steakhouse-menu/",
 
   "seo": {
-    "meta_title": "Outback Steakhouse Menu With Prices (Updated 2026)",
-    "meta_description": "Full Outback Steakhouse menu with prices for 2026, from the Bloomin' Onion and signature steaks to combos, chicken, seafood, salads, sides and desserts.",
+    "meta_title": "Outback Steakhouse Menu With Prices & Calories 2026",
+    "meta_description": "Full Outback Steakhouse menu with prices and calories for 2026, from the Bloomin' Onion and signature steaks to chicken, seafood, salads, sides and desserts.",
     "h1": "Outback Steakhouse Menu With Prices (2026)",
     "primary_keyword": "outback steakhouse menu with prices",
     "keyword_volume": 9400,
@@ -14,262 +14,258 @@
   },
 
   "last_updated": "2026-10",
-  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location, time, and current promotions. Last updated October 2026.",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
 
-  "intro": "Outback Steakhouse is an Australian-themed American steakhouse known for the Bloomin' Onion, hand-seasoned signature steaks, and fresh Aussie-style sides. Below is the full Outback Steakhouse menu with prices for 2026, broken down by category, including starters, steaks, combinations, chicken, seafood, salads, sides, the lunch menu, kids meals and desserts.",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/6545671/pexels-photo-6545671.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Sliced steak dinner with roasted carrots and potatoes on a plate",
+    "credit": "Pexels (free license)"
+  },
+
+  "intro": "Outback Steakhouse is an Australian-themed American steakhouse best known for the Bloomin' Onion, hand-seasoned steaks and warm bread. Like most steakhouses its entrees come with two sides, so the plate price is close to what you actually pay. The Center-Cut Sirloin and the weekday lunch menu are the value picks, while the ribeye, filet and seafood sit at the top end. Below is the full Outback Steakhouse menu with prices and calories for 2026, broken down by category.",
+
+  "quick_answer": "The 6 oz Center-Cut Sirloin is around $16.79 and comes with two sides. The famous Bloomin' Onion appetizer is about $9.99. Alice Springs Chicken is around $20.99, and most locations run an Aussie 3-Course value deal plus a weekday lunch menu starting near $9.99.",
+
+  "highlights": [
+    { "strong": "$9.99", "label": "the famous Bloomin' Onion" },
+    { "strong": "$16.79", "label": "6 oz sirloin with 2 sides" },
+    { "strong": "Free", "label": "warm bread with every meal" },
+    { "strong": "3-Course", "label": "Aussie value deal" }
+  ],
+
+  "hot_deal": "Aussie 3-Course deal: at participating locations you can get a starter or soup and salad, a choice of entree, and a dessert for one set price. It is a limited-time value, so the price and the choices vary by location. Dine Rewards members also earn points toward free food.",
 
   "menu": [
     {
       "category": "Aussie-Tizers (Starters)",
+      "intro": "The Bloomin' Onion is the one Outback is famous for, but at nearly 2,000 calories it is made to share. Most starters here are large sharing plates.",
       "items": [
-        { "name": "Bloomin' Onion", "size": "", "price": "$9.99" },
-        { "name": "Bloomin' Fried Shrimp", "size": "", "price": "$14.99" },
-        { "name": "Aussie Cheese Fries", "size": "", "price": "$11.99" },
-        { "name": "Kookaburra Wings", "size": "", "price": "$15.49" },
-        { "name": "Grilled Shrimp on the Barbie", "size": "", "price": "$14.99" },
-        { "name": "Sydney 'Shrooms", "size": "", "price": "$8.99" },
-        { "name": "Seared Pepper Ahi", "size": "", "price": "$17.99" },
-        { "name": "Gold Coast Coconut Shrimp", "size": "", "price": "$14.99" },
-        { "name": "Steakhouse Mac & Cheese Bites", "size": "", "price": "$7.99" }
+        { "name": "Bloomin' Onion", "size": "", "price": "$9.99", "calories": "1920", "desc": "The signature giant onion, hand-carved, battered and fried with spicy dipping sauce" },
+        { "name": "Aussie Cheese Fries", "size": "", "price": "$11.99", "calories": "2860", "desc": "Fries loaded with melted cheese and bacon, served with ranch" },
+        { "name": "Kookaburra Wings", "size": "", "price": "$15.49", "calories": "1820", "desc": "Chicken wings tossed mild, medium or hot" },
+        { "name": "Gold Coast Coconut Shrimp", "size": "", "price": "$14.99", "calories": "970", "desc": "Coconut-battered shrimp with orange marmalade sauce" },
+        { "name": "Seared Pepper Ahi", "size": "", "price": "$17.99", "calories": "540", "desc": "Peppered seared tuna, served rare with a ginger soy sauce" },
+        { "name": "Bloomin' Fried Shrimp", "size": "", "price": "$14.99", "calories": "", "desc": "Hand-battered fried shrimp with Bloomin' sauce" },
+        { "name": "Grilled Shrimp on the Barbie", "size": "", "price": "$14.99", "calories": "", "desc": "Seasoned grilled shrimp starter" },
+        { "name": "Sydney 'Shrooms", "size": "", "price": "$8.99", "calories": "", "desc": "Battered and fried button mushrooms with ranch" },
+        { "name": "Steakhouse Mac & Cheese Bites", "size": "", "price": "$7.99", "calories": "", "desc": "Fried mac and cheese bites" }
       ]
     },
     {
       "category": "Signature Steaks",
-      "note": "Served with your choice of two sides.",
+      "intro": "Every steak is hand-seasoned and grilled to order, and comes with your choice of two sides. The Center-Cut Sirloin is the value pick; the ribeye and filet are the splurges.",
       "items": [
-        { "name": "Filet Sheila", "size": "", "price": "$29.99" },
-        { "name": "Victoria's Filet Mignon", "size": "6 oz", "price": "$26.99" },
-        { "name": "Victoria's Filet Mignon", "size": "8 oz", "price": "$31.99" },
-        { "name": "Outback Center-Cut Sirloin", "size": "6 oz", "price": "$16.79" },
-        { "name": "Outback Center-Cut Sirloin", "size": "8 oz", "price": "$19.79" },
-        { "name": "Outback Center-Cut Sirloin", "size": "11 oz", "price": "$22.79" },
-        { "name": "Ribeye", "size": "13 oz", "price": "$27.99" },
-        { "name": "Bone-In Ribeye", "size": "18 oz", "price": "$31.99" },
-        { "name": "Bone-In New York Strip", "size": "16 oz", "price": "$28.99" },
-        { "name": "Melbourne Porterhouse", "size": "22 oz", "price": "$34.99" }
+        { "name": "Outback Center-Cut Sirloin", "size": "6 oz", "price": "$16.79", "calories": "330", "desc": "Lean center-cut sirloin, the best-value steak" },
+        { "name": "Outback Center-Cut Sirloin", "size": "8 oz", "price": "$19.79", "calories": "400", "desc": "Lean center-cut sirloin" },
+        { "name": "Outback Center-Cut Sirloin", "size": "11 oz", "price": "$22.79", "calories": "", "desc": "Lean center-cut sirloin, larger portion" },
+        { "name": "Victoria's Filet Mignon", "size": "6 oz", "price": "$26.99", "calories": "470", "desc": "The most tender cut, lean and buttery" },
+        { "name": "Victoria's Filet Mignon", "size": "8 oz", "price": "$31.99", "calories": "570", "desc": "The most tender cut, larger portion" },
+        { "name": "Filet Sheila", "size": "", "price": "$29.99", "calories": "", "desc": "Filet mignon topped with sauteed mushrooms and blue cheese" },
+        { "name": "Ribeye", "size": "13 oz", "price": "$27.99", "calories": "1030", "desc": "Richly marbled, full-flavored ribeye" },
+        { "name": "Bone-In Ribeye", "size": "18 oz", "price": "$31.99", "calories": "", "desc": "Bone-in ribeye for extra flavor" },
+        { "name": "Bone-In New York Strip", "size": "16 oz", "price": "$28.99", "calories": "", "desc": "Bone-in strip steak, firm and full-flavored" },
+        { "name": "Melbourne Porterhouse", "size": "22 oz", "price": "$34.99", "calories": "", "desc": "The biggest cut: strip and filet on one bone" }
       ]
     },
     {
       "category": "Steak Combinations",
-      "note": "Served with your choice of two sides.",
+      "intro": "Pair a sirloin or filet with ribs, shrimp or chicken on one plate, still served with two sides.",
       "items": [
-        { "name": "Center-Cut Sirloin & Grilled Shrimp on the Barbie", "size": "6 oz", "price": "$22.99" },
-        { "name": "Center-Cut Sirloin & Grilled Shrimp on the Barbie", "size": "8 oz", "price": "$25.99" },
-        { "name": "Sirloin & Coconut Shrimp", "size": "6 oz", "price": "$22.99" },
-        { "name": "Sirloin & Coconut Shrimp", "size": "8 oz", "price": "$25.99" },
-        { "name": "Sirloin & Ribs", "size": "6 oz", "price": "$28.49" },
-        { "name": "Sirloin & Ribs", "size": "8 oz", "price": "$31.79" },
-        { "name": "Sirloin & Bloomin' Chicken", "size": "6 oz", "price": "$24.99" },
-        { "name": "Sirloin & Bloomin' Chicken", "size": "8 oz", "price": "$27.99" },
-        { "name": "Sirloin & Grilled Chicken", "size": "6 oz", "price": "$22.99" },
-        { "name": "Sirloin & Grilled Chicken", "size": "8 oz", "price": "$25.99" },
-        { "name": "Sirloin & Alice Springs Chicken", "size": "6 oz", "price": "$24.99" },
-        { "name": "Sirloin & Alice Springs Chicken", "size": "8 oz", "price": "$27.99" },
-        { "name": "Ribeye & Grilled Shrimp", "size": "13 oz", "price": "$31.99" },
-        { "name": "Ribeye & Coconut Shrimp", "size": "13 oz", "price": "$31.99" },
-        { "name": "Victoria's Filet Mignon & Lobster", "size": "6 oz", "price": "$34.99" }
+        { "name": "Center-Cut Sirloin & Grilled Shrimp", "size": "6 oz", "price": "$22.99", "calories": "", "desc": "6 oz sirloin with grilled shrimp on the barbie" },
+        { "name": "Center-Cut Sirloin & Grilled Shrimp", "size": "8 oz", "price": "$25.99", "calories": "", "desc": "8 oz sirloin with grilled shrimp on the barbie" },
+        { "name": "Sirloin & Coconut Shrimp", "size": "6 oz", "price": "$22.99", "calories": "", "desc": "6 oz sirloin with coconut shrimp" },
+        { "name": "Sirloin & Coconut Shrimp", "size": "8 oz", "price": "$25.99", "calories": "", "desc": "8 oz sirloin with coconut shrimp" },
+        { "name": "Sirloin & Ribs", "size": "6 oz", "price": "$28.49", "calories": "", "desc": "6 oz sirloin with a half rack of baby back ribs" },
+        { "name": "Sirloin & Ribs", "size": "8 oz", "price": "$31.79", "calories": "", "desc": "8 oz sirloin with a half rack of baby back ribs" },
+        { "name": "Sirloin & Bloomin' Chicken", "size": "6 oz", "price": "$24.99", "calories": "", "desc": "6 oz sirloin with crispy Bloomin' fried chicken" },
+        { "name": "Sirloin & Bloomin' Chicken", "size": "8 oz", "price": "$27.99", "calories": "", "desc": "8 oz sirloin with crispy Bloomin' fried chicken" },
+        { "name": "Sirloin & Grilled Chicken", "size": "6 oz", "price": "$22.99", "calories": "", "desc": "6 oz sirloin with grilled chicken" },
+        { "name": "Sirloin & Grilled Chicken", "size": "8 oz", "price": "$25.99", "calories": "", "desc": "8 oz sirloin with grilled chicken" },
+        { "name": "Sirloin & Alice Springs Chicken", "size": "6 oz", "price": "$24.99", "calories": "", "desc": "6 oz sirloin with Alice Springs chicken" },
+        { "name": "Sirloin & Alice Springs Chicken", "size": "8 oz", "price": "$27.99", "calories": "", "desc": "8 oz sirloin with Alice Springs chicken" },
+        { "name": "Ribeye & Grilled Shrimp", "size": "13 oz", "price": "$31.99", "calories": "", "desc": "13 oz ribeye with grilled shrimp" },
+        { "name": "Ribeye & Coconut Shrimp", "size": "13 oz", "price": "$31.99", "calories": "", "desc": "13 oz ribeye with coconut shrimp" },
+        { "name": "Victoria's Filet Mignon & Lobster", "size": "6 oz", "price": "$34.99", "calories": "", "desc": "6 oz filet mignon with a steamed lobster tail" }
       ]
     },
     {
       "category": "Chicken, Ribs & More",
-      "note": "Served with your choice of two sides.",
+      "intro": "Alice Springs Chicken is the signature here, loaded with cheese, bacon and honey mustard. All entrees come with two sides.",
       "items": [
-        { "name": "Queensland Chicken & Shrimp Pasta", "size": "Pasta Only", "price": "$17.99" },
-        { "name": "Queensland Chicken & Shrimp Pasta", "size": "All Chicken", "price": "$21.99" },
-        { "name": "Queensland Chicken & Shrimp Pasta", "size": "All Shrimp", "price": "$21.99" },
-        { "name": "Queensland Chicken & Shrimp Pasta", "size": "Chicken & Shrimp", "price": "$21.99" },
-        { "name": "Kingsland Pasta", "size": "Steak", "price": "$24.99" },
-        { "name": "Kingsland Pasta", "size": "Steak & Chicken", "price": "$22.99" },
-        { "name": "Kingsland Pasta", "size": "Steak & Shrimp", "price": "$22.99" },
-        { "name": "Alice Springs Chicken", "size": "", "price": "$20.99" },
-        { "name": "Bloomin' Fried Chicken", "size": "", "price": "$20.99" },
-        { "name": "Spicy Jammin' Meatloaf", "size": "", "price": "$17.49" },
-        { "name": "Caramel Mustard Glazed Pork Chops", "size": "", "price": "$22.79" },
-        { "name": "Outback Ribs (Baby Back)", "size": "Full Rack", "price": "$30.49" },
-        { "name": "Outback Ribs (Baby Back)", "size": "Half Rack", "price": "$22.99" },
-        { "name": "Grilled Chicken on the Barbie", "size": "", "price": "$16.79" },
-        { "name": "Chicken Tender Platter", "size": "", "price": "$16.79" }
+        { "name": "Alice Springs Chicken", "size": "", "price": "$20.99", "calories": "890", "desc": "Grilled chicken with mushrooms, bacon, cheese and honey mustard" },
+        { "name": "Bloomin' Fried Chicken", "size": "", "price": "$20.99", "calories": "990", "desc": "Hand-battered crispy fried chicken with Bloomin' sauce" },
+        { "name": "Grilled Chicken on the Barbie", "size": "", "price": "$16.79", "calories": "500", "desc": "Simply seasoned grilled chicken breast, the light pick" },
+        { "name": "Outback Ribs", "size": "Full Rack", "price": "$30.49", "calories": "1440", "desc": "Full rack of baby back ribs in signature BBQ sauce" },
+        { "name": "Outback Ribs", "size": "Half Rack", "price": "$22.99", "calories": "720", "desc": "Half rack of baby back ribs in signature BBQ sauce" },
+        { "name": "Caramel Mustard Glazed Pork Chops", "size": "", "price": "$22.79", "calories": "890", "desc": "Grilled pork chops with a caramel mustard glaze" },
+        { "name": "Spicy Jammin' Meatloaf", "size": "", "price": "$17.49", "calories": "", "desc": "House meatloaf with a spicy pepper jam glaze" },
+        { "name": "Queensland Chicken & Shrimp Pasta", "size": "Chicken & Shrimp", "price": "$21.99", "calories": "1660", "desc": "Creamy pasta with grilled chicken and shrimp" },
+        { "name": "Queensland Chicken & Shrimp Pasta", "size": "Pasta Only", "price": "$17.99", "calories": "", "desc": "Creamy pasta, no protein added" },
+        { "name": "Kingsland Pasta", "size": "Steak", "price": "$24.99", "calories": "", "desc": "Creamy pasta topped with sliced steak" },
+        { "name": "Chicken Tender Platter", "size": "", "price": "$16.79", "calories": "", "desc": "Hand-battered chicken tenders with dipping sauce" }
       ]
     },
     {
       "category": "Seafood (Straight from the Sea)",
-      "note": "Served with your choice of two sides.",
+      "intro": "Fresh seafood for anyone skipping steak, all served with two sides.",
       "items": [
-        { "name": "Toowoomba Salmon", "size": "", "price": "$25.79" },
-        { "name": "Grilled Shrimp on the Barbie", "size": "", "price": "$20.99" },
-        { "name": "Perfectly Grilled Salmon", "size": "", "price": "$24.99" },
-        { "name": "Steamed Lobster Tails", "size": "", "price": "$32.79" }
+        { "name": "Toowoomba Salmon", "size": "", "price": "$25.79", "calories": "970", "desc": "Grilled salmon topped with a creamy shrimp sauce" },
+        { "name": "Perfectly Grilled Salmon", "size": "", "price": "$24.99", "calories": "", "desc": "Simply seasoned grilled salmon fillet, the light pick" },
+        { "name": "Grilled Shrimp on the Barbie", "size": "", "price": "$20.99", "calories": "", "desc": "Full dinner of seasoned grilled shrimp" },
+        { "name": "Steamed Lobster Tails", "size": "", "price": "$32.79", "calories": "490", "desc": "Steamed lobster tails with drawn butter" }
       ]
     },
     {
       "category": "Burgers & Sandwiches",
+      "intro": "Big handheld options served with Aussie fries.",
       "items": [
-        { "name": "Bloomin' Chicken Sandwich (Grilled or Crispy)", "size": "", "price": "$14.79" },
-        { "name": "The Outbacker Burger", "size": "", "price": "$12.99" },
-        { "name": "The Bloomin' Burger", "size": "", "price": "$13.99" },
-        { "name": "Prime Rib Sandwich", "size": "", "price": "$16.79" }
+        { "name": "Bloomin' Chicken Sandwich", "size": "Grilled or Crispy", "price": "$14.79", "calories": "1020", "desc": "Chicken sandwich with Bloomin' sauce, grilled or crispy" },
+        { "name": "The Outbacker Burger", "size": "", "price": "$12.99", "calories": "870", "desc": "Classic cheeseburger with Aussie fries" },
+        { "name": "The Bloomin' Burger", "size": "", "price": "$13.99", "calories": "1440", "desc": "Cheeseburger topped with Bloomin' onion petals and sauce" },
+        { "name": "Prime Rib Sandwich", "size": "", "price": "$16.79", "calories": "1300", "desc": "Sliced prime rib on a toasted roll" }
       ]
     },
     {
       "category": "Salads",
+      "intro": "Entree salads big enough for a meal, plus small side salads.",
       "items": [
-        { "name": "Aussie Cobb Salad", "size": "No Chicken", "price": "$12.99" },
-        { "name": "Aussie Cobb Salad", "size": "Grilled Chicken", "price": "$16.99" },
-        { "name": "Aussie Cobb Salad", "size": "Crispy Chicken", "price": "$16.99" },
-        { "name": "Aussie Cobb Salad", "size": "Salmon", "price": "$19.99" },
-        { "name": "Brisbane Caesar Salad", "size": "No Protein", "price": "$11.99" },
-        { "name": "Brisbane Caesar Salad", "size": "Chicken", "price": "$16.99" },
-        { "name": "Brisbane Caesar Salad", "size": "Shrimp", "price": "$16.99" },
-        { "name": "Brisbane Caesar Salad", "size": "Salmon", "price": "$19.99" },
-        { "name": "Steakhouse Salad", "size": "", "price": "$17.99" },
-        { "name": "House Side Salad", "size": "", "price": "$4.99" },
-        { "name": "Caesar Side Salad", "size": "", "price": "$4.99" },
-        { "name": "Blue Cheese Pecan Chopped Side Salad", "size": "", "price": "$5.99" },
-        { "name": "Classic Blue Cheese Wedge Side Salad", "size": "", "price": "$5.99" }
+        { "name": "Aussie Cobb Salad", "size": "Grilled Chicken", "price": "$16.99", "calories": "", "desc": "Mixed greens with chicken, bacon, egg and blue cheese" },
+        { "name": "Aussie Cobb Salad", "size": "No Chicken", "price": "$12.99", "calories": "470", "desc": "Mixed greens with bacon, egg and blue cheese" },
+        { "name": "Brisbane Caesar Salad", "size": "Chicken", "price": "$16.99", "calories": "", "desc": "Caesar salad topped with grilled chicken" },
+        { "name": "Brisbane Caesar Salad", "size": "No Protein", "price": "$11.99", "calories": "490", "desc": "Classic Caesar salad" },
+        { "name": "Steakhouse Salad", "size": "", "price": "$17.99", "calories": "", "desc": "Mixed greens topped with sliced sirloin" },
+        { "name": "House Side Salad", "size": "", "price": "$4.99", "calories": "180", "desc": "Small mixed green side salad" },
+        { "name": "Caesar Side Salad", "size": "", "price": "$4.99", "calories": "", "desc": "Small Caesar side salad" },
+        { "name": "Blue Cheese Pecan Chopped Side Salad", "size": "", "price": "$5.99", "calories": "", "desc": "Chopped salad with blue cheese and candied pecans" }
       ]
     },
     {
       "category": "Soups",
+      "intro": "Made fresh daily, in a cup or a bowl.",
       "items": [
-        { "name": "Tasmanian Chili", "size": "Cup", "price": "$5.99" },
-        { "name": "Tasmanian Chili", "size": "Bowl", "price": "$7.99" },
-        { "name": "Baked Potato Soup", "size": "Cup", "price": "$4.99" },
-        { "name": "Baked Potato Soup", "size": "Bowl", "price": "$6.99" },
-        { "name": "French Onion Soup", "size": "", "price": "$7.99" }
+        { "name": "Tasmanian Chili", "size": "Cup", "price": "$5.99", "calories": "200", "desc": "House chili topped with cheese and onion" },
+        { "name": "Tasmanian Chili", "size": "Bowl", "price": "$7.99", "calories": "370", "desc": "House chili topped with cheese and onion" },
+        { "name": "Baked Potato Soup", "size": "Cup", "price": "$4.99", "calories": "250", "desc": "Creamy loaded baked potato soup" },
+        { "name": "Baked Potato Soup", "size": "Bowl", "price": "$6.99", "calories": "450", "desc": "Creamy loaded baked potato soup" },
+        { "name": "French Onion Soup", "size": "", "price": "$7.99", "calories": "410", "desc": "Baked French onion soup with melted cheese" }
       ]
     },
     {
       "category": "Freshly Made Sides",
+      "intro": "Every steak and entree includes two of these. Green beans and veggies are the lightest; the mac and cheese is the richest.",
       "items": [
-        { "name": "Homestyle Mashed Potatoes", "size": "", "price": "$3.99" },
-        { "name": "Dressed Baked Potato", "size": "", "price": "$3.99" },
-        { "name": "Aussie Fries", "size": "", "price": "$3.99" },
-        { "name": "Sweet Potato with Honey & Brown Sugar", "size": "", "price": "$3.99" },
-        { "name": "Green Beans", "size": "", "price": "$3.99" },
-        { "name": "Fresh Steamed Mixed Veggies", "size": "", "price": "$3.99" },
-        { "name": "Seasoned Rice", "size": "", "price": "$3.99" },
-        { "name": "Steakhouse Mac & Cheese", "size": "", "price": "$5.99" },
-        { "name": "Loaded Mashed Potatoes", "size": "", "price": "$5.99" },
-        { "name": "Asparagus", "size": "", "price": "$5.99" }
+        { "name": "Aussie Fries", "size": "", "price": "$3.99", "calories": "500", "desc": "Seasoned steak fries" },
+        { "name": "Homestyle Mashed Potatoes", "size": "", "price": "$3.99", "calories": "250", "desc": "Creamy mashed potatoes" },
+        { "name": "Dressed Baked Potato", "size": "", "price": "$3.99", "calories": "", "desc": "Baked potato with butter and toppings" },
+        { "name": "Sweet Potato with Honey & Brown Sugar", "size": "", "price": "$3.99", "calories": "250", "desc": "Baked sweet potato with honey and brown sugar" },
+        { "name": "Green Beans", "size": "", "price": "$3.99", "calories": "150", "desc": "Green beans with bacon" },
+        { "name": "Fresh Steamed Mixed Veggies", "size": "", "price": "$3.99", "calories": "", "desc": "Fresh steamed seasonal vegetables" },
+        { "name": "Seasoned Rice", "size": "", "price": "$3.99", "calories": "250", "desc": "Savory seasoned rice" },
+        { "name": "Steakhouse Mac & Cheese", "size": "", "price": "$5.99", "calories": "1560", "desc": "Rich, creamy baked mac and cheese" },
+        { "name": "Loaded Mashed Potatoes", "size": "", "price": "$5.99", "calories": "", "desc": "Mashed potatoes with cheese, bacon and sour cream" },
+        { "name": "Asparagus", "size": "", "price": "$5.99", "calories": "", "desc": "Grilled seasoned asparagus" }
       ]
     },
     {
       "category": "Lunch Menu",
-      "note": "Available at most locations during weekday lunch hours.",
+      "intro": "Smaller portions at lower prices, available at most locations during weekday lunch hours.",
       "items": [
-        { "name": "Soup and Salad Combo", "size": "Soup of the Day", "price": "$9.99" },
-        { "name": "Soup and Salad Combo", "size": "French Onion", "price": "$12.99" },
-        { "name": "Soup and Salad Combo", "size": "Tasmanian Chili", "price": "$9.99" },
-        { "name": "6 Grilled Shrimp on the Barbie", "size": "", "price": "$10.99" },
-        { "name": "Grilled Chicken on the Barbie", "size": "5 oz", "price": "$10.99" },
-        { "name": "6 Coconut Shrimp", "size": "", "price": "$10.99" },
-        { "name": "Alice Springs Chicken", "size": "5 oz", "price": "$12.99" },
-        { "name": "Bloomin' Fried Chicken", "size": "", "price": "$11.99" },
-        { "name": "Spicy Jammin' Meatloaf", "size": "", "price": "$11.99" },
-        { "name": "The Outbacker Burger", "size": "", "price": "$11.99" },
-        { "name": "Center-Cut Sirloin", "size": "6 oz", "price": "$12.99" }
+        { "name": "Soup and Salad Combo", "size": "Soup of the Day", "price": "$9.99", "calories": "", "desc": "A cup of soup with a side salad" },
+        { "name": "Center-Cut Sirloin", "size": "6 oz", "price": "$12.99", "calories": "", "desc": "6 oz sirloin lunch portion with one side" },
+        { "name": "Alice Springs Chicken", "size": "5 oz", "price": "$12.99", "calories": "", "desc": "Lunch portion of Alice Springs chicken" },
+        { "name": "Bloomin' Fried Chicken", "size": "", "price": "$11.99", "calories": "", "desc": "Lunch portion of crispy fried chicken" },
+        { "name": "Spicy Jammin' Meatloaf", "size": "", "price": "$11.99", "calories": "", "desc": "Lunch portion of meatloaf" },
+        { "name": "The Outbacker Burger", "size": "", "price": "$11.99", "calories": "", "desc": "Cheeseburger with fries, lunch price" },
+        { "name": "6 Grilled Shrimp on the Barbie", "size": "", "price": "$10.99", "calories": "", "desc": "Six grilled shrimp with one side" },
+        { "name": "6 Coconut Shrimp", "size": "", "price": "$10.99", "calories": "", "desc": "Six coconut shrimp with one side" }
       ]
     },
     {
       "category": "Joey Kids Menu",
+      "intro": "Kids meals for ages 10 and under.",
       "items": [
-        { "name": "Chicken Fingers", "size": "", "price": "$8.79" },
-        { "name": "Grilled Cheese-A-Roo", "size": "", "price": "$7.79" },
-        { "name": "Boomerang Cheeseburger", "size": "", "price": "$8.79" },
-        { "name": "Grilled Chicken on the Barbie", "size": "5 oz", "price": "$8.79" },
-        { "name": "Mac 'A' Roo 'N Cheese", "size": "", "price": "$7.79" },
-        { "name": "Joey Sirloin", "size": "5 oz", "price": "$9.99" },
-        { "name": "Kids Aussie Fries", "size": "", "price": "$3.99" },
-        { "name": "Spotted Dog Sundae", "size": "", "price": "$3.49" },
-        { "name": "Kids Fruit", "size": "", "price": "$1.99" }
+        { "name": "Joey Sirloin", "size": "5 oz", "price": "$9.99", "calories": "", "desc": "Kid-sized sirloin with one side" },
+        { "name": "Boomerang Cheeseburger", "size": "", "price": "$8.79", "calories": "", "desc": "Kid-sized cheeseburger with fries" },
+        { "name": "Chicken Fingers", "size": "", "price": "$8.79", "calories": "", "desc": "Breaded chicken fingers with one side" },
+        { "name": "Grilled Chicken on the Barbie", "size": "5 oz", "price": "$8.79", "calories": "", "desc": "Kid-sized grilled chicken with one side" },
+        { "name": "Grilled Cheese-A-Roo", "size": "", "price": "$7.79", "calories": "", "desc": "Grilled cheese sandwich with one side" },
+        { "name": "Mac 'A' Roo 'N Cheese", "size": "", "price": "$7.79", "calories": "", "desc": "Kids mac and cheese" },
+        { "name": "Spotted Dog Sundae", "size": "", "price": "$3.49", "calories": "", "desc": "Vanilla ice cream sundae with chocolate" },
+        { "name": "Kids Aussie Fries", "size": "", "price": "$3.99", "calories": "", "desc": "Kid-sized seasoned fries" }
       ]
     },
     {
       "category": "Desserts",
+      "intro": "Big desserts meant to share. The Chocolate Thunder from Down Under is the signature.",
       "items": [
-        { "name": "Tim Tam Brownie Cake", "size": "", "price": "$10.99" },
-        { "name": "Chocolate Thunder from Down Under", "size": "", "price": "$10.79" },
-        { "name": "Triple-Layer Carrot Cake", "size": "", "price": "$9.79" },
-        { "name": "New York-Style Cheesecake", "size": "", "price": "$9.79" },
-        { "name": "Salted Caramel Cookie Skillet", "size": "", "price": "$8.79" },
-        { "name": "Butter Cake", "size": "", "price": "$8.79" }
-      ]
-    },
-    {
-      "category": "Party Platters",
-      "note": "Made to serve a group. Prices are per platter.",
-      "items": [
-        { "name": "Outback Center-Cut Sirloin Platter", "size": "", "price": "$51.68" },
-        { "name": "Baby Back Ribs Platter", "size": "", "price": "$50.58" },
-        { "name": "Grilled Shrimp on the Barbie Platter", "size": "", "price": "$41.78" },
-        { "name": "Kookaburra Wings Platter", "size": "", "price": "$38.49" },
-        { "name": "Gold Coast Coconut Shrimp Platter", "size": "", "price": "$36.28" },
-        { "name": "Chicken Tender Platter", "size": "", "price": "$32.99" },
-        { "name": "Steakhouse Mac & Cheese Platter", "size": "", "price": "$19.78" },
-        { "name": "House Salad Platter", "size": "", "price": "$18.69" },
-        { "name": "Brisbane Caesar Salad Platter", "size": "", "price": "$18.69" },
-        { "name": "Loaded Mashed Potato Platter", "size": "", "price": "$17.58" },
-        { "name": "Green Bean Platter", "size": "", "price": "$13.18" },
-        { "name": "Seasoned Rice Platter", "size": "", "price": "$13.18" }
+        { "name": "Chocolate Thunder from Down Under", "size": "", "price": "$10.79", "calories": "870", "desc": "Warm brownie with ice cream, chocolate sauce and whipped cream" },
+        { "name": "Tim Tam Brownie Cake", "size": "", "price": "$10.99", "calories": "", "desc": "Layered brownie cake inspired by the Tim Tam biscuit" },
+        { "name": "Triple-Layer Carrot Cake", "size": "", "price": "$9.79", "calories": "1100", "desc": "Three-layer carrot cake with cream cheese frosting" },
+        { "name": "New York-Style Cheesecake", "size": "", "price": "$9.79", "calories": "1040", "desc": "Classic cheesecake with your choice of topping" },
+        { "name": "Salted Caramel Cookie Skillet", "size": "", "price": "$8.79", "calories": "", "desc": "Warm cookie in a skillet with ice cream and salted caramel" },
+        { "name": "Butter Cake", "size": "", "price": "$8.79", "calories": "", "desc": "Warm butter cake with ice cream" }
       ]
     },
     {
       "category": "Bloomin' Bundles (Family Meals)",
-      "note": "Family bundles that feed 4 or 6. Served with sides and bread.",
+      "intro": "Family bundles that feed four or six, served with sides and bread.",
       "items": [
-        { "name": "Grilled Chicken Bundle (Feeds 4)", "size": "", "price": "$50.00" },
-        { "name": "Grilled Chicken Bundle (Feeds 6)", "size": "", "price": "$70.00" },
-        { "name": "Center-Cut Sirloin Bundle (Feeds 4)", "size": "", "price": "$55.00" },
-        { "name": "Center-Cut Sirloin Bundle (Feeds 6)", "size": "", "price": "$80.00" },
-        { "name": "Sirloin & Grilled Chicken Bundle (Feeds 4)", "size": "", "price": "$70.00" },
-        { "name": "Sirloin & Grilled Chicken Bundle (Feeds 6)", "size": "", "price": "$100.00" },
-        { "name": "Sirloin & Grilled Shrimp Bundle (Feeds 4)", "size": "", "price": "$65.00" },
-        { "name": "Sirloin & Grilled Shrimp Bundle (Feeds 6)", "size": "", "price": "$95.00" }
+        { "name": "Grilled Chicken Bundle (Feeds 4)", "size": "", "price": "$50.00", "calories": "", "desc": "Grilled chicken with sides and bread for four" },
+        { "name": "Center-Cut Sirloin Bundle (Feeds 4)", "size": "", "price": "$55.00", "calories": "", "desc": "Center-cut sirloins with sides and bread for four" },
+        { "name": "Center-Cut Sirloin Bundle (Feeds 6)", "size": "", "price": "$80.00", "calories": "", "desc": "Center-cut sirloins with sides and bread for six" },
+        { "name": "Sirloin & Grilled Chicken Bundle (Feeds 4)", "size": "", "price": "$70.00", "calories": "", "desc": "Sirloin and grilled chicken with sides and bread for four" },
+        { "name": "Sirloin & Grilled Shrimp Bundle (Feeds 4)", "size": "", "price": "$65.00", "calories": "", "desc": "Sirloin and grilled shrimp with sides and bread for four" }
       ]
     }
   ],
+
+  "make_at_home": {
+    "title": "Make Outback at Home",
+    "intro": "Craving the Bloomin' Onion or a steakhouse dinner at home? These kitchen picks get you close.",
+    "cards": [
+      { "icon": "🧅", "name": "Blooming Onion Cutter", "blurb": "Cut the onion to bloom like the real thing.", "amazon_search": "blooming onion cutter" },
+      { "icon": "🧂", "name": "Steak Seasoning", "blurb": "Bold steakhouse-style seasoning for sirloin and ribeye.", "amazon_search": "steakhouse steak seasoning" },
+      { "icon": "🥩", "name": "Cast Iron Skillet", "blurb": "Sear steaks with a steakhouse crust at home.", "amazon_search": "cast iron skillet steak" },
+      { "icon": "📖", "name": "Copycat Steakhouse Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
 
   "popular_items": [
     "Bloomin' Onion",
     "Alice Springs Chicken",
     "Outback Center-Cut Sirloin",
     "Aussie Fries",
-    "Steakhouse Mac & Cheese",
-    "Bloomin' Fried Chicken"
+    "Chocolate Thunder from Down Under"
   ],
 
   "faqs": [
     {
       "q": "What is the Bloomin' Onion at Outback?",
-      "a": "The Bloomin' Onion is Outback's signature appetizer: one large onion hand-cut to bloom like a flower, battered, fried until crispy and served with their spicy signature dipping sauce. It is priced at around $9.99."
+      "a": "The Bloomin' Onion is Outback's signature appetizer: one large onion hand-carved to bloom like a flower, battered, fried until crispy and served with a spicy signature dipping sauce. It is around $9.99 and about 1,920 calories, so it is made to share."
     },
     {
       "q": "What is Alice Springs Chicken at Outback?",
-      "a": "Alice Springs Chicken is a grilled chicken breast topped with sauteed mushrooms, bacon, melted Monterey Jack and Cheddar, and honey mustard sauce. It is around $20.99 for dinner, with a smaller 5 oz lunch portion near $12.99."
+      "a": "Alice Springs Chicken is a grilled chicken breast topped with sauteed mushrooms, bacon, melted cheese and honey mustard sauce. It is around $20.99 for dinner (about 890 calories), with a smaller 5 oz lunch portion near $12.99."
     },
     {
       "q": "Does Outback Steakhouse have a 3-course meal deal?",
-      "a": "Yes. Outback often runs an Aussie 3-Course value deal that includes a starter or soup/salad, a choice of entree, and a dessert for one set price. It is a limited-time offer, so the price and the exact choices vary by location and season."
+      "a": "Yes. Outback often runs an Aussie 3-Course value deal that includes a starter or soup and salad, a choice of entree, and a dessert for one set price. It is a limited-time offer, so the exact price and choices vary by location and season."
     },
     {
       "q": "What are Outback's lunch specials and lunch menu prices?",
-      "a": "Most locations offer a weekday lunch menu with smaller portions at lower prices, starting around $9.99 to $12.99. Options include the soup and salad combo, grilled chicken, the Outbacker Burger, a 6 oz center-cut sirloin, and Alice Springs Chicken."
-    },
-    {
-      "q": "Does Outback Steakhouse have a happy hour?",
-      "a": "Many Outback locations run a happy hour in the bar area, usually on weekday afternoons and evenings, with discounted drinks and select appetizer specials. Times and offers vary by location, so check your local restaurant."
-    },
-    {
-      "q": "Does Outback have a gluten-free menu?",
-      "a": "Yes. Outback has a dedicated gluten-free menu that includes several steaks, grilled chicken, seafood, salads and sides. Ask your server for the current gluten-free menu, as item availability can change."
+      "a": "Most locations offer a weekday lunch menu with smaller portions at lower prices, starting around $9.99 to $12.99. Options include the soup and salad combo, a 6 oz sirloin, Alice Springs Chicken and the Outbacker Burger."
     },
     {
       "q": "What is the cheapest steak at Outback Steakhouse?",
       "a": "The 6 oz Outback Center-Cut Sirloin is the lowest-priced steak at around $16.79. At lunch, a 6 oz center-cut sirloin is available for about $12.99."
     },
     {
+      "q": "Does Outback have a gluten-free menu?",
+      "a": "Yes. Outback has a dedicated gluten-free menu that includes several steaks, grilled chicken, seafood, salads and sides. Ask your server for the current gluten-free menu, as item availability can change."
+    },
+    {
       "q": "What are the most popular items at Outback Steakhouse?",
-      "a": "The best-known items are the Bloomin' Onion, Alice Springs Chicken, the Center-Cut Sirloin, Aussie Fries, Steakhouse Mac & Cheese, and the Chocolate Thunder from Down Under dessert."
+      "a": "The best known are the Bloomin' Onion, Alice Springs Chicken, the Center-Cut Sirloin, Aussie Fries, and the Chocolate Thunder from Down Under dessert."
     }
   ],
 
@@ -283,12 +279,13 @@
 
   "schema": {
     "types": ["Menu", "FAQPage", "BreadcrumbList"],
-    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Outback Steakhouse."
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Outback Steakhouse."
   },
 
   "_data_notes": {
-    "price_source": "Verified from an established, human-authored menu-prices publication. Base figures reflect US national-typical pricing.",
-    "accuracy": "Outback does not publish official prices centrally; prices vary by location. Treat all prices as typical/approximate and always display the price_disclaimer.",
-    "keyword_notes": "FAQ and sections were shaped by real Outback search demand: Bloomin' Onion, Alice Springs Chicken, Aussie Fries, lunch specials, 3-course meal, happy hour, and gluten-free menu are all high-volume queries."
+    "price_source": "Prices from an established, human-authored menu-prices publication. Calories from Outback's official full nutrition information (Bloomin' Brands).",
+    "calories": "Calories are shown only where a reliable official figure for that item and size exists, and left blank otherwise. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "keyword_notes": "Sections and FAQ shaped by real Outback search demand: Bloomin' Onion, Alice Springs Chicken, Aussie Fries, lunch specials, 3-course deal, and gluten-free menu."
   }
 }
