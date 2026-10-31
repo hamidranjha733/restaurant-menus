@@ -1,0 +1,150 @@
+{
+  "slug": "jasons-deli-menu",
+  "brand": "Jason's Deli",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/jasons-deli-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/17301619/pexels-photo-17301619.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Jason's Deli style stacked deli sandwich with layered meat",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-17301619",
+    "_verify_note": "Tentative hero (stacked deli sandwich). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Jason's Deli Menu With Prices (2026)",
+    "meta_description": "Full Jason's Deli menu with prices for 2026: muffalettas, the Reuben, wraps, salads, the salad bar, soups, loaded baked potatoes, kids meals and desserts.",
+    "h1": "Jason's Deli Menu With Prices (2026)",
+    "primary_keyword": "jason's deli menu with prices",
+    "keyword_volume": 6600,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Jason's Deli does not publish full calorie counts for every item, so calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Jason's Deli is the American deli chain known for its muffalettas, big sandwiches, the Garden Fresh Salad Bar, loaded baked potatoes, and free soft-serve ice cream. It leans into fresh, additive-conscious ingredients and generous portions, with a 'Lighter' option on many items. Below is the full Jason's Deli menu with prices for 2026.",
+
+  "quick_answer": "At Jason's Deli, a whole muffaletta is about $17.09 (a quarter $8.89), the Reuben the Great is $13.99, and salads run about $11 to $12. The Garden Fresh Salad Bar is $10.29, soups are $5.39 a cup or $6.99 a bowl, and loaded baked potatoes are around $10.79 to $11.09. The muffaletta and the salad bar are the icons, and soft-serve is free.",
+
+  "highlights": [
+    { "strong": "Muffaletta", "label": "the signature sandwich" },
+    { "strong": "Salad bar", "label": "Garden Fresh, $10.29" },
+    { "strong": "Free soft-serve", "label": "with dine-in meals" },
+    { "strong": "Lighter options", "label": "on many items" }
+  ],
+
+  "hot_deal": "Jason's Deli value: the free soft-serve ice cream with a dine-in meal is the best-known perk, and the salad bar ($10.29) is all-you-can-build. A quarter muffaletta ($8.89) or a cup of soup ($5.39) are the cheapest ways in, and kids eat cheap ($4.69 to $5.59). The Deli Dollars rewards program drops offers. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Muffalettas & Sandwiches",
+      "intro": "The signature muffaletta and the Reuben.",
+      "items": [
+        { "name": "Quarter Muffaletta", "size": "quarter", "price": "$8.89", "calories": "", "desc": "Ham & salami or turkey, with olive mix on a round loaf (special $10.79)" },
+        { "name": "Half Muffaletta", "size": "half", "price": "$11.19", "calories": "", "desc": "Half muffaletta, ham & salami or turkey" },
+        { "name": "Whole Muffaletta", "size": "whole", "price": "$17.09", "calories": "", "desc": "A whole muffaletta, feeds two to three" },
+        { "name": "Reuben the Great", "size": "", "price": "$13.99", "calories": "", "desc": "Corned beef, kraut, Swiss and dressing on rye (half $11.99)" },
+        { "name": "Reuben with Pastrami", "size": "", "price": "$13.99", "calories": "", "desc": "The Reuben made with pastrami" }
+      ]
+    },
+    {
+      "category": "Salads & Salad Bar",
+      "intro": "Big entree salads and the Garden Fresh Salad Bar.",
+      "items": [
+        { "name": "Garden Fresh Salad Bar", "size": "", "price": "$10.29", "calories": "", "desc": "All-you-can-build fresh salad bar" },
+        { "name": "Nutty Mixed-Up Salad", "size": "", "price": "$12.19", "calories": "", "desc": "Chicken, nuts, fruit and greens (no chicken $11.19)" },
+        { "name": "Chicken Club Salad", "size": "", "price": "$12.19", "calories": "", "desc": "Chicken, bacon and cheese salad" },
+        { "name": "Chicken Caesar Salad", "size": "", "price": "$11.49", "calories": "", "desc": "Caesar with grilled chicken" },
+        { "name": "The Big Chef Salad", "size": "", "price": "$11.49", "calories": "", "desc": "A loaded chef salad (lighter $9.99)" }
+      ]
+    },
+    {
+      "category": "Wraps, Soups & Potatoes",
+      "intro": "Wraps, the soups and loaded baked potatoes.",
+      "items": [
+        { "name": "Spinach Veggie Wrap", "size": "", "price": "$9.29", "calories": "", "desc": "Veggies in a spinach wrap" },
+        { "name": "Soup (Cup / Bowl)", "size": "cup / bowl", "price": "$5.39 / $6.99", "calories": "", "desc": "Broccoli cheese, tomato basil, gumbo, chili and more" },
+        { "name": "Plain Jane Potato", "size": "", "price": "$10.79", "calories": "", "desc": "A loaded baked potato (lighter $9.69)" },
+        { "name": "CB Ranch Potato", "size": "", "price": "$11.09", "calories": "", "desc": "Chicken-bacon-ranch loaded potato" },
+        { "name": "Texas Style Spud", "size": "", "price": "$10.89", "calories": "", "desc": "The Texas-style loaded potato" }
+      ]
+    },
+    {
+      "category": "Kids & Desserts",
+      "intro": "Kids meals and desserts (plus free soft-serve).",
+      "items": [
+        { "name": "Kids Chicken Tenders", "size": "", "price": "$5.59", "calories": "", "desc": "A kids tender meal (mac, pizza, grilled cheese $4.69)" },
+        { "name": "Texas Chocolate Cake", "size": "", "price": "$3.49", "calories": "", "desc": "Rich chocolate sheet cake" },
+        { "name": "Classic Cheesecake", "size": "", "price": "$4.59", "calories": "", "desc": "Classic cheesecake (strawberry-topped $4.79)" },
+        { "name": "Chocolate Chip Cookie", "size": "", "price": "$1.99", "calories": "", "desc": "A fresh cookie" },
+        { "name": "Free Soft-Serve", "size": "", "price": "Included", "calories": "", "desc": "Free soft-serve ice cream with a dine-in meal" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Deli Favorites at Home",
+    "intro": "Want muffalettas and deli salads at home? These picks help.",
+    "cards": [
+      { "icon": "🥪", "name": "Deli Meat Slicer", "blurb": "For stacked deli sandwiches.", "amazon_search": "electric meat slicer" },
+      { "icon": "🫒", "name": "Olive Salad", "blurb": "The muffaletta's signature spread.", "amazon_search": "muffaletta olive salad" },
+      { "icon": "🥔", "name": "Baked Potato Bar Kit", "blurb": "For loaded baked potatoes.", "amazon_search": "baked potato toppings" },
+      { "icon": "🍦", "name": "Soft-Serve Machine", "blurb": "For free-style soft-serve at home.", "amazon_search": "soft serve ice cream machine" }
+    ]
+  },
+
+  "popular_items": [
+    "Muffaletta",
+    "Reuben the Great",
+    "Garden Fresh Salad Bar",
+    "Loaded Baked Potato",
+    "Free Soft-Serve"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a muffaletta at Jason's Deli?",
+      "a": "A whole muffaletta is about $17.09, a half $11.19, and a quarter $8.89 (a quarter 'special' with a side is $10.79). It comes as ham and salami or turkey with the signature olive mix on a round loaf. Prices vary by location."
+    },
+    {
+      "q": "How much is the salad bar at Jason's Deli?",
+      "a": "The Garden Fresh Salad Bar is about $10.29 for all-you-can-build. It is one of the main draws, with fresh greens, toppings and dressings, and it can be added to many meals. Prices vary by location."
+    },
+    {
+      "q": "Does Jason's Deli have free ice cream?",
+      "a": "Yes. Jason's Deli is known for free soft-serve ice cream with a dine-in meal, a long-standing perk. You can help yourself at the soft-serve machine, which makes it a favorite with families."
+    },
+    {
+      "q": "Does Jason's Deli list calories?",
+      "a": "Jason's Deli does not publish full calorie counts for every item, so calories are not listed here rather than guessed. The chain does offer 'Lighter' versions of many sandwiches, salads and potatoes for a smaller portion."
+    },
+    {
+      "q": "What are the most popular items at Jason's Deli?",
+      "a": "Favorites include the muffaletta, the Reuben the Great, the Garden Fresh Salad Bar, the loaded baked potatoes, and the free soft-serve ice cream."
+    }
+  ],
+
+  "internal_links": [
+    "panera-menu",
+    "jersey-mikes-menu",
+    "jimmy-johns-menu",
+    "firehouse-subs-menu",
+    "subway-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since Jason's Deli does not publish full nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Jason's Deli."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. Jason's Deli does not publish full calorie counts for every item. Disclaimer and FAQ state this, and note the 'Lighter' options. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels stacked deli sandwich (pexels-17301619). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Jersey Mike's hero.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (sandwich/sub deli, alongside Panera, Jersey Mike's, Jimmy John's). Free soft-serve shown as price 'Included'. #76 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Jason's Deli search demand: muffaletta price, salad bar price, free ice cream, calories question, popular items. Soup and muffaletta given as size price strings."
+  }
+}
