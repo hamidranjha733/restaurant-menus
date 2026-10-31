@@ -1,0 +1,264 @@
+{
+  "slug": "wildflower-menu",
+  "brand": "Wildflower (Bread Company)",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/wildflower-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/5292918/pexels-photo-5292918.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Wildflower style cafe sandwich and fresh salad on plates",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-5292918",
+    "_verify_note": "Tentative hero (cafe sandwich and salad). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Wildflower Menu With Prices (2026)",
+    "meta_description": "Full Wildflower Bread Company menu with prices for 2026: breakfast frittatas and pancakes, signature sandwiches, big salads, soups, toasts and combos.",
+    "h1": "Wildflower Menu With Prices (2026)",
+    "primary_keyword": "wildflower bread company menu with prices",
+    "keyword_volume": 1900,
+    "keyword_kd": 1
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Wildflower (Bread Company) is an Arizona bakery-cafe; it does not publish full per-item calories, so calories are left blank rather than guessed. Last updated October 2026.",
+  "intro": "Wildflower, the Arizona bakery-cafe (also known as Wildflower Bread Company), is a fast-casual spot built on fresh-baked artisan bread, serving a full breakfast of frittatas, pancakes and egg plates, plus signature sandwiches, big salads, soups and toasts through the day. Below is the full Wildflower menu with prices for 2026.",
+  "quick_answer": "At Wildflower, breakfast runs about $6.59 to $10.99 (frittatas and the Baja Breakfast Bowl are $10.99, pancakes $7.79), signature sandwiches are $9.79 to $13.29, and big salads $8.99 to $10.59. A half sandwich with soup or salad is $11.79. The fresh-baked bread, frittatas and sandwiches are the draw. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Fresh-baked bread",
+      "label": "the artisan bakery base"
+    },
+    {
+      "strong": "Breakfast all morning",
+      "label": "frittatas and pancakes"
+    },
+    {
+      "strong": "Signature sandwiches",
+      "label": "and big salads"
+    },
+    {
+      "strong": "Arizona cafe",
+      "label": "a local favorite"
+    }
+  ],
+  "hot_deal": "Wildflower value: oatmeal ($6.79) and berries & yogurt ($6.59) are the cheapest breakfasts, and the half sandwich with soup or salad ($11.79) is the best lunch value. Soup-and-sandwich or soup-and-salad combos are $12.59. A side Caesar or field greens salad is just $3.49. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Breakfast",
+      "intro": "Served in the morning: frittatas, pancakes and egg plates.",
+      "items": [
+        {
+          "name": "Berries & Yogurt",
+          "size": "",
+          "price": "$6.59",
+          "calories": "",
+          "desc": "Fresh berries with yogurt, the lightest breakfast"
+        },
+        {
+          "name": "Traditional Pancakes",
+          "size": "",
+          "price": "$7.79",
+          "calories": "",
+          "desc": "Buttermilk pancakes (lemon ricotta and GF $9.99)"
+        },
+        {
+          "name": "Egg Breakfast",
+          "size": "",
+          "price": "$8.99",
+          "calories": "",
+          "desc": "Eggs with a choice of sides"
+        },
+        {
+          "name": "Three Cheese Tomato & Mushroom Frittata",
+          "size": "",
+          "price": "$10.99",
+          "calories": "",
+          "desc": "A baked frittata (spicy sausage & Swiss also $10.99)"
+        },
+        {
+          "name": "Avocado Toast & Eggs",
+          "size": "",
+          "price": "$10.29",
+          "calories": "",
+          "desc": "Avocado toast topped with eggs"
+        }
+      ]
+    },
+    {
+      "category": "Sandwiches",
+      "intro": "Signature sandwiches on fresh-baked bread.",
+      "items": [
+        {
+          "name": "Wildflower Grilled Cheese",
+          "size": "",
+          "price": "$9.79",
+          "calories": "",
+          "desc": "The grilled cheese, the value sandwich"
+        },
+        {
+          "name": "Buffalo Chicken",
+          "size": "",
+          "price": "$11.99",
+          "calories": "",
+          "desc": "Buffalo chicken sandwich (BLT+ also $11.99)"
+        },
+        {
+          "name": "Reuben",
+          "size": "",
+          "price": "$12.29",
+          "calories": "",
+          "desc": "Corned beef Reuben (Steak & Blue also $12.29)"
+        },
+        {
+          "name": "Italiano",
+          "size": "",
+          "price": "$13.29",
+          "calories": "",
+          "desc": "Italian sub (Chipotle Chicken Melt and Triple Club also $13.29)"
+        }
+      ]
+    },
+    {
+      "category": "Salads & Toasts",
+      "intro": "Big salads, side salads and the signature toasts.",
+      "items": [
+        {
+          "name": "Garden Salad",
+          "size": "",
+          "price": "$8.99",
+          "calories": "",
+          "desc": "A fresh garden salad (Kale-Romaine Caesar also $8.99)"
+        },
+        {
+          "name": "Southwest Superfood Salad",
+          "size": "",
+          "price": "$10.59",
+          "calories": "",
+          "desc": "The loaded superfood salad, the top salad"
+        },
+        {
+          "name": "Avocado Toast",
+          "size": "",
+          "price": "$6.29",
+          "calories": "",
+          "desc": "Avocado toast (fig & ricotta also $6.29)"
+        },
+        {
+          "name": "Side Salad",
+          "size": "",
+          "price": "$3.49",
+          "calories": "",
+          "desc": "Side Caesar or organic field greens"
+        }
+      ]
+    },
+    {
+      "category": "Combos & Soup",
+      "intro": "The half-and-half combos and soup.",
+      "items": [
+        {
+          "name": "Half Sandwich + Soup or Salad",
+          "size": "",
+          "price": "$11.79",
+          "calories": "",
+          "desc": "A half sandwich with a cup of soup or a salad"
+        },
+        {
+          "name": "Sandwich & Soup Combo",
+          "size": "",
+          "price": "$12.59",
+          "calories": "",
+          "desc": "A full sandwich with soup (salad & soup combo also $12.59)"
+        },
+        {
+          "name": "Key Lime Pie",
+          "size": "",
+          "price": "$4.79",
+          "calories": "",
+          "desc": "The dessert"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Bakery-Cafe Favorites at Home",
+    "intro": "Want fresh-baked sandwiches and frittatas at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🍞",
+        "name": "Artisan Bread Kit",
+        "blurb": "For fresh-baked bread.",
+        "amazon_search": "artisan bread baking kit"
+      },
+      {
+        "icon": "🍳",
+        "name": "Frittata Pan",
+        "blurb": "For baked frittatas.",
+        "amazon_search": "oven safe frittata pan"
+      },
+      {
+        "icon": "🥪",
+        "name": "Panini Press",
+        "blurb": "For pressed sandwiches.",
+        "amazon_search": "panini press grill"
+      },
+      {
+        "icon": "🥑",
+        "name": "Toast Toppings",
+        "blurb": "For avocado and ricotta toasts.",
+        "amazon_search": "avocado toast seasoning"
+      }
+    ]
+  },
+  "popular_items": [
+    "Frittata",
+    "Wildflower Grilled Cheese",
+    "Southwest Superfood Salad",
+    "Avocado Toast & Eggs",
+    "Reuben"
+  ],
+  "faqs": [
+    {
+      "q": "How much is breakfast at Wildflower?",
+      "a": "Breakfast runs about $6.59 to $10.99: berries and yogurt are $6.59, pancakes $7.79, an egg breakfast $8.99, and frittatas or the Baja breakfast bowl $10.99. Breakfast is a big part of Wildflower's menu. Prices vary by location."
+    },
+    {
+      "q": "What is Wildflower known for?",
+      "a": "Wildflower, the Arizona bakery-cafe (Wildflower Bread Company), is known for its fresh-baked artisan bread and a from-scratch cafe menu of frittatas and pancakes at breakfast, signature sandwiches, big salads and soups. It is a well-loved local fast-casual spot."
+    },
+    {
+      "q": "Does Wildflower do soup and sandwich combos?",
+      "a": "Yes. A half sandwich with a cup of soup or a salad is about $11.79, and full sandwich-and-soup or salad-and-soup combos are $12.59. These combos are the most popular lunch value. Prices vary by location."
+    },
+    {
+      "q": "Does Wildflower list calories?",
+      "a": "Wildflower does not publish full per-item calorie counts, so calories are not listed here rather than guessed. Totals vary with the sandwich, the bread and the sides you choose."
+    },
+    {
+      "q": "What are the most popular items at Wildflower?",
+      "a": "Favorites include the frittatas, the Wildflower grilled cheese, the Southwest superfood salad, avocado toast with eggs, and the Reuben."
+    }
+  ],
+  "internal_links": [
+    "panera-menu",
+    "tazikis-menu",
+    "true-food-kitchen-menu",
+    "newks-eatery-menu",
+    "jasons-deli-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Wildflower (Bread Company)."
+  },
+  "_data_notes": {
+    "price_source": "Prices from Wildflower's own online-ordering menu (Toast). Real listed values at time of writing; vary by location. This is the Arizona Wildflower Bread Company cafe (not a florist or unrelated 'Wildflower' business).",
+    "calories": "Deliberately left blank. Wildflower does not publish full per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels cafe sandwich and salad (pexels-5292918). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (bakery-cafe with a strong breakfast menu). Brand disambiguated as the Arizona Wildflower Bread Company. #109 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Wildflower search demand: breakfast price, what it is known for, soup-and-sandwich combos, calories question, popular items. Brand clearly identified as the AZ bread-company cafe."
+  }
+}

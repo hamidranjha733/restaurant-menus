@@ -1,0 +1,264 @@
+{
+  "slug": "urban-plates-menu",
+  "brand": "Urban Plates",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/urban-plates-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/6163330/pexels-photo-6163330.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Urban Plates style grilled chicken plate with sides",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-6163330",
+    "_verify_note": "Tentative hero (grilled chicken plate). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Urban Plates Menu With Prices (2026)",
+    "meta_description": "Full Urban Plates menu with prices for 2026: grilled chicken and grass-fed steak plates, braise bowls, big salads, sandwiches, value meals and sides.",
+    "h1": "Urban Plates Menu With Prices (2026)",
+    "primary_keyword": "urban plates menu with prices",
+    "keyword_volume": 2400,
+    "keyword_kd": 1
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Urban Plates is a health-focused fast-casual restaurant and does not publish full per-item calories, so calories are left blank rather than guessed. Last updated October 2026.",
+  "intro": "Urban Plates is the California fast-casual chain built on scratch-cooked, better-for-you food: chef-crafted plates of grilled cage-free chicken, grass-fed steak and sustainable salmon, braise bowls, big salads, sandwiches and an everyday value menu. You order at the counter and it is plated and brought out. Below is the full Urban Plates menu with prices for 2026.",
+  "quick_answer": "At Urban Plates, a grilled cage-free chicken plate is about $20.99, a grass-fed steak plate $24.99, and sustainable salmon $24.99, each with sides. Braise bowls run $15.99 to $18.99, big salads $15.99 to $23.25, and sandwiches $15.50 to $19.50. A soup and salad combo is $11.99. It is upscale-casual, scratch-cooked food. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Scratch-cooked",
+      "label": "better-for-you plates"
+    },
+    {
+      "strong": "Grass-fed & cage-free",
+      "label": "the proteins"
+    },
+    {
+      "strong": "Braise bowls",
+      "label": "and big salads"
+    },
+    {
+      "strong": "Value menu",
+      "label": "meals and combos under $12"
+    }
+  ],
+  "hot_deal": "Urban Plates value: the soup and salad combo ($11.99), the half-sandwich combo ($12.50) and a cup of soup ($6.00) are the cheapest ways in, and the everyday value menu keeps several meals under $12. Most sides are $6.50. It is upscale-casual, so there is no dollar menu, but the value combos are the smart order. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Plates",
+      "intro": "Chef-crafted plates with sides.",
+      "items": [
+        {
+          "name": "Grilled Cage-Free Chicken Plate",
+          "size": "",
+          "price": "$20.99",
+          "calories": "",
+          "desc": "Grilled chicken with a choice of sides"
+        },
+        {
+          "name": "Grilled Grass-Fed Steak Plate",
+          "size": "",
+          "price": "$24.99",
+          "calories": "",
+          "desc": "Grass-fed steak (chimichurri version $25.99)"
+        },
+        {
+          "name": "Grilled Sustainable Salmon Plate",
+          "size": "",
+          "price": "$24.99",
+          "calories": "",
+          "desc": "Sustainable salmon (blackened $25.99)"
+        },
+        {
+          "name": "Surf & Turf Plate",
+          "size": "",
+          "price": "$29.99",
+          "calories": "",
+          "desc": "Steak and salmon, the top plate"
+        }
+      ]
+    },
+    {
+      "category": "Bowls & Soups",
+      "intro": "Braise bowls and the soups.",
+      "items": [
+        {
+          "name": "Beets + Avocado Plant-Based Bowl",
+          "size": "",
+          "price": "$15.99",
+          "calories": "",
+          "desc": "A plant-based grain bowl"
+        },
+        {
+          "name": "Moroccan Chicken Braise",
+          "size": "",
+          "price": "$16.99",
+          "calories": "",
+          "desc": "Slow-braised Moroccan chicken bowl"
+        },
+        {
+          "name": "Beef & Mushroom Braise",
+          "size": "",
+          "price": "$18.99",
+          "calories": "",
+          "desc": "Braised beef and mushroom bowl"
+        },
+        {
+          "name": "Soup",
+          "size": "",
+          "price": "$6.00",
+          "calories": "",
+          "desc": "Chicken tortilla or tomato basil soup"
+        }
+      ]
+    },
+    {
+      "category": "Salads & Sandwiches",
+      "intro": "Big salads, sandwiches and wraps.",
+      "items": [
+        {
+          "name": "Classic House Salad",
+          "size": "",
+          "price": "$15.99",
+          "calories": "",
+          "desc": "The house salad (chopped Caesar also $15.99)"
+        },
+        {
+          "name": "Chicken Cobb Salad",
+          "size": "",
+          "price": "$19.99",
+          "calories": "",
+          "desc": "A loaded Cobb (Superfood/Southwest chicken $19.99-20.99)"
+        },
+        {
+          "name": "Grilled Cage-Free Chicken Sandwich",
+          "size": "",
+          "price": "$15.50",
+          "calories": "",
+          "desc": "Grilled chicken sandwich (crispy + fries $15.99)"
+        },
+        {
+          "name": "Turkey Avocado Club",
+          "size": "",
+          "price": "$19.50",
+          "calories": "",
+          "desc": "Turkey avocado club (steak sandwich also $19.50)"
+        }
+      ]
+    },
+    {
+      "category": "Value & Sides",
+      "intro": "Value combos and the sides.",
+      "items": [
+        {
+          "name": "Soup & Salad Combo",
+          "size": "",
+          "price": "$11.99",
+          "calories": "",
+          "desc": "A cup of soup with a salad, the value combo"
+        },
+        {
+          "name": "Half Sandwich Combo",
+          "size": "",
+          "price": "$12.50",
+          "calories": "",
+          "desc": "A half sandwich with soup or salad"
+        },
+        {
+          "name": "French Fries",
+          "size": "",
+          "price": "$6.50",
+          "calories": "",
+          "desc": "Fries (most sides $6.50; truffle parmesan $8.50)"
+        },
+        {
+          "name": "Herb Roasted Marble Potatoes",
+          "size": "",
+          "price": "$6.50",
+          "calories": "",
+          "desc": "Roasted potatoes (quinoa, broccolini, brussels also $6.50)"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Scratch-Cooked Plates at Home",
+    "intro": "Want better-for-you plates at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🔥",
+        "name": "Grill Pan",
+        "blurb": "For grilled chicken and steak.",
+        "amazon_search": "cast iron grill pan"
+      },
+      {
+        "icon": "🥦",
+        "name": "Roasting Pan",
+        "blurb": "For roasted vegetable sides.",
+        "amazon_search": "sheet pan roasting"
+      },
+      {
+        "icon": "🍲",
+        "name": "Dutch Oven",
+        "blurb": "For braises and bowls.",
+        "amazon_search": "enameled dutch oven"
+      },
+      {
+        "icon": "🥗",
+        "name": "Salad Spinner",
+        "blurb": "For big fresh salads.",
+        "amazon_search": "salad spinner large"
+      }
+    ]
+  },
+  "popular_items": [
+    "Grilled Cage-Free Chicken Plate",
+    "Grass-Fed Steak Plate",
+    "Moroccan Chicken Braise",
+    "Chicken Cobb Salad",
+    "Soup & Salad Combo"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a plate at Urban Plates?",
+      "a": "A grilled cage-free chicken plate is about $20.99, a grass-fed steak plate $24.99, and sustainable salmon $24.99, each served with sides. Braise bowls are $15.99 to $18.99. The soup and salad combo ($11.99) is the value pick. Prices vary by location."
+    },
+    {
+      "q": "What is Urban Plates known for?",
+      "a": "Urban Plates is a California fast-casual chain known for scratch-cooked, better-for-you food: chef-crafted plates of grilled cage-free chicken, grass-fed steak and sustainable salmon, braise bowls, and big salads, ordered at the counter and plated to order."
+    },
+    {
+      "q": "Does Urban Plates have a value menu?",
+      "a": "Yes. Urban Plates runs an everyday value menu with several meals and combos under $12, including the soup and salad combo ($11.99) and the half-sandwich combo ($12.50). It is the smart way to eat there on a budget."
+    },
+    {
+      "q": "Does Urban Plates list calories?",
+      "a": "Urban Plates is health-focused but does not publish full per-item calorie counts, so calories are not listed here rather than guessed. Totals vary with the plate, the protein and the sides you choose."
+    },
+    {
+      "q": "What are the most popular dishes at Urban Plates?",
+      "a": "Favorites include the grilled cage-free chicken plate, the grass-fed steak plate, the Moroccan chicken braise, the chicken Cobb salad, and the soup and salad combo."
+    }
+  ],
+  "internal_links": [
+    "true-food-kitchen-menu",
+    "salad-and-go-menu",
+    "panera-menu",
+    "tazikis-menu",
+    "newks-eatery-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Urban Plates."
+  },
+  "_data_notes": {
+    "price_source": "Prices from Urban Plates' online-ordering menu (DoorDash; estimates that vary by store). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. Urban Plates is health-focused but does not publish full per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels grilled chicken plate (pexels-6163330). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the True Food Kitchen bowl hero.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (upscale-casual scratch-cooked restaurant, alongside True Food Kitchen). #107 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Urban Plates search demand: plate price, what it is known for, the value menu, calories question, popular dishes."
+  }
+}

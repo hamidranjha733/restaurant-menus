@@ -1,0 +1,208 @@
+{
+  "slug": "wings-etc-menu",
+  "brand": "Wings Etc",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/wings-etc-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/11299734/pexels-photo-11299734.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Wings Etc style buffalo wings with dipping sauces",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-11299734",
+    "_verify_note": "Tentative hero (buffalo wings with dips). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Wings Etc Menu With Prices (2026)",
+    "meta_description": "Wings Etc menu with prices for 2026: traditional and boneless wings, the Stand-By Burger, wraps, big salads, baskets and classic sports-pub appetizers.",
+    "h1": "Wings Etc Menu With Prices (2026)",
+    "primary_keyword": "wings etc menu with prices",
+    "keyword_volume": 1600,
+    "keyword_kd": 1
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate (some from a delivery menu, which runs higher than in-store), are provided as a guide only, and vary by location and wing count. Wings Etc publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+  "intro": "Wings Etc is the Midwest wings-and-sports-pub chain (Wings Etc. Grill & Pub) known for its bone-in and boneless wings in a long list of sauces, plus burgers, wraps, big salads and classic bar appetizers, all served in a casual game-day setting. Below is the Wings Etc menu with prices for 2026.",
+  "quick_answer": "At Wings Etc, boneless wings start around $13.19 and bone-in wings around $13.79 (the price rises with the count), the Stand-By Burger is about $16.19, chicken wraps $16.79, and the Big Chicken Salad $17.39. Wings in a wide range of sauces are the signature. Prices shown lean toward delivery level, so in-store runs lower. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Wings",
+      "label": "bone-in and boneless"
+    },
+    {
+      "strong": "Many sauces",
+      "label": "mild to blazing hot"
+    },
+    {
+      "strong": "Grill & Pub",
+      "label": "burgers, wraps, salads"
+    },
+    {
+      "strong": "Game-day",
+      "label": "the sports-pub vibe"
+    }
+  ],
+  "hot_deal": "Wings Etc value: weekday wing specials (like discounted wing nights) are the best-known deals, and a smaller wing count or a chicken wrap ($16.79) is the cheaper order. In-store prices run lower than the delivery menu, so dine in or order pickup to save. Prices vary by location and wing count.",
+  "menu": [
+    {
+      "category": "Wings",
+      "intro": "The signature wings, in a wide range of sauces. Price rises with count.",
+      "items": [
+        {
+          "name": "Boneless Wings",
+          "size": "by count",
+          "price": "$13.19",
+          "calories": "",
+          "desc": "Boneless wings tossed in your choice of sauce (price rises with count) (starting price)"
+        },
+        {
+          "name": "Bone-In Wings",
+          "size": "by count",
+          "price": "$13.79",
+          "calories": "",
+          "desc": "Traditional bone-in wings in your choice of sauce (price rises with count) (starting price)"
+        }
+      ]
+    },
+    {
+      "category": "Burgers & Wraps",
+      "intro": "The grill-and-pub burgers and wraps.",
+      "items": [
+        {
+          "name": "Stand-By Burger",
+          "size": "",
+          "price": "$16.19",
+          "calories": "",
+          "desc": "The house burger"
+        },
+        {
+          "name": "Buffalo Chicken Wrap",
+          "size": "",
+          "price": "$16.79",
+          "calories": "",
+          "desc": "Crispy buffalo chicken wrap"
+        },
+        {
+          "name": "Chicken Bacon Wrap",
+          "size": "",
+          "price": "$16.79",
+          "calories": "",
+          "desc": "Chicken and bacon wrap"
+        }
+      ]
+    },
+    {
+      "category": "Salads",
+      "intro": "The big pub salads.",
+      "items": [
+        {
+          "name": "Big Chicken Salad",
+          "size": "",
+          "price": "$17.39",
+          "calories": "",
+          "desc": "A loaded chicken salad"
+        }
+      ]
+    },
+    {
+      "category": "Appetizers & Sides",
+      "intro": "Classic sports-pub starters and sides (priced at the restaurant).",
+      "items": [
+        {
+          "name": "Appetizer Sampler",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "A mix of pub starters (priced at the restaurant)"
+        },
+        {
+          "name": "Fries & Sides",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "Fries, tots and other sides (priced at the restaurant)"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Game-Day Wings at Home",
+    "intro": "Want sports-pub wings at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🍗",
+        "name": "Air Fryer",
+        "blurb": "For crispy wings at home.",
+        "amazon_search": "air fryer wings"
+      },
+      {
+        "icon": "🌶️",
+        "name": "Wing Sauce Variety",
+        "blurb": "Mild to blazing hot.",
+        "amazon_search": "wing sauce variety pack"
+      },
+      {
+        "icon": "🥬",
+        "name": "Ranch & Blue Cheese",
+        "blurb": "The dips for wings.",
+        "amazon_search": "blue cheese ranch dressing"
+      },
+      {
+        "icon": "🍟",
+        "name": "Fry Cutter",
+        "blurb": "For pub-style fries.",
+        "amazon_search": "french fry cutter potato"
+      }
+    ]
+  },
+  "popular_items": [
+    "Bone-In Wings",
+    "Boneless Wings",
+    "Stand-By Burger",
+    "Buffalo Chicken Wrap",
+    "Big Chicken Salad"
+  ],
+  "faqs": [
+    {
+      "q": "How much are wings at Wings Etc?",
+      "a": "Boneless wings start around $13.19 and bone-in wings around $13.79, with the price rising based on the wing count you order. These lean toward delivery-menu prices, so in-store is often lower. Weekday wing specials are the best value. Prices vary by location."
+    },
+    {
+      "q": "What is Wings Etc known for?",
+      "a": "Wings Etc (Wings Etc. Grill & Pub) is a Midwest wings-and-sports-pub chain known for its bone-in and boneless wings in a long list of sauces, plus burgers, wraps and big salads, served in a casual game-day setting with the games on."
+    },
+    {
+      "q": "Does Wings Etc have food besides wings?",
+      "a": "Yes. Beyond wings, Wings Etc serves burgers like the Stand-By Burger ($16.19), chicken wraps ($16.79), big salads ($17.39), and classic pub appetizers and sides. It is a full grill-and-pub menu, not just a wing counter."
+    },
+    {
+      "q": "Does Wings Etc list calories?",
+      "a": "Wings Etc publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals depend on the wing style, the sauce, the count and the sides you add."
+    },
+    {
+      "q": "What are the most popular items at Wings Etc?",
+      "a": "Favorites include the bone-in wings, the boneless wings, the Stand-By Burger, the buffalo chicken wrap, and the Big Chicken Salad."
+    }
+  ],
+  "internal_links": [
+    "buffalo-wild-wings-menu",
+    "hooters-menu",
+    "wingstop-menu",
+    "bojangles-menu",
+    "twin-peaks-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Wings Etc."
+  },
+  "_data_notes": {
+    "price_source": "Prices from a Wings Etc delivery menu (runs higher than in-store), noted in the disclaimer. Only a few exact prices were available (boneless from $13.19, bone-in from $13.79, Stand-By Burger $16.19, wraps $16.79, Big Chicken Salad $17.39); wing counts and apps left 'by count'/price-blank rather than guessed.",
+    "calories": "Deliberately left blank. Wings Etc does not prominently publish per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number. On import the 'does not publish' wording was changed to match the site rule (chains with 20+ US locations must post calories, so it publishes nutrition; item calories are simply not reproduced here). On import, 2 blank price(s) became 'Varies', because the site does not accept an empty price. On import, prices the site does not accept were changed: 'from $13.19' -> '$13.19' (Boneless Wings); 'from $13.79' -> '$13.79' (Bone-In Wings).",
+    "accuracy": "Prices are typical/approximate (delivery-level, in-store often lower) and vary by location and wing count. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels buffalo wings with dips (pexels-11299734). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Hooters and Buffalo Wild Wings heroes.",
+    "category_note": "Uses the existing 'Chicken & Fast Food' category (wings sports-pub, following the Buffalo Wild Wings/Hooters precedent). Internal link wingstop-menu may not exist yet; drop any missing-page link. #110 of the expansion list, the final brand.",
+    "keyword_notes": "Sections and FAQ shaped by real Wings Etc search demand: wing price, what it is known for, non-wing food, calories question, popular items. Honest 'from'/'by count' pricing where exact counts were not available."
+  }
+}

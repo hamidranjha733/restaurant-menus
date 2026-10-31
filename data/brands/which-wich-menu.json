@@ -1,0 +1,230 @@
+{
+  "slug": "which-wich-menu",
+  "brand": "Which Wich",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/which-wich-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/3038243/pexels-photo-3038243.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Which Wich style sandwich sliced on a plate",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-3038243",
+    "_verify_note": "Tentative hero (sliced sandwich). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+  "seo": {
+    "meta_title": "Which Wich Menu With Prices (2026)",
+    "meta_description": "Full Which Wich menu with prices for 2026: the Wicked, Thank You Turkey and other customizable wiches by size, bowlwiches, wraps, shakes and sides.",
+    "h1": "Which Wich Menu With Prices (2026)",
+    "primary_keyword": "which wich menu with prices",
+    "keyword_volume": 4400,
+    "keyword_kd": 1
+  },
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate (some from a delivery menu, which runs higher than in-store), are provided as a guide only, and vary by location and size. Which Wich sandwiches come in three sizes (7-inch, 10.5-inch, 14-inch). Calories are not reproduced here and are left blank rather than guessed, since sandwiches are customizable. Last updated October 2026.",
+  "intro": "Which Wich is the customizable sandwich chain famous for its ordering system: you grab a paper bag, mark your toppings with a Sharpie, and the kitchen builds your 'wich' to order. The menu is organized by category (turkey, Italian, classics, veggie and more), led by the loaded Wicked. Sandwiches come in three sizes and can be made into a bowlwich or a wrap. Below is the full Which Wich menu with prices for 2026.",
+  "quick_answer": "At Which Wich, the loaded Wicked is about $13.20 and the Thank You Turkey about $11.10 (delivery-menu prices; in-store is often lower). Sandwiches come in 7-inch, 10.5-inch and 14-inch sizes, so the price rises with size. Fries are $5.10 and a cookie $2.70. The mark-your-bag ordering and the Wicked are the signatures. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Mark the bag",
+      "label": "the Sharpie ordering system"
+    },
+    {
+      "strong": "The Wicked",
+      "label": "the loaded five-meat wich"
+    },
+    {
+      "strong": "3 sizes",
+      "label": "7\", 10.5\" and 14\""
+    },
+    {
+      "strong": "Bowlwich",
+      "label": "any wich in a bowl"
+    }
+  ],
+  "hot_deal": "Which Wich value: the smallest 7-inch size and the classic single-meat wiches are the cheapest way in, and a cookie ($2.70) is the classic add-on. The app and Which Wich rewards drop a birthday reward and deals. In-store prices run lower than the delivery menu, so order in-store or for pickup to save. Prices vary by location.",
+  "menu": [
+    {
+      "category": "Signature Wiches",
+      "intro": "Customizable sandwiches, built your way. Three sizes (7\", 10.5\", 14\").",
+      "items": [
+        {
+          "name": "The Wicked",
+          "size": "10.5\"",
+          "price": "$13.20",
+          "calories": "",
+          "desc": "Five meats, three cheeses and the works, the loaded signature (medium 10.5-inch, about; delivery-menu price)"
+        },
+        {
+          "name": "Thank You Turkey",
+          "size": "10.5\"",
+          "price": "$11.10",
+          "calories": "",
+          "desc": "The classic turkey wich (medium 10.5-inch, about; delivery-menu price)"
+        },
+        {
+          "name": "Classic Italian",
+          "size": "7\" / 10.5\" / 14\"",
+          "price": "by size",
+          "calories": "",
+          "desc": "Salami, ham, capicola and provolone (price rises with size)"
+        },
+        {
+          "name": "BBMF (Buffalo Chicken)",
+          "size": "7\" / 10.5\" / 14\"",
+          "price": "by size",
+          "calories": "",
+          "desc": "The buffalo chicken wich (price rises with size)"
+        }
+      ]
+    },
+    {
+      "category": "Build Your Own",
+      "intro": "Pick a category, mark your bag, build any wich.",
+      "items": [
+        {
+          "name": "Turkey Wich",
+          "size": "7\" / 10.5\" / 14\"",
+          "price": "by size",
+          "calories": "",
+          "desc": "Build your own turkey wich"
+        },
+        {
+          "name": "Veggie Wich",
+          "size": "7\" / 10.5\" / 14\"",
+          "price": "by size",
+          "calories": "",
+          "desc": "Build your own veggie wich"
+        },
+        {
+          "name": "Bowlwich",
+          "size": "",
+          "price": "by size",
+          "calories": "",
+          "desc": "Any wich served in a bowl instead of bread"
+        },
+        {
+          "name": "Lettuce Wrap Wich",
+          "size": "",
+          "price": "by size",
+          "calories": "",
+          "desc": "Any wich wrapped in lettuce"
+        }
+      ]
+    },
+    {
+      "category": "Sides & Sweets",
+      "intro": "Fries, chips, cookies and shakes.",
+      "items": [
+        {
+          "name": "Fries",
+          "size": "",
+          "price": "$5.10",
+          "calories": "",
+          "desc": "A side of fries"
+        },
+        {
+          "name": "Chips",
+          "size": "",
+          "price": "$2.70",
+          "calories": "",
+          "desc": "A bag of chips"
+        },
+        {
+          "name": "Courtney's Cookie",
+          "size": "",
+          "price": "$2.70",
+          "calories": "",
+          "desc": "The signature chocolate chip cookie"
+        },
+        {
+          "name": "Hand-Dipped Milkshake",
+          "size": "",
+          "price": "Varies",
+          "calories": "",
+          "desc": "A hand-dipped shake (priced at the restaurant)"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Custom Wiches at Home",
+    "intro": "Want build-your-own sandwiches at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🥖",
+        "name": "Sub Rolls",
+        "blurb": "For a classic wich.",
+        "amazon_search": "hoagie sub rolls"
+      },
+      {
+        "icon": "🥩",
+        "name": "Deli Meat Variety",
+        "blurb": "For a loaded Wicked.",
+        "amazon_search": "deli meat variety pack"
+      },
+      {
+        "icon": "🧀",
+        "name": "Sliced Cheeses",
+        "blurb": "Provolone, cheddar and more.",
+        "amazon_search": "sliced cheese variety"
+      },
+      {
+        "icon": "🍪",
+        "name": "Cookie Dough",
+        "blurb": "For a Courtney's-style cookie.",
+        "amazon_search": "chocolate chip cookie dough"
+      }
+    ]
+  },
+  "popular_items": [
+    "The Wicked",
+    "Thank You Turkey",
+    "Classic Italian",
+    "Buffalo Chicken Wich",
+    "Courtney's Cookie"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a sandwich at Which Wich?",
+      "a": "The loaded Wicked is about $13.20 and the Thank You Turkey about $11.10 on the delivery menu (in-store is often lower). Sandwiches come in 7-inch, 10.5-inch and 14-inch sizes, so the price rises with size. Fries are $5.10. Prices vary by location."
+    },
+    {
+      "q": "How does ordering at Which Wich work?",
+      "a": "Which Wich is known for its ordering system: you grab a pre-printed paper bag for the sandwich category you want, use a Sharpie to mark your bread, meats, cheeses and toppings, and drop it in the bin. The kitchen builds your 'wich' exactly as marked."
+    },
+    {
+      "q": "What is the Wicked at Which Wich?",
+      "a": "The Wicked is Which Wich's loaded signature: five meats (ham, turkey, roast beef, bacon and more) with three cheeses and all the toppings. It is the heftiest, most popular wich, about $13.20 for a medium. Prices vary by location."
+    },
+    {
+      "q": "Does Which Wich list calories?",
+      "a": "Which Wich sandwiches are fully customizable, so calories vary a lot and are not reproduced here rather than guessed. The chain publishes some nutrition and a build-your-own nutrition tool online for exact figures."
+    },
+    {
+      "q": "What are the most popular items at Which Wich?",
+      "a": "Favorites include the Wicked, the Thank You Turkey, the Classic Italian, the buffalo chicken wich, and Courtney's Cookie."
+    }
+  ],
+  "internal_links": [
+    "jimmy-johns-menu",
+    "jersey-mikes-menu",
+    "subway-menu",
+    "togos-menu",
+    "quiznos-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Which Wich."
+  },
+  "_data_notes": {
+    "price_source": "Prices from a Which Wich delivery menu (runs higher than in-store), noted in the disclaimer. Only a couple of exact prices were available (Wicked ~$13.20, Thank You Turkey ~$11.10, fries $5.10, cookie $2.70); other wiches marked 'by size' since prices scale with the 7/10.5/14-inch sizes rather than guessed.",
+    "calories": "Deliberately left blank. Sandwiches are fully customizable; none reproduced rather than guessed. Disclaimer and FAQ note this. Never invent a calorie number. On import, 1 blank price(s) became 'Varies', because the site does not accept an empty price. On import, prices the site does not accept were changed: 'about $13.20 (med)' with size '7\" / 10.5\" / 14\"' -> '$13.20' with size '10.5\"' (The Wicked), so the one price is not shown against all three sizes; 'about $11.10 (med)' with size '7\" / 10.5\" / 14\"' -> '$11.10' with size '10.5\"' (Thank You Turkey), so the one price is not shown against all three sizes.",
+    "accuracy": "Prices are typical/approximate (delivery-level, in-store often lower) and vary by location and size. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels sliced sandwich (pexels-3038243). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the other sub/deli heroes.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (sandwich chain, alongside Jimmy John's, Togo's, Quiznos). #108 of the expansion list.",
+    "keyword_notes": "High-ish brand interest (4.4k). Sections and FAQ shaped by real Which Wich search demand: sandwich price, the mark-the-bag ordering, the Wicked, calories question, popular items. 'By size' used honestly where exact size prices were not available."
+  }
+}
