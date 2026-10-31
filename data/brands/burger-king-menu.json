@@ -1,0 +1,172 @@
+{
+  "slug": "burger-king-menu",
+  "brand": "Burger King",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/burger-king-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/9842225/pexels-photo-9842225.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Burger King Whopper style flame-grilled cheeseburger with lettuce, tomato and onion on a sesame bun",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-9842225"
+  },
+
+  "seo": {
+    "meta_title": "Burger King Menu With Prices & Calories (2026)",
+    "meta_description": "Full Burger King menu with prices and calories for 2026: the Whopper, Whopper Jr, Bacon King, chicken, nuggets, fries, onion rings and breakfast.",
+    "h1": "Burger King Menu With Prices (2026)",
+    "primary_keyword": "burger king menu with prices",
+    "keyword_volume": 5200,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "Burger King is home of the Whopper, the flame-grilled quarter-pound burger that is the brand's signature. Add the Whopper Jr, the loaded Bacon King, chicken fries, onion rings and the Croissan'wich at breakfast, and it's a flame-grilled alternative to the fried competition. Below is the full Burger King menu with prices and calories for 2026.",
+
+  "quick_answer": "The Burger King Whopper is about $8.99, the Whopper Jr is $5.69, and the Bacon King is $11.59. An Original Chicken Sandwich is $8.69, 8-piece nuggets run a few dollars, and medium fries are $3.49. The 2 for $6 mix-and-match deal is the value pick. Burgers are flame-grilled.",
+
+  "highlights": [
+    { "strong": "$8.99", "label": "the flame-grilled Whopper" },
+    { "strong": "Flame-grilled", "label": "burgers, not fried" },
+    { "strong": "2 for $6", "label": "mix & match deal" },
+    { "strong": "$5.69", "label": "Whopper Jr" }
+  ],
+
+  "hot_deal": "Burger King value: the 2 for $6 (and sometimes 2 for $5) mix-and-match deal lets you pick two from the Whopper Jr, Original Chicken Sandwich and more, and the app is loaded with coupons and free-item offers. The Whopper Jr ($5.69) is the cheapest way to get the flame-grilled taste. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Whoppers",
+      "intro": "The flame-grilled signature, from Jr to the Bacon King.",
+      "items": [
+        { "name": "Whopper", "size": "", "price": "$8.99", "calories": "670", "desc": "Flame-grilled beef with lettuce, tomato, onion, pickles and mayo" },
+        { "name": "Whopper Jr.", "size": "", "price": "$5.69", "calories": "330", "desc": "A smaller flame-grilled Whopper" },
+        { "name": "Double Whopper", "size": "", "price": "$10.29", "calories": "", "desc": "Two flame-grilled patties with Whopper toppings" },
+        { "name": "Triple Whopper", "size": "", "price": "$11.29", "calories": "", "desc": "Three flame-grilled patties" },
+        { "name": "Bacon King", "size": "", "price": "$11.59", "calories": "", "desc": "Two patties with bacon, cheese and sauces" }
+      ]
+    },
+    {
+      "category": "Burgers",
+      "intro": "Classic cheeseburgers at value prices.",
+      "items": [
+        { "name": "Cheeseburger", "size": "", "price": "$3.19", "calories": "", "desc": "A single flame-grilled patty with cheese" },
+        { "name": "Double Cheeseburger", "size": "", "price": "$4.49", "calories": "400", "desc": "Two patties with American cheese" },
+        { "name": "Bacon Cheeseburger", "size": "", "price": "$3.89", "calories": "", "desc": "Cheeseburger with bacon" }
+      ]
+    },
+    {
+      "category": "Chicken",
+      "intro": "Crispy sandwiches, chicken fries and nuggets.",
+      "items": [
+        { "name": "Original Chicken Sandwich", "size": "", "price": "$8.69", "calories": "680", "desc": "A long crispy chicken fillet with lettuce and mayo" },
+        { "name": "Spicy Royal Crispy Chicken", "size": "", "price": "$8.99", "calories": "", "desc": "Spicy crispy chicken fillet with toppings" },
+        { "name": "Chicken Fries (9 pc)", "size": "9 pieces", "price": "$3.99", "calories": "", "desc": "Fry-shaped breaded chicken (8 pc is about 220 cal)" },
+        { "name": "Chicken Nuggets (10 pc)", "size": "10 pieces", "price": "$4.99", "calories": "", "desc": "Breaded chicken nuggets (8 pc is about 390 cal)" }
+      ]
+    },
+    {
+      "category": "Fries & Sides",
+      "intro": "The fries, onion rings and mozzarella sticks.",
+      "items": [
+        { "name": "French Fries (Medium)", "size": "medium", "price": "$3.49", "calories": "370", "desc": "Classic salted fries" },
+        { "name": "Onion Rings (Medium)", "size": "medium", "price": "$3.49", "calories": "360", "desc": "Battered onion rings" },
+        { "name": "Mozzarella Sticks (4 pc)", "size": "4 pieces", "price": "$2.99", "calories": "", "desc": "Fried mozzarella sticks with marinara" }
+      ]
+    },
+    {
+      "category": "Value Menu (2 for $6)",
+      "intro": "Mix-and-match value picks.",
+      "items": [
+        { "name": "Chicken Jr.", "size": "", "price": "$2.99", "calories": "", "desc": "A small crispy chicken sandwich" },
+        { "name": "Big Fish Sandwich", "size": "", "price": "$4.79", "calories": "", "desc": "Breaded fish fillet with tartar sauce" },
+        { "name": "Bacon Cheeseburger (Value)", "size": "", "price": "$3.89", "calories": "", "desc": "A value bacon cheeseburger" }
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "intro": "The Croissan'wich and French Toast Sticks, served in the morning.",
+      "items": [
+        { "name": "Sausage, Egg & Cheese Croissan'wich", "size": "", "price": "$5.19", "calories": "552", "desc": "Sausage, egg and cheese on a croissant" },
+        { "name": "Egg & Cheese Croissan'wich", "size": "", "price": "$4.29", "calories": "", "desc": "Egg and cheese on a croissant" },
+        { "name": "French Toast Sticks (5 pc)", "size": "5 pieces", "price": "$1.99", "calories": "520", "desc": "Five French toast sticks with syrup" },
+        { "name": "Hash Browns (Small)", "size": "small", "price": "$3.49", "calories": "", "desc": "Crispy hash brown bites" }
+      ]
+    },
+    {
+      "category": "Desserts & Drinks",
+      "intro": "Sweet finishes and drinks.",
+      "items": [
+        { "name": "Hershey's Sundae Pie", "size": "", "price": "$2.49", "calories": "", "desc": "Chocolate cream pie slice" },
+        { "name": "Soft Serve Cone", "size": "", "price": "$1.00", "calories": "", "desc": "Vanilla soft serve cone" },
+        { "name": "Oreo Shake", "size": "", "price": "$4.49", "calories": "", "desc": "Milkshake blended with Oreo" },
+        { "name": "Coca-Cola (Medium)", "size": "medium", "price": "$3.19", "calories": "", "desc": "Coca-Cola fountain drinks" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Burger King at Home",
+    "intro": "Want the flame-grilled Whopper taste at home? These picks help.",
+    "cards": [
+      { "icon": "🔥", "name": "Stovetop Grill Pan", "blurb": "Get flame-grilled-style char marks at home.", "amazon_search": "cast iron grill pan" },
+      { "icon": "🍔", "name": "Sesame Burger Buns", "blurb": "The classic Whopper-style bun.", "amazon_search": "sesame hamburger buns" },
+      { "icon": "🧅", "name": "Onion Ring Batter", "blurb": "For BK-style battered onion rings.", "amazon_search": "onion ring batter mix" },
+      { "icon": "📖", "name": "Copycat Fast Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Whopper",
+    "Whopper Jr.",
+    "Chicken Fries",
+    "Onion Rings",
+    "Bacon King"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a Whopper at Burger King?",
+      "a": "The Whopper is about $8.99 on its own, more as a meal with fries and a drink. The smaller Whopper Jr is around $5.69. The Whopper is roughly 670 calories."
+    },
+    {
+      "q": "Why are Burger King burgers flame-grilled?",
+      "a": "Burger King cooks its beef patties over an open flame rather than on a flat griddle, which gives the Whopper its signature char marks and smoky, grilled taste. It has been the brand's main point of difference for decades."
+    },
+    {
+      "q": "What is the 2 for $6 deal at Burger King?",
+      "a": "The 2 for $6 (sometimes 2 for $5) is a mix-and-match deal where you pick two items from a rotating list, often including the Whopper Jr, Original Chicken Sandwich and more. The best deals are in the BK app."
+    },
+    {
+      "q": "How many calories are in a Whopper?",
+      "a": "A Whopper is about 670 calories. The Whopper Jr is around 330, and adding medium fries (about 370) brings a Whopper meal to roughly 1,200 calories."
+    },
+    {
+      "q": "What are the most popular items at Burger King?",
+      "a": "The best known are the Whopper, the Whopper Jr, Chicken Fries, the onion rings, and the loaded Bacon King."
+    }
+  ],
+
+  "internal_links": [
+    "mcdonalds-menu",
+    "wendys-menu",
+    "five-guys-menu",
+    "jack-in-the-box-menu",
+    "culvers-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Burger King."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from a Burger King nutrition source (USDA-sourced).",
+    "calories": "Shown where a reliable single figure exists; several burgers, chicken and drinks are left blank, with chicken fries/nuggets per-count notes in the description. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels Whopper-style cheeseburger image (pexels-9842225), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Burger King search demand: Whopper price, flame-grilled, 2 for $6 deal, Whopper calories, popular items."
+  }
+}
