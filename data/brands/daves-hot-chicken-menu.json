@@ -1,0 +1,147 @@
+{
+  "slug": "daves-hot-chicken-menu",
+  "brand": "Dave's Hot Chicken",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/daves-hot-chicken-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/29653191/pexels-photo-29653191.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Dave's Hot Chicken style crispy chicken tenders with dipping sauce",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-29653191",
+    "_verify_note": "Tentative hero (crispy chicken tenders). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Dave's Hot Chicken Menu With Prices & Calories (2026)",
+    "meta_description": "Full Dave's Hot Chicken menu with prices and calories for 2026: Nashville hot tenders and sliders, 7 spice levels, mac and cheese, kale slaw, fries and shakes.",
+    "h1": "Dave's Hot Chicken Menu With Prices (2026)",
+    "primary_keyword": "daves hot chicken menu with prices",
+    "keyword_volume": 3200,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Calories change with spice level. Last updated October 2026.",
+
+  "intro": "Dave's Hot Chicken is the fast-growing Nashville hot chicken chain built on a tiny menu done well: crispy chicken tenders and sliders served at seven spice levels, from No Spice all the way to the waiver-required Reaper. Combos pair the chicken with crinkle fries, and the sides are mac and cheese and kale slaw, finished with a shake. Below is the full Dave's Hot Chicken menu with prices and calories for 2026.",
+
+  "quick_answer": "A combo at Dave's Hot Chicken (tenders or sliders with fries) is about $10.99 to $11.99. A la carte, tenders are $4.79 for one, sliders $4.79, mac and cheese is $3.59, and a shake is about $6.99. Pick a spice level from No Spice to Reaper. The tenders and sliders are the whole menu. A tender is about 490 to 550 calories.",
+
+  "highlights": [
+    { "strong": "7 spice levels", "label": "No Spice to Reaper" },
+    { "strong": "Reaper", "label": "requires a signed waiver" },
+    { "strong": "Tiny menu", "label": "just tenders and sliders" },
+    { "strong": "$10.99", "label": "a combo with fries" }
+  ],
+
+  "hot_deal": "Dave's Hot Chicken value: the combos (tenders or sliders with fries, about $10.99) are the standard order and the best value, since the whole menu is small. A single tender ($4.79) plus fries is the budget route. The app runs occasional free-tender and free-slider offers. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Combos (with Fries)",
+      "intro": "The numbered combos, each with crinkle fries. Pick a spice level from No Spice to Reaper.",
+      "items": [
+        { "name": "2 Tenders + Fries", "size": "", "price": "$10.99", "calories": "1230", "desc": "Two tenders with fries (about 1,230 cal mild, more at higher spice)" },
+        { "name": "2 Sliders + Fries", "size": "", "price": "$10.99", "calories": "", "desc": "Two sliders with fries" },
+        { "name": "3 Tenders + Fries", "size": "", "price": "$11.99", "calories": "", "desc": "Three tenders with fries" },
+        { "name": "1 Slider + Fries", "size": "", "price": "$8.99", "calories": "", "desc": "A single slider with fries, the smaller combo" }
+      ]
+    },
+    {
+      "category": "Tenders & Sliders (A La Carte)",
+      "intro": "By the piece, so you can build your own. A tender is about 490 to 550 cal, a slider 620 to 680.",
+      "items": [
+        { "name": "1 Tender", "size": "1 piece", "price": "$4.79", "calories": "490", "desc": "One crispy chicken tender (490 cal mild, 550 at higher spice)" },
+        { "name": "2 Tenders", "size": "2 pieces", "price": "$6.79", "calories": "", "desc": "Two crispy chicken tenders" },
+        { "name": "3 Tenders", "size": "3 pieces", "price": "$8.79", "calories": "", "desc": "Three crispy chicken tenders" },
+        { "name": "1 Slider", "size": "1 piece", "price": "$4.79", "calories": "620", "desc": "Chicken slider with slaw and Dave's Sauce (620 cal mild)" },
+        { "name": "2 Sliders", "size": "2 pieces", "price": "$6.79", "calories": "", "desc": "Two chicken sliders" }
+      ]
+    },
+    {
+      "category": "Sides",
+      "intro": "The short side menu: fries, mac and cheese, kale slaw.",
+      "items": [
+        { "name": "French Fries", "size": "", "price": "$3.59", "calories": "440", "desc": "Crinkle-cut fries" },
+        { "name": "Cheese Fries", "size": "", "price": "$4.79", "calories": "450", "desc": "Fries topped with cheese sauce" },
+        { "name": "Mac & Cheese", "size": "", "price": "$3.59", "calories": "290", "desc": "Creamy mac and cheese" },
+        { "name": "Kale Slaw", "size": "", "price": "$2.99", "calories": "270", "desc": "Fresh kale slaw, a cooling side" }
+      ]
+    },
+    {
+      "category": "Shakes & Drinks",
+      "intro": "Shakes to cool the heat, plus drinks.",
+      "items": [
+        { "name": "Shake (Vanilla / Chocolate / Strawberry)", "size": "regular", "price": "$6.99", "calories": "", "desc": "Hand-spun shake (small $5.99)" },
+        { "name": "Top-Loaded Shake (Oreo / Fruity Pebbles)", "size": "", "price": "$6.99", "calories": "", "desc": "Shake topped with cereal or cookies" },
+        { "name": "Soft Drink (20 oz)", "size": "20 oz", "price": "$2.99", "calories": "", "desc": "Fountain soft drinks" },
+        { "name": "Lemonade or Sweet Tea", "size": "", "price": "$2.99", "calories": "", "desc": "Lemonade or sweet tea" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Hot Chicken at Home",
+    "intro": "Want Nashville hot tenders at home? These picks help.",
+    "cards": [
+      { "icon": "🌶️", "name": "Cayenne & Hot Chicken Spice", "blurb": "For Nashville hot chicken heat.", "amazon_search": "nashville hot chicken seasoning cayenne" },
+      { "icon": "🍗", "name": "Chicken Tenders", "blurb": "The base for homemade tenders.", "amazon_search": "chicken tenders breast strips" },
+      { "icon": "🫓", "name": "White Bread & Pickles", "blurb": "The classic hot chicken plate.", "amazon_search": "dill pickle chips" },
+      { "icon": "📖", "name": "Copycat Hot Chicken Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "2 Tenders Combo",
+    "Slider",
+    "Cheese Fries",
+    "Mac & Cheese",
+    "Kale Slaw"
+  ],
+
+  "faqs": [
+    {
+      "q": "What are the spice levels at Dave's Hot Chicken?",
+      "a": "There are seven, in order: No Spice, Lite Mild, Mild, Medium, Hot, Extra Hot, and Reaper. Reaper is extremely hot and requires signing a waiver. Medium is the most popular level for first-timers who want flavor without too much heat."
+    },
+    {
+      "q": "How much is a meal at Dave's Hot Chicken?",
+      "a": "A combo of tenders or sliders with fries is about $10.99 to $11.99. A la carte, a single tender or slider is $4.79, mac and cheese is $3.59, and a shake is about $6.99. The menu is small, so there is not much to decide beyond spice level."
+    },
+    {
+      "q": "What is the difference between a tender and a slider?",
+      "a": "A tender is a piece of crispy fried chicken on its own, dusted with your chosen spice level. A slider is that chicken on a small bun with kale slaw, pickles and Dave's Sauce. Combos mix and match them with fries."
+    },
+    {
+      "q": "How many calories are at Dave's Hot Chicken?",
+      "a": "A tender is about 490 to 550 calories depending on spice, and a slider about 620 to 680. A 2-tender combo with fries runs roughly 1,230 to 1,350. The mac and cheese and kale slaw are lighter sides at under 300 each."
+    },
+    {
+      "q": "What are the most popular items at Dave's Hot Chicken?",
+      "a": "The best known are the tender combos, the sliders, the cheese fries, the mac and cheese, and the kale slaw, all ordered at your chosen spice level."
+    }
+  ],
+
+  "internal_links": [
+    "bojangles-menu",
+    "popeyes-menu",
+    "wingstop-menu",
+    "raising-canes-menu",
+    "zaxbys-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Dave's Hot Chicken."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication. Combos presented descriptively (tenders/sliders with fries) rather than by Dave's internal #1 to #4 numbering, since the numbering was not reliably confirmed. Prices vary by location.",
+    "calories": "Calories from a Dave's Hot Chicken nutrition source. Calories rise with spice level, noted inline. Shown where a reliable figure exists; several counts left blank rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location, portion and spice level. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels crispy chicken tenders (pexels-29653191). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Chicken & Fast Food' category. KFC and Buffalo Wild Wings can follow.",
+    "keyword_notes": "Sections and FAQ shaped by real Dave's Hot Chicken search demand: spice levels, meal price, tender vs slider, calories, popular items."
+  }
+}

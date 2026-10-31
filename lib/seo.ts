@@ -76,7 +76,10 @@ export function itemLabel(name: string, size: string): string {
   const sizeInName = loose
     ? new RegExp(`(^|[^a-z0-9])${escapeRe(normalizeSize(size))}($|[^a-z0-9])`).test(normalizeSize(name))
     : (name.match(/\([^)]*\)/g) ?? []).some((group) => new RegExp(`\\b${escapeRe(size.toLowerCase())}\\b`).test(group.toLowerCase()));
-  const alreadyNamed = countInName || numberAndUnitInName || sizeInName;
+  // "2 Tenders" already gives the count in "2 pieces": a name that starts with the count needs no generic piece unit.
+  const leadingCount =
+    countAndUnit !== null && /^(pieces?|pcs?|ct|count)$/i.test(countAndUnit[2]) && new RegExp(`^${countAndUnit[1]}\\s`).test(name);
+  const alreadyNamed = countInName || numberAndUnitInName || sizeInName || leadingCount;
   return alreadyNamed ? name : `${name} (${size})`;
 }
 
