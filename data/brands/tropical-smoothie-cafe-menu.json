@@ -1,0 +1,148 @@
+{
+  "slug": "tropical-smoothie-cafe-menu",
+  "brand": "Tropical Smoothie Cafe",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/tropical-smoothie-cafe-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/9024681/pexels-photo-9024681.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Tropical Smoothie Cafe style colorful fruit smoothie in a clear cup",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-9024681",
+    "_verify_note": "Tentative hero (colorful fruit smoothie). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Tropical Smoothie Cafe Menu With Prices & Calories (2026)",
+    "meta_description": "Full Tropical Smoothie Cafe menu with prices and calories for 2026: Bahama Mama, Island Green and Acai smoothies, wraps, flatbreads, sandwiches and bowls.",
+    "h1": "Tropical Smoothie Cafe Menu With Prices (2026)",
+    "primary_keyword": "tropical smoothie cafe menu with prices",
+    "keyword_volume": 3000,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location. Smoothie prices are for a 24 oz. Last updated October 2026.",
+
+  "intro": "Tropical Smoothie Cafe is the smoothie-and-food chain that pairs fruit and veggie smoothies like the Bahama Mama and Detox Island Green with a full menu of toasted wraps, flatbreads, sandwiches and bowls. It markets itself as better-for-you fast casual, with the smoothies as the star. Below is the full Tropical Smoothie Cafe menu with prices and calories for 2026.",
+
+  "quick_answer": "A 24 oz Bahama Mama smoothie at Tropical Smoothie Cafe is about $5.49, and the Detox Island Green is $5.99. Wraps like the Buffalo Chicken are $7.49, flatbreads are about $4.99, and toasted sandwiches are $7.99. The Bahama Mama and the Detox Island Green are the signatures. A Bahama Mama is about 410 calories.",
+
+  "highlights": [
+    { "strong": "Bahama Mama", "label": "the signature smoothie" },
+    { "strong": "Detox Island Green", "label": "the veggie smoothie, 180 cal" },
+    { "strong": "Wraps & flatbreads", "label": "a full food menu too" },
+    { "strong": "Better-for-you", "label": "fast casual" }
+  ],
+
+  "hot_deal": "Tropical Smoothie Cafe value: the app and TSC Rewards drop regular smoothie deals, a birthday reward and 'Flip Flop Days' $5 smoothie promotions. Pairing a smoothie with a wrap or flatbread makes a full meal, and kids smoothies are $3.99. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Smoothies (24 oz)",
+      "intro": "The fruit and veggie smoothies the cafe is built on.",
+      "items": [
+        { "name": "Bahama Mama", "size": "24 oz", "price": "$5.49", "calories": "410", "desc": "Strawberry, pineapple, white chocolate and coconut, the signature" },
+        { "name": "Detox Island Green", "size": "24 oz", "price": "$5.99", "calories": "180", "desc": "Spinach, kale, mango, pineapple, banana and ginger, the lightest" },
+        { "name": "Island Green", "size": "24 oz", "price": "$5.99", "calories": "", "desc": "The greens smoothie with a sweeter blend" },
+        { "name": "Acai Berry Boost", "size": "24 oz", "price": "$5.99", "calories": "", "desc": "Acai, strawberry, blueberry and banana" },
+        { "name": "Sunrise Sunset", "size": "24 oz", "price": "$4.99", "calories": "", "desc": "Strawberry, banana, pineapple and orange juice" },
+        { "name": "Peanut Butter Banana Crunch", "size": "24 oz", "price": "$5.99", "calories": "590", "desc": "Peanut butter, banana and chocolate, a filling blend" }
+      ]
+    },
+    {
+      "category": "Wraps & Flatbreads",
+      "intro": "Toasted wraps and flatbreads to go with a smoothie.",
+      "items": [
+        { "name": "Buffalo Chicken Wrap", "size": "", "price": "$7.49", "calories": "", "desc": "Crispy chicken with buffalo sauce, lettuce and ranch" },
+        { "name": "Jamaican Jerk Chicken Wrap", "size": "", "price": "$7.49", "calories": "", "desc": "Jerk chicken with pineapple and a spicy mayo" },
+        { "name": "Baja Chicken Flatbread", "size": "", "price": "$4.99", "calories": "", "desc": "Chicken flatbread with a Southwest flavor" },
+        { "name": "Chipotle Chicken Club Flatbread", "size": "", "price": "$4.99", "calories": "", "desc": "Chicken, bacon and chipotle on flatbread" }
+      ]
+    },
+    {
+      "category": "Sandwiches & Bowls",
+      "intro": "Toasted sandwiches served with a side, plus the acai bowl.",
+      "items": [
+        { "name": "Ultimate Club Sandwich", "size": "", "price": "$7.99", "calories": "", "desc": "Turkey, ham, bacon and cheese, toasted, with a side" },
+        { "name": "Turkey Bacon Ranch Sandwich", "size": "", "price": "$7.99", "calories": "", "desc": "Turkey, bacon, cheese and ranch (chicken bacon ranch wrap about 630 cal)" },
+        { "name": "Cranberry Pecan Chicken Salad Sandwich", "size": "", "price": "$7.99", "calories": "", "desc": "Chicken salad with cranberries and pecans" },
+        { "name": "Acai Bowl", "size": "", "price": "$8.49", "calories": "510", "desc": "Acai blend topped with granola, fruit and honey" }
+      ]
+    },
+    {
+      "category": "Kids & Extras",
+      "intro": "Kids smoothies, wraps and quesadillas.",
+      "items": [
+        { "name": "Kids Smoothie (12 oz)", "size": "12 oz", "price": "$3.99", "calories": "", "desc": "A smaller fruit smoothie for kids" },
+        { "name": "Kids Cheese Quesadilla", "size": "", "price": "$3.99", "calories": "", "desc": "A cheese quesadilla (with chicken $4.99)" },
+        { "name": "Kids Turkey & Cheddar Wrap", "size": "", "price": "$3.99", "calories": "", "desc": "A simple turkey and cheddar wrap" },
+        { "name": "Kids Combo", "size": "", "price": "$5.99", "calories": "", "desc": "A kids food item with a side and a 12 oz smoothie" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Smoothies at Home",
+    "intro": "Want tropical smoothies at home? These picks help.",
+    "cards": [
+      { "icon": "🥤", "name": "High-Power Blender", "blurb": "For thick, smooth smoothies.", "amazon_search": "high power blender smoothie" },
+      { "icon": "🍓", "name": "Frozen Fruit Mix", "blurb": "Strawberry, mango, pineapple and more.", "amazon_search": "frozen fruit smoothie mix" },
+      { "icon": "🥬", "name": "Acai & Greens Packets", "blurb": "For Detox Island Green and acai bowls.", "amazon_search": "acai packets frozen" },
+      { "icon": "🥥", "name": "Coconut & Protein Add-Ins", "blurb": "For the signature blends.", "amazon_search": "smoothie protein powder" }
+    ]
+  },
+
+  "popular_items": [
+    "Bahama Mama",
+    "Detox Island Green",
+    "Acai Berry Boost",
+    "Buffalo Chicken Wrap",
+    "Chipotle Chicken Club Flatbread"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is the most popular smoothie at Tropical Smoothie Cafe?",
+      "a": "The Bahama Mama is the signature and best-selling smoothie, a blend of strawberry, pineapple, white chocolate and coconut. A 24 oz is about $5.49 and 410 calories. The Detox Island Green is the most popular lighter option at 180."
+    },
+    {
+      "q": "How much is a smoothie at Tropical Smoothie Cafe?",
+      "a": "A 24 oz smoothie is about $4.99 to $5.99 depending on the blend, with the Bahama Mama at $5.49. Kids 12 oz smoothies are $3.99. App deals and 'Flip Flop Days' often drop smoothies to about $5."
+    },
+    {
+      "q": "Does Tropical Smoothie Cafe have food?",
+      "a": "Yes. Beyond smoothies it has a full menu of toasted wraps, flatbreads, sandwiches and the acai bowl, most around $5 to $8. Pairing a smoothie with a wrap or flatbread is the typical full meal."
+    },
+    {
+      "q": "What is the lowest-calorie smoothie at Tropical Smoothie Cafe?",
+      "a": "The Detox Island Green is the lightest at about 180 calories for a 24 oz, made with spinach, kale, mango, pineapple, banana and ginger. Fruit-and-indulgent blends like the Peanut Butter Banana Crunch run much higher at around 590."
+    },
+    {
+      "q": "What are the most popular items at Tropical Smoothie Cafe?",
+      "a": "The best known are the Bahama Mama, the Detox Island Green, the Acai Berry Boost, the Buffalo Chicken Wrap, and the Chipotle Chicken Club Flatbread."
+    }
+  ],
+
+  "internal_links": [
+    "starbucks-menu",
+    "dunkin-menu",
+    "dutch-bros-menu",
+    "panera-menu",
+    "subway-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Tropical Smoothie Cafe."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (24 oz smoothies; estimates to confirm locally). May vary by location.",
+    "calories": "Calories from a Tropical Smoothie Cafe nutrition source. Shown where a reliable figure exists; several smoothies and foods left blank rather than guessing. Turkey Bacon Ranch Sandwich calorie field cleared on import: 630 is the chicken bacon ranch wrap figure, kept in the description. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels colorful fruit smoothie (pexels-9024681). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Coffee & Drinks' category, since Tropical Smoothie Cafe is smoothie-led. Golden Corral and Hardee's remain to finish the 62-brand list.",
+    "keyword_notes": "Sections and FAQ shaped by real Tropical Smoothie Cafe search demand: most popular smoothie, smoothie price, whether it has food, lowest-calorie smoothie, popular items."
+  }
+}
