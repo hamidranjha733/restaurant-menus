@@ -1,0 +1,168 @@
+{
+  "slug": "cheesecake-factory-menu",
+  "brand": "The Cheesecake Factory",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/cheesecake-factory-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/32083395/pexels-photo-32083395.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Cheesecake Factory style slice of cheesecake topped with strawberries on a cafe table",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-32083395"
+  },
+
+  "seo": {
+    "meta_title": "Cheesecake Factory Menu With Prices & Calories (2026)",
+    "meta_description": "Full Cheesecake Factory menu with prices and calories for 2026: Avocado Eggrolls, Chicken Madeira, Orange Chicken, pasta, burgers and famous cheesecake slices.",
+    "h1": "Cheesecake Factory Menu With Prices (2026)",
+    "primary_keyword": "cheesecake factory menu with prices",
+    "keyword_volume": 6400,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and season. Last updated October 2026.",
+
+  "intro": "The Cheesecake Factory is famous for two things: an enormous menu of 250-plus dishes, from appetizers and pasta to steaks and Tex-Mex, and more than 30 flavors of its legendary cheesecake. Portions are huge and so are the calorie counts. Below is a guide to popular Cheesecake Factory menu items with prices and calories for 2026.",
+
+  "quick_answer": "The Cheesecake Factory has one of the biggest menus in dining, with 250-plus items. Mains like Orange Chicken ($21.95) and Chicken Madeira ($25.95) come in huge portions, appetizers run about $16 to $20, and a slice of the famous cheesecake is $10.50 to $12.50. Portions are large and calorie counts are high.",
+
+  "highlights": [
+    { "strong": "250+", "label": "items on the menu" },
+    { "strong": "30+", "label": "cheesecake flavors" },
+    { "strong": "$10.50", "label": "Original Cheesecake slice" },
+    { "strong": "Huge", "label": "shareable portions" }
+  ],
+
+  "hot_deal": "Cheesecake Factory value tips: portions are big enough to split, and weekday lunch specials offer smaller plates at lower prices. Don't leave without a slice of cheesecake, from the Original ($10.50) to the Oreo Dream Extreme ($11.95). National Cheesecake Day brings half-price slices. Offers vary by location.",
+
+  "menu": [
+    {
+      "category": "Appetizers",
+      "intro": "Famous shareable starters. The Avocado Eggrolls are a must.",
+      "items": [
+        { "name": "Avocado Eggrolls", "size": "", "price": "$17.50", "calories": "1140", "desc": "Avocado, sun-dried tomato and onion in crisp wrappers with tamarind dip" },
+        { "name": "Factory Nachos", "size": "", "price": "$16.95", "calories": "", "desc": "Tortilla chips with cheese, jalapenos, salsa, guacamole and sour cream" },
+        { "name": "Fried Macaroni and Cheese", "size": "", "price": "$17.50", "calories": "", "desc": "Crispy fried mac and cheese bites" },
+        { "name": "Thai Lettuce Wraps with Chicken", "size": "", "price": "$19.95", "calories": "", "desc": "Build-your-own lettuce wraps with grilled chicken and sauces" }
+      ]
+    },
+    {
+      "category": "Pasta",
+      "intro": "Big bowls of pasta, famously high in calories.",
+      "items": [
+        { "name": "Fettuccini Alfredo", "size": "", "price": "$19.95", "calories": "", "desc": "Creamy parmesan alfredo (with chicken it is about 2,300 cal)" },
+        { "name": "Pasta Carbonara", "size": "", "price": "$21.95", "calories": "", "desc": "Spaghetti with bacon, parmesan and cream" },
+        { "name": "Louisiana Chicken Pasta", "size": "", "price": "$23.95", "calories": "", "desc": "Parmesan-crusted chicken over spicy Cajun pasta" }
+      ]
+    },
+    {
+      "category": "Chicken, Steak & Seafood",
+      "intro": "The big entrees. Chicken Madeira is the signature.",
+      "items": [
+        { "name": "Chicken Madeira", "size": "", "price": "$25.95", "calories": "1520", "desc": "Chicken with mushrooms, asparagus and Madeira wine sauce over mashed potatoes" },
+        { "name": "Orange Chicken", "size": "", "price": "$21.95", "calories": "1590", "desc": "Crispy chicken in a sweet-tangy orange sauce" },
+        { "name": "Famous Factory Meatloaf", "size": "", "price": "$22.95", "calories": "", "desc": "Meatloaf with mashed potatoes, gravy and onion strings" },
+        { "name": "Fresh Grilled Salmon", "size": "", "price": "$24.95", "calories": "", "desc": "Grilled salmon with mashed potatoes and veggies" },
+        { "name": "Grilled Rib-Eye Steak", "size": "", "price": "$31.00", "calories": "", "desc": "Grilled rib-eye with mashed potatoes" }
+      ]
+    },
+    {
+      "category": "Burgers & Sandwiches",
+      "intro": "Oversized burgers and sandwiches.",
+      "items": [
+        { "name": "Classic Burger", "size": "", "price": "$17.95", "calories": "", "desc": "Beef burger with lettuce, tomato, onion and pickles" },
+        { "name": "Cuban Sandwich", "size": "", "price": "$17.95", "calories": "", "desc": "Roast pork, ham, Swiss and pickles on grilled bread" }
+      ]
+    },
+    {
+      "category": "SkinnyLicious (Lighter)",
+      "intro": "The lighter menu, each dish under set calorie limits.",
+      "items": [
+        { "name": "SkinnyLicious Caesar Salad", "size": "", "price": "$14.95", "calories": "", "desc": "A lighter take on the Caesar salad" },
+        { "name": "SkinnyLicious Asian Chicken Salad", "size": "", "price": "$16.95", "calories": "", "desc": "Grilled chicken with greens and sesame dressing" }
+      ]
+    },
+    {
+      "category": "Famous Cheesecakes",
+      "intro": "The reason for the name. More than 30 flavors; here are the favorites.",
+      "items": [
+        { "name": "Original Cheesecake (Slice)", "size": "slice", "price": "$10.50", "calories": "830", "desc": "The classic rich, creamy original cheesecake" },
+        { "name": "Oreo Dream Extreme Cheesecake", "size": "slice", "price": "$11.95", "calories": "1230", "desc": "Oreo cookie cheesecake layered with chocolate" },
+        { "name": "Godiva Chocolate Cheesecake", "size": "slice", "price": "$12.50", "calories": "1110", "desc": "Flourless Godiva chocolate cake and chocolate cheesecake" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Soft drinks, coffee and cocktails.",
+      "items": [
+        { "name": "Soft Drinks", "size": "", "price": "$3.95", "calories": "", "desc": "Coca-Cola fountain drinks" },
+        { "name": "Hot Coffee", "size": "", "price": "$3.95", "calories": "", "desc": "Fresh brewed coffee" },
+        { "name": "Margarita", "size": "", "price": "$11.95", "calories": "", "desc": "Classic margarita (21+)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Cheesecake at Home",
+    "intro": "Want to bake the famous cheesecake yourself? These picks help you get it right.",
+    "cards": [
+      { "icon": "🍰", "name": "Springform Pan", "blurb": "The must-have pan for a clean cheesecake.", "amazon_search": "springform cheesecake pan" },
+      { "icon": "🫗", "name": "Hand Mixer", "blurb": "For smooth, lump-free cheesecake batter.", "amazon_search": "electric hand mixer" },
+      { "icon": "🍓", "name": "Cheesecake Toppings", "blurb": "Strawberry, caramel and chocolate sauces.", "amazon_search": "cheesecake topping sauce" },
+      { "icon": "📖", "name": "Cheesecake Cookbook", "blurb": "Recipes for dozens of cheesecake flavors.", "amazon_search": "cheesecake cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Avocado Eggrolls",
+    "Chicken Madeira",
+    "Orange Chicken",
+    "Original Cheesecake",
+    "Louisiana Chicken Pasta"
+  ],
+
+  "faqs": [
+    {
+      "q": "How big is the Cheesecake Factory menu?",
+      "a": "The Cheesecake Factory menu has more than 250 items, from appetizers and pasta to steaks, seafood and Tex-Mex, plus over 30 flavors of cheesecake. It is one of the largest menus of any major chain."
+    },
+    {
+      "q": "How much is a slice of cheesecake at the Cheesecake Factory?",
+      "a": "A slice runs about $10.50 for the Original up to $12.50 for premium flavors like the Godiva Chocolate Cheesecake. On National Cheesecake Day, slices are often half price."
+    },
+    {
+      "q": "What is the most popular dish at the Cheesecake Factory?",
+      "a": "The Chicken Madeira is the signature entree, and the Avocado Eggrolls are the most ordered appetizer. The Original Cheesecake is the best-selling dessert."
+    },
+    {
+      "q": "Does the Cheesecake Factory have lunch specials?",
+      "a": "Yes. On weekdays, the Cheesecake Factory offers smaller lunch portions of many dishes at lower prices, a good way to try the big menu for less."
+    },
+    {
+      "q": "Why are Cheesecake Factory calories so high?",
+      "a": "Portions are very large, so single dishes can run well over 1,500 calories, and some pastas top 2,000. Many diners split entrees or take half home, and the SkinnyLicious menu offers lighter options."
+    }
+  ],
+
+  "internal_links": [
+    "olive-garden-menu",
+    "applebees-menu",
+    "chilis-menu",
+    "texas-roadhouse-menu",
+    "outback-steakhouse-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > The Cheesecake Factory."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from a Cheesecake Factory nutrition source.",
+    "calories": "The menu has 250+ items, so this is a popular-items guide, not the full list. Calories are shown where a reliable single figure exists; the Fettuccini Alfredo note refers to the with-chicken version. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels cheesecake slice image (pexels-32083395), portrait that crops well to a wide hero, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Cheesecake Factory search demand: menu size, cheesecake slice price, most popular dish, lunch specials, high calories."
+  }
+}
