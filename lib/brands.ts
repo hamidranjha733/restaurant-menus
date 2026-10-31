@@ -43,7 +43,7 @@ function validate(b: Brand, file: string): string[] {
     for (const item of section.items ?? []) {
       need(item.name, `an item in "${section.category}" has no name`);
       need(typeof item.size === "string", `"${item.name}" needs a size ("" if none)`);
-      need(parsePrice(item.price ?? ""), `"${item.name}" price "${item.price}" must look like $12.99, $11.85 – $13.55, +$0.75 or a short word like Included`);
+      need(parsePrice(item.price ?? ""), `"${item.name}" price "${item.price}" must look like $12.99, $11.85 – $13.55, $6.99 / $10.49, +$0.75 or a short word like Included`);
       need(!item.calories || CALORIES_RE.test(item.calories), `"${item.name}" calories "${item.calories}" must be digits only, or ""`);
       need(item.desc === undefined || typeof item.desc === "string", `"${item.name}" desc must be text`);
     }
