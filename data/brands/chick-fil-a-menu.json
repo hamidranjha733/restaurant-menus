@@ -1,0 +1,166 @@
+{
+  "slug": "chick-fil-a-menu",
+  "brand": "Chick-fil-A",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/chick-fil-a-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/19998458/pexels-photo-19998458.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Chick-fil-A style golden waffle potato fries with a creamy dipping sauce",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-19998458"
+  },
+
+  "seo": {
+    "meta_title": "Chick-fil-A Menu With Prices & Calories (2026)",
+    "meta_description": "Full Chick-fil-A menu with prices and calories for 2026: chicken sandwiches, nuggets, waffle fries, breakfast, salads, milkshakes and Frosted Lemonade.",
+    "h1": "Chick-fil-A Menu With Prices (2026)",
+    "primary_keyword": "chick fil a menu with prices",
+    "keyword_volume": 5800,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "Chick-fil-A is America's favorite chicken chain, built around one thing done well: the Original Chicken Sandwich, a hand-breaded fillet with two pickles on a buttered bun. Add nuggets, the signature waffle fries, Chick-fil-A Sauce and a Frosted Lemonade, and it's a cult favorite, famous also for being closed on Sundays. Below is the full Chick-fil-A menu with prices and calories for 2026.",
+
+  "quick_answer": "Chick-fil-A's Original Chicken Sandwich is about $5.99, the Deluxe is $7.49 and the Spicy is $6.59. An 8-count of nuggets is $5.95, medium waffle fries are $2.95, and a Frosted Lemonade is $4.95. Note Chick-fil-A is always closed on Sundays.",
+
+  "highlights": [
+    { "strong": "$5.99", "label": "Original Chicken Sandwich" },
+    { "strong": "Closed Sun", "label": "never open on Sundays" },
+    { "strong": "Waffle Fries", "label": "the signature side, $2.95" },
+    { "strong": "CFA Sauce", "label": "the famous dip" }
+  ],
+
+  "hot_deal": "Chick-fil-A value: the Original Chicken Sandwich is the best-value pick at about $5.99, and the 8-count nuggets ($5.95) with waffle fries ($2.95) make a cheap combo. The Chick-fil-A One app gives points and the occasional free item. Remember: Chick-fil-A is closed every Sunday. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Chicken Sandwiches",
+      "intro": "The Original is a hand-breaded fillet with two pickles on a buttered bun.",
+      "items": [
+        { "name": "Original Chicken Sandwich", "size": "", "price": "$5.99", "calories": "440", "desc": "Hand-breaded chicken fillet with pickles on a buttered bun" },
+        { "name": "Spicy Chicken Sandwich", "size": "", "price": "$6.59", "calories": "450", "desc": "Spicy breaded fillet with pickles" },
+        { "name": "Chicken Deluxe Sandwich", "size": "", "price": "$7.49", "calories": "500", "desc": "Original sandwich with cheese, lettuce and tomato" },
+        { "name": "Spicy Deluxe Sandwich", "size": "", "price": "$8.15", "calories": "520", "desc": "Spicy fillet with cheese, lettuce and tomato" },
+        { "name": "Grilled Chicken Sandwich", "size": "", "price": "$7.95", "calories": "320", "desc": "Marinated grilled fillet with lettuce and tomato" },
+        { "name": "Grilled Chicken Club", "size": "", "price": "$9.95", "calories": "", "desc": "Grilled fillet with cheese and bacon" }
+      ]
+    },
+    {
+      "category": "Nuggets & Strips",
+      "intro": "Bite-size nuggets and hand-breaded strips. Grilled nuggets are the lighter pick.",
+      "items": [
+        { "name": "Nuggets (8 ct)", "size": "8 pieces", "price": "$5.95", "calories": "260", "desc": "Bite-size pieces of breaded chicken" },
+        { "name": "Nuggets (12 ct)", "size": "12 pieces", "price": "$8.55", "calories": "", "desc": "A larger order of breaded nuggets" },
+        { "name": "Grilled Nuggets (8 ct)", "size": "8 pieces", "price": "$6.55", "calories": "130", "desc": "Grilled bite-size chicken, only 130 cal" },
+        { "name": "Chick-n-Strips (3 ct)", "size": "3 pieces", "price": "$6.45", "calories": "310", "desc": "Hand-breaded whole-breast chicken strips" }
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "intro": "Served every morning until 10:30. The Chicken Biscuit is the classic.",
+      "items": [
+        { "name": "Chicken Biscuit", "size": "", "price": "$4.95", "calories": "450", "desc": "A breaded chicken fillet on a buttermilk biscuit" },
+        { "name": "Chick-n-Minis (4 ct)", "size": "4 pieces", "price": "$5.65", "calories": "", "desc": "Chicken nuggets on mini yeast rolls" },
+        { "name": "Hash Brown Scramble Burrito", "size": "", "price": "$6.15", "calories": "", "desc": "Eggs, cheese, hash browns and chicken in a tortilla" },
+        { "name": "Egg White Grill", "size": "", "price": "$6.45", "calories": "", "desc": "Grilled chicken, egg whites and cheese on an English muffin" }
+      ]
+    },
+    {
+      "category": "Sides",
+      "intro": "The waffle fries are the signature. Mac & cheese is a fan favorite.",
+      "items": [
+        { "name": "Waffle Potato Fries (Medium)", "size": "medium", "price": "$2.95", "calories": "420", "desc": "Signature waffle-cut potato fries" },
+        { "name": "Mac & Cheese (Medium)", "size": "medium", "price": "$3.95", "calories": "450", "desc": "Creamy baked macaroni and cheese" },
+        { "name": "Fruit Cup", "size": "", "price": "$4.15", "calories": "", "desc": "Fresh mixed fruit" },
+        { "name": "Side Salad", "size": "", "price": "$4.05", "calories": "", "desc": "Mixed greens with cheese and tomato" }
+      ]
+    },
+    {
+      "category": "Salads",
+      "intro": "Entree salads topped with grilled or crispy chicken.",
+      "items": [
+        { "name": "Cobb Salad", "size": "", "price": "$11.25", "calories": "430", "desc": "Chicken, bacon, egg, cheese and corn (grilled; crispy is about 610 cal)" },
+        { "name": "Spicy Southwest Salad", "size": "", "price": "$10.79", "calories": "", "desc": "Chicken with corn, black beans and chili-lime pepitas" },
+        { "name": "Market Salad", "size": "", "price": "$11.25", "calories": "", "desc": "Chicken with apples, berries and blue cheese" }
+      ]
+    },
+    {
+      "category": "Treats & Drinks",
+      "intro": "The Frosted Lemonade and milkshakes are made with Icedream.",
+      "items": [
+        { "name": "Milkshake", "size": "", "price": "$5.15", "calories": "", "desc": "Hand-spun Icedream shake (vanilla, chocolate, cookies & cream)" },
+        { "name": "Frosted Lemonade", "size": "medium", "price": "$4.95", "calories": "", "desc": "Lemonade blended with Icedream" },
+        { "name": "Chocolate Chunk Cookie", "size": "", "price": "$1.95", "calories": "", "desc": "A warm chocolate chunk cookie" },
+        { "name": "Icedream Cone", "size": "", "price": "$2.05", "calories": "", "desc": "Soft-serve Icedream cone" },
+        { "name": "Lemonade (Medium)", "size": "medium", "price": "$2.65", "calories": "", "desc": "Fresh-squeezed lemonade" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Chick-fil-A at Home",
+    "intro": "Want the sandwich, waffle fries and sauce at home? These picks help.",
+    "cards": [
+      { "icon": "🥒", "name": "Dill Pickle Chips", "blurb": "The two pickles that make the sandwich.", "amazon_search": "dill pickle chips" },
+      { "icon": "🧇", "name": "Waffle Fry Cutter", "blurb": "Cut the signature waffle fries at home.", "amazon_search": "waffle fry cutter" },
+      { "icon": "🍗", "name": "Peanut Oil", "blurb": "The oil Chick-fil-A fries its chicken in.", "amazon_search": "peanut oil frying" },
+      { "icon": "📖", "name": "Copycat Chicken Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Original Chicken Sandwich",
+    "Chick-fil-A Nuggets",
+    "Waffle Potato Fries",
+    "Spicy Chicken Sandwich",
+    "Frosted Lemonade"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a Chick-fil-A chicken sandwich?",
+      "a": "The Original Chicken Sandwich is about $5.99, the Spicy is $6.59, the Deluxe is $7.49 and the Spicy Deluxe is $8.15. The grilled sandwich is about $7.95."
+    },
+    {
+      "q": "Is Chick-fil-A closed on Sundays?",
+      "a": "Yes. Every Chick-fil-A is closed on Sundays, a policy the founder set so employees can rest. It is open Monday through Saturday only."
+    },
+    {
+      "q": "What is Chick-fil-A Sauce?",
+      "a": "Chick-fil-A Sauce is the chain's signature dip, a blend of honey mustard, barbecue and ranch flavors. It comes free with meals and pairs with nuggets and waffle fries."
+    },
+    {
+      "q": "How many calories are in Chick-fil-A nuggets?",
+      "a": "An 8-count of breaded nuggets is about 260 calories, while the 8-count grilled nuggets are just 130 calories, one of the lightest options on the menu."
+    },
+    {
+      "q": "What are the most popular items at Chick-fil-A?",
+      "a": "The best known are the Original Chicken Sandwich, the nuggets, the waffle potato fries, the Spicy Chicken Sandwich, and the Frosted Lemonade."
+    }
+  ],
+
+  "internal_links": [
+    "kfc-menu",
+    "popeyes-menu",
+    "raising-canes-menu",
+    "zaxbys-menu",
+    "chipotle-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Chick-fil-A."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US averages; vary by location). Calories from a Chick-fil-A nutrition source.",
+    "calories": "Sandwiches, nuggets, strips and key sides have per-item figures; some combos, breakfast and drinks are left blank. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Chick-fil-A is closed Sundays. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels waffle fries image (pexels-19998458), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Chick-fil-A search demand: sandwich price, closed Sundays, Chick-fil-A Sauce, nugget calories, waffle fries."
+  }
+}
