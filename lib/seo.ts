@@ -47,6 +47,7 @@ const normalizeSize = (s: string) =>
     .toLowerCase()
     .replace(/\b(pcs?|pieces?|ct|count)\b/g, "pc")
     .replace(/\bfingers\b/g, "finger")
+    .replace(/(\d)-(?=[a-z])/g, "$1 ")
     .replace(/\s+/g, " ")
     .trim();
 
@@ -71,7 +72,8 @@ export function itemLabel(name: string, size: string): string {
   const unitStem = countAndUnit && countAndUnit[2].length > 3 ? countAndUnit[2].toLowerCase().replace(/[sz]$/, "") : countAndUnit?.[2].toLowerCase();
   const numberAndUnitInName =
     countAndUnit !== null &&
-    new RegExp(`(^|[^0-9])${countAndUnit[1]}($|[^0-9])`).test(name) &&
+    // A single item ("1 slice") needs only the unit: "Pizza Slice (Cheese)".
+    (countAndUnit[1] === "1" || new RegExp(`(^|[^0-9])${countAndUnit[1]}($|[^0-9])`).test(name)) &&
     new RegExp(`\\b${unitStem}`, "i").test(name);
   const sizeInName = loose
     ? new RegExp(`(^|[^a-z0-9])${escapeRe(normalizeSize(size))}($|[^a-z0-9])`).test(normalizeSize(name))

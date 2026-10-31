@@ -1,0 +1,135 @@
+{
+  "slug": "costco-food-court-menu",
+  "brand": "Costco Food Court",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/costco-food-court-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/29476590/pexels-photo-29476590.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Costco Food Court style all-beef hot dog in a bun with ketchup and mustard",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-29476590",
+    "_verify_note": "Tentative hero (classic hot dog for the famous $1.50 combo). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Costco Food Court Menu With Prices & Calories (2026)",
+    "meta_description": "Full Costco Food Court menu with prices and calories for 2026: the $1.50 hot dog combo, pizza, Chicken Bake, Caesar salad, churro, sundae and drinks.",
+    "h1": "Costco Food Court Menu With Prices (2026)",
+    "primary_keyword": "costco food court menu with prices",
+    "keyword_volume": 4000,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary slightly by warehouse. A Costco membership is generally required to buy from the food court in the US. Last updated October 2026.",
+
+  "intro": "The Costco Food Court is famous for one thing above all: the $1.50 hot dog combo, a quarter-pound all-beef hot dog with a 20-ounce drink, a price Costco has held for decades. Around it sits a tiny, cheap menu of pizza by the slice or whole, the cult-favorite Chicken Bake, a Chicken Caesar Salad, churros, sundaes and smoothies. Below is the full Costco Food Court menu with prices and calories for 2026.",
+
+  "quick_answer": "The Costco hot dog combo is $1.50 (a quarter-pound hot dog plus a 20 oz drink), a pizza slice is $1.99, and a whole 18-inch pizza is $9.95. The Chicken Bake is $3.99, a Chicken Caesar Salad is $6.99, and a churro is $1.49. The $1.50 hot dog is the icon. A hot dog with bun is about 580 calories.",
+
+  "highlights": [
+    { "strong": "$1.50", "label": "the legendary hot dog combo" },
+    { "strong": "$9.95", "label": "whole 18-inch pizza" },
+    { "strong": "Chicken Bake", "label": "the cult favorite, $3.99" },
+    { "strong": "Membership", "label": "usually required to buy" }
+  ],
+
+  "hot_deal": "Costco Food Court value: the whole menu is the deal, famously the $1.50 hot dog combo that has not changed price in decades. A whole 18-inch pizza at $9.95 feeds a family cheaper than almost anywhere, and most items are under $4. You generally need a Costco membership to order in the US. Prices barely vary by warehouse.",
+
+  "menu": [
+    {
+      "category": "Hot Dog & Pizza",
+      "intro": "The two icons: the $1.50 combo and the pizza.",
+      "items": [
+        { "name": "Hot Dog Combo", "size": "", "price": "$1.50", "calories": "", "desc": "A quarter-pound all-beef hot dog with a 20 oz drink (hot dog with bun about 580 cal)" },
+        { "name": "Pizza Slice (Cheese)", "size": "1 slice", "price": "$1.99", "calories": "710", "desc": "A huge cheese slice (pepperoni about 650 cal)" },
+        { "name": "Pizza Slice (Pepperoni)", "size": "1 slice", "price": "$1.99", "calories": "650", "desc": "A pepperoni slice" },
+        { "name": "Whole Pizza (18-inch)", "size": "18 inch", "price": "$9.95", "calories": "", "desc": "A whole cheese or pepperoni pizza, feeds a family" }
+      ]
+    },
+    {
+      "category": "Chicken Bake, Salad & Sandwich",
+      "intro": "The Chicken Bake and the Caesar salad.",
+      "items": [
+        { "name": "Chicken Bake", "size": "", "price": "$3.99", "calories": "840", "desc": "A rolled, baked pastry stuffed with chicken, bacon, cheese and Caesar dressing" },
+        { "name": "Chicken Caesar Salad", "size": "", "price": "$6.99", "calories": "710", "desc": "Grilled chicken over romaine with Caesar dressing" }
+      ]
+    },
+    {
+      "category": "Desserts & Drinks",
+      "intro": "The churro, sundae, cookie and drinks.",
+      "items": [
+        { "name": "Churro", "size": "", "price": "$1.49", "calories": "570", "desc": "A large cinnamon-sugar churro" },
+        { "name": "Ice Cream Sundae", "size": "", "price": "$2.49", "calories": "670", "desc": "Vanilla soft serve with strawberry or chocolate (about 650 to 690 cal)" },
+        { "name": "Double Chocolate Chunk Cookie", "size": "", "price": "$2.49", "calories": "", "desc": "A large double chocolate chunk cookie" },
+        { "name": "Cold Brew Mocha Freeze", "size": "", "price": "$2.99", "calories": "", "desc": "A frozen cold-brew coffee drink" },
+        { "name": "Fountain Soda (20 oz)", "size": "20 oz", "price": "$0.69", "calories": "", "desc": "Soda with free refills (included free in the hot dog combo)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Food Court Favorites at Home",
+    "intro": "Want the hot dog and churro at home? These picks help.",
+    "cards": [
+      { "icon": "🌭", "name": "All-Beef Hot Dogs", "blurb": "For a quarter-pound Costco-style dog.", "amazon_search": "all beef hot dogs quarter pound" },
+      { "icon": "🥖", "name": "Hot Dog Buns", "blurb": "The soft buns to go with.", "amazon_search": "hot dog buns" },
+      { "icon": "🌀", "name": "Churro Maker", "blurb": "For big cinnamon-sugar churros.", "amazon_search": "churro maker" },
+      { "icon": "🍕", "name": "Pizza Stone", "blurb": "For a crispy whole pizza.", "amazon_search": "pizza stone oven" }
+    ]
+  },
+
+  "popular_items": [
+    "Hot Dog Combo",
+    "Pizza Slice",
+    "Chicken Bake",
+    "Churro",
+    "Ice Cream Sundae"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is the Costco hot dog?",
+      "a": "The Costco hot dog combo is $1.50 and includes a quarter-pound all-beef hot dog plus a 20-ounce drink with free refills. Costco has famously held this price for decades, making it one of the best deals in food."
+    },
+    {
+      "q": "How much is a Costco pizza?",
+      "a": "A slice is $1.99 and a whole 18-inch pizza (cheese or pepperoni) is $9.95, which feeds a family for less than most delivery chains. The slices are large, so a slice or two is a full meal."
+    },
+    {
+      "q": "What is the Chicken Bake at Costco?",
+      "a": "The Chicken Bake is a rolled, baked pastry stuffed with chicken, bacon, cheese and Caesar dressing, a cult favorite at $3.99. It is filling, around 840 calories, and one of the most popular food court items after the hot dog."
+    },
+    {
+      "q": "Do you need a membership to eat at the Costco Food Court?",
+      "a": "In the US, you generally need a Costco membership to buy from the food court, as most are inside the warehouse past the entrance. Some locations with outdoor-facing food courts have allowed non-members, but policies vary."
+    },
+    {
+      "q": "How many calories are in Costco food court items?",
+      "a": "A hot dog with bun is about 580 calories, a cheese pizza slice around 710, the Chicken Bake about 840, and a churro 570. The Chicken Caesar Salad is about 710 and an ice cream sundae roughly 670."
+    }
+  ],
+
+  "internal_links": [
+    "dominos-menu",
+    "pizza-hut-menu",
+    "subway-menu",
+    "jersey-mikes-menu",
+    "panera-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Costco Food Court."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established Costco food-court guide (national pricing; barely varies by warehouse). Membership generally required to buy in the US.",
+    "calories": "Calories from a Costco food-court nutrition source. Shown where a reliable figure exists; whole pizza and a couple of drinks left blank rather than guessing. Hot Dog Combo calorie field cleared on import: the combo includes a drink, but 580 is the hot dog with bun alone, kept in the description. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary slightly by warehouse. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels classic hot dog (pexels-29476590) for the famous $1.50 combo. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (the Costco food court is pizza, hot dogs and sandwiches). This completes the planned 62-brand build plan; optional extras (Golden Corral, Hardee's, Tropical Smoothie) could still be added.",
+    "keyword_notes": "Sections and FAQ shaped by real Costco Food Court search demand: hot dog price, pizza price, the Chicken Bake, membership requirement, calories."
+  }
+}
