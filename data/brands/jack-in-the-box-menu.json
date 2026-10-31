@@ -1,0 +1,184 @@
+{
+  "slug": "jack-in-the-box-menu",
+  "brand": "Jack in the Box",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/jack-in-the-box-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/9673525/pexels-photo-9673525.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Jack in the Box style cheeseburger with curly fries on a white plate",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-9673525"
+  },
+
+  "seo": {
+    "meta_title": "Jack in the Box Menu With Prices & Calories (2026)",
+    "meta_description": "Full Jack in the Box menu with prices and calories for 2026: Jumbo Jack, tacos, chicken, curly fries, breakfast, Munchie Meals, shakes and combos.",
+    "h1": "Jack in the Box Menu With Prices (2026)",
+    "primary_keyword": "jack in the box menu with prices",
+    "keyword_volume": 8700,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
+
+  "intro": "Jack in the Box is the 24-hour burger chain famous for mixing it all: Jumbo Jack burgers, the cult-favorite two-for-99-cent tacos, curly fries, breakfast served any time and over-the-top Munchie Meals. It is the go-to late-night run. Below is the full Jack in the Box menu with prices and calories for 2026, organized by category.",
+
+  "quick_answer": "Jack in the Box is a late-night staple. The Jumbo Jack burger is about $3.69, two famous tacos are just $0.99, and the Ultimate Cheeseburger is around $6.99. Combos with curly fries and a drink start at $7.99, and the Jack's value menu has items under $4.",
+
+  "highlights": [
+    { "strong": "$0.99", "label": "2 Tacos" },
+    { "strong": "$3.69", "label": "Jumbo Jack burger" },
+    { "strong": "24 hrs", "label": "late-night favorite" },
+    { "strong": "Curly Fries", "label": "the signature side" }
+  ],
+
+  "hot_deal": "Jack in the Box value: the famous 2 Tacos are still just $0.99, and Jack's value menu keeps burgers, grilled cheese and Tiny Tacos under $4. Combos with curly fries and a drink start around $7.99, and Munchie Meals bundle a big late-night feast from about $10. Offers vary by location.",
+
+  "menu": [
+    {
+      "category": "Burgers",
+      "intro": "From the classic Jumbo Jack to the loaded Ultimate Cheeseburger.",
+      "items": [
+        { "name": "Jumbo Jack", "size": "", "price": "$3.69", "calories": "490", "desc": "The classic beef burger with lettuce, tomato, onion and mayo" },
+        { "name": "Jumbo Jack with Cheese", "size": "", "price": "$4.19", "calories": "570", "desc": "Jumbo Jack with a slice of American cheese" },
+        { "name": "Sourdough Jack", "size": "", "price": "$6.79", "calories": "660", "desc": "Beef with bacon and cheese on grilled sourdough" },
+        { "name": "Ultimate Cheeseburger", "size": "", "price": "$6.99", "calories": "840", "desc": "Two patties with two kinds of cheese" },
+        { "name": "Bacon Ultimate Cheeseburger", "size": "", "price": "$7.49", "calories": "", "desc": "Ultimate Cheeseburger loaded with bacon" },
+        { "name": "Classic Smashed Jack", "size": "", "price": "$7.79", "calories": "", "desc": "Smash-style patties with cheese and grilled onions" }
+      ]
+    },
+    {
+      "category": "Chicken",
+      "intro": "Spicy sandwiches, nuggets and strips.",
+      "items": [
+        { "name": "Jack's Spicy Chicken Sandwich", "size": "", "price": "$6.79", "calories": "570", "desc": "Crispy spicy chicken fillet with lettuce and mayo" },
+        { "name": "Cluck Sandwich", "size": "", "price": "$6.59", "calories": "", "desc": "Crispy chicken sandwich with pickles" },
+        { "name": "Chicken Nuggets (8 pc)", "size": "8 pieces", "price": "$4.99", "calories": "", "desc": "Breaded chicken nuggets; 10 pc is about 430 cal" },
+        { "name": "Crispy Chicken Strips (3 pc)", "size": "3 pieces", "price": "$7.29", "calories": "", "desc": "Hand-battered chicken strips with dipping sauce" }
+      ]
+    },
+    {
+      "category": "Tacos & Breakfast",
+      "intro": "The famous tacos and all-day breakfast.",
+      "items": [
+        { "name": "2 Tacos", "size": "2 tacos", "price": "$0.99", "calories": "340", "desc": "Two crunchy beef tacos, the late-night legend" },
+        { "name": "Breakfast Jack", "size": "", "price": "$1.59", "calories": "290", "desc": "Egg, ham and cheese on a bun" },
+        { "name": "Supreme Croissant", "size": "", "price": "$4.19", "calories": "", "desc": "Sausage or bacon, egg and cheese on a croissant" },
+        { "name": "Loaded Breakfast Sandwich", "size": "", "price": "$4.39", "calories": "", "desc": "Eggs, cheese, bacon and sausage on toast" }
+      ]
+    },
+    {
+      "category": "Sides",
+      "intro": "The curly fries are the star.",
+      "items": [
+        { "name": "Curly Fries (Medium)", "size": "medium", "price": "$3.79", "calories": "350", "desc": "Seasoned curly fries, the signature side" },
+        { "name": "Curly Fries (Large)", "size": "large", "price": "$4.29", "calories": "", "desc": "A large order of seasoned curly fries" },
+        { "name": "Onion Rings", "size": "", "price": "$4.29", "calories": "380", "desc": "Battered onion rings" }
+      ]
+    },
+    {
+      "category": "Jack's Value Menu (Under $4)",
+      "intro": "Budget picks, all under four dollars.",
+      "items": [
+        { "name": "Jr. Cheeseburger", "size": "", "price": "$2.99", "calories": "", "desc": "A small cheeseburger" },
+        { "name": "Jr. Chicken Sandwich", "size": "", "price": "$2.99", "calories": "", "desc": "A small crispy chicken sandwich" },
+        { "name": "Sourdough Grilled Cheese", "size": "", "price": "$2.49", "calories": "", "desc": "Grilled cheese on sourdough" },
+        { "name": "Value Tiny Tacos (5)", "size": "5 pieces", "price": "$1.99", "calories": "", "desc": "Five mini crispy tacos" },
+        { "name": "Value Curly Fries", "size": "", "price": "$2.49", "calories": "", "desc": "A value order of curly fries" }
+      ]
+    },
+    {
+      "category": "Shakes & Desserts",
+      "intro": "Hand-spun shakes and sweet treats.",
+      "items": [
+        { "name": "OREO Shake (Small)", "size": "small", "price": "$4.29", "calories": "", "desc": "Hand-spun shake blended with OREO cookies" },
+        { "name": "Vanilla Shake (Small)", "size": "small", "price": "$3.99", "calories": "", "desc": "Classic hand-spun vanilla shake" },
+        { "name": "Mini Churros", "size": "", "price": "$2.49", "calories": "", "desc": "Cinnamon-sugar mini churros" },
+        { "name": "New York Style Cheesecake", "size": "", "price": "$2.99", "calories": "", "desc": "A slice of New York cheesecake" }
+      ]
+    },
+    {
+      "category": "Combos & Munchie Meals",
+      "intro": "Full meals with curly fries and a drink, plus late-night Munchie Meals.",
+      "items": [
+        { "name": "Jumbo Jack Combo", "size": "", "price": "$7.99", "calories": "", "desc": "Jumbo Jack with curly fries and a drink" },
+        { "name": "Ultimate Cheeseburger Combo", "size": "", "price": "$9.99", "calories": "", "desc": "Ultimate Cheeseburger with fries and a drink" },
+        { "name": "Build Your Own Munchie Meal", "size": "", "price": "$10.00", "calories": "", "desc": "A big late-night combo: entree, tacos, fries and a drink" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Fountain drinks, slushies and energy drinks.",
+      "items": [
+        { "name": "Fountain Drink (Small)", "size": "small", "price": "$2.49", "calories": "", "desc": "Coca-Cola fountain drinks" },
+        { "name": "Lemonade Slushie", "size": "", "price": "$2.99", "calories": "", "desc": "Frozen lemonade slushie" },
+        { "name": "Milk Tea with Boba", "size": "", "price": "$4.19", "calories": "", "desc": "Milk tea with tapioca boba" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Jack in the Box at Home",
+    "intro": "Craving a late-night run at home? These picks help you fry curly fries and build tacos.",
+    "cards": [
+      { "icon": "🍟", "name": "Air Fryer", "blurb": "Crisp up curly fries and nuggets.", "amazon_search": "air fryer" },
+      { "icon": "🌀", "name": "Curly Fry Cutter", "blurb": "Make the signature spiral fries at home.", "amazon_search": "curly fry cutter spiralizer" },
+      { "icon": "🌮", "name": "Taco Seasoning", "blurb": "For the famous mini tacos.", "amazon_search": "taco seasoning mix" },
+      { "icon": "📖", "name": "Copycat Fast Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Jumbo Jack",
+    "Two Tacos",
+    "Curly Fries",
+    "Ultimate Cheeseburger",
+    "OREO Shake"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a Jumbo Jack at Jack in the Box?",
+      "a": "The Jumbo Jack is about $3.69, or $4.19 with cheese. As a combo with curly fries and a drink it is around $7.99. The Jumbo Jack is about 490 calories."
+    },
+    {
+      "q": "How much are Jack in the Box tacos?",
+      "a": "The famous Jack in the Box tacos are 2 for $0.99, one of the best deals in fast food. The two-taco order is about 340 calories."
+    },
+    {
+      "q": "Does Jack in the Box serve breakfast all day?",
+      "a": "Yes. Most Jack in the Box locations are open 24 hours and serve breakfast any time, including the Breakfast Jack, Supreme Croissant and Loaded Breakfast Sandwich."
+    },
+    {
+      "q": "What is a Munchie Meal?",
+      "a": "The Munchie Meal is Jack's late-night combo: an entree plus tacos, curly fries and a drink, starting around $10. It is built for a big, cheap late-night feast."
+    },
+    {
+      "q": "What are the most popular items at Jack in the Box?",
+      "a": "The best known are the Jumbo Jack, the two-for-99-cent tacos, curly fries, the Ultimate Cheeseburger, and the OREO shake."
+    }
+  ],
+
+  "internal_links": [
+    "culvers-menu",
+    "taco-bell-menu",
+    "kfc-menu",
+    "popeyes-menu",
+    "chilis-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Jack in the Box."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu and limited-time items). Calories from a Jack in the Box nutrition source.",
+    "calories": "Shown where a reliable single figure exists; combos, value items and most drinks are left blank. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels cheeseburger-and-curly-fries image (pexels-9673525), portrait that crops well to a wide hero, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Jack in the Box search demand: Jumbo Jack price, 99-cent tacos, all-day breakfast, Munchie Meal, curly fries."
+  }
+}
