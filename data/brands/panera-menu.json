@@ -1,0 +1,161 @@
+{
+  "slug": "panera-menu",
+  "brand": "Panera Bread",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/panera-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/17407046/pexels-photo-17407046.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Panera style bowls of creamy soup served with fresh bread",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-17407046",
+    "_verify_note": "NOT visually verified this session (browser/Pexels unavailable). Confirm it loads, is appetizing and has no third-party branding before publishing; swap for a bread-bowl soup or sandwich shot if it does not fit."
+  },
+
+  "seo": {
+    "meta_title": "Panera Bread Menu With Prices & Calories (2026)",
+    "meta_description": "Full Panera Bread menu with prices and calories for 2026: sandwiches, Broccoli Cheddar soup, mac and cheese, salads, You Pick Two, bagels and bakery.",
+    "h1": "Panera Bread Menu With Prices (2026)",
+    "primary_keyword": "panera bread menu with prices",
+    "keyword_volume": 4300,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate. Sandwich prices are for a whole; a half is cheaper and pairs in You Pick Two. Soups are cup / bowl / bread bowl. Prices vary by location (cafe and delivery pricing differ). Last updated October 2026.",
+
+  "intro": "Panera Bread is the bakery-cafe known for its Broccoli Cheddar soup in a bread bowl, the You Pick Two combo, fresh-baked bagels, warm sandwiches, salads and a big drinks lineup including the Unlimited Sip Club. It's built around 'fast casual' food made to order. Sandwiches come whole or half, and soups come in a cup, a bowl or a bread bowl. Below is the full Panera Bread menu with prices and calories for 2026.",
+
+  "quick_answer": "A whole sandwich at Panera is about $11.99 to $12.99, a cup of Broccoli Cheddar soup is $6.99 (bread bowl $10.49), and mac and cheese is $5.99 a cup. The You Pick Two combo (a half sandwich plus a cup of soup, mac or salad) is $13.99. The Broccoli Cheddar soup and You Pick Two are the signatures.",
+
+  "highlights": [
+    { "strong": "You Pick Two", "label": "$13.99 half-and-half combo" },
+    { "strong": "Bread Bowl", "label": "soup served in bread" },
+    { "strong": "Broccoli Cheddar", "label": "the signature soup" },
+    { "strong": "Sip Club", "label": "unlimited drinks subscription" }
+  ],
+
+  "hot_deal": "Panera value: the Unlimited Sip Club (about $14.99 a month) gets unlimited drip coffee, tea and fountain drinks and pays for itself fast for regulars. MyPanera rewards drops free items and birthday treats, and the You Pick Two ($13.99) is the best way to try two things at once. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Sandwiches",
+      "intro": "Served whole or half. Prices are for a whole; calories are for a whole.",
+      "items": [
+        { "name": "Bacon Turkey Bravo", "size": "whole", "price": "$12.99", "calories": "730", "desc": "Turkey, bacon, smoked Gouda and signature sauce (half $9.29)" },
+        { "name": "Chipotle Chicken Avocado Melt", "size": "whole", "price": "$12.79", "calories": "830", "desc": "Chicken, bacon, avocado and chipotle on sourdough (half $8.99)" },
+        { "name": "Napa Almond Chicken Salad", "size": "whole", "price": "Varies", "calories": "690", "desc": "Chicken salad with almonds and grapes (ask for current price)" },
+        { "name": "Smokehouse BBQ Chicken", "size": "whole", "price": "$12.99", "calories": "", "desc": "Chicken, smoked Gouda, frizzled onions and BBQ sauce (half $9.29)" },
+        { "name": "Mediterranean Veggie", "size": "whole", "price": "$11.99", "calories": "600", "desc": "Hummus, feta, cucumber, peppers and greens (half $8.49)" }
+      ]
+    },
+    {
+      "category": "Soups & Mac and Cheese",
+      "intro": "Soups come cup / bowl / bread bowl. Mac and cheese by the cup or bowl.",
+      "items": [
+        { "name": "Broccoli Cheddar Soup", "size": "cup / bowl / bread bowl", "price": "$6.99 / $8.99 / $10.49", "calories": "", "desc": "The signature soup (cup about 240 cal, bowl 360)" },
+        { "name": "Creamy Tomato Soup", "size": "cup / bowl / bread bowl", "price": "$6.99 / $8.99 / $10.49", "calories": "", "desc": "Creamy tomato (cup about 200 cal, bowl 300)" },
+        { "name": "Chicken Noodle Soup", "size": "cup / bowl / bread bowl", "price": "$6.99 / $8.99 / $10.49", "calories": "", "desc": "Classic chicken noodle soup" },
+        { "name": "Mac & Cheese", "size": "cup / bowl", "price": "$5.99 / $9.99", "calories": "", "desc": "Creamy shell pasta and cheese (small about 490 cal, large 980)" },
+        { "name": "Bacon Mac & Cheese", "size": "bowl", "price": "$10.99", "calories": "", "desc": "Mac and cheese topped with bacon" }
+      ]
+    },
+    {
+      "category": "Salads & You Pick Two",
+      "intro": "Full salads and the famous mix-and-match combo.",
+      "items": [
+        { "name": "You Pick Two", "size": "", "price": "$13.99", "calories": "", "desc": "Pick two halves: half sandwich, cup of soup, mac or half salad (adult combo with drink $16.99)" },
+        { "name": "Caesar Salad with Chicken", "size": "", "price": "$11.99", "calories": "530", "desc": "Romaine, parmesan, croutons and grilled chicken" },
+        { "name": "Mediterranean Bowl with Chicken", "size": "", "price": "$11.99", "calories": "550", "desc": "Greens, feta, olives, tomatoes and chicken" },
+        { "name": "Green Goddess Cobb with Chicken", "size": "", "price": "$12.99", "calories": "", "desc": "Chicken, egg, bacon, avocado and greens" },
+        { "name": "Fuji Apple Salad with Chicken", "size": "", "price": "$11.99", "calories": "", "desc": "Apple, pecans, gorgonzola and greens" }
+      ]
+    },
+    {
+      "category": "Bagels & Bakery",
+      "intro": "Fresh-baked bagels and pastries, the heart of the cafe.",
+      "items": [
+        { "name": "Bagel (Plain / Everything / Blueberry)", "size": "", "price": "$2.49", "calories": "", "desc": "Fresh-baked bagels (Cinnamon Crunch and Asiago $2.79)" },
+        { "name": "Baker's Dozen Bagels", "size": "13 bagels", "price": "$15.99", "calories": "", "desc": "Thirteen bagels with two tubs of cream cheese" },
+        { "name": "Cinnamon Roll", "size": "", "price": "$3.99", "calories": "", "desc": "A large iced cinnamon roll" },
+        { "name": "Chocolate Chipper Cookie", "size": "", "price": "$2.49", "calories": "", "desc": "A fresh-baked chocolate chip cookie" },
+        { "name": "Muffin", "size": "", "price": "$3.29", "calories": "", "desc": "Pumpkin, blueberry or chocolate chip muffin" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Coffee, lemonades, smoothies and the Unlimited Sip Club.",
+      "items": [
+        { "name": "Hot Coffee", "size": "", "price": "$3.39", "calories": "", "desc": "Fresh-brewed coffee (free refills in cafe)" },
+        { "name": "Iced Coffee", "size": "", "price": "$3.59", "calories": "", "desc": "Cold-brewed iced coffee" },
+        { "name": "Fruit Lemonade (Strawberry / Mango / Plum)", "size": "", "price": "$4.49", "calories": "", "desc": "Uncharged fruit lemonades" },
+        { "name": "Smoothie", "size": "", "price": "$5.99", "calories": "", "desc": "Strawberry, mango or green smoothie" },
+        { "name": "Unlimited Sip Club", "size": "monthly", "price": "$14.99", "calories": "", "desc": "Unlimited drip coffee, tea and fountain drinks subscription" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Panera at Home",
+    "intro": "Want the Broccoli Cheddar soup and bakery favorites at home? These picks help.",
+    "cards": [
+      { "icon": "🥣", "name": "Soup Pot & Ladle", "blurb": "For creamy, Panera-style soups.", "amazon_search": "soup pot dutch oven" },
+      { "icon": "🧀", "name": "Sharp Cheddar", "blurb": "For a copycat Broccoli Cheddar soup.", "amazon_search": "sharp cheddar cheese block" },
+      { "icon": "🥯", "name": "Bagel Baking Kit", "blurb": "Bake fresh bagels at home.", "amazon_search": "bagel baking pan kit" },
+      { "icon": "📖", "name": "Copycat Cafe Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Broccoli Cheddar Soup",
+    "You Pick Two",
+    "Bacon Turkey Bravo",
+    "Mac & Cheese",
+    "Chipotle Chicken Avocado Melt"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is You Pick Two at Panera?",
+      "a": "You Pick Two lets you combine two half-size items: a half sandwich, a cup of soup, a cup of mac and cheese, or a half salad. It is about $13.99, and an adult combo adding a drink and a side is about $16.99. It is the most popular way to order."
+    },
+    {
+      "q": "How much is Panera's Broccoli Cheddar soup?",
+      "a": "A cup is about $6.99, a bowl $8.99, and in a bread bowl about $10.49. It is Panera's signature soup, a cup is around 240 calories and a bowl 360. The bread bowl adds the calories of the bread."
+    },
+    {
+      "q": "What is the Unlimited Sip Club?",
+      "a": "The Unlimited Sip Club is a subscription, about $14.99 a month, for unlimited drip hot coffee, hot tea, iced coffee, iced tea and fountain drinks on every visit. For regular coffee drinkers it pays for itself in a few visits."
+    },
+    {
+      "q": "How many calories are in a Panera sandwich?",
+      "a": "A whole Bacon Turkey Bravo is about 730 calories and a Chipotle Chicken Avocado Melt about 830. Ordering a half in You Pick Two, or pairing with a lighter cup of soup or salad, keeps the meal down."
+    },
+    {
+      "q": "What are the most popular items at Panera?",
+      "a": "The best known are the Broccoli Cheddar soup, the You Pick Two combo, the Bacon Turkey Bravo, the mac and cheese, and the Chipotle Chicken Avocado Melt."
+    }
+  ],
+
+  "internal_links": [
+    "subway-menu",
+    "jersey-mikes-menu",
+    "jimmy-johns-menu",
+    "starbucks-menu",
+    "dunkin-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Panera Bread."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (cafe pricing; delivery is higher). Napa Almond Chicken Salad price was not reliably available, so left blank with a note rather than guessed. On import the empty price became 'Varies' (the site does not accept an empty price) and '$14.99/mo' became '$14.99' with size 'monthly'. Prices vary by location.",
+    "calories": "Calories from a Panera nutrition source. Shown where a reliable figure exists; soup and mac per-size figures noted inside descriptions, several items left blank rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Pexels soup-and-bread image (pexels-17407046), chosen for Panera's soup-and-bakery identity. NOT visually verified this session (browser unavailable and Pexels blocks direct fetch). Confirm it is appetizing and unbranded before publishing; a bread-bowl soup or a sandwich shot are good swaps.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category. This completes the subs/cafe group (Jersey Mike's, Jimmy John's, Firehouse Subs, Panera, plus Subway).",
+    "keyword_notes": "Sections and FAQ shaped by real Panera search demand: You Pick Two, Broccoli Cheddar price, Unlimited Sip Club, sandwich calories, popular items."
+  }
+}
