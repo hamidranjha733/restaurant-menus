@@ -29,7 +29,7 @@
   "quick_answer": "A medium Blizzard at Dairy Queen is about $6.99, an Original Cheeseburger is $5.19, and a 4-piece chicken strip basket is $9.69. A vanilla cone is $4.39 medium, a Dilly Bar is $3.09, and a banana split is $6.89. The Blizzard is the signature. A medium Oreo Blizzard is about 660 calories.",
 
   "highlights": [
-    { "strong": "Blizzard", "label": "soup-thick soft serve, flipped upside down" },
+    { "strong": "Blizzard", "label": "super-thick soft serve, flipped upside down" },
     { "strong": "$6.99", "label": "medium Blizzard" },
     { "strong": "Curl-top cone", "label": "the classic soft serve" },
     { "strong": "Dilly Bar", "label": "the $3 chocolate-dipped classic" }

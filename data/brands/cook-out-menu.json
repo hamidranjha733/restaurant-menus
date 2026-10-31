@@ -51,9 +51,9 @@
       "category": "Burgers & BBQ",
       "intro": "Char-grilled burgers and Carolina-style BBQ.",
       "items": [
-        { "name": "Hamburger (Regular)", "size": "", "price": "$2.99", "calories": "328", "desc": "A quarter-pound char-grilled patty" },
-        { "name": "Cheddar Style Burger", "size": "", "price": "$3.99", "calories": "561", "desc": "Char-grilled burger with melted cheddar" },
-        { "name": "BBQ Sandwich", "size": "", "price": "$3.19", "calories": "368", "desc": "Chopped BBQ pork on a bun" },
+        { "name": "Hamburger (Regular)", "size": "", "price": "$2.99", "calories": "", "desc": "A quarter-pound char-grilled patty" },
+        { "name": "Cheddar Style Burger", "size": "", "price": "$3.99", "calories": "", "desc": "Char-grilled burger with melted cheddar" },
+        { "name": "BBQ Sandwich", "size": "", "price": "$3.19", "calories": "", "desc": "Chopped BBQ pork on a bun" },
         { "name": "BBQ Plate", "size": "", "price": "$4.29", "calories": "", "desc": "Chopped BBQ with sides" }
       ]
     },
@@ -61,9 +61,9 @@
       "category": "Hot Dogs, Chicken & Quesadillas",
       "intro": "Dollar dogs, chicken and quesadillas.",
       "items": [
-        { "name": "Hot Dog", "size": "", "price": "$1.00", "calories": "260", "desc": "A classic hot dog, a dollar" },
+        { "name": "Hot Dog", "size": "", "price": "$1.00", "calories": "", "desc": "A classic hot dog, a dollar" },
         { "name": "Corn Dog", "size": "", "price": "$1.00", "calories": "", "desc": "A battered corn dog, a dollar" },
-        { "name": "Chicken Strip Sandwich", "size": "", "price": "$3.59", "calories": "674", "desc": "Crispy chicken strips on a bun" },
+        { "name": "Chicken Strip Sandwich", "size": "", "price": "$3.59", "calories": "", "desc": "Crispy chicken strips on a bun" },
         { "name": "Chicken Nuggets (5 pc)", "size": "5 pieces", "price": "$1.00", "calories": "", "desc": "Five breaded chicken nuggets, a dollar" },
         { "name": "Quesadilla (Chicken or Beef, 2 pc)", "size": "2 pieces", "price": "$3.19", "calories": "", "desc": "Grilled quesadilla with cheese and meat" }
       ]
@@ -72,8 +72,8 @@
       "category": "Sides",
       "intro": "Hush puppies, fries and more, most around a dollar.",
       "items": [
-        { "name": "Hushpuppies (12 pc)", "size": "12 pieces", "price": "$1.00", "calories": "300", "desc": "Fried cornmeal hush puppies, a Southern classic" },
-        { "name": "French Fries (Regular)", "size": "regular", "price": "$1.00", "calories": "465", "desc": "Classic fries, a dollar" },
+        { "name": "Hushpuppies (12 pc)", "size": "12 pieces", "price": "$1.00", "calories": "", "desc": "Fried cornmeal hush puppies, a Southern classic" },
+        { "name": "French Fries (Regular)", "size": "regular", "price": "$1.00", "calories": "", "desc": "Classic fries, a dollar" },
         { "name": "Onion Rings", "size": "", "price": "$2.19", "calories": "", "desc": "Battered onion rings" },
         { "name": "Crispy Chicken Wrap", "size": "", "price": "$1.99", "calories": "", "desc": "Ranch, Cajun or honey mustard chicken wrap" },
         { "name": "Fries with Cheese", "size": "", "price": "$1.59", "calories": "", "desc": "Fries topped with melted cheese" }
@@ -148,7 +148,7 @@
 
   "_data_notes": {
     "price_source": "Prices from an established menu-prices publication (typical US pricing). Cook Out prices are low and vary by location.",
-    "calories": "Cook Out does not publish full nutrition, so figures are estimates from a nutrition-tracking source. Shown where a reasonable figure exists; many items and the variable milkshakes left blank or noted inline. Never invent a calorie number.",
+    "calories": "Cook Out does not publish full nutrition, so figures are estimates from a nutrition-tracking source. Item calorie fields are left blank so estimates are not shown or sent to search engines as official nutrition; a few estimated figures appear only in the FAQ, labelled as estimates. Never invent a calorie number.",
     "accuracy": "Prices and calories are typical/approximate and vary by location. Always display the disclaimer, and note the chain does not publish official nutrition.",
     "hero_image": "Tentative Pexels chocolate milkshake (pexels-3727250) for Cook Out's 40+ shakes. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
     "category_note": "Uses the existing 'Burgers & Shakes' category. Shake Shack and Carl's Jr can follow.",

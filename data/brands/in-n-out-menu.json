@@ -72,7 +72,7 @@
         { "name": "3x3 (Three Patties, Three Cheese)", "size": "", "price": "$7.10", "calories": "", "desc": "Three patties and three slices of cheese" },
         { "name": "4x4 (Four Patties, Four Cheese)", "size": "", "price": "$8.55", "calories": "", "desc": "Four patties and four slices of cheese" },
         { "name": "Animal Style Burger", "size": "", "price": "$6.15", "calories": "", "desc": "Mustard-cooked patty, extra spread, pickles and grilled onions" },
-        { "name": "Protein Style Burger", "size": "", "price": "$5.65", "calories": "240", "desc": "Any burger wrapped in lettuce instead of a bun (Double-Double Protein Style about 520 cal)" },
+        { "name": "Double-Double Protein Style", "size": "", "price": "$5.65", "calories": "520", "desc": "A Double-Double wrapped in lettuce instead of a bun (any burger can be ordered Protein Style)" },
         { "name": "Flying Dutchman", "size": "", "price": "$4.10", "calories": "", "desc": "Two patties and two slices of cheese, no bun or veggies" }
       ]
     }
@@ -135,7 +135,7 @@
 
   "_data_notes": {
     "price_source": "Prices from an established menu-prices publication (May 2026 sample plus typical ranges). Secret-menu prices are the base item plus small add-ons, approximate. In-N-Out prices vary by location.",
-    "calories": "Calories from In-N-Out's published nutrition (widely cited figures). Shown where a reliable figure exists; combos and some secret-menu items left blank rather than guessing. Never invent a calorie number.",
+    "calories": "Calories from In-N-Out's published nutrition (widely cited figures). Shown where a reliable figure exists; combos and some secret-menu items left blank rather than guessing. The Protein Style row was renamed to Double-Double Protein Style so the price ($5.65) and calories (520) describe the same burger. Never invent a calorie number.",
     "accuracy": "Prices and calories are typical/approximate and vary by location. Always display the disclaimer.",
     "hero_image": "Tentative Pexels cheeseburger (pexels-1199960). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
     "category_note": "Uses the existing 'Burgers & Shakes' category. Sonic, Dairy Queen, Cook Out, Shake Shack and Carl's Jr can follow.",
