@@ -1,0 +1,147 @@
+{
+  "slug": "pf-changs-menu",
+  "brand": "P.F. Chang's",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/pf-changs-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/34613221/pexels-photo-34613221.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "P.F. Chang's style Asian stir-fry served in a bowl",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-34613221",
+    "_verify_note": "Tentative hero (Asian stir-fry). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "P.F. Chang's Menu With Prices (2026)",
+    "meta_description": "Full P.F. Chang's menu with prices for 2026: Chang's chicken lettuce wraps, Mongolian beef, kung pao, orange peel chicken, dumplings, lo mein and desserts.",
+    "h1": "P.F. Chang's Menu With Prices (2026)",
+    "primary_keyword": "p.f. chang's menu with prices",
+    "keyword_volume": 12000,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. P.F. Chang's publishes nutrition information, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "P.F. Chang's is the Asian-fusion casual-dining chain known for its made-to-order wok dishes, the famous Chang's Chicken Lettuce Wraps, Mongolian Beef, kung pao and orange peel chicken, hand-folded dumplings, and the towering Great Wall of Chocolate dessert. Below is the full P.F. Chang's menu with prices for 2026.",
+
+  "quick_answer": "At P.F. Chang's, the famous Chang's Chicken Lettuce Wraps are about $11.50, Mongolian Beef is $19.95, kung pao or orange peel chicken $9.95, and crispy honey chicken $12.50. Dumplings run $5 to $12, lo mein $11.50 to $13.50, and the Great Wall of Chocolate $8 to $9. The lettuce wraps and Mongolian Beef are the icons. Prices vary by location.",
+
+  "highlights": [
+    { "strong": "Lettuce Wraps", "label": "the famous starter" },
+    { "strong": "Mongolian Beef", "label": "the signature wok dish" },
+    { "strong": "Hand-folded dumplings", "label": "pork, shrimp, veggie" },
+    { "strong": "Great Wall of Chocolate", "label": "the tower dessert" }
+  ],
+
+  "hot_deal": "P.F. Chang's value: the weekday lunch bowls and 'Chang's for Two' and family bundles are the best value, and kung pao or orange peel chicken ($9.95) are the cheapest signature entrees. The Rewards app drops a birthday reward and deals, and there are known weekday specials like endless lettuce wraps. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Appetizers & Dumplings",
+      "intro": "The famous lettuce wraps and hand-folded dumplings.",
+      "items": [
+        { "name": "Chang's Chicken Lettuce Wraps", "size": "", "price": "$11.50", "calories": "", "desc": "Wok-seared chicken with cool lettuce cups, the signature" },
+        { "name": "Vegetarian Lettuce Wraps", "size": "", "price": "$9.50", "calories": "", "desc": "The meat-free lettuce wraps" },
+        { "name": "Pork Dumplings", "size": "4 or 6 pc", "price": "$6.00 - $10.00", "calories": "", "desc": "Hand-folded pork dumplings, steamed or pan-fried" },
+        { "name": "Crab Wontons", "size": "4 or 6 pc", "price": "$8.00 - $12.00", "calories": "", "desc": "Crispy crab wontons" },
+        { "name": "Spring Rolls", "size": "2 or 4 pc", "price": "$5.00 - $8.00", "calories": "", "desc": "Crispy vegetable spring rolls" }
+      ]
+    },
+    {
+      "category": "Signature Wok Entrees",
+      "intro": "The made-to-order wok dishes.",
+      "items": [
+        { "name": "Kung Pao Chicken", "size": "", "price": "$9.95", "calories": "", "desc": "Spicy chicken with peanuts and chilies" },
+        { "name": "Orange Peel Chicken", "size": "", "price": "$9.95", "calories": "", "desc": "Crispy chicken in a sweet-spicy orange sauce" },
+        { "name": "Sweet & Sour Chicken", "size": "", "price": "$9.95", "calories": "", "desc": "Classic sweet and sour chicken" },
+        { "name": "Crispy Honey Chicken", "size": "", "price": "$12.50", "calories": "", "desc": "Crispy chicken in a honey glaze" },
+        { "name": "Chang's Spicy Chicken", "size": "", "price": "$13.50", "calories": "", "desc": "The signature spicy chicken" },
+        { "name": "Mongolian Beef", "size": "", "price": "$19.95", "calories": "", "desc": "Wok-seared beef with scallions, the signature beef dish" }
+      ]
+    },
+    {
+      "category": "Noodles & Rice",
+      "intro": "Signature lo mein and Pad Thai.",
+      "items": [
+        { "name": "Signature Lo Mein (Chicken/Pork/Veg)", "size": "", "price": "$11.50", "calories": "", "desc": "Lo mein noodles (beef or shrimp $12.50, combo $13.50)" },
+        { "name": "Pad Thai (Chicken)", "size": "", "price": "$16.50", "calories": "", "desc": "Rice-noodle pad thai (shrimp or combo $19.50)" },
+        { "name": "Fried Rice (upgrade)", "size": "", "price": "Varies", "calories": "", "desc": "Chicken fried rice, usually an upgrade with an entree (priced at the restaurant)" }
+      ]
+    },
+    {
+      "category": "Dessert",
+      "intro": "The famous chocolate tower and other desserts.",
+      "items": [
+        { "name": "The Great Wall of Chocolate", "size": "", "price": "$8.00 - $9.00", "calories": "", "desc": "A towering six-layer chocolate cake, the signature dessert" },
+        { "name": "Banana Spring Rolls", "size": "", "price": "$7.00 - $8.00", "calories": "", "desc": "Crispy banana spring rolls with ice cream" },
+        { "name": "New York-Style Cheesecake", "size": "", "price": "$7.00 - $8.00", "calories": "", "desc": "Classic cheesecake" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Wok Dishes at Home",
+    "intro": "Want lettuce wraps and Mongolian beef at home? These picks help.",
+    "cards": [
+      { "icon": "🥢", "name": "Carbon Steel Wok", "blurb": "For wok-seared stir-fries.", "amazon_search": "carbon steel wok" },
+      { "icon": "🥬", "name": "Lettuce Wrap Sauce", "blurb": "For copycat Chang's lettuce wraps.", "amazon_search": "lettuce wrap stir fry sauce" },
+      { "icon": "🍚", "name": "Jasmine Rice", "blurb": "The classic side for wok dishes.", "amazon_search": "jasmine rice" },
+      { "icon": "🥟", "name": "Dumpling Kit", "blurb": "For hand-folded dumplings.", "amazon_search": "dumpling making kit" }
+    ]
+  },
+
+  "popular_items": [
+    "Chang's Chicken Lettuce Wraps",
+    "Mongolian Beef",
+    "Kung Pao Chicken",
+    "Orange Peel Chicken",
+    "Great Wall of Chocolate"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much are the lettuce wraps at P.F. Chang's?",
+      "a": "Chang's Chicken Lettuce Wraps are about $11.50, and the vegetarian version is $9.50. They are the chain's most famous starter, and some locations run weekday specials like endless lettuce wraps. Prices vary by location."
+    },
+    {
+      "q": "How much is Mongolian Beef at P.F. Chang's?",
+      "a": "Mongolian Beef is about $19.95, the signature beef wok dish with scallions in a savory sauce. Chicken entrees like kung pao and orange peel chicken are cheaper at $9.95, and crispy honey chicken is $12.50. Prices vary by location."
+    },
+    {
+      "q": "What is P.F. Chang's known for?",
+      "a": "P.F. Chang's is an Asian-fusion casual-dining chain known for its made-to-order wok dishes, the Chang's Chicken Lettuce Wraps, Mongolian Beef, hand-folded dumplings, and the towering Great Wall of Chocolate dessert. It also has a large gluten-free menu."
+    },
+    {
+      "q": "Does P.F. Chang's list calories?",
+      "a": "P.F. Chang's publishes nutrition information in its restaurants and online, but item calories are not reproduced here and are left blank rather than guessed. Totals vary with the dish, the sauce and the choice of protein and rice."
+    },
+    {
+      "q": "What are the most popular dishes at P.F. Chang's?",
+      "a": "Favorites include Chang's Chicken Lettuce Wraps, Mongolian Beef, kung pao chicken, orange peel chicken, and the Great Wall of Chocolate for dessert."
+    }
+  ],
+
+  "internal_links": [
+    "benihana-menu",
+    "noodles-company-menu",
+    "cheesecake-factory-menu",
+    "longhorn-steakhouse-menu",
+    "del-taco-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > P.F. Chang's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing. Dumplings/wontons/spring rolls given as piece-count ranges; fried rice left blank as an upgrade.",
+    "calories": "Deliberately left blank. P.F. Chang's publishes nutrition information (chains with 20+ US locations must post calories), but item calories were not reproduced rather than guessed. On import the 'does not publish' wording was changed to match the site rule, and the blank fried rice price became 'Varies'. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels Asian stir-fry (pexels-34613221). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (casual full-service restaurant). Internal link cheesecake-factory-menu may not exist yet; drop any missing-page link. #85 of the expansion list.",
+    "keyword_notes": "High-volume brand (12k). Sections and FAQ shaped by real P.F. Chang's search demand: lettuce wraps price, Mongolian Beef price, what it is known for, calories question, popular dishes. Dumplings and lo mein given as count/protein price strings."
+  }
+}
