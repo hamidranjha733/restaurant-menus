@@ -1,0 +1,160 @@
+{
+  "slug": "amalfi-llama-menu",
+  "brand": "The Amalfi Llama",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/amalfi-llama-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/38475583/pexels-photo-38475583.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "The Amalfi Llama style gourmet Italian pasta dish plated with wine",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-38475583",
+    "_verify_note": "Tentative hero (upscale Italian pasta). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "The Amalfi Llama Menu With Prices (2026)",
+    "meta_description": "The Amalfi Llama menu with prices for 2026: the upscale Italian restaurant's wood-fire pizzas, pasta, steaks, salads and signature dishes in Miami & San Diego.",
+    "h1": "The Amalfi Llama Menu With Prices (2026)",
+    "primary_keyword": "amalfi llama menu",
+    "keyword_volume": 900,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location and menu update. The Amalfi Llama is an upscale sit-down Italian restaurant (Miami/Aventura and San Diego), so it does not publish calorie information, and calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "The Amalfi Llama is an upscale Italian restaurant inspired by the Amalfi Coast, with locations in the Miami area (Aventura) and San Diego. The menu runs from wood-fire pizzas and handmade pasta to prime steaks, chops and seafood, plus focaccia, salads and signature plates like the short rib empanada. It is a full-service, higher-end dining experience rather than a fast-food chain. Below is The Amalfi Llama menu with prices for 2026.",
+
+  "quick_answer": "At The Amalfi Llama, pasta runs about $26 to $60 (spaghetti $26, truffle tagliatelle $60), wood-fire pizzas are $24 to $31, and steaks and chops are $49 to $82 (8oz filet $67, 16oz ribeye $82). Starters like the focaccia ($15) and short rib empanada ($20) open the menu. It is an upscale Italian spot, so prices are restaurant-level, not fast food.",
+
+  "highlights": [
+    { "strong": "Amalfi Coast", "label": "upscale Italian dining" },
+    { "strong": "Wood fire", "label": "pizzas and grilled mains" },
+    { "strong": "Prime steaks", "label": "filet, ribeye and chops" },
+    { "strong": "Miami & San Diego", "label": "the two locations" }
+  ],
+
+  "hot_deal": "The Amalfi Llama value: this is upscale dining, so the best value is at the lighter end, the focaccia ($15), a wood-fire Margherita ($24) or the spaghetti ($26). The restaurant has taken part in San Diego Restaurant Week with prix-fixe menus, which is the cheapest way to try several courses. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Starters & Salads",
+      "intro": "Focaccia, the short rib empanada and the salads.",
+      "items": [
+        { "name": "Focaccia", "size": "", "price": "$15.00", "calories": "", "desc": "House-baked focaccia, the table starter" },
+        { "name": "Short Rib Empanada", "size": "", "price": "$20.00", "calories": "", "desc": "A signature starter, braised short rib in pastry" },
+        { "name": "Caesar Salad", "size": "", "price": "$20.00", "calories": "", "desc": "Classic Caesar" },
+        { "name": "Roasted Beet Salad", "size": "", "price": "$22.00", "calories": "", "desc": "Roasted beets with greens" },
+        { "name": "House Chopped Salad", "size": "", "price": "$22.00", "calories": "", "desc": "The house chopped salad" },
+        { "name": "Arugula Artichoke Salad", "size": "", "price": "$24.00", "calories": "", "desc": "Arugula with artichoke" }
+      ]
+    },
+    {
+      "category": "Pasta",
+      "intro": "Handmade pasta, from spaghetti to truffle tagliatelle.",
+      "items": [
+        { "name": "Spaghetti", "size": "", "price": "$26.00", "calories": "", "desc": "Classic spaghetti, the entry pasta" },
+        { "name": "Cacio e Pepe", "size": "", "price": "$30.00", "calories": "", "desc": "Pecorino and black pepper pasta" },
+        { "name": "Bolognese Rigatoni", "size": "", "price": "$40.00", "calories": "", "desc": "Rigatoni in a slow meat ragu" },
+        { "name": "Lobster Arrabbiata", "size": "", "price": "$58.00", "calories": "", "desc": "Spicy tomato pasta with lobster" },
+        { "name": "Truffle Tagliatelle", "size": "", "price": "$60.00", "calories": "", "desc": "Tagliatelle with truffle, the top pasta" }
+      ]
+    },
+    {
+      "category": "Wood-Fire Pizza",
+      "intro": "Pizza Fina, thin wood-fired pizzas.",
+      "items": [
+        { "name": "Margherita", "size": "", "price": "$24.00", "calories": "", "desc": "Tomato, mozzarella and basil" },
+        { "name": "Salsiccia Pizza", "size": "", "price": "$26.00", "calories": "", "desc": "Italian sausage pizza" },
+        { "name": "Positano", "size": "", "price": "$28.00", "calories": "", "desc": "A signature Amalfi-style pizza" },
+        { "name": "Truffle & Mushroom", "size": "", "price": "$31.00", "calories": "", "desc": "Truffle and mushroom, the top pizza" }
+      ]
+    },
+    {
+      "category": "Wood-Fire Mains & Sandwiches",
+      "intro": "Prime steaks, chops, chicken and the sandwiches.",
+      "items": [
+        { "name": "Amalfi Burger", "size": "", "price": "$22.00", "calories": "", "desc": "The house burger, the value main" },
+        { "name": "Prime French Dip", "size": "", "price": "$29.00", "calories": "", "desc": "Prime beef French dip sandwich" },
+        { "name": "Maine Lobster Roll", "size": "", "price": "$36.00", "calories": "", "desc": "Maine lobster roll" },
+        { "name": "Wood-Grilled Half Chicken", "size": "", "price": "$42.00", "calories": "", "desc": "Half chicken over the wood fire" },
+        { "name": "Center Cut Filet (8oz)", "size": "8 oz", "price": "$67.00", "calories": "", "desc": "8 oz center cut filet" },
+        { "name": "Prime New York Strip", "size": "", "price": "$72.00", "calories": "", "desc": "Prime New York strip steak" },
+        { "name": "Lamb Chops", "size": "", "price": "$74.00", "calories": "", "desc": "Grilled lamb chops" },
+        { "name": "Prime Ribeye (16oz)", "size": "16 oz", "price": "$82.00", "calories": "", "desc": "16 oz prime ribeye, the top steak" }
+      ]
+    },
+    {
+      "category": "Dessert",
+      "intro": "The house dessert.",
+      "items": [
+        { "name": "Fire-Roasted Cheesecake", "size": "", "price": "$18.00", "calories": "", "desc": "Fire-roasted cheesecake" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Amalfi-Style Italian at Home",
+    "intro": "Want wood-fire pizza and truffle pasta at home? These picks help.",
+    "cards": [
+      { "icon": "🔥", "name": "Outdoor Pizza Oven", "blurb": "For wood-fire-style pizzas.", "amazon_search": "outdoor pizza oven" },
+      { "icon": "🍝", "name": "Pasta Maker", "blurb": "For fresh tagliatelle and spaghetti.", "amazon_search": "pasta maker machine" },
+      { "icon": "🍄", "name": "Truffle Oil & Pecorino", "blurb": "For cacio e pepe and truffle pasta.", "amazon_search": "white truffle oil" },
+      { "icon": "🥩", "name": "Cast Iron Grill Pan", "blurb": "For prime steaks and chops.", "amazon_search": "cast iron grill pan" }
+    ]
+  },
+
+  "popular_items": [
+    "Short Rib Empanada",
+    "Truffle & Mushroom Pizza",
+    "Truffle Tagliatelle",
+    "Center Cut Filet",
+    "Fire-Roasted Cheesecake"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a meal at The Amalfi Llama?",
+      "a": "It is upscale Italian dining. Pasta runs about $26 to $60, wood-fire pizzas $24 to $31, and steaks and chops $49 to $82. Starters like focaccia ($15) and the short rib empanada ($20) are the lighter spend. A full dinner for two with drinks is a higher-end bill."
+    },
+    {
+      "q": "Where is The Amalfi Llama located?",
+      "a": "The Amalfi Llama is an Amalfi-Coast-inspired Italian restaurant with locations in the Miami area (Aventura) and San Diego. It is a full-service sit-down restaurant, not a chain with many branches."
+    },
+    {
+      "q": "What is The Amalfi Llama known for?",
+      "a": "It is known for upscale Italian food in a stylish setting: wood-fire pizzas, handmade pasta like the truffle tagliatelle, prime steaks and chops, and signature plates such as the short rib empanada and the fire-roasted cheesecake."
+    },
+    {
+      "q": "Does The Amalfi Llama list calories?",
+      "a": "No. As an upscale sit-down restaurant, The Amalfi Llama does not publish calorie counts for its dishes, so calories are not listed here rather than guessed. Portions and preparation vary by dish and season."
+    },
+    {
+      "q": "What are the most popular dishes at The Amalfi Llama?",
+      "a": "Favorites include the short rib empanada, the truffle and mushroom pizza, the truffle tagliatelle, the center cut filet, and the fire-roasted cheesecake."
+    }
+  ],
+
+  "internal_links": [
+    "longhorn-steakhouse-menu",
+    "red-lobster-menu",
+    "twin-peaks-menu",
+    "ihop-menu",
+    "cheddars-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since this upscale restaurant does not publish nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > The Amalfi Llama."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from the restaurant's own Toast online-ordering menu (Miami location). Real listed prices; may vary by location (Miami/Aventura vs San Diego) and menu update.",
+    "calories": "Deliberately left blank. The Amalfi Llama is an upscale sit-down restaurant that does not publish nutrition information. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are real menu prices at time of writing and vary by location and update. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels gourmet Italian pasta (pexels-38475583). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (upscale sit-down restaurant, alongside LongHorn, Red Lobster, Twin Peaks). Second brand of the new expansion list (#64).",
+    "keyword_notes": "This is a lower-volume niche brand, not a national chain. Sections and FAQ shaped around meal cost, locations, what it is known for, the no-calories note, and popular dishes."
+  }
+}

@@ -47,7 +47,7 @@ const normalizeSize = (s: string) =>
     .toLowerCase()
     .replace(/\b(pcs?|pieces?|ct|count)\b/g, "pc")
     .replace(/\bfingers\b/g, "finger")
-    .replace(/(\d)-(?=[a-z])/g, "$1 ")
+    .replace(/(\d)[- ]?(?=[a-z])/g, "$1 ")
     .replace(/\s+/g, " ")
     .trim();
 
