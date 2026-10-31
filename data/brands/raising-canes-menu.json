@@ -1,0 +1,152 @@
+{
+  "slug": "raising-canes-menu",
+  "brand": "Raising Cane's",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/raising-canes-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/14537698/pexels-photo-14537698.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Raising Cane's style crispy chicken fingers with fries and a creamy dipping sauce",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-14537698"
+  },
+
+  "seo": {
+    "meta_title": "Raising Cane's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Raising Cane's menu with prices and calories for 2026: Box Combo, 3 Finger Combo, Caniac Combo, kids meals, Tailgate packs, sides, Cane's Sauce and drinks.",
+    "h1": "Raising Cane's Menu With Prices (2026)",
+    "primary_keyword": "raising canes menu with prices",
+    "keyword_volume": 15000,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
+
+  "intro": "Raising Cane's has one of the simplest menus in fast food: premium chicken fingers, crinkle-cut fries, Texas toast, coleslaw and the famous Cane's Sauce. There are no burgers and no nuggets, just combos built around fresh, never-frozen chicken fingers. The 3 Finger and Box combos are the core of the menu. Below is the full Raising Cane's menu with prices and calories for 2026.",
+
+  "quick_answer": "Raising Cane's keeps it simple with chicken finger combos. The 3 Finger Combo is about $9.99, the Box Combo (4 fingers, fries, Texas toast, coleslaw, a drink and sauce) is around $12.99, and the Caniac Combo (6 fingers) is about $16.99. Everything comes with Cane's signature sauce.",
+
+  "highlights": [
+    { "strong": "$9.99", "label": "3 Finger Combo" },
+    { "strong": "$12.99", "label": "Box Combo (4 fingers)" },
+    { "strong": "ONE LOVE", "label": "chicken fingers only" },
+    { "strong": "Cane's Sauce", "label": "the signature dip" }
+  ],
+
+  "hot_deal": "Raising Cane's keeps pricing flat rather than running discounts, but the Box Combo is the value pick: four chicken fingers, crinkle-cut fries, Texas toast, coleslaw, a drink and Cane's Sauce for around $12.99. Tailgate packs (25 to 100 fingers) are the go-to for groups and game day.",
+
+  "menu": [
+    {
+      "category": "Combos",
+      "intro": "Every combo comes with crinkle-cut fries, Texas toast, Cane's Sauce and a drink. These are the whole menu.",
+      "items": [
+        { "name": "3 Finger Combo", "size": "3 fingers", "price": "$9.99", "calories": "1020", "desc": "Three chicken fingers, fries, Texas toast, coleslaw, sauce and a drink" },
+        { "name": "Box Combo", "size": "4 fingers", "price": "$12.99", "calories": "1250", "desc": "Four chicken fingers, fries, Texas toast, coleslaw, sauce and a drink" },
+        { "name": "Caniac Combo", "size": "6 fingers", "price": "$16.99", "calories": "1790", "desc": "Six chicken fingers, fries, Texas toast, extra sauce and a large drink" },
+        { "name": "The Sandwich Combo", "size": "", "price": "$11.29", "calories": "1080", "desc": "Chicken finger sandwich on a kaiser bun with fries and a drink" },
+        { "name": "Kids Combo", "size": "2 fingers", "price": "$6.99", "calories": "630", "desc": "Two chicken fingers, fries, a kids drink and sauce" }
+      ]
+    },
+    {
+      "category": "A La Carte & Sides",
+      "intro": "Build your own order or add extras. Calories listed where known.",
+      "items": [
+        { "name": "Chicken Finger (each)", "size": "", "price": "$1.99", "calories": "130", "desc": "A single fresh, never-frozen chicken finger" },
+        { "name": "The Sandwich (only)", "size": "", "price": "$8.49", "calories": "780", "desc": "Chicken finger sandwich on a kaiser bun with sauce" },
+        { "name": "Crinkle-Cut Fries", "size": "", "price": "$2.99", "calories": "390", "desc": "Signature crinkle-cut fries" },
+        { "name": "Texas Toast", "size": "", "price": "$1.49", "calories": "140", "desc": "Buttery grilled Texas toast" },
+        { "name": "Coleslaw", "size": "", "price": "$1.49", "calories": "100", "desc": "Creamy coleslaw" },
+        { "name": "Extra Cane's Sauce", "size": "", "price": "$0.50", "calories": "190", "desc": "The signature dipping sauce" }
+      ]
+    },
+    {
+      "category": "Tailgate Packs (For Groups)",
+      "intro": "Chicken fingers and Cane's Sauce by the box for parties and game day. One finger is about 130 cal.",
+      "items": [
+        { "name": "25 Finger Tailgate", "size": "25 fingers", "price": "$45.99", "calories": "", "desc": "25 chicken fingers with Cane's Sauce; serves about 6 to 8" },
+        { "name": "50 Finger Tailgate", "size": "50 fingers", "price": "$89.99", "calories": "", "desc": "50 chicken fingers with sauce; serves about 12 to 16" },
+        { "name": "75 Finger Tailgate", "size": "75 fingers", "price": "$134.99", "calories": "", "desc": "75 chicken fingers with sauce; serves about 18 to 24" },
+        { "name": "100 Finger Tailgate", "size": "100 fingers", "price": "$174.99", "calories": "", "desc": "100 chicken fingers with sauce; serves a crowd" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Freshly squeezed lemonade, sweet tea and fountain drinks.",
+      "items": [
+        { "name": "Fresh-Squeezed Lemonade", "size": "large", "price": "$2.99", "calories": "240", "desc": "Cane's signature fresh-squeezed lemonade" },
+        { "name": "Sweet / Unsweet Tea", "size": "regular", "price": "$2.49", "calories": "", "desc": "Freshly brewed iced tea" },
+        { "name": "Fountain Drink", "size": "regular", "price": "$2.49", "calories": "", "desc": "Coca-Cola fountain drinks" },
+        { "name": "Gallon of Tea", "size": "gallon", "price": "$7.99", "calories": "", "desc": "A gallon of sweet or unsweet tea to go" },
+        { "name": "Gallon of Lemonade", "size": "gallon", "price": "$13.99", "calories": "", "desc": "A gallon of fresh-squeezed lemonade to go" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Raising Cane's at Home",
+    "intro": "Craving the fingers and sauce at home? These picks help you fry and dip just like Cane's.",
+    "cards": [
+      { "icon": "🍗", "name": "Air Fryer", "blurb": "Crisp up chicken fingers without deep frying.", "amazon_search": "air fryer" },
+      { "icon": "🥫", "name": "Cane's Sauce Ingredients", "blurb": "Mayo, ketchup, Worcestershire and pepper for the copycat dip.", "amazon_search": "worcestershire sauce" },
+      { "icon": "🍟", "name": "Crinkle-Cut Fries", "blurb": "Frozen crinkle fries for the full combo at home.", "amazon_search": "crinkle cut french fries" },
+      { "icon": "📖", "name": "Copycat Fast Food Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "3 Finger Combo",
+    "Box Combo",
+    "Caniac Combo",
+    "Cane's Sauce",
+    "Crinkle-Cut Fries"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is on the Raising Cane's menu?",
+      "a": "Raising Cane's only serves chicken finger combos. Every combo comes with crinkle-cut fries, Texas toast, Cane's Sauce and a drink. There are no burgers, nuggets or wings."
+    },
+    {
+      "q": "How much is a Box Combo at Raising Cane's?",
+      "a": "The Box Combo is about $12.99 and includes four chicken fingers, crinkle-cut fries, Texas toast, coleslaw, a drink and Cane's Sauce. It is the most popular combo."
+    },
+    {
+      "q": "What is Cane's Sauce?",
+      "a": "Cane's Sauce is the chain's signature creamy dipping sauce, served with every combo. A small ramekin is about 190 calories, and extra sauce is around $0.50."
+    },
+    {
+      "q": "What is the Caniac Combo?",
+      "a": "The Caniac Combo is the biggest combo: six chicken fingers, crinkle-cut fries, Texas toast, extra Cane's Sauce and a large drink for about $16.99. It is roughly 1,790 calories."
+    },
+    {
+      "q": "Does Raising Cane's have a chicken sandwich?",
+      "a": "Yes. The Sandwich is three chicken fingers on a kaiser bun with Cane's Sauce. On its own it is about $8.49, and the combo with fries and a drink is around $11.29."
+    },
+    {
+      "q": "What are the most popular items at Raising Cane's?",
+      "a": "The best sellers are the 3 Finger Combo, the Box Combo, the Caniac Combo, the famous Cane's Sauce, and the crinkle-cut fries."
+    }
+  ],
+
+  "internal_links": [
+    "kfc-menu",
+    "chilis-menu",
+    "applebees-menu",
+    "chipotle-menu",
+    "texas-roadhouse-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Raising Cane's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from established menu-prices publications; Raising Cane's prices vary notably by location, so mid-range representative US prices are used. Calories from a published Raising Cane's nutrition source.",
+    "calories": "Shown where a reliable figure exists; Tailgate packs and most drinks are left blank (one finger is about 130 cal). Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels chicken-fingers-and-fries image (pexels-14537698), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Raising Cane's search demand: Box Combo price, Cane's Sauce, Caniac Combo, what's on the menu, chicken sandwich, Tailgate packs."
+  }
+}
