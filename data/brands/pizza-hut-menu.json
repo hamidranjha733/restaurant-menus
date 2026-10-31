@@ -1,0 +1,159 @@
+{
+  "slug": "pizza-hut-menu",
+  "brand": "Pizza Hut",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/pizza-hut-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/34650632/pexels-photo-34650632.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Pizza Hut style pan pizza in a black pan with breadsticks on the side",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-34650632"
+  },
+
+  "seo": {
+    "meta_title": "Pizza Hut Menu With Prices & Calories (2026)",
+    "meta_description": "Full Pizza Hut menu with prices and calories for 2026: pan pizza, stuffed crust, Meat Lover's, personal pan, wings, breadsticks, pasta and desserts.",
+    "h1": "Pizza Hut Menu With Prices (2026)",
+    "primary_keyword": "pizza hut menu with prices",
+    "keyword_volume": 4500,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, size, crust and toppings. Last updated October 2026.",
+
+  "intro": "Pizza Hut is the pizza chain known for its Original Pan Pizza with the crispy, buttery edge, the cheese-filled Original Stuffed Crust, and specialty pies like the Meat Lover's and Supreme. Add wings, breadsticks, pasta and the Ultimate HERSHEY'S cookie, and it's a full sit-down or delivery menu. Crust changes the calories a lot: a medium cheese slice is about 190 cal thin, 220 hand tossed, 280 pan and 340 stuffed crust. Below is the full Pizza Hut menu with prices and calories for 2026.",
+
+  "quick_answer": "A large hand-tossed cheese pizza at Pizza Hut is about $16.99, a large Original Pan is $17.99, and large specialty pizzas like the Meat Lover's run $18.99 to $19.99. The classic Personal Pan Pizza is about $5.49, 8 wings are around $10.99, and breadsticks start at $5.99. Pan Pizza is the signature.",
+
+  "highlights": [
+    { "strong": "Original Pan", "label": "the signature crispy crust" },
+    { "strong": "$5.49", "label": "Personal Pan Pizza" },
+    { "strong": "Stuffed Crust", "label": "cheese-filled edge" },
+    { "strong": "4 crusts", "label": "pan, hand tossed, thin, stuffed" }
+  ],
+
+  "hot_deal": "Pizza Hut value: the Big Dinner Box and the $7 Deal Lover's menu (any pizza, wings or pasta at a set price) are the headline deals, and the app and Hut Rewards add points toward free pizza. The Personal Pan Pizza ($5.49) is the cheapest way in. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Pizza (Cheese / Build Your Own)",
+      "intro": "Pick a size and crust. A medium cheese slice is about 190 cal thin, 220 hand tossed, 280 pan.",
+      "items": [
+        { "name": "Personal Pan Pizza (1-topping)", "size": "personal", "price": "$5.49", "calories": "", "desc": "The classic single-serve pan pizza" },
+        { "name": "Cheese Pizza (Medium, Hand Tossed)", "size": "medium", "price": "$13.99", "calories": "", "desc": "Medium cheese, about 220 cal per slice" },
+        { "name": "Cheese Pizza (Large, Hand Tossed)", "size": "large", "price": "$16.99", "calories": "", "desc": "Large hand-tossed cheese pizza" },
+        { "name": "Original Pan Pizza (Large, 1-topping)", "size": "large", "price": "$17.99", "calories": "", "desc": "Signature crispy, buttery pan crust (about 280 cal per slice)" },
+        { "name": "Thin 'N Crispy (Large, 1-topping)", "size": "large", "price": "$16.99", "calories": "", "desc": "Light, crispy thin crust (about 190 cal per slice)" },
+        { "name": "Original Stuffed Crust (Large, cheese)", "size": "large", "price": "$18.99", "calories": "", "desc": "Crust stuffed with mozzarella (about 360 cal per slice)" }
+      ]
+    },
+    {
+      "category": "Specialty Pizzas",
+      "intro": "Pre-built favorites, large prices shown.",
+      "items": [
+        { "name": "Meat Lover's", "size": "large", "price": "$19.99", "calories": "", "desc": "Pepperoni, ham, sausage, beef, pork and bacon (about 330 cal per medium slice)" },
+        { "name": "Pepperoni Lover's", "size": "large", "price": "$18.99", "calories": "", "desc": "Double pepperoni and double cheese" },
+        { "name": "Supreme", "size": "large", "price": "$18.99", "calories": "", "desc": "Pepperoni, sausage, onions, peppers and mushrooms (about 270 cal per medium slice)" },
+        { "name": "Veggie Lover's", "size": "large", "price": "$17.99", "calories": "", "desc": "Onions, peppers, mushrooms, olives and tomatoes" },
+        { "name": "Backyard BBQ Chicken", "size": "large", "price": "$18.99", "calories": "", "desc": "Chicken, bacon, onions and BBQ sauce" },
+        { "name": "Hawaiian Chicken", "size": "large", "price": "$18.99", "calories": "", "desc": "Chicken, ham and pineapple" }
+      ]
+    },
+    {
+      "category": "Melts, Wings & Sides",
+      "intro": "Pizza Melts, wings and the famous breadsticks.",
+      "items": [
+        { "name": "Melts (Pepperoni / Meat Lover's / Buffalo Chicken)", "size": "", "price": "$7.99", "calories": "", "desc": "A folded, personal-size melt, cut in half" },
+        { "name": "Bone-In Wings (8 pc)", "size": "8 pieces", "price": "$10.99", "calories": "", "desc": "Traditional wings (about 80 to 90 cal each)" },
+        { "name": "Boneless Wings (8 pc)", "size": "8 pieces", "price": "$9.99", "calories": "", "desc": "Breaded boneless wings (about 130 cal per 2)" },
+        { "name": "Breadsticks (5 pc)", "size": "5 pieces", "price": "$5.99", "calories": "", "desc": "Classic breadsticks with marinara (about 140 cal each)" },
+        { "name": "Cheese Sticks (8 pc)", "size": "8 pieces", "price": "$8.49", "calories": "", "desc": "Cheese-topped breadsticks (about 170 cal each)" },
+        { "name": "Stuffed Garlic Knots (10 pc)", "size": "10 pieces", "price": "$7.49", "calories": "", "desc": "Cheese-stuffed garlic knots" }
+      ]
+    },
+    {
+      "category": "Pasta",
+      "intro": "Baked pasta, enough to share.",
+      "items": [
+        { "name": "Chicken Alfredo", "size": "", "price": "$10.99", "calories": "", "desc": "Penne with grilled chicken in creamy alfredo" },
+        { "name": "Meaty Marinara", "size": "", "price": "$9.49", "calories": "", "desc": "Penne with meatballs and marinara" }
+      ]
+    },
+    {
+      "category": "Desserts & Drinks",
+      "intro": "Cinnamon sticks, the HERSHEY'S cookie and drinks.",
+      "items": [
+        { "name": "Cinnamon Sticks (10 pc)", "size": "10 pieces", "price": "$5.99", "calories": "", "desc": "Cinnamon-sugar sticks with icing (about 250 cal per 2)" },
+        { "name": "Ultimate HERSHEY'S Chocolate Chip Cookie", "size": "", "price": "$7.99", "calories": "", "desc": "A warm, sliceable chocolate chip cookie pie" },
+        { "name": "Chocolate Dunkers", "size": "", "price": "$6.49", "calories": "", "desc": "Chocolate-dipped dessert bites" },
+        { "name": "Pepsi (2 Liter)", "size": "2 L", "price": "$3.49", "calories": "", "desc": "A 2-liter bottle to share" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Pan Pizza at Home",
+    "intro": "Want that crispy pan crust at home? These picks help.",
+    "cards": [
+      { "icon": "🍳", "name": "Cast Iron Pizza Pan", "blurb": "For a crispy, buttery pan crust.", "amazon_search": "cast iron pizza pan deep dish" },
+      { "icon": "🧀", "name": "Shredded Mozzarella", "blurb": "The cheese pull every pizza needs.", "amazon_search": "shredded mozzarella cheese" },
+      { "icon": "🥫", "name": "Pizza Sauce", "blurb": "Classic tomato pizza sauce.", "amazon_search": "pizza sauce jar" },
+      { "icon": "📖", "name": "Copycat Pizza Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Original Pan Pizza",
+    "Meat Lover's",
+    "Original Stuffed Crust",
+    "Personal Pan Pizza",
+    "Breadsticks"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a large pizza at Pizza Hut?",
+      "a": "A large hand-tossed cheese pizza is about $16.99, a large Original Pan is $17.99, and large specialty pizzas like the Meat Lover's run $18.99 to $19.99. Stuffed crust adds a little more."
+    },
+    {
+      "q": "What is Pizza Hut's Original Pan Pizza?",
+      "a": "The Original Pan Pizza is Pizza Hut's signature: dough baked in an oiled pan so the bottom and edge fry up crispy and golden while the inside stays soft. A medium pan slice is about 280 calories."
+    },
+    {
+      "q": "How much is a Personal Pan Pizza?",
+      "a": "The Personal Pan Pizza is about $5.49, the cheapest way onto the menu and a long-time lunch favorite. It is a single-serve version of the Original Pan crust with your choice of a topping."
+    },
+    {
+      "q": "What crusts does Pizza Hut offer?",
+      "a": "Pizza Hut offers Original Pan, Hand Tossed, Thin 'N Crispy and Original Stuffed Crust. Crust changes the calories a lot, from about 190 per medium thin slice to 360 for stuffed crust."
+    },
+    {
+      "q": "What are the most popular items at Pizza Hut?",
+      "a": "The best known are the Original Pan Pizza, the Meat Lover's, the Original Stuffed Crust, the Personal Pan Pizza, and the breadsticks."
+    }
+  ],
+
+  "internal_links": [
+    "dominos-menu",
+    "taco-bell-menu",
+    "wingstop-menu",
+    "mcdonalds-menu",
+    "subway-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Pizza Hut."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from established menu-prices publications (typical US pricing; stated as ranges there, representative single prices used). May vary by location and franchise.",
+    "calories": "Pizza calories depend heavily on size, crust and toppings, so per-slice figures are noted inside descriptions (medium: thin 190, hand tossed 220, pan 280, stuffed crust 360 per slice) rather than in the calorie column; most items left blank. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location, size, crust and toppings. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels pan-pizza-in-black-pan image with breadsticks (pexels-34650632), portrait that crops well to a wide hero, hotlinked CDN URL that loads client-side. Distinctly Pizza Hut (pan crust + breadsticks), different from the Domino's cheese-pull slice.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (same as Domino's). No new category needed.",
+    "keyword_notes": "Sections and FAQ shaped by real Pizza Hut search demand: large pizza price, Original Pan, Personal Pan price, crust types, popular items."
+  }
+}
