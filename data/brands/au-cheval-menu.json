@@ -1,0 +1,146 @@
+{
+  "slug": "au-cheval-menu",
+  "brand": "Au Cheval",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/au-cheval-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/21296401/pexels-photo-21296401.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Au Cheval style double cheeseburger with bacon and cheese",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-21296401",
+    "_verify_note": "Tentative hero (double cheeseburger for the famous Au Cheval burger). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Au Cheval Menu With Prices (2026)",
+    "meta_description": "Au Cheval menu with prices for 2026: the famous cheeseburger, bologna sandwich, honey-fried chicken, crispy fries and egg dishes at the Chicago and NYC diner.",
+    "h1": "Au Cheval Menu With Prices (2026)",
+    "primary_keyword": "au cheval menu",
+    "keyword_volume": 1900,
+    "keyword_kd": 3
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary by location (Chicago and New York) and menu update. Au Cheval is an upscale sit-down diner, so it does not publish calorie information, and calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Au Cheval is the upscale Chicago diner, with a New York location too, whose cheeseburger is regularly called one of the best in America. Beyond the burger it serves an elevated diner menu: a fried bologna sandwich, General Jane's honey-fried chicken, crispy fries topped with a farm egg, and rich egg dishes. It is a full-service restaurant known for long waits, not a fast-food chain. Below is the Au Cheval menu with prices for 2026.",
+
+  "quick_answer": "At Au Cheval, the famous cheeseburger is about $19.99 single and $20.99 double, the fried bologna sandwich is $18.99, and General Jane's honey-fried chicken is $26.99. French fries are $9.99 and the crispy fries with a farm egg are $15.99. It is an upscale diner, so prices are higher than fast food, and the burger is the icon.",
+
+  "highlights": [
+    { "strong": "The cheeseburger", "label": "called America's best" },
+    { "strong": "Thick-cut bacon", "label": "the famous add-on" },
+    { "strong": "Honey-fried chicken", "label": "General Jane's" },
+    { "strong": "Chicago & NYC", "label": "the two locations" }
+  ],
+
+  "hot_deal": "Au Cheval value: the single cheeseburger ($19.99) is the signature order and the thing to get, and adding thick-cut peppered bacon ($16.99 as a side, or on the burger) is the classic move. French fries ($9.99) are the cheapest add-on. It is an upscale diner, so there is no value menu; the burger itself is the draw. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Burgers & Sandwiches",
+      "intro": "The famous cheeseburger and the sandwiches.",
+      "items": [
+        { "name": "Single Cheeseburger", "size": "", "price": "$19.99", "calories": "", "desc": "The famous Au Cheval cheeseburger, often called America's best (add bacon or a fried egg)" },
+        { "name": "Double Cheeseburger", "size": "", "price": "$20.99", "calories": "", "desc": "The double-patty version of the signature burger" },
+        { "name": "Bologna Sandwich", "size": "", "price": "$18.99", "calories": "", "desc": "Fried bologna sandwich, a cult favorite" }
+      ]
+    },
+    {
+      "category": "Starters, Salads & Chicken",
+      "intro": "General Jane's honey-fried chicken and the salads.",
+      "items": [
+        { "name": "General Jane's Honey-Fried Chicken", "size": "", "price": "$26.99", "calories": "", "desc": "The honey-fried chicken plate, a signature" },
+        { "name": "Green Salad", "size": "", "price": "$16.99", "calories": "", "desc": "A simple green salad" },
+        { "name": "Kale Caesar", "size": "", "price": "$17.99", "calories": "", "desc": "Kale Caesar salad" },
+        { "name": "Chopped Salad", "size": "", "price": "$18.99", "calories": "", "desc": "The house chopped salad" }
+      ]
+    },
+    {
+      "category": "Eggs & Hash",
+      "intro": "The rich egg dishes the diner is known for.",
+      "items": [
+        { "name": "Farm Egg", "size": "", "price": "$3.99", "calories": "", "desc": "A single farm egg, a classic add-on" },
+        { "name": "Omelette", "size": "", "price": "$16.99", "calories": "", "desc": "The house omelette" },
+        { "name": "Crispy Duck Heart Hash", "size": "", "price": "$20.99", "calories": "", "desc": "A signature duck heart hash" },
+        { "name": "Chilaquiles", "size": "", "price": "$26.99", "calories": "", "desc": "Rich chilaquiles" }
+      ]
+    },
+    {
+      "category": "Fries & Sides",
+      "intro": "The famous crispy fries and the sides.",
+      "items": [
+        { "name": "French Fries", "size": "", "price": "$9.99", "calories": "", "desc": "Fries with garlic aioli" },
+        { "name": "Crispy Fries", "size": "", "price": "$15.99", "calories": "", "desc": "Fries with mornay, garlic aioli and a fried farm egg" },
+        { "name": "Thick Cut Peppered Bacon", "size": "", "price": "$16.99", "calories": "", "desc": "The famous thick-cut peppered bacon" },
+        { "name": "Hash Browns", "size": "", "price": "$9.99", "calories": "", "desc": "Crispy hash browns" },
+        { "name": "Bread & Butter Pickles", "size": "", "price": "$5.50", "calories": "", "desc": "House bread and butter pickles" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make a Diner Cheeseburger at Home",
+    "intro": "Want an Au Cheval-style burger at home? These picks help.",
+    "cards": [
+      { "icon": "🍔", "name": "Cast Iron Griddle", "blurb": "For a crusty diner-style patty.", "amazon_search": "cast iron griddle flat top" },
+      { "icon": "🧀", "name": "American Cheese Slices", "blurb": "The melty classic for a cheeseburger.", "amazon_search": "american cheese slices" },
+      { "icon": "🥓", "name": "Thick-Cut Bacon", "blurb": "For the famous thick peppered bacon.", "amazon_search": "thick cut peppered bacon" },
+      { "icon": "🥔", "name": "Fry Cutter", "blurb": "For crispy house fries.", "amazon_search": "french fry cutter potato" }
+    ]
+  },
+
+  "popular_items": [
+    "Single Cheeseburger",
+    "Bologna Sandwich",
+    "General Jane's Honey-Fried Chicken",
+    "Crispy Fries",
+    "Thick Cut Peppered Bacon"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is the Au Cheval cheeseburger?",
+      "a": "The Au Cheval cheeseburger is about $19.99 for a single and $20.99 for a double. Adding thick-cut peppered bacon or a fried egg costs extra. It is regularly ranked among the best cheeseburgers in America, which is why it draws long waits."
+    },
+    {
+      "q": "Where is Au Cheval located?",
+      "a": "Au Cheval started as a diner in the West Loop of Chicago and has a New York City location as well. It is a single upscale restaurant in each city, known for long waits, rather than a chain. There is also a smaller spin-off, Small Cheval, for a quicker burger."
+    },
+    {
+      "q": "What is Au Cheval known for?",
+      "a": "Au Cheval is known above all for its cheeseburger, often called the best in America, served on a griddle-crusted patty with cheese and optional thick-cut bacon and a fried egg. It is also known for the fried bologna sandwich and General Jane's honey-fried chicken."
+    },
+    {
+      "q": "Does Au Cheval list calories?",
+      "a": "No. As an upscale sit-down diner, Au Cheval does not publish calorie counts, so calories are not listed here rather than guessed. The burger is rich, but no official figure is published."
+    },
+    {
+      "q": "What are the most popular dishes at Au Cheval?",
+      "a": "The best known are the cheeseburger, the fried bologna sandwich, General Jane's honey-fried chicken, the crispy fries with a farm egg, and the thick-cut peppered bacon."
+    }
+  ],
+
+  "internal_links": [
+    "shake-shack-menu",
+    "in-n-out-menu",
+    "whataburger-menu",
+    "five-guys-menu",
+    "smashburger-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since this upscale diner does not publish nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Au Cheval."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from Au Cheval's online-ordering menu (DoorDash, estimates that vary by location). Chicago and NYC. Real listed prices at time of writing.",
+    "calories": "Deliberately left blank. Au Cheval is an upscale sit-down diner that does not publish nutrition. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are real menu prices at time of writing and vary by location and update. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels double cheeseburger (pexels-21296401) for the famous Au Cheval burger. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Burgers & Shakes' category (burger-famous spot, alongside Shake Shack, In-N-Out). Internal links include five-guys-menu and smashburger-menu which may not yet exist; Claude Code can drop any link whose page is not built. #65 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped around the famous cheeseburger price, locations, what it is known for, the no-calories note, and popular dishes. Niche but strong-interest brand (burger is widely searched)."
+  }
+}
