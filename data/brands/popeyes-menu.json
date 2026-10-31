@@ -1,0 +1,196 @@
+{
+  "slug": "popeyes-menu",
+  "brand": "Popeyes",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/popeyes-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/37025072/pexels-photo-37025072.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Popeyes style crispy fried chicken sandwich with pickles and slaw on a brioche bun",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-37025072"
+  },
+
+  "seo": {
+    "meta_title": "Popeyes Menu With Prices & Calories (2026)",
+    "meta_description": "Full Popeyes menu with prices and calories for 2026: Classic and Spicy Chicken Sandwich, fried chicken, tenders, shrimp, family meals, Cajun sides and biscuits.",
+    "h1": "Popeyes Menu With Prices (2026)",
+    "primary_keyword": "popeyes menu with prices",
+    "keyword_volume": 12000,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
+
+  "intro": "Popeyes Louisiana Kitchen is famous for spicy, Southern-style fried chicken, the viral Chicken Sandwich, handcrafted tenders and Cajun sides like red beans and rice and Cajun fries. Combos pair your main with a side, a biscuit and a drink. Below is the full Popeyes menu with prices and calories for 2026, organized by category.",
+
+  "quick_answer": "Popeyes' famous Classic or Spicy Chicken Sandwich is about $5.29, or $8.99 as a combo with a side and drink. Bonafide fried chicken runs about $5.99 for 2 pieces up to $29.99 for a 12-piece box, and 3-piece handcrafted tenders are around $5.49. Sides like Cajun fries and red beans and rice are about $3.29.",
+
+  "highlights": [
+    { "strong": "$5.29", "label": "Classic or Spicy Chicken Sandwich" },
+    { "strong": "$8.99", "label": "sandwich combo + side + drink" },
+    { "strong": "Louisiana", "label": "spicy Southern fried chicken" },
+    { "strong": "Biscuits", "label": "flaky buttermilk, $1.19" }
+  ],
+
+  "hot_deal": "Popeyes value: the Classic and Spicy Chicken Sandwiches stay around $5.29, and the Bigger Box (6 tenders with two sides and a biscuit) is about $20 to feed two. Popeyes also runs app-only deals and free-delivery offers through the year. Offers vary by location.",
+
+  "menu": [
+    {
+      "category": "Chicken Sandwiches",
+      "intro": "The sandwich that went viral: a crispy fillet with pickles on a toasted brioche bun. Classic or Spicy, same price.",
+      "items": [
+        { "name": "Classic Chicken Sandwich", "size": "", "price": "$5.29", "calories": "700", "desc": "Crispy chicken fillet, pickles and mayo on a brioche bun" },
+        { "name": "Spicy Chicken Sandwich", "size": "", "price": "$5.29", "calories": "700", "desc": "Classic sandwich with spicy sauce and cayenne heat" },
+        { "name": "Classic Chicken Sandwich Combo", "size": "", "price": "$8.99", "calories": "", "desc": "Sandwich with a regular side and a drink" },
+        { "name": "Spicy Chicken Sandwich Combo", "size": "", "price": "$8.99", "calories": "", "desc": "Spicy sandwich with a regular side and a drink" },
+        { "name": "Bacon & Cheese Chicken Sandwich", "size": "", "price": "$6.99", "calories": "", "desc": "Chicken sandwich topped with bacon and cheese" },
+        { "name": "Ghost Pepper Chicken Sandwich", "size": "", "price": "$6.23", "calories": "", "desc": "Extra-spicy sandwich with ghost pepper sauce (limited time)" }
+      ]
+    },
+    {
+      "category": "Bonafide Fried Chicken",
+      "intro": "Marinated-for-12-hours bone-in fried chicken, Mild or Spicy. By the piece or the box. Piece calories: breast 420, thigh 280, leg 160, wing 150.",
+      "items": [
+        { "name": "2 Pc Signature Chicken", "size": "2 pieces", "price": "$5.99", "calories": "", "desc": "Two pieces of bone-in fried chicken" },
+        { "name": "3 Pc Signature Chicken", "size": "3 pieces", "price": "$7.49", "calories": "", "desc": "Three pieces of bone-in fried chicken" },
+        { "name": "2 Pc Combo", "size": "", "price": "$9.39", "calories": "", "desc": "Two pieces with a side, biscuit and drink" },
+        { "name": "3 Pc Combo", "size": "", "price": "$10.09", "calories": "", "desc": "Three pieces with a side, biscuit and drink" },
+        { "name": "8 Pc Signature Chicken Box", "size": "8 pieces", "price": "$19.99", "calories": "", "desc": "Eight pieces of bone-in fried chicken" },
+        { "name": "12 Pc Signature Chicken Box", "size": "12 pieces", "price": "$29.99", "calories": "", "desc": "Twelve pieces of bone-in fried chicken" }
+      ]
+    },
+    {
+      "category": "Handcrafted Tenders",
+      "intro": "Whole-breast tenders, Mild or Spicy, with dipping sauces.",
+      "items": [
+        { "name": "3 Pc Tenders", "size": "3 pieces", "price": "$5.49", "calories": "", "desc": "Three hand-battered chicken tenders" },
+        { "name": "5 Pc Tenders", "size": "5 pieces", "price": "$7.99", "calories": "", "desc": "Five hand-battered chicken tenders" },
+        { "name": "3 Pc Tenders Combo", "size": "", "price": "$10.09", "calories": "1050", "desc": "Three tenders with a side, biscuit and drink" },
+        { "name": "5 Pc Tenders Combo", "size": "", "price": "$11.89", "calories": "", "desc": "Five tenders with a side, biscuit and drink" },
+        { "name": "Bigger Box (6 Pc Tenders + 2 Sides)", "size": "", "price": "$20.00", "calories": "", "desc": "Six tenders with two sides and a biscuit" }
+      ]
+    },
+    {
+      "category": "Shrimp & Seafood",
+      "intro": "Cajun-style seafood options.",
+      "items": [
+        { "name": "Flounder Fish Sandwich", "size": "", "price": "$5.99", "calories": "", "desc": "Crispy flounder fillet with pickles and sauce on a bun" },
+        { "name": "Popcorn Shrimp (1/4 lb)", "size": "1/4 lb", "price": "$5.99", "calories": "", "desc": "Bite-size battered popcorn shrimp" },
+        { "name": "Popcorn Shrimp Combo", "size": "", "price": "$10.09", "calories": "", "desc": "Popcorn shrimp with a side, biscuit and drink" },
+        { "name": "Surf & Turf", "size": "", "price": "$6.99", "calories": "", "desc": "Chicken and shrimp together" }
+      ]
+    },
+    {
+      "category": "Family Meals",
+      "intro": "Feed the family with chicken or tenders, sides and biscuits.",
+      "items": [
+        { "name": "8 Pc Chicken Family Meal", "size": "serves 4", "price": "$26.99", "calories": "", "desc": "8 pieces of chicken with 2 large sides and 4 biscuits" },
+        { "name": "12 Pc Chicken Family Meal", "size": "serves 6", "price": "$39.99", "calories": "", "desc": "12 pieces with 3 large sides and 6 biscuits" },
+        { "name": "16 Pc Chicken Family Meal", "size": "serves 8", "price": "$49.49", "calories": "", "desc": "16 pieces with 4 large sides and 8 biscuits" },
+        { "name": "12 Pc Tenders Family Meal", "size": "serves 6", "price": "$39.99", "calories": "", "desc": "12 tenders with 3 large sides and 6 biscuits" }
+      ]
+    },
+    {
+      "category": "Sides",
+      "intro": "The Cajun sides are half the reason to go. All calories listed.",
+      "items": [
+        { "name": "Cajun Fries (Regular)", "size": "", "price": "$3.29", "calories": "260", "desc": "Crispy fries with Cajun seasoning" },
+        { "name": "Red Beans & Rice (Regular)", "size": "", "price": "$3.29", "calories": "230", "desc": "Creamy Louisiana red beans over rice" },
+        { "name": "Homestyle Mac & Cheese", "size": "", "price": "$3.79", "calories": "220", "desc": "Creamy baked mac and cheese" },
+        { "name": "Mashed Potatoes with Cajun Gravy", "size": "", "price": "$3.29", "calories": "110", "desc": "Mashed potatoes with Cajun-style gravy" },
+        { "name": "Coleslaw (Regular)", "size": "", "price": "$3.29", "calories": "260", "desc": "Creamy coleslaw" },
+        { "name": "Buttermilk Biscuit", "size": "", "price": "$1.19", "calories": "260", "desc": "Flaky Southern buttermilk biscuit" }
+      ]
+    },
+    {
+      "category": "Desserts & Kids",
+      "intro": "Sweet finishes and kids meals.",
+      "items": [
+        { "name": "Cinnamon Apple Pie", "size": "", "price": "$1.99", "calories": "250", "desc": "Flaky cinnamon apple hand pie" },
+        { "name": "Chocolate Chip Biscuit", "size": "", "price": "$1.99", "calories": "", "desc": "Sweet biscuit with chocolate chips" },
+        { "name": "Caramel Apple Cheesecake Cup", "size": "", "price": "$3.79", "calories": "", "desc": "Layered cheesecake cup with caramel apple" },
+        { "name": "Kids Meal", "size": "", "price": "$5.69", "calories": "", "desc": "Choice of boneless, leg, tender or mac with a side and drink" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Soft drinks, sweet tea and chilled lemonades.",
+      "items": [
+        { "name": "Soft Drink (Regular)", "size": "regular", "price": "$2.59", "calories": "", "desc": "Coca-Cola fountain drinks" },
+        { "name": "Sweet Tea (Regular)", "size": "regular", "price": "$2.59", "calories": "", "desc": "Southern-style sweet tea" },
+        { "name": "Chilled Premium Lemonade", "size": "", "price": "$3.29", "calories": "", "desc": "Chilled lemonade (also strawberry or mango)" },
+        { "name": "Gallon Sweet Tea", "size": "gallon", "price": "$6.99", "calories": "", "desc": "A gallon of sweet tea to go" },
+        { "name": "Gallon Lemonade", "size": "gallon", "price": "$6.99", "calories": "", "desc": "A gallon of lemonade to go" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Popeyes at Home",
+    "intro": "Want that Louisiana crunch and heat at home? These picks help you season, fry and bake.",
+    "cards": [
+      { "icon": "🌶️", "name": "Cajun Seasoning", "blurb": "The Louisiana spice blend behind the flavor.", "amazon_search": "cajun seasoning blend" },
+      { "icon": "🍗", "name": "Deep Fryer", "blurb": "Fry chicken crispy the Popeyes way.", "amazon_search": "deep fryer home" },
+      { "icon": "🫓", "name": "Buttermilk Biscuit Mix", "blurb": "For flaky Southern biscuits.", "amazon_search": "buttermilk biscuit mix" },
+      { "icon": "📖", "name": "Copycat Louisiana Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Spicy Chicken Sandwich",
+    "Bonafide Fried Chicken",
+    "Handcrafted Tenders",
+    "Red Beans & Rice",
+    "Buttermilk Biscuits"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is the Popeyes chicken sandwich?",
+      "a": "The Classic and Spicy Chicken Sandwiches are about $5.29 each, or $8.99 as a combo with a regular side and a drink. Each sandwich is around 700 calories."
+    },
+    {
+      "q": "What is the difference between Classic and Spicy at Popeyes?",
+      "a": "They cost the same and have the same crispy fillet and pickles. The Spicy version adds a cayenne-based spicy sauce. Both are roughly 700 calories."
+    },
+    {
+      "q": "What sides does Popeyes have?",
+      "a": "Popeyes sides include Cajun fries, red beans and rice, mac and cheese, mashed potatoes with Cajun gravy, coleslaw and the famous buttermilk biscuits, mostly around $3.29 (biscuit $1.19)."
+    },
+    {
+      "q": "How much are Popeyes family meals?",
+      "a": "An 8-piece chicken family meal is about $26.99, 12-piece about $39.99 and 16-piece about $49.49, each with large sides and biscuits. Tenders family meals are priced the same."
+    },
+    {
+      "q": "How much are Popeyes tenders?",
+      "a": "Handcrafted tenders are about $5.49 for 3 pieces and $7.99 for 5 pieces. A 3-piece tenders combo with a side, biscuit and drink is around $10.09."
+    },
+    {
+      "q": "What are the most popular items at Popeyes?",
+      "a": "The best known are the Spicy Chicken Sandwich, Bonafide bone-in fried chicken, handcrafted tenders, red beans and rice, and the buttermilk biscuits."
+    }
+  ],
+
+  "internal_links": [
+    "kfc-menu",
+    "raising-canes-menu",
+    "chipotle-menu",
+    "chilis-menu",
+    "applebees-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Popeyes."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from a Popeyes nutrition database (USDA-sourced).",
+    "calories": "Shown where a reliable single figure exists; multi-item combos, boxes and most drinks are left blank, and bone-in piece calories are noted in the section intro. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels crispy chicken sandwich image (pexels-37025072), portrait that crops well to a wide hero, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Popeyes search demand: chicken sandwich price, classic vs spicy, sides, family meals, tenders, biscuits."
+  }
+}
