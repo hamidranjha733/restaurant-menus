@@ -1,0 +1,149 @@
+{
+  "slug": "jimmy-johns-menu",
+  "brand": "Jimmy John's",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/jimmy-johns-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/34593399/pexels-photo-34593399.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Jimmy John's style French bread sub with lettuce and tomato on deli paper",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-34593399"
+  },
+
+  "seo": {
+    "meta_title": "Jimmy John's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Jimmy John's menu with prices and calories for 2026: Turkey Tom, Vito, the Gargantuan, Italian Night Club, Beach Club, Slims, Little Johns and sides.",
+    "h1": "Jimmy John's Menu With Prices (2026)",
+    "primary_keyword": "jimmy johns menu with prices",
+    "keyword_volume": 3700,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate. Subs are priced for an 8-inch French bread sub; a 16-inch Giant is about double. Little Johns (6.5 inch) are smaller and cheaper, and Plain Slims have meat and cheese only. Calories are for an 8-inch sub. Prices vary by location. Last updated October 2026.",
+
+  "intro": "Jimmy John's is the 'freaky fast' sandwich chain known for its speedy delivery, fresh-baked French bread and day-to-day favorites like the Turkey Tom, the Vito and the J.J. Gargantuan. Subs come as an 8-inch or a 16-inch Giant, with cheaper Plain Slims (meat and cheese only) and 6.5-inch Little Johns, plus the lettuce-wrapped Unwich for a low-carb option. Prices and calories below are for an 8-inch sub. Below is the full Jimmy John's menu with prices and calories for 2026.",
+
+  "quick_answer": "An 8-inch Original sub at Jimmy John's (Turkey Tom, Vito, Big John) is about $6.00, a Favorite club like the Italian Night Club is $7.00, and the loaded J.J. Gargantuan is $9.00. Plain Slims start at $4.50 and Little Johns at $3.00. A 16-inch Giant is about double. A Turkey Tom is about 530 calories.",
+
+  "highlights": [
+    { "strong": "Freaky Fast", "label": "fast delivery and pickup" },
+    { "strong": "$6.00", "label": "8-inch Original sub" },
+    { "strong": "$3.00", "label": "Little John (6.5 inch)" },
+    { "strong": "Unwich", "label": "lettuce wrap, no bread" }
+  ],
+
+  "hot_deal": "Jimmy John's value: the Little John (about $3.00) and Plain Slims ($4.50) are the cheapest ways to eat, and Freaky Fast Rewards in the app drops a free sandwich after a few orders plus a birthday reward. Add Jimmy Chips and a drink to make it a meal. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Originals (8-inch)",
+      "intro": "The day-one favorites, each about $6.00 for an 8-inch. A 16-inch Giant is about double.",
+      "items": [
+        { "name": "#4 Turkey Tom", "size": "8 inch", "price": "$6.00", "calories": "530", "desc": "Fresh-sliced turkey, lettuce, tomato and mayo" },
+        { "name": "#5 Vito", "size": "8 inch", "price": "$6.00", "calories": "600", "desc": "Salami, capicola, provolone, onions, oil and vinegar" },
+        { "name": "#1 The Pepe", "size": "8 inch", "price": "$6.00", "calories": "530", "desc": "Ham and provolone with lettuce, tomato and mayo" },
+        { "name": "#2 Big John", "size": "8 inch", "price": "$6.00", "calories": "550", "desc": "Roast beef, lettuce, tomato and mayo" },
+        { "name": "#3 Totally Tuna", "size": "8 inch", "price": "$6.00", "calories": "620", "desc": "House tuna salad with cucumber, lettuce and tomato" },
+        { "name": "#6 The Veggie", "size": "8 inch", "price": "$6.00", "calories": "", "desc": "Provolone, avocado, cucumber, lettuce, tomato and mayo" }
+      ]
+    },
+    {
+      "category": "Favorites (8-inch Clubs)",
+      "intro": "The loaded club sandwiches, each about $7.00 for an 8-inch.",
+      "items": [
+        { "name": "#9 Italian Night Club", "size": "8 inch", "price": "$7.00", "calories": "690", "desc": "Salami, capicola, ham, provolone, onions, oil and vinegar" },
+        { "name": "#12 Beach Club", "size": "8 inch", "price": "$7.00", "calories": "570", "desc": "Turkey, provolone, avocado, cucumber, lettuce and tomato" },
+        { "name": "#13 Hunter's Club", "size": "8 inch", "price": "$7.00", "calories": "", "desc": "Double roast beef with lettuce, tomato and mayo" },
+        { "name": "#10 Club Lulu", "size": "8 inch", "price": "$7.00", "calories": "", "desc": "Turkey, bacon, lettuce, tomato and mayo" },
+        { "name": "#8 Country Club", "size": "8 inch", "price": "$7.00", "calories": "", "desc": "Turkey, ham, provolone, lettuce, tomato and mayo" }
+      ]
+    },
+    {
+      "category": "The Gargantuan & Slims",
+      "intro": "The biggest sub and the simplest ones.",
+      "items": [
+        { "name": "The J.J. Gargantuan", "size": "8 inch", "price": "$9.00", "calories": "890", "desc": "Salami, capicola, turkey, roast beef, ham, provolone and the works (16 inch about $17)" },
+        { "name": "Plain Slim: Ham & Cheese", "size": "8 inch", "price": "$4.50", "calories": "", "desc": "Meat and cheese only, no veggies or condiments" },
+        { "name": "Plain Slim: Roast Beef", "size": "8 inch", "price": "$4.50", "calories": "", "desc": "Just roast beef on French bread" },
+        { "name": "Plain Slim: Turkey Breast", "size": "8 inch", "price": "$4.50", "calories": "", "desc": "Just turkey on French bread" },
+        { "name": "Little John (6.5 inch)", "size": "6.5 inch", "price": "$3.00", "calories": "", "desc": "A smaller version of the Originals, the budget pick" }
+      ]
+    },
+    {
+      "category": "Sides & Drinks",
+      "intro": "Chips, the famous pickle, cookies and drinks.",
+      "items": [
+        { "name": "Jimmy Chips", "size": "", "price": "$1.00", "calories": "", "desc": "Regular, BBQ, Jalapeno, Thinny or Salt & Vinegar" },
+        { "name": "Jumbo Kosher Dill Pickle", "size": "", "price": "$1.00", "calories": "", "desc": "A big whole dill pickle" },
+        { "name": "Triple Chocolate Chunk Cookie", "size": "", "price": "$1.60", "calories": "", "desc": "A large chocolate chunk cookie" },
+        { "name": "Fountain Drink (Medium)", "size": "medium", "price": "$1.00", "calories": "", "desc": "Fountain drinks, lemonade or iced tea (large about $1.30)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Subs at Home",
+    "intro": "Want freaky fast subs at home? These picks help.",
+    "cards": [
+      { "icon": "🥖", "name": "French Bread Rolls", "blurb": "The soft French bread base.", "amazon_search": "french bread sub rolls" },
+      { "icon": "🔪", "name": "Deli Meat Slicer", "blurb": "Slice turkey and roast beef fresh.", "amazon_search": "deli meat slicer home" },
+      { "icon": "🥑", "name": "Avocado Spread", "blurb": "For the Beach Club and Veggie.", "amazon_search": "avocado spread" },
+      { "icon": "🥒", "name": "Kosher Dill Pickles", "blurb": "The jumbo pickle on the side.", "amazon_search": "jumbo kosher dill pickles" }
+    ]
+  },
+
+  "popular_items": [
+    "Turkey Tom",
+    "The Vito",
+    "J.J. Gargantuan",
+    "Italian Night Club",
+    "Beach Club"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a sub at Jimmy John's?",
+      "a": "An 8-inch Original like the Turkey Tom or Vito is about $6.00, a Favorite club like the Italian Night Club is $7.00, and the J.J. Gargantuan is $9.00. A 16-inch Giant is about double, and Little Johns start at $3.00."
+    },
+    {
+      "q": "What is the difference between an Original, a Slim and a Little John?",
+      "a": "An Original is a full 8-inch sub with meat, cheese and veggies. A Plain Slim is meat and cheese only, no veggies or condiments, for less. A Little John is a smaller 6.5-inch version of the Originals, the cheapest option."
+    },
+    {
+      "q": "What is an Unwich at Jimmy John's?",
+      "a": "An Unwich is any sub wrapped in a large lettuce leaf instead of bread, a low-carb way to order. Every sub on the menu can be made as an Unwich at no extra charge, which cuts the calories significantly."
+    },
+    {
+      "q": "How many calories are in a Jimmy John's sub?",
+      "a": "An 8-inch Turkey Tom is about 530 calories, a Vito about 600, and the loaded J.J. Gargantuan about 890. Ordering a Little John, a Plain Slim or an Unwich brings the calories down."
+    },
+    {
+      "q": "What are the most popular items at Jimmy John's?",
+      "a": "The best known are the Turkey Tom, the Vito, the J.J. Gargantuan, the Italian Night Club, and the Beach Club."
+    }
+  ],
+
+  "internal_links": [
+    "jersey-mikes-menu",
+    "subway-menu",
+    "arbys-menu",
+    "mcdonalds-menu",
+    "taco-bell-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Jimmy John's."
+  },
+
+  "_data_notes": {
+    "price_source": "8-inch prices from an established menu-prices publication. 16-inch Giant given as 'about double' rather than exact figures. Prices vary by location.",
+    "calories": "8-inch sub calories from a Jimmy John's nutrition source. Shown where a reliable figure exists; several clubs and slims left blank rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate (8-inch) and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels French-bread sub with lettuce and tomato on deli paper (pexels-34593399), no readable branding, portrait that crops well. Matches Jimmy John's French-bread subs and is distinct from the Jersey Mike's and Subway heroes.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (with pizza and Jersey Mike's). Firehouse Subs and Panera will follow.",
+    "keyword_notes": "Sections and FAQ shaped by real Jimmy John's search demand: sub prices, Slim vs Little John, the Unwich, Turkey Tom calories, popular subs."
+  }
+}
