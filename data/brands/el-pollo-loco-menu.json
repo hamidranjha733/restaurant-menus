@@ -1,0 +1,150 @@
+{
+  "slug": "el-pollo-loco-menu",
+  "brand": "El Pollo Loco",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/el-pollo-loco-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/5704254/pexels-photo-5704254.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "El Pollo Loco style flame-grilled chicken on the grill",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-5704254",
+    "_verify_note": "Tentative hero (flame-grilled chicken). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "El Pollo Loco Menu With Prices (2026)",
+    "meta_description": "Full El Pollo Loco menu with prices for 2026: flame-grilled chicken, family meals, burritos, Pollo Bowls, tacos, quesadillas, tostadas, sides and churros.",
+    "h1": "El Pollo Loco Menu With Prices (2026)",
+    "primary_keyword": "el pollo loco menu with prices",
+    "keyword_volume": 14000,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location (California pricing can differ). El Pollo Loco publishes a nutrition guide, but item calories are not reproduced here and are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "El Pollo Loco is the fast-food chain built on citrus-marinated, flame-grilled chicken, a Mexican-American favorite strongest in California and the Southwest. The chicken comes by the piece or in family meals, and powers burritos, Pollo Bowls, tacos, quesadillas and tostadas, with sides like beans, rice and warm churros. Below is the full El Pollo Loco menu with prices for 2026.",
+
+  "quick_answer": "At El Pollo Loco, a whole flame-grilled chicken is about $17.99, an 8-piece family meal $30.99, and a classic chicken burrito $8.99. Pollo Bowls are $8.99, tacos al carbon $3.99, and a cheese quesadilla $4.99. The citrus-marinated flame-grilled chicken is the signature. Prices vary by location, with California often higher.",
+
+  "highlights": [
+    { "strong": "Flame-grilled", "label": "citrus-marinated chicken" },
+    { "strong": "Family meals", "label": "8 to 16 pieces with sides" },
+    { "strong": "Pollo Bowls", "label": "from $8.99" },
+    { "strong": "Warm churros", "label": "the classic dessert" }
+  ],
+
+  "hot_deal": "El Pollo Loco value: the Loco Rewards app drops regular deals, a birthday reward and $5-ish Loco Deals, and the family meals are the cheapest way to feed a group (8-piece from $30.99). The BRC burrito ($5.99) and tacos al carbon ($3.99) are the cheapest single items. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Flame-Grilled Chicken",
+      "intro": "The signature citrus-marinated chicken, by the piece or whole.",
+      "items": [
+        { "name": "Chicken Leg", "size": "", "price": "$3.99", "calories": "", "desc": "A single flame-grilled leg (wing $2.59, thigh $4.99)" },
+        { "name": "Chicken Breast", "size": "", "price": "$6.99", "calories": "", "desc": "A flame-grilled chicken breast" },
+        { "name": "Whole Chicken", "size": "", "price": "$17.99", "calories": "", "desc": "A whole flame-grilled chicken" },
+        { "name": "4pc Half Chicken Meal", "size": "", "price": "$17.99", "calories": "", "desc": "Half chicken with sides (combo $19.49)" },
+        { "name": "Meal For Two", "size": "", "price": "$19.99", "calories": "", "desc": "2 legs and 2 thighs with sides" }
+      ]
+    },
+    {
+      "category": "Family Meals",
+      "intro": "Family packs with sides and tortillas.",
+      "items": [
+        { "name": "8pc Family Meal", "size": "8 pieces", "price": "$30.99 - $33.99", "calories": "", "desc": "8 pieces, sides and tortillas (leg & thigh $30.99, mixed $33.99)" },
+        { "name": "12pc Family Meal", "size": "12 pieces", "price": "$36.99 - $40.99", "calories": "", "desc": "12 pieces with sides and tortillas" },
+        { "name": "16pc Family Meal", "size": "16 pieces", "price": "$46.99 - $51.99", "calories": "", "desc": "16 pieces with sides and tortillas, feeds a crowd" },
+        { "name": "8pc Chicken Only", "size": "8 pieces", "price": "$13.99 - $17.99", "calories": "", "desc": "Just the chicken, no sides" }
+      ]
+    },
+    {
+      "category": "Burritos, Bowls & Tacos",
+      "intro": "Burritos, Pollo Bowls, tacos and more.",
+      "items": [
+        { "name": "BRC Burrito", "size": "", "price": "$5.99", "calories": "", "desc": "Beans, rice and cheese, the value burrito" },
+        { "name": "Classic Chicken Burrito", "size": "", "price": "$8.99", "calories": "", "desc": "Flame-grilled chicken burrito (combo $9.99)" },
+        { "name": "Chicken Avocado Burrito", "size": "", "price": "$11.99", "calories": "", "desc": "Chicken with avocado (also chipotle, queso blanco, keto)" },
+        { "name": "Original Pollo Bowl", "size": "", "price": "$8.99", "calories": "", "desc": "Chicken, rice, beans and salsa (combo $9.99)" },
+        { "name": "Double Chicken Bowl", "size": "", "price": "$12.99", "calories": "", "desc": "Extra chicken bowl (combo $14.49)" },
+        { "name": "Chicken Taco Al Carbon", "size": "", "price": "$3.99", "calories": "", "desc": "A flame-grilled chicken taco (3-taco combo $9.99)" }
+      ]
+    },
+    {
+      "category": "Quesadillas, Sides & Churros",
+      "intro": "Quesadillas, tostadas, sides and the famous churros.",
+      "items": [
+        { "name": "Cheese Quesadilla", "size": "", "price": "$4.99", "calories": "", "desc": "Cheese quesadilla (shredded chicken $10.89)" },
+        { "name": "Classic Tostada Salad", "size": "", "price": "$12.99", "calories": "", "desc": "Tostada salad bowl with chicken" },
+        { "name": "Chips & Guacamole", "size": "sm / reg", "price": "$3.99 / $6.99", "calories": "", "desc": "Tortilla chips with guacamole" },
+        { "name": "Chicken Tortilla Soup", "size": "sm / lg", "price": "$5.99 / $8.99", "calories": "", "desc": "Chicken tortilla soup" },
+        { "name": "Churros", "size": "", "price": "$1.99", "calories": "", "desc": "Two warm cinnamon churros (one $1.09)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Flame-Grilled Chicken at Home",
+    "intro": "Want citrus-marinated grilled chicken at home? These picks help.",
+    "cards": [
+      { "icon": "🔥", "name": "Charcoal Grill", "blurb": "For flame-grilled chicken.", "amazon_search": "charcoal grill" },
+      { "icon": "🍋", "name": "Citrus Marinade", "blurb": "For the signature citrus flavor.", "amazon_search": "citrus chicken marinade mexican" },
+      { "icon": "🌯", "name": "Flour Tortillas", "blurb": "For burritos and tacos.", "amazon_search": "flour tortillas" },
+      { "icon": "🥄", "name": "Churro Maker", "blurb": "For warm cinnamon churros.", "amazon_search": "churro maker" }
+    ]
+  },
+
+  "popular_items": [
+    "Flame-Grilled Chicken",
+    "Classic Chicken Burrito",
+    "Original Pollo Bowl",
+    "Chicken Avocado Burrito",
+    "Churros"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a whole chicken at El Pollo Loco?",
+      "a": "A whole flame-grilled chicken is about $17.99. An 8-piece family meal with sides and tortillas starts around $30.99, a 12-piece is $36.99 to $40.99, and a 16-piece $46.99 to $51.99. Prices vary by location, with California often higher."
+    },
+    {
+      "q": "What is El Pollo Loco known for?",
+      "a": "El Pollo Loco is known for its citrus-marinated, flame-grilled chicken, a Mexican-American style grilled over an open flame. That chicken powers the whole menu, from family meals to burritos, Pollo Bowls, tacos and tostadas, with warm churros for dessert."
+    },
+    {
+      "q": "How much is a burrito at El Pollo Loco?",
+      "a": "A classic chicken burrito is about $8.99, the value BRC (beans, rice, cheese) burrito is $5.99, and loaded burritos like the chicken avocado or chipotle chicken avocado are $11.99. Combos add a side and a drink for a dollar or two more."
+    },
+    {
+      "q": "Does El Pollo Loco publish calories?",
+      "a": "El Pollo Loco publishes a nutrition guide in store and on its website, but item-level calories are not reproduced here and are left blank rather than guessed. Flame-grilled chicken is a leaner choice than fried, and the chain markets several lighter and keto options."
+    },
+    {
+      "q": "What are the most popular items at El Pollo Loco?",
+      "a": "Favorites include the flame-grilled chicken itself, the classic chicken burrito, the Original Pollo Bowl, the chicken avocado burrito, and the warm churros."
+    }
+  ],
+
+  "internal_links": [
+    "kfc-menu",
+    "chipotle-menu",
+    "del-taco-menu",
+    "bojangles-menu",
+    "popeyes-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > El Pollo Loco."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location, California often higher). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. El Pollo Loco publishes a nutrition guide, but no reliable item calories were pulled this session, so none are reproduced rather than guessed. Disclaimer and FAQ note this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels flame-grilled chicken (pexels-5704254). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Chicken & Fast Food' category (fast-food grilled chicken, alongside KFC, Bojangles). Internal links chipotle-menu and popeyes-menu should exist; drop any missing-page link. #74 of the expansion list.",
+    "keyword_notes": "High-volume brand (14k). Sections and FAQ shaped by real El Pollo Loco search demand: whole chicken price, what it is known for, burrito price, calories/nutrition, popular items. Family meals and some sides given as price ranges/strings."
+  }
+}
