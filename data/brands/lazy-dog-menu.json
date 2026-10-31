@@ -1,0 +1,151 @@
+{
+  "slug": "lazy-dog-menu",
+  "brand": "Lazy Dog Restaurant & Bar",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/lazy-dog-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/6545671/pexels-photo-6545671.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Lazy Dog style hearty comfort-food plate with meat and sides",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-6545671",
+    "_verify_note": "Tentative hero (hearty comfort-food plate). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Lazy Dog Menu With Prices (2026)",
+    "meta_description": "Full Lazy Dog Restaurant & Bar menu with prices for 2026: the Campfire Pot Roast, world bowls, burgers, comfort-food dinners, salads, starters and desserts.",
+    "h1": "Lazy Dog Restaurant & Bar Menu With Prices (2026)",
+    "primary_keyword": "lazy dog menu with prices",
+    "keyword_volume": 5400,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Lazy Dog is a casual full-service restaurant and bar and does not publish full calorie information, so calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Lazy Dog Restaurant & Bar is a casual American chain built on comfort food with a dog-friendly patio and an eclectic menu that runs from the signature Campfire Pot Roast to globally inspired bowls, burgers, big salads and from-scratch dinners. Born in California, it leans into a cozy, lodge-style vibe. Below is the full Lazy Dog menu with prices for 2026.",
+
+  "quick_answer": "At Lazy Dog, the Campfire Pot Roast is about $23.95, a half-pound cheeseburger is $14.95, and world bowls run $14.95 to $22.75. Comfort-food dinners like fried chicken and fish and chips are $22.95, salads are about $13 to $22, and starters are mostly $5 to $17. The Campfire Pot Roast and the bowls are the signatures. Prices vary by location.",
+
+  "highlights": [
+    { "strong": "Campfire Pot Roast", "label": "the signature dinner" },
+    { "strong": "World bowls", "label": "teriyaki, kung pao, Thai" },
+    { "strong": "Dog-friendly", "label": "the famous patios" },
+    { "strong": "From-scratch", "label": "comfort-food dinners" }
+  ],
+
+  "hot_deal": "Lazy Dog value: the Fireside Favorites (like a smaller Fettuccine Alfredo at $15) and the half-pound cheeseburger ($14.95) are the cheapest ways in, and the TV Dinner specials on certain nights are a known deal. Starters start at $5 and sides at $2.95. The app and rewards drop occasional offers. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Starters",
+      "intro": "Shareable starters, from tots to wings.",
+      "items": [
+        { "name": "Lemon Pepper Tots", "size": "", "price": "$7.50", "calories": "", "desc": "Crispy tots with lemon pepper" },
+        { "name": "Tikka Masala Meatballs", "size": "", "price": "$9.50", "calories": "", "desc": "Meatballs in tikka masala sauce" },
+        { "name": "Buffalo Chicken Nuggets", "size": "", "price": "$9.95", "calories": "", "desc": "Crispy buffalo chicken nuggets" },
+        { "name": "Chicken Lettuce Wraps", "size": "", "price": "$15.95", "calories": "", "desc": "Chicken lettuce wraps" },
+        { "name": "Crispy Wings", "size": "", "price": "$16.95", "calories": "", "desc": "Crispy chicken wings" }
+      ]
+    },
+    {
+      "category": "World Bowls",
+      "intro": "The globally inspired bowls.",
+      "items": [
+        { "name": "Blackened Chicken Burrito Bowl", "size": "", "price": "$14.95", "calories": "", "desc": "Blackened chicken over rice and beans" },
+        { "name": "Korean Ribeye Bibimbap", "size": "", "price": "$18.50", "calories": "", "desc": "Korean-style ribeye rice bowl" },
+        { "name": "Honey Teriyaki Bowl", "size": "", "price": "$20.50", "calories": "", "desc": "Teriyaki protein over rice (kung pao, sambal also $20.50)" },
+        { "name": "Thai Noodles", "size": "", "price": "$22.75", "calories": "", "desc": "Thai-style noodles" },
+        { "name": "Braised Beef Birria Noodles", "size": "", "price": "$22.75", "calories": "", "desc": "Birria beef noodle bowl" }
+      ]
+    },
+    {
+      "category": "Burgers & Comfort Dinners",
+      "intro": "Burgers and the from-scratch comfort mains.",
+      "items": [
+        { "name": "Half-Pound Cheeseburger", "size": "", "price": "$14.95", "calories": "", "desc": "The value half-pound cheeseburger" },
+        { "name": "BBQ Ranch Bacon Burger", "size": "", "price": "$17.95", "calories": "", "desc": "Bacon burger with BBQ and ranch" },
+        { "name": "Pot Roast Beef Dip", "size": "", "price": "$18.95", "calories": "", "desc": "Pot roast French dip sandwich" },
+        { "name": "Fried Chicken Dinner", "size": "", "price": "$22.95", "calories": "", "desc": "Fried chicken with sides (lemon chicken also $22.95)" },
+        { "name": "Campfire Pot Roast", "size": "", "price": "$23.95", "calories": "", "desc": "The signature slow-cooked pot roast dinner" },
+        { "name": "BBQ Bison Meatloaf", "size": "", "price": "$25.95", "calories": "", "desc": "Bison meatloaf, the top dinner" }
+      ]
+    },
+    {
+      "category": "Salads, Sides & Desserts",
+      "intro": "Big salads, sides and desserts.",
+      "items": [
+        { "name": "Grilled Chicken Caesar Salad", "size": "", "price": "$16.95", "calories": "", "desc": "Caesar with grilled chicken" },
+        { "name": "Cobb Salad", "size": "", "price": "$18.50", "calories": "", "desc": "Classic Cobb (Southern fried chicken salad also $18.50)" },
+        { "name": "Side French Fries", "size": "", "price": "$5.95", "calories": "", "desc": "Fries (onion rings also $5.95; mashed potatoes/rice $2.95)" },
+        { "name": "Butter Cake", "size": "", "price": "$10.95", "calories": "", "desc": "Warm butter cake" },
+        { "name": "S'more Brownie Sundae", "size": "", "price": "$10.25", "calories": "", "desc": "Brownie sundae with s'more toppings" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Comfort Food at Home",
+    "intro": "Want pot roast and world bowls at home? These picks help.",
+    "cards": [
+      { "icon": "🍲", "name": "Dutch Oven", "blurb": "For slow-cooked pot roast.", "amazon_search": "enameled dutch oven" },
+      { "icon": "🍚", "name": "Rice Cooker", "blurb": "For teriyaki and kung pao bowls.", "amazon_search": "rice cooker" },
+      { "icon": "🍔", "name": "Burger Press", "blurb": "For a half-pound burger.", "amazon_search": "burger press" },
+      { "icon": "📖", "name": "Comfort Food Cookbook", "blurb": "For from-scratch dinners.", "amazon_search": "comfort food cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Campfire Pot Roast",
+    "Honey Teriyaki Bowl",
+    "Half-Pound Cheeseburger",
+    "Fried Chicken Dinner",
+    "Butter Cake"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is the pot roast at Lazy Dog?",
+      "a": "The signature Campfire Pot Roast is about $23.95, a slow-cooked comfort-food dinner with sides. The pot roast also appears as the Pot Roast Beef Dip sandwich at about $18.95. Prices vary by location."
+    },
+    {
+      "q": "What is Lazy Dog known for?",
+      "a": "Lazy Dog Restaurant & Bar is known for its cozy, lodge-style comfort food, an eclectic menu that pairs American classics like the Campfire Pot Roast with globally inspired world bowls, and its dog-friendly patios where you can dine with your dog."
+    },
+    {
+      "q": "Does Lazy Dog have a dog menu?",
+      "a": "Yes. True to the name, Lazy Dog offers a dog-friendly patio and a simple menu for dogs (like grilled chicken or a brown rice bowl) so you can bring your dog along. It is one of the chain's signature touches."
+    },
+    {
+      "q": "Does Lazy Dog list calories?",
+      "a": "Lazy Dog is a casual full-service restaurant and does not publish a full calorie guide, so calories are not listed here rather than guessed. The menu is broad, from lighter bowls and salads to hearty comfort dinners, so totals vary a lot."
+    },
+    {
+      "q": "What are the most popular dishes at Lazy Dog?",
+      "a": "Favorites include the Campfire Pot Roast, the Honey Teriyaki and other world bowls, the half-pound cheeseburger, the fried chicken dinner, and the butter cake for dessert."
+    }
+  ],
+
+  "internal_links": [
+    "cheesecake-factory-menu",
+    "cheddars-menu",
+    "applebees-menu",
+    "longhorn-steakhouse-menu",
+    "ihop-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since Lazy Dog does not publish full nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Lazy Dog Restaurant & Bar."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. Lazy Dog is a casual full-service restaurant that does not publish full nutrition, and the menu is broad. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels hearty comfort-food plate (pexels-6545671). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (casual full-service restaurant). Internal links cheesecake-factory-menu and applebees-menu may not exist yet; drop any missing-page link. #77 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Lazy Dog search demand: pot roast price, what it is known for, the dog menu, calories question, popular dishes. World bowls and some mains given with example alternatives inline."
+  }
+}
