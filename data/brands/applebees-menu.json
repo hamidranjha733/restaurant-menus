@@ -1,0 +1,257 @@
+{
+  "slug": "applebees-menu",
+  "brand": "Applebee's",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/applebees-menu/",
+
+  "seo": {
+    "meta_title": "Applebee's Menu With Prices & Calories (2026)",
+    "meta_description": "Full Applebee's menu with prices and calories for 2026: appetizers, burgers, chicken, steaks and ribs, pasta, salads, sides, desserts and value deals.",
+    "h1": "Applebee's Menu With Prices (2026)",
+    "primary_keyword": "applebees menu with prices",
+    "keyword_volume": 24000,
+    "keyword_kd": 8
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/27988502/pexels-photo-27988502.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Stacked bacon cheeseburger on a plate with a cold drink",
+    "credit": "Pexels (free license)"
+  },
+
+  "intro": "Applebee's is an American casual-dining chain known for its wide neighborhood grill menu, from burgers and riblets to pasta, steaks and big value deals. Most guests come for the 2 for $25 and All You Can Eat offers, which make it one of the better-value sit-down options. Below is the full Applebee's menu with prices and calories for 2026, broken down by category.",
+
+  "quick_answer": "The Classic Burger with fries is around $13.19, and most entrees run $15 to $27. Applebee's two-person 2 for $25 deal includes a full appetizer and two entrees, and the limited-time All You Can Eat boneless wings, riblets or shrimp with endless fries is about $15.99. Kids meals are around $7.79.",
+
+  "highlights": [
+    { "strong": "2 for $25", "label": "appetizer plus two entrees" },
+    { "strong": "$15.99", "label": "All You Can Eat (limited time)" },
+    { "strong": "$13.19", "label": "Classic Burger with fries" },
+    { "strong": "$7.79", "label": "kids meals" }
+  ],
+
+  "hot_deal": "Applebee's runs two big value deals: the 2 for $25 (a full appetizer plus two entrees for two people) and, for a limited time, All You Can Eat boneless wings, riblets or double crunch shrimp with endless fries for around $15.99, dine-in only. Deals and prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Appetizers",
+      "intro": "Shareable starters, from the famous boneless wings to dips and sampler platters. The Classic Combo pulls several together on one plate.",
+      "items": [
+        { "name": "Boneless Wings", "size": "", "price": "$14.99", "calories": "1030", "desc": "Breaded boneless wings tossed in your choice of sauce" },
+        { "name": "Double Crunch Bone-In Wings", "size": "", "price": "$19.19", "calories": "", "desc": "Crispy bone-in wings with your choice of sauce" },
+        { "name": "Mozzarella Sticks", "size": "", "price": "$11.39", "calories": "680", "desc": "Fried mozzarella sticks with marinara" },
+        { "name": "Spinach & Artichoke Dip", "size": "", "price": "$11.99", "calories": "", "desc": "Creamy spinach and artichoke dip with chips" },
+        { "name": "Chicken Wonton Tacos", "size": "", "price": "$13.19", "calories": "590", "desc": "Crispy wonton shells filled with Asian-glazed chicken" },
+        { "name": "Chicken Quesadilla", "size": "", "price": "$13.19", "calories": "", "desc": "Grilled quesadilla with chicken and cheese" },
+        { "name": "White Queso Dip & Chips", "size": "", "price": "$9.59", "calories": "", "desc": "Warm white queso with tortilla chips" },
+        { "name": "Brew Pub Pretzels & Beer Cheese Dip", "size": "", "price": "$11.39", "calories": "", "desc": "Soft pretzels with beer cheese dip" },
+        { "name": "Neighborhood Nachos", "size": "", "price": "$15.59", "calories": "", "desc": "Loaded nachos with chicken or beef" },
+        { "name": "The Classic Combo", "size": "", "price": "$21.59", "calories": "", "desc": "A sampler of fan-favorite appetizers" }
+      ]
+    },
+    {
+      "category": "Burgers",
+      "intro": "Handcrafted burgers served with fries. The Quesadilla Burger is the most indulgent at over 1,200 calories.",
+      "items": [
+        { "name": "Classic Burger", "size": "", "price": "$13.19", "calories": "770", "desc": "The classic cheeseburger with fries" },
+        { "name": "Classic Bacon Cheeseburger", "size": "", "price": "$16.19", "calories": "910", "desc": "Cheeseburger topped with bacon, with fries" },
+        { "name": "Quesadilla Burger", "size": "", "price": "$17.19", "calories": "1240", "desc": "Burger wrapped in a cheese quesadilla" },
+        { "name": "Whisky Bacon Burger", "size": "", "price": "$17.19", "calories": "", "desc": "Burger with whisky glaze, bacon and crispy onions" },
+        { "name": "Bourbon Street Mushroom Swiss Burger", "size": "", "price": "$15.59", "calories": "", "desc": "Burger with sauteed mushrooms and Swiss" },
+        { "name": "Neighborhood Burger", "size": "", "price": "$14.39", "calories": "", "desc": "Classic burger with American cheese" },
+        { "name": "Impossible Cheeseburger", "size": "", "price": "$14.39", "calories": "", "desc": "Plant-based Impossible patty with cheese" }
+      ]
+    },
+    {
+      "category": "Sandwiches & Handhelds",
+      "intro": "Chicken sandwiches, wraps and the prime rib dipper, all served with fries.",
+      "items": [
+        { "name": "Bacon Ranch Crispy Chicken Sandwich", "size": "", "price": "$14.39", "calories": "", "desc": "Crispy chicken with bacon and ranch" },
+        { "name": "Bacon Ranch Grilled Chicken Sandwich", "size": "", "price": "$14.39", "calories": "", "desc": "Grilled chicken with bacon and ranch" },
+        { "name": "Sweet & Spicy Crispy Chicken Sandwich", "size": "", "price": "$13.79", "calories": "", "desc": "Crispy chicken in a sweet and spicy glaze" },
+        { "name": "Clubhouse Grille", "size": "", "price": "$14.99", "calories": "", "desc": "Toasted club sandwich with turkey, ham and bacon" },
+        { "name": "The Prime Rib Dipper", "size": "", "price": "$16.79", "calories": "", "desc": "Sliced prime rib on a toasted roll with au jus" }
+      ]
+    },
+    {
+      "category": "Chicken",
+      "intro": "The Fiesta Lime Chicken is the signature here. Entrees come with sides.",
+      "items": [
+        { "name": "Fiesta Lime Chicken", "size": "", "price": "$16.59", "calories": "1010", "desc": "Grilled chicken with lime, cheese and ranch over rice" },
+        { "name": "Bourbon Street Chicken & Shrimp", "size": "", "price": "$20.99", "calories": "", "desc": "Cajun chicken and shrimp sizzling with potatoes" },
+        { "name": "Chicken Tenders Platter", "size": "", "price": "$15.59", "calories": "860", "desc": "Crispy chicken tenders with fries and dipping sauce" },
+        { "name": "Chicken Tenders Plate", "size": "", "price": "$13.19", "calories": "", "desc": "Smaller plate of crispy chicken tenders" },
+        { "name": "Grilled Chicken Breast", "size": "", "price": "$14.79", "calories": "", "desc": "Simply seasoned grilled chicken with two sides" }
+      ]
+    },
+    {
+      "category": "Steaks & Ribs",
+      "intro": "Sizzling top sirloins and double-glazed baby back ribs, served with sides.",
+      "items": [
+        { "name": "Top Sirloin", "size": "6 oz", "price": "$19.19", "calories": "", "desc": "Sizzling 6 oz top sirloin with two sides" },
+        { "name": "Top Sirloin", "size": "8 oz", "price": "$22.79", "calories": "", "desc": "Sizzling 8 oz top sirloin with two sides" },
+        { "name": "Bourbon Street Steak", "size": "", "price": "$23.99", "calories": "540", "desc": "Cajun-seasoned sirloin sizzling with onions and potatoes" },
+        { "name": "Shrimp 'N Parmesan Sirloin", "size": "", "price": "$26.39", "calories": "", "desc": "Top sirloin topped with parmesan shrimp" },
+        { "name": "Double-Glazed Baby Back Ribs", "size": "Full Rack", "price": "$26.39", "calories": "", "desc": "Full rack of ribs with your choice of glaze" },
+        { "name": "Double-Glazed Baby Back Ribs", "size": "Half Rack", "price": "$20.39", "calories": "", "desc": "Half rack of ribs with your choice of glaze" },
+        { "name": "Applebee's Riblets Platter", "size": "", "price": "$17.99", "calories": "1130", "desc": "Signature riblets in BBQ sauce with fries" },
+        { "name": "Applebee's Riblets Plate", "size": "", "price": "$15.59", "calories": "", "desc": "Smaller plate of signature riblets" }
+      ]
+    },
+    {
+      "category": "Pasta",
+      "intro": "Creamy alfredos and cheesy pastas, served with a breadstick.",
+      "items": [
+        { "name": "Classic Broccoli Chicken Alfredo", "size": "", "price": "$18.59", "calories": "", "desc": "Fettuccine alfredo with grilled chicken and broccoli" },
+        { "name": "Classic Blackened Shrimp Alfredo", "size": "", "price": "$19.79", "calories": "", "desc": "Fettuccine alfredo with blackened shrimp" },
+        { "name": "Three Cheese Chicken Penne", "size": "", "price": "$16.79", "calories": "", "desc": "Penne baked with chicken and three cheeses" },
+        { "name": "Four Cheese Mac & Cheese with Honey Pepper Chicken", "size": "", "price": "$19.19", "calories": "980", "desc": "Four-cheese mac topped with honey pepper chicken tenders" }
+      ]
+    },
+    {
+      "category": "Seafood",
+      "intro": "Grilled salmon, fish and chips, and crispy shrimp.",
+      "items": [
+        { "name": "Blackened Cajun Salmon", "size": "", "price": "$21.59", "calories": "", "desc": "Blackened salmon with two sides" },
+        { "name": "Hand-Battered Fish & Chips", "size": "", "price": "$17.39", "calories": "", "desc": "Beer-battered fish with fries and tartar sauce" },
+        { "name": "Double Crunch Shrimp", "size": "", "price": "$18.59", "calories": "", "desc": "Crispy fried shrimp with fries" }
+      ]
+    },
+    {
+      "category": "Salads",
+      "intro": "Entree salads big enough for a meal. The Oriental Chicken Salad is the long-time favorite.",
+      "items": [
+        { "name": "Oriental Chicken Salad", "size": "", "price": "$14.99", "calories": "1310", "desc": "Crispy chicken over greens with Asian dressing" },
+        { "name": "Grilled Chicken Caesar Salad", "size": "", "price": "$14.39", "calories": "780", "desc": "Caesar salad topped with grilled chicken" },
+        { "name": "Quesadilla Chicken Salad", "size": "", "price": "$17.99", "calories": "", "desc": "Salad served with a cheese quesadilla" },
+        { "name": "Strawberry Balsamic Chicken Salad", "size": "", "price": "$16.19", "calories": "", "desc": "Greens with chicken, strawberries and balsamic" },
+        { "name": "Blackened Shrimp Caesar Salad", "size": "", "price": "$15.59", "calories": "", "desc": "Caesar salad topped with blackened shrimp" }
+      ]
+    },
+    {
+      "category": "Irresist-A-Bowls",
+      "intro": "Rice bowls loaded with protein and vegetables.",
+      "items": [
+        { "name": "Southwest Chicken Bowl", "size": "", "price": "$14.39", "calories": "", "desc": "Rice bowl with chicken, corn, beans and cheese" },
+        { "name": "Tex-Mex Shrimp Bowl", "size": "", "price": "$14.99", "calories": "", "desc": "Rice bowl with seasoned shrimp and veggies" }
+      ]
+    },
+    {
+      "category": "Sides & Extras",
+      "intro": "Add a side or a cup of soup to any meal.",
+      "items": [
+        { "name": "Basket of Waffle Fries", "size": "", "price": "$5.39", "calories": "", "desc": "Crispy seasoned waffle fries" },
+        { "name": "4-Cheese Mac & Cheese", "size": "", "price": "$4.79", "calories": "", "desc": "Side of four-cheese mac and cheese" },
+        { "name": "Loaded Mashed Potatoes", "size": "", "price": "$3.99", "calories": "", "desc": "Mashed potatoes with cheese and bacon" },
+        { "name": "Garlic Mashed Potatoes", "size": "", "price": "$2.39", "calories": "", "desc": "Creamy garlic mashed potatoes" },
+        { "name": "Garlicky Green Beans", "size": "", "price": "$2.39", "calories": "", "desc": "Green beans sauteed with garlic" },
+        { "name": "Steamed Broccoli", "size": "", "price": "$2.39", "calories": "", "desc": "Fresh steamed broccoli" },
+        { "name": "French Onion Soup", "size": "", "price": "$7.19", "calories": "", "desc": "Baked French onion soup with cheese" },
+        { "name": "House Salad", "size": "", "price": "$5.99", "calories": "", "desc": "Small mixed green side salad" }
+      ]
+    },
+    {
+      "category": "Kids Menu",
+      "intro": "Kids meals at one price, each with a side and drink.",
+      "items": [
+        { "name": "Kids Chicken Tenders", "size": "", "price": "$7.79", "calories": "", "desc": "Crispy chicken tenders with a side" },
+        { "name": "Kid's Cheeseburger", "size": "", "price": "$7.79", "calories": "", "desc": "Kid-sized cheeseburger with a side" },
+        { "name": "Kid's Corn Dog", "size": "", "price": "$7.79", "calories": "", "desc": "Corn dog with a side" },
+        { "name": "Kids Grilled Chicken Alfredo", "size": "", "price": "$7.79", "calories": "", "desc": "Kid-sized grilled chicken alfredo" },
+        { "name": "Kraft Macaroni & Cheese", "size": "", "price": "$7.79", "calories": "", "desc": "Kids mac and cheese with a side" }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "intro": "Warm, shareable desserts. The Triple Chocolate Meltdown is the signature.",
+      "items": [
+        { "name": "Triple Chocolate Meltdown", "size": "", "price": "$9.59", "calories": "810", "desc": "Warm chocolate cake with fudge and ice cream" },
+        { "name": "Sizzlin' Butter Pecan Blondie", "size": "", "price": "$9.59", "calories": "", "desc": "Warm blondie with butter pecan sauce, served sizzling" },
+        { "name": "Cinnabon Mini Swirls", "size": "", "price": "$10.19", "calories": "", "desc": "Mini Cinnabon cinnamon rolls" },
+        { "name": "Sugar Dusted Donut Dippers", "size": "", "price": "$8.99", "calories": "", "desc": "Warm donut sticks with dipping sauces" },
+        { "name": "Brownie Bites", "size": "", "price": "$2.99", "calories": "", "desc": "Bite-sized brownies, a small sweet finish" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Soft drinks, flavored lemonades, teas and smoothies.",
+      "items": [
+        { "name": "Soft Drink", "size": "", "price": "$3.19", "calories": "", "desc": "Fountain soft drink with refills" },
+        { "name": "Flavored Lemonade", "size": "", "price": "$4.19", "calories": "", "desc": "Hand-mixed flavored lemonade" },
+        { "name": "Fruit Smoothie", "size": "", "price": "$4.79", "calories": "", "desc": "Blended fruit smoothie" },
+        { "name": "Flavored Iced Tea", "size": "", "price": "$3.99", "calories": "", "desc": "Flavored iced tea" },
+        { "name": "Brewed Sweet Iced Tea", "size": "", "price": "$2.39", "calories": "", "desc": "Southern-style sweet tea" },
+        { "name": "Fresh Brewed Coffee", "size": "", "price": "$2.99", "calories": "", "desc": "Hot brewed coffee" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Applebee's at Home",
+    "intro": "Want the neighborhood grill favorites at home? These picks get you close.",
+    "cards": [
+      { "icon": "🍖", "name": "Sweet BBQ Sauce", "blurb": "Glaze ribs and riblets the Applebee's way.", "amazon_search": "sweet bbq sauce" },
+      { "icon": "🍔", "name": "Burger Smasher", "blurb": "Make juicy pub-style burgers at home.", "amazon_search": "burger smasher press" },
+      { "icon": "🧀", "name": "Queso & Dip Kit", "blurb": "Recreate the spinach-artichoke and queso dips.", "amazon_search": "white queso dip" },
+      { "icon": "📖", "name": "Copycat Restaurant Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Boneless Wings",
+    "Fiesta Lime Chicken",
+    "Applebee's Riblets",
+    "Oriental Chicken Salad",
+    "Triple Chocolate Meltdown"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is the Applebee's 2 for $25 deal?",
+      "a": "The 2 for $25 is Applebee's two-person deal: one full-size appetizer to share plus two full entrees chosen from a set list. The exact price and choices vary by location and promotion, and it is one of the best values on the menu."
+    },
+    {
+      "q": "Does Applebee's have an All You Can Eat deal?",
+      "a": "Yes. Applebee's often runs a limited-time All You Can Eat offer, around $15.99, with unlimited boneless wings, riblets or double crunch shrimp plus endless fries. It is dine-in only and availability varies by location."
+    },
+    {
+      "q": "What are the most popular items at Applebee's?",
+      "a": "The best known are the Boneless Wings, Fiesta Lime Chicken, the signature riblets, the Oriental Chicken Salad, and the Triple Chocolate Meltdown dessert."
+    },
+    {
+      "q": "What is the cheapest meal at Applebee's?",
+      "a": "The Classic Burger with fries is one of the cheapest full meals at around $13.19, and the 2 for $25 deal is the best value for two people. Kids meals are about $7.79."
+    },
+    {
+      "q": "Does Applebee's have a happy hour?",
+      "a": "Many Applebee's locations run a Dollaritas and late-night happy hour with discounted drinks and appetizers, usually on weekday afternoons and evenings. Offers and times vary by location."
+    },
+    {
+      "q": "Does Applebee's have a lunch menu?",
+      "a": "Yes. Many locations offer lunch combos and smaller lunch portions at lower prices during weekday lunch hours."
+    }
+  ],
+
+  "internal_links": [
+    "texas-roadhouse-menu",
+    "chilis-menu",
+    "outback-steakhouse-menu",
+    "olive-garden-menu",
+    "cheesecake-factory-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Applebee's."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established, human-authored menu-prices publication. Calories from an Applebee's nutrition database where available.",
+    "calories": "Calories are shown only where a reliable figure exists, and left blank otherwise. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "keyword_notes": "Sections and FAQ shaped by real Applebee's search demand: 2 for $25, All You Can Eat, riblets, Fiesta Lime Chicken, boneless wings, and happy hour."
+  }
+}
