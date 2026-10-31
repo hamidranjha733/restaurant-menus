@@ -1,0 +1,244 @@
+{
+  "slug": "cracker-barrel-menu",
+  "brand": "Cracker Barrel",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/cracker-barrel-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/2228559/pexels-photo-2228559.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Cracker Barrel style country breakfast with pancakes, bacon, fried eggs and orange juice on a wooden table",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-2228559"
+  },
+
+  "seo": {
+    "meta_title": "Cracker Barrel Menu With Prices & Calories (2026)",
+    "meta_description": "Full Cracker Barrel menu with prices and calories for 2026: all-day breakfast, Chicken N' Dumplins, dinner plates, sides, kids meals, desserts and family meals.",
+    "h1": "Cracker Barrel Menu With Prices (2026)",
+    "primary_keyword": "cracker barrel menu with prices",
+    "keyword_volume": 19000,
+    "keyword_kd": 0
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
+
+  "intro": "Cracker Barrel is a country-style restaurant and old-fashioned store best known for serving breakfast all day, from buttermilk pancakes to biscuits and gravy, alongside Southern dinner plates like Chicken N' Dumplins and Country Fried Steak. Every dinner comes with made-from-scratch country sides and warm biscuits or cornbread, which is why the plate price is close to what you pay. Below is the full Cracker Barrel menu with prices and calories for 2026, broken down by category.",
+
+  "quick_answer": "Breakfast is served all day and starts around $8.99 for the Old Timer's Breakfast. Country dinner plates like Chicken N' Dumplins and Country Fried Steak run about $9.49 to $13.99 with sides. Weekday lunch combos start near $8.29, and Cracker Barrel lists more than 20 meals under $12.",
+
+  "highlights": [
+    { "strong": "All Day", "label": "breakfast, served any time" },
+    { "strong": "$8.99", "label": "Old Timer's Breakfast" },
+    { "strong": "20+ meals", "label": "under $12" },
+    { "strong": "$8.29", "label": "weekday lunch combos" }
+  ],
+
+  "hot_deal": "Weekday lunch specials: Cracker Barrel runs daily lunch plates (meatloaf, Chicken N' Dumplins, turkey n' dressing and more) starting around $8.29 to $8.99, and keeps a rotating list of more than 20 meals under $12. Offers vary by location.",
+
+  "menu": [
+    {
+      "category": "Breakfast (All Day)",
+      "intro": "This is what Cracker Barrel is known for, and it is served all day. Most breakfasts come with eggs, a meat, a side and biscuits or cornbread.",
+      "items": [
+        { "name": "Old Timer's Breakfast", "size": "", "price": "$8.99", "calories": "", "desc": "Two eggs, grits, hashbrown casserole, meat and biscuits" },
+        { "name": "Build Your Own Homestyle Breakfast", "size": "", "price": "$8.99", "calories": "", "desc": "Pick your eggs, meat and two sides" },
+        { "name": "Momma's Pancake Breakfast", "size": "", "price": "$8.99", "calories": "", "desc": "Buttermilk pancakes with eggs and a meat" },
+        { "name": "Grandpa's Country Fried Breakfast", "size": "", "price": "$11.49", "calories": "", "desc": "Country fried steak with eggs, sides and biscuits" },
+        { "name": "The Cracker Barrel's Country Boy Breakfast", "size": "", "price": "$12.99", "calories": "", "desc": "A big plate of eggs, meats, fried apples and sides" },
+        { "name": "Homestyle Chicken N' French Toast", "size": "", "price": "$11.99", "calories": "", "desc": "Fried chicken over sweet French toast" },
+        { "name": "Biscuits N' Gravy with Bacon or Sausage", "size": "", "price": "$6.99", "calories": "440", "desc": "Buttermilk biscuits under sawmill gravy with a meat" },
+        { "name": "Two Buttermilk Pancakes", "size": "", "price": "$4.99", "calories": "", "desc": "Two fluffy buttermilk pancakes" },
+        { "name": "Hashbrown Casserole", "size": "", "price": "$2.99", "calories": "220", "desc": "The signature cheesy hashbrown casserole" },
+        { "name": "Loaded Hashbrown Casserole Tots", "size": "", "price": "$6.99", "calories": "", "desc": "Tots topped with cheese, bacon and sour cream" }
+      ]
+    },
+    {
+      "category": "Chicken",
+      "intro": "The Chicken N' Dumplins is the comfort-food classic. Plates come with your choice of country sides and biscuits or cornbread.",
+      "items": [
+        { "name": "Chicken N' Dumplins", "size": "2 sides", "price": "$9.49", "calories": "", "desc": "Slow-simmered chicken with dumplings and two sides" },
+        { "name": "Chicken N' Dumplins", "size": "3 sides", "price": "$10.99", "calories": "", "desc": "Chicken and dumplings with three sides" },
+        { "name": "Southern Fried Chicken", "size": "", "price": "$12.99", "calories": "", "desc": "Hand-breaded bone-in fried chicken" },
+        { "name": "Homestyle Chicken", "size": "", "price": "$12.99", "calories": "", "desc": "Crispy breaded chicken breast with sides" },
+        { "name": "Chicken Fried Chicken", "size": "2 sides", "price": "$12.99", "calories": "640", "desc": "Breaded chicken breast under cream gravy" },
+        { "name": "Hand-Breaded Fried Chicken Tenders", "size": "2 sides", "price": "$10.49", "calories": "", "desc": "Hand-breaded chicken tenders with two sides" },
+        { "name": "Chicken Pot Pie", "size": "", "price": "$9.99", "calories": "", "desc": "Chicken and vegetables in gravy under a pastry crust" },
+        { "name": "Classics Sampler (3 classics)", "size": "", "price": "$16.99", "calories": "", "desc": "Homestyle Chicken, Meatloaf and Chicken N' Dumplins together" }
+      ]
+    },
+    {
+      "category": "Country Dinner Plates (Beef & Pork)",
+      "intro": "Southern dinner plates, each served with country sides and biscuits or cornbread.",
+      "items": [
+        { "name": "Country Fried Steak", "size": "2 sides", "price": "$11.99", "calories": "680", "desc": "Breaded steak under cream gravy" },
+        { "name": "Country Fried Steak", "size": "3 sides", "price": "$13.99", "calories": "", "desc": "Breaded steak with three sides" },
+        { "name": "Meatloaf", "size": "2 sides", "price": "$11.29", "calories": "460", "desc": "Scratch-made meatloaf with two sides" },
+        { "name": "Roast Beef", "size": "2 sides", "price": "$12.99", "calories": "", "desc": "Slow-cooked roast beef with gravy" },
+        { "name": "Grilled Sirloin Steak", "size": "", "price": "$15.39", "calories": "", "desc": "Grilled sirloin with two country sides" },
+        { "name": "Hamburger Steak", "size": "", "price": "$10.99", "calories": "", "desc": "Chopped steak with grilled onions and gravy" },
+        { "name": "Skillet Sirloin Steak Sampler", "size": "", "price": "$16.99", "calories": "", "desc": "Sirloin with tenders and shrimp on one platter" }
+      ]
+    },
+    {
+      "category": "Seafood",
+      "intro": "Farm-raised catfish, shrimp and trout, with country sides.",
+      "items": [
+        { "name": "Fried Catfish", "size": "2 pieces", "price": "$13.99", "calories": "520", "desc": "Two hand-breaded fried catfish fillets" },
+        { "name": "Grilled Catfish", "size": "2 pieces", "price": "$13.99", "calories": "", "desc": "Two seasoned grilled catfish fillets" },
+        { "name": "Country Fried Shrimp", "size": "", "price": "$13.99", "calories": "", "desc": "Hand-breaded fried shrimp with sides" },
+        { "name": "Lemon Pepper Grilled Rainbow Trout", "size": "", "price": "$13.99", "calories": "", "desc": "Grilled trout with lemon pepper seasoning" }
+      ]
+    },
+    {
+      "category": "Sandwiches & Salads",
+      "intro": "Burgers, chicken BLTs and country salads.",
+      "items": [
+        { "name": "The Barrel Cheeseburger", "size": "", "price": "$10.99", "calories": "", "desc": "Classic cheeseburger with steak fries" },
+        { "name": "Homestyle Fried Chicken BLT", "size": "", "price": "$11.49", "calories": "", "desc": "Fried chicken with bacon, lettuce and tomato" },
+        { "name": "Homestyle Fried Chicken Salad", "size": "", "price": "$11.49", "calories": "", "desc": "Greens topped with crispy fried chicken" },
+        { "name": "House Salad", "size": "", "price": "$5.19", "calories": "", "desc": "Small mixed green side salad" },
+        { "name": "Country Vegetable Plate", "size": "", "price": "$9.99", "calories": "", "desc": "Your choice of country vegetable sides" }
+      ]
+    },
+    {
+      "category": "Country Vegetables (Sides)",
+      "intro": "Made-from-scratch country sides. The hashbrown casserole and mac n' cheese are the favorites.",
+      "items": [
+        { "name": "Macaroni N' Cheese", "size": "", "price": "$2.99", "calories": "290", "desc": "Creamy baked mac and cheese" },
+        { "name": "Hashbrown Casserole", "size": "", "price": "$2.99", "calories": "220", "desc": "The signature cheesy hashbrown casserole" },
+        { "name": "Mashed Potatoes", "size": "", "price": "$2.99", "calories": "", "desc": "Mashed potatoes with brown or sawmill gravy" },
+        { "name": "Green Beans", "size": "", "price": "$2.99", "calories": "", "desc": "Country-style green beans" },
+        { "name": "Fried Okra", "size": "", "price": "$2.99", "calories": "", "desc": "Breaded fried okra" },
+        { "name": "Cole Slaw", "size": "", "price": "$2.99", "calories": "", "desc": "Creamy cole slaw" },
+        { "name": "Corn", "size": "", "price": "$2.99", "calories": "", "desc": "Sweet whole-kernel corn" },
+        { "name": "Fried Apples", "size": "", "price": "$2.99", "calories": "", "desc": "Cinnamon fried apples" },
+        { "name": "Turnip Greens", "size": "", "price": "$2.99", "calories": "", "desc": "Southern-style turnip greens" },
+        { "name": "Buttermilk Biscuits", "size": "4 pcs", "price": "$2.99", "calories": "", "desc": "Four warm buttermilk biscuits" },
+        { "name": "Cornbread Muffins", "size": "4 pcs", "price": "$2.99", "calories": "", "desc": "Four sweet cornbread muffins" }
+      ]
+    },
+    {
+      "category": "Barrel Bites (Appetizers)",
+      "intro": "Shareable starters from the Barrel Bites menu.",
+      "items": [
+        { "name": "Barrel Bite Duo", "size": "", "price": "$8.99", "calories": "", "desc": "Pick two shareable starters" },
+        { "name": "White Cheddar Cheese Bites", "size": "", "price": "$6.49", "calories": "", "desc": "Fried white cheddar cheese bites" },
+        { "name": "Country Fried Pickles", "size": "", "price": "$5.99", "calories": "", "desc": "Breaded fried pickle chips" },
+        { "name": "Loaded Steak Fries", "size": "", "price": "$5.19", "calories": "", "desc": "Steak fries with cheese and bacon" },
+        { "name": "Biscuit Beignets", "size": "", "price": "$4.99", "calories": "", "desc": "Fried biscuit dough dusted with sugar" }
+      ]
+    },
+    {
+      "category": "Kids Menu",
+      "intro": "Kids plates for the little ones.",
+      "items": [
+        { "name": "Kids Chicken Tenders", "size": "", "price": "$6.19", "calories": "", "desc": "Breaded chicken tenders with a side" },
+        { "name": "Lil' Barrel Cheeseburgers", "size": "", "price": "$6.19", "calories": "", "desc": "Mini cheeseburgers with a side" },
+        { "name": "Crispy Rockin' Shrimp", "size": "", "price": "$6.49", "calories": "", "desc": "Breaded fried shrimp for kids" },
+        { "name": "MMMM Mac N' Cheese", "size": "", "price": "$5.29", "calories": "", "desc": "Kids mac and cheese" },
+        { "name": "Mini Confetti Pancakes", "size": "", "price": "$4.99", "calories": "", "desc": "Kid-sized confetti pancakes" },
+        { "name": "Grilled Cheese Sandwich", "size": "", "price": "$5.49", "calories": "", "desc": "Grilled cheese with a side" }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "intro": "Country desserts to finish. The Coca-Cola Cake is the signature.",
+      "items": [
+        { "name": "Double Chocolate Fudge Coca-Cola Cake", "size": "", "price": "$5.49", "calories": "", "desc": "Warm chocolate cake made with Coca-Cola" },
+        { "name": "Peach Cobbler", "size": "", "price": "$5.49", "calories": "", "desc": "Warm peach cobbler with ice cream" },
+        { "name": "Biscuit Beignets", "size": "", "price": "$4.99", "calories": "", "desc": "Fried biscuit dough dusted with sugar" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Freshly brewed teas, coffee, lemonade and specialty lattes.",
+      "items": [
+        { "name": "Freshly Brewed Sweet Iced Tea", "size": "", "price": "$3.19", "calories": "", "desc": "Southern-style sweet tea" },
+        { "name": "Old-Fashioned Lemonade", "size": "", "price": "$3.29", "calories": "", "desc": "Classic lemonade" },
+        { "name": "Wildberry Tea", "size": "", "price": "$3.39", "calories": "", "desc": "Berry-flavored iced tea" },
+        { "name": "Caramel Latte", "size": "", "price": "$3.99", "calories": "", "desc": "Hot or iced caramel latte" },
+        { "name": "Freshly Brewed Premium Coffee", "size": "", "price": "$2.99", "calories": "", "desc": "Hot brewed coffee" },
+        { "name": "Hot Chocolate", "size": "", "price": "$3.69", "calories": "", "desc": "Rich hot chocolate" }
+      ]
+    },
+    {
+      "category": "Family Meals (To Go)",
+      "intro": "Feed the family, served with sides and biscuits. Each serves about five.",
+      "items": [
+        { "name": "Signature Chicken N' Dumplins Family Meal", "size": "Serves 5", "price": "$36.99", "calories": "", "desc": "Family-sized chicken and dumplings with sides and bread" },
+        { "name": "All-Day Pancake Breakfast Family Meal", "size": "Serves 5", "price": "$39.99", "calories": "", "desc": "Pancakes, eggs and breakfast meats for the family" },
+        { "name": "Southern Fried Chicken Family Meal", "size": "Serves 5", "price": "$42.49", "calories": "", "desc": "Bone-in fried chicken with sides and bread" },
+        { "name": "Scratch-Made Meatloaf Family Meal", "size": "Serves 5", "price": "$44.49", "calories": "", "desc": "Family-sized meatloaf with sides and bread" },
+        { "name": "Sirloin Steak Tips N' Tenders Family Meal", "size": "Serves 5", "price": "$54.99", "calories": "", "desc": "Steak tips and tenders with sides and bread" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Cracker Barrel at Home",
+    "intro": "Love the country cooking? These picks help you make the biscuits, pancakes and dumplings at home.",
+    "cards": [
+      { "icon": "🥞", "name": "Buttermilk Pancake Mix", "blurb": "Make the all-day pancakes at home.", "amazon_search": "buttermilk pancake mix" },
+      { "icon": "🫓", "name": "Biscuit & Dumpling Mix", "blurb": "The base for biscuits and chicken n' dumplins.", "amazon_search": "biscuit baking mix" },
+      { "icon": "🍳", "name": "Cast Iron Skillet", "blurb": "For country fried steak and cornbread.", "amazon_search": "cast iron skillet" },
+      { "icon": "📖", "name": "Copycat Southern Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Chicken N' Dumplins",
+    "Hashbrown Casserole",
+    "Country Fried Steak",
+    "Old Timer's Breakfast",
+    "Coca-Cola Cake"
+  ],
+
+  "faqs": [
+    {
+      "q": "Does Cracker Barrel serve breakfast all day?",
+      "a": "Yes. Cracker Barrel serves its full breakfast menu all day, every day, from pancakes and French toast to biscuits and gravy and the Old Timer's Breakfast."
+    },
+    {
+      "q": "What is Chicken N' Dumplins at Cracker Barrel?",
+      "a": "Chicken N' Dumplins is Cracker Barrel's signature comfort dish: slow-simmered chicken with thick dumplings in a creamy broth, served with country sides. It is around $9.49 with two sides."
+    },
+    {
+      "q": "Does Cracker Barrel have cheap meals?",
+      "a": "Yes. Cracker Barrel keeps a rotating list of more than 20 meals under $12, and weekday lunch combos start around $8.29. The Pick 2 Country Combos and daily lunch plates are the best value."
+    },
+    {
+      "q": "What are the most popular items at Cracker Barrel?",
+      "a": "The best known are the Chicken N' Dumplins, the Hashbrown Casserole, Country Fried Steak, the Old Timer's Breakfast, and the Double Chocolate Fudge Coca-Cola Cake."
+    },
+    {
+      "q": "Do Cracker Barrel meals come with sides?",
+      "a": "Yes. Most dinner plates come with your choice of made-from-scratch country sides plus warm buttermilk biscuits or sweet cornbread muffins."
+    },
+    {
+      "q": "Does Cracker Barrel have family meals to go?",
+      "a": "Yes. Cracker Barrel offers family meals that serve about five people, starting around $36.99, including Chicken N' Dumplins, fried chicken and meatloaf, each with sides and bread."
+    }
+  ],
+
+  "internal_links": [
+    "texas-roadhouse-menu",
+    "ihop-menu",
+    "dennys-menu",
+    "waffle-house-menu",
+    "applebees-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Cracker Barrel."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication. Calories from a Cracker Barrel nutrition database where available; Cracker Barrel does not publish calories for most items, so most are left blank.",
+    "calories": "Calories are shown only where a reliable figure exists, and left blank otherwise. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels country-breakfast image (pexels-2228559), hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Cracker Barrel search demand: all-day breakfast, Chicken N' Dumplins, Country Fried Steak, hashbrown casserole, cheap meals under $12, and family meals."
+  }
+}
