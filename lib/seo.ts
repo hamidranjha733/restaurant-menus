@@ -63,10 +63,17 @@ export function itemLabel(name: string, size: string): string {
   // "Buttermilk Pancakes (2)" already gives the count in "2 pancakes".
   const count = /^(\d+)\s/.exec(size)?.[1];
   const countInName = count !== undefined && name.includes(`(${count})`);
+  // "5 Chicken Fingerz Meal" or "Great 8 Boneless Wings Meal" already has the number and the unit.
+  const countAndUnit = /^(\d+)\s+([a-z]+)$/i.exec(size.trim());
+  const unitStem = countAndUnit && countAndUnit[2].length > 3 ? countAndUnit[2].toLowerCase().replace(/[sz]$/, "") : countAndUnit?.[2].toLowerCase();
+  const numberAndUnitInName =
+    countAndUnit !== null &&
+    new RegExp(`(^|[^0-9])${countAndUnit[1]}($|[^0-9])`).test(name) &&
+    new RegExp(`\\b${unitStem}`, "i").test(name);
   const sizeInName = loose
     ? new RegExp(`(^|[^a-z0-9])${normalizeSize(size).replace(/[.*+?^${}()|[\]\\/]/g, "\\$&")}($|[^a-z0-9])`).test(normalizeSize(name))
     : name.toLowerCase().includes(`(${size.toLowerCase()})`);
-  const alreadyNamed = countInName || sizeInName;
+  const alreadyNamed = countInName || numberAndUnitInName || sizeInName;
   return alreadyNamed ? name : `${name} (${size})`;
 }
 
