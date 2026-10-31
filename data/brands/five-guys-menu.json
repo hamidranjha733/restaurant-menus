@@ -1,0 +1,162 @@
+{
+  "slug": "five-guys-menu",
+  "brand": "Five Guys",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/five-guys-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/25684783/pexels-photo-25684783.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Five Guys style double cheeseburger with melted cheese on a bed of fresh-cut fries",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-25684783"
+  },
+
+  "seo": {
+    "meta_title": "Five Guys Menu With Prices & Calories (2026)",
+    "meta_description": "Full Five Guys menu with prices and calories for 2026: hamburgers, cheeseburgers, Little burgers, hot dogs, fresh-cut fries, milkshakes and free toppings.",
+    "h1": "Five Guys Menu With Prices (2026)",
+    "primary_keyword": "five guys menu with prices",
+    "keyword_volume": 6000,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "Five Guys is the build-your-own burger chain where a standard burger is actually a double, every one of the 15-plus toppings is free, and the fresh-cut fries are cooked in peanut oil and served overflowing. Hot dogs, milkshakes and the 'Little' single-patty burgers round it out. Below is the full Five Guys menu with prices and calories for 2026.",
+
+  "quick_answer": "Five Guys burgers come with two patties by default. A hamburger is about $13.87, a cheeseburger $14.95 and a bacon cheeseburger $15.95, with all 15+ toppings free. The 'Little' burgers are single-patty and cheaper, from $9.59. Regular fries are about $8.03 and famously huge, and milkshakes are $5.79.",
+
+  "highlights": [
+    { "strong": "2 patties", "label": "standard burger is a double" },
+    { "strong": "Free", "label": "15+ toppings, every one" },
+    { "strong": "$8.03", "label": "Regular Fries (huge)" },
+    { "strong": "Peanut oil", "label": "fresh-cut fries" }
+  ],
+
+  "hot_deal": "Five Guys value tips: the regular fries are enormous, so one order easily feeds two. Order a 'Little' burger (still a full single patty) to save a few dollars, and load up on the free toppings, there are more than 15 at no extra charge. Milkshake mix-ins like bacon and Oreo are free too. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Burgers (Two Patties)",
+      "intro": "A standard Five Guys burger is two patties. All toppings are free.",
+      "items": [
+        { "name": "Hamburger", "size": "2 patties", "price": "$13.87", "calories": "700", "desc": "Two fresh beef patties with your choice of free toppings" },
+        { "name": "Cheeseburger", "size": "2 patties", "price": "$14.95", "calories": "840", "desc": "Two patties with American cheese and free toppings" },
+        { "name": "Bacon Cheeseburger", "size": "2 patties", "price": "$15.95", "calories": "920", "desc": "Two patties with cheese and bacon" }
+      ]
+    },
+    {
+      "category": "Little Burgers (One Patty)",
+      "intro": "Single-patty versions, still a full burger, for a few dollars less.",
+      "items": [
+        { "name": "Little Hamburger", "size": "1 patty", "price": "$9.59", "calories": "480", "desc": "A single beef patty with free toppings" },
+        { "name": "Little Cheeseburger", "size": "1 patty", "price": "$11.87", "calories": "550", "desc": "Single patty with American cheese" },
+        { "name": "Little Bacon Cheeseburger", "size": "1 patty", "price": "$13.31", "calories": "630", "desc": "Single patty with cheese and bacon" }
+      ]
+    },
+    {
+      "category": "Hot Dogs",
+      "intro": "All-beef hot dogs, griddled and split.",
+      "items": [
+        { "name": "Hot Dog", "size": "", "price": "$8.87", "calories": "545", "desc": "A griddled all-beef hot dog with free toppings" },
+        { "name": "Cheese Dog", "size": "", "price": "$9.47", "calories": "", "desc": "Hot dog with melted American cheese" },
+        { "name": "Bacon Dog", "size": "", "price": "$9.71", "calories": "", "desc": "Hot dog wrapped with bacon" },
+        { "name": "Bacon Cheese Dog", "size": "", "price": "$10.31", "calories": "", "desc": "Hot dog with bacon and cheese" }
+      ]
+    },
+    {
+      "category": "Sandwiches",
+      "intro": "Non-burger options.",
+      "items": [
+        { "name": "Grilled Cheese", "size": "", "price": "$8.39", "calories": "", "desc": "Grilled American cheese on a bun" },
+        { "name": "Veggie Sandwich", "size": "", "price": "$8.15", "calories": "", "desc": "A bun loaded with grilled veggies and free toppings" },
+        { "name": "BLT", "size": "", "price": "$10.07", "calories": "", "desc": "Bacon, lettuce and tomato on a bun" }
+      ]
+    },
+    {
+      "category": "Fries",
+      "intro": "Fresh-cut, peanut-oil fries, served overflowing. Cajun style is the same price.",
+      "items": [
+        { "name": "Fries (Little)", "size": "little", "price": "$7.19", "calories": "526", "desc": "A 'little' order that is still generous" },
+        { "name": "Fries (Regular)", "size": "regular", "price": "$8.03", "calories": "953", "desc": "The famous overflowing regular fries, enough to share" },
+        { "name": "Fries (Large)", "size": "large", "price": "$9.59", "calories": "", "desc": "A huge order of fresh-cut fries (Cajun large about 1,314 cal)" },
+        { "name": "Cajun Fries (Regular)", "size": "regular", "price": "$8.03", "calories": "953", "desc": "Regular fries tossed in Cajun seasoning" }
+      ]
+    },
+    {
+      "category": "Milkshakes & Drinks",
+      "intro": "Hand-spun shakes with free mix-ins, plus drinks.",
+      "items": [
+        { "name": "Milkshake (Vanilla)", "size": "", "price": "$5.79", "calories": "630", "desc": "Hand-spun shake; add free mix-ins like bacon or Oreo" },
+        { "name": "Milkshake (Oreo)", "size": "", "price": "$5.79", "calories": "890", "desc": "Milkshake blended with Oreo cookies" },
+        { "name": "Milkshake (Peanut Butter)", "size": "", "price": "$5.79", "calories": "770", "desc": "Milkshake with peanut butter" },
+        { "name": "Fountain Drink", "size": "regular", "price": "$3.59", "calories": "", "desc": "Coca-Cola Freestyle fountain drinks" },
+        { "name": "Simply Lemonade", "size": "", "price": "$3.83", "calories": "", "desc": "Bottled Simply Lemonade" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Five Guys at Home",
+    "intro": "Want the double patty and overflowing fries at home? These picks help.",
+    "cards": [
+      { "icon": "🍔", "name": "Smash Burger Press", "blurb": "Griddle thin, crispy-edged patties.", "amazon_search": "smash burger press" },
+      { "icon": "🥔", "name": "French Fry Cutter", "blurb": "Cut fresh skin-on fries at home.", "amazon_search": "french fry cutter" },
+      { "icon": "🥤", "name": "Milkshake Blender", "blurb": "Spin thick shakes with free mix-ins.", "amazon_search": "milkshake blender" },
+      { "icon": "📖", "name": "Copycat Burger Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Cheeseburger",
+    "Bacon Cheeseburger",
+    "Five Guys Fries",
+    "Little Cheeseburger",
+    "Milkshake"
+  ],
+
+  "faqs": [
+    {
+      "q": "Why is a Five Guys burger a double?",
+      "a": "A standard Five Guys hamburger or cheeseburger comes with two patties by default. If you want a single patty, order the 'Little' version, which is cheaper and still a full burger."
+    },
+    {
+      "q": "Are toppings free at Five Guys?",
+      "a": "Yes. Five Guys offers more than 15 toppings, from grilled onions and mushrooms to jalapenos and A.1. sauce, all at no extra charge on any burger, dog or sandwich."
+    },
+    {
+      "q": "How much is a Five Guys cheeseburger?",
+      "a": "A regular (two-patty) cheeseburger is about $14.95 and a bacon cheeseburger is about $15.95. The single-patty Little Cheeseburger is around $11.87."
+    },
+    {
+      "q": "How big are Five Guys fries?",
+      "a": "Famously huge. A 'regular' order is enough to share, and staff usually add an extra scoop into the bag. Fries are fresh-cut and cooked in peanut oil, and a regular is about 950 calories."
+    },
+    {
+      "q": "What are the most popular items at Five Guys?",
+      "a": "The best known are the cheeseburger, the bacon cheeseburger, the overflowing fresh-cut fries, the Little Cheeseburger, and the hand-spun milkshakes with free mix-ins."
+    }
+  ],
+
+  "internal_links": [
+    "culvers-menu",
+    "jack-in-the-box-menu",
+    "red-robin-menu",
+    "applebees-menu",
+    "taco-bell-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Five Guys."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; Five Guys runs higher than most fast food). Calories from a Five Guys nutrition source.",
+    "calories": "Burgers, hot dog, fries and shakes have per-item figures; a few dog and drink variants are left blank. Fries vary by scoop, so figures are typical. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels double cheeseburger on fries image (pexels-25684783), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Five Guys search demand: why so expensive / double patty, free toppings, cheeseburger price, huge fries, popular items."
+  }
+}
