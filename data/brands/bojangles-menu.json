@@ -1,0 +1,148 @@
+{
+  "slug": "bojangles-menu",
+  "brand": "Bojangles",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/bojangles-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/1860202/pexels-photo-1860202.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Bojangles style bone-in Southern fried chicken, golden and crispy",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-1860202",
+    "_verify_note": "Tentative hero (bone-in Southern fried chicken). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Bojangles Menu With Prices & Calories (2026)",
+    "meta_description": "Full Bojangles menu with prices and calories for 2026: bone-in fried chicken, Cajun Filet Biscuit, Chicken Supremes, Bo-Berry Biscuits, dirty rice and tea.",
+    "h1": "Bojangles Menu With Prices (2026)",
+    "primary_keyword": "bojangles menu with prices",
+    "keyword_volume": 3500,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location and portion. Last updated October 2026.",
+
+  "intro": "Bojangles is the Southern chain known for its Cajun-seasoned bone-in fried chicken, made-from-scratch buttermilk biscuits, the Cajun Filet Biscuit, Chicken Supremes tenders, and the sweet Bo-Berry Biscuits, all washed down with Legendary Iced Tea. Breakfast biscuits run all morning and the Southern 'fixin's' (dirty rice, Bo-Tato Rounds, mac and cheese) round out a meal. Below is the full Bojangles menu with prices and calories for 2026.",
+
+  "quick_answer": "A Cajun Filet Biscuit at Bojangles is about $5.30, a 4-piece Chicken Supremes is $7.99, and a 2-piece bone-in chicken dinner is $7.99. An 8-piece chicken box is $18.99, a Bo-Berry Biscuit is $1.49, and dirty rice is $1.49. The Cajun Filet Biscuit and the fried chicken are the signatures. A Cajun Filet Biscuit is about 570 calories.",
+
+  "highlights": [
+    { "strong": "Cajun Filet", "label": "the signature chicken biscuit" },
+    { "strong": "Made from scratch", "label": "buttermilk biscuits" },
+    { "strong": "Bo-Berry", "label": "the sweet biscuit treat" },
+    { "strong": "Legendary Tea", "label": "Southern sweet tea" }
+  ],
+
+  "hot_deal": "Bojangles value: the Sausage Biscuit ($2.00) and Bo-Berry Biscuit ($1.49) are the cheapest items, and the 8-piece chicken box ($18.99) feeds a family. The app drops regular deals, and breakfast combos pair a biscuit with a side and tea. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Bone-In Fried Chicken",
+      "intro": "Cajun-seasoned bone-in fried chicken, by the dinner or the box.",
+      "items": [
+        { "name": "2 pc Leg & Thigh Dinner", "size": "2 pieces", "price": "$7.99", "calories": "", "desc": "Two pieces with a biscuit (leg about 190 cal, breast about 540)" },
+        { "name": "3 pc Dinner", "size": "3 pieces", "price": "$9.49", "calories": "", "desc": "Three pieces of bone-in chicken with a biscuit" },
+        { "name": "8 pc Chicken Box", "size": "8 pieces", "price": "$18.99", "calories": "", "desc": "Eight pieces with four biscuits" },
+        { "name": "8 pc Chicken Meal", "size": "8 pieces", "price": "$27.99", "calories": "", "desc": "Eight pieces, four biscuits and two large sides" },
+        { "name": "12 pc Chicken Meal", "size": "12 pieces", "price": "$37.99", "calories": "", "desc": "Twelve pieces, six biscuits and three large sides" }
+      ]
+    },
+    {
+      "category": "Chicken Sandwiches, Supremes & Biscuits",
+      "intro": "The famous Cajun Filet Biscuit, tenders and sandwiches.",
+      "items": [
+        { "name": "Cajun Filet Biscuit", "size": "", "price": "$5.30", "calories": "570", "desc": "Marinated chicken fillet in a made-from-scratch buttermilk biscuit" },
+        { "name": "Chicken Supremes (4 pc)", "size": "4 pieces", "price": "$7.99", "calories": "500", "desc": "Four tender white-meat chicken strips" },
+        { "name": "Bo's Chicken Sandwich", "size": "", "price": "$6.99", "calories": "", "desc": "Crispy chicken fillet with pickles on a brioche-style bun" },
+        { "name": "Sausage Biscuit", "size": "", "price": "$2.00", "calories": "", "desc": "Sausage patty in a buttermilk biscuit, the value breakfast" }
+      ]
+    },
+    {
+      "category": "Fixin's (Sides)",
+      "intro": "The Southern sides that make a Bojangles meal.",
+      "items": [
+        { "name": "Dirty Rice", "size": "", "price": "$1.49", "calories": "", "desc": "Cajun-seasoned rice with bits of sausage" },
+        { "name": "Bo-Tato Rounds", "size": "", "price": "$2.35", "calories": "", "desc": "Seasoned potato rounds (picnic size about 650 cal)" },
+        { "name": "Bo-Fries", "size": "", "price": "$2.99", "calories": "", "desc": "Seasoned french fries" },
+        { "name": "Mac & Cheese", "size": "", "price": "$2.99", "calories": "", "desc": "Creamy mac and cheese" },
+        { "name": "Green Beans", "size": "", "price": "$2.19", "calories": "", "desc": "Southern-style seasoned green beans" }
+      ]
+    },
+    {
+      "category": "Bo-Berry Biscuits & Drinks",
+      "intro": "The sweet biscuit treat and the Legendary Iced Tea.",
+      "items": [
+        { "name": "Bo-Berry Biscuit", "size": "", "price": "$1.49", "calories": "", "desc": "A sweet biscuit with blueberry flavor and icing, the signature treat" },
+        { "name": "Bo-Berry Biscuits (3 pc)", "size": "3 pieces", "price": "$3.99", "calories": "", "desc": "Three sweet Bo-Berry Biscuits to share" },
+        { "name": "Legendary Iced Tea (Medium)", "size": "medium", "price": "$3.29", "calories": "", "desc": "Southern sweet or unsweet tea (large $5.66)" },
+        { "name": "Pepsi (Medium)", "size": "medium", "price": "$3.29", "calories": "", "desc": "Fountain soft drinks" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Bojangles at Home",
+    "intro": "Want Cajun fried chicken and biscuits at home? These picks help.",
+    "cards": [
+      { "icon": "🍗", "name": "Cajun Seasoning", "blurb": "For Bojangles-style spicy fried chicken.", "amazon_search": "cajun seasoning blend" },
+      { "icon": "🫓", "name": "Biscuit Mix", "blurb": "For made-from-scratch buttermilk biscuits.", "amazon_search": "buttermilk biscuit mix" },
+      { "icon": "🍚", "name": "Dirty Rice Mix", "blurb": "For the Cajun rice side.", "amazon_search": "dirty rice mix" },
+      { "icon": "🫐", "name": "Blueberries & Glaze", "blurb": "For copycat Bo-Berry Biscuits.", "amazon_search": "dried blueberries baking" }
+    ]
+  },
+
+  "popular_items": [
+    "Cajun Filet Biscuit",
+    "Bone-In Fried Chicken",
+    "Chicken Supremes",
+    "Bo-Berry Biscuit",
+    "Dirty Rice"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is Bojangles known for?",
+      "a": "Bojangles is known for its Cajun-seasoned bone-in fried chicken, made-from-scratch buttermilk biscuits, the Cajun Filet Biscuit, and the sweet Bo-Berry Biscuits, all with Legendary Iced Tea. It is a Southern comfort-food staple."
+    },
+    {
+      "q": "How much is a Cajun Filet Biscuit?",
+      "a": "The Cajun Filet Biscuit is about $5.30 on its own and around $9.44 as a combo with a side and a drink. It is a marinated chicken fillet in a scratch-made buttermilk biscuit, about 570 calories, and it is the chain's signature."
+    },
+    {
+      "q": "What is a Bo-Berry Biscuit?",
+      "a": "A Bo-Berry Biscuit is Bojangles' sweet treat: a buttermilk biscuit baked with blueberry-flavored bits and topped with a sweet icing. One is about $1.49 and a 3-pack is $3.99, perfect to finish a meal."
+    },
+    {
+      "q": "How many calories are in Bojangles chicken?",
+      "a": "A Cajun Filet Biscuit is about 570 calories and a 4-piece Chicken Supremes is about 500. Bone-in pieces vary: a leg is around 190 and a breast about 540. Sides and Bo-Berry Biscuits add more."
+    },
+    {
+      "q": "What are the most popular items at Bojangles?",
+      "a": "The best known are the Cajun Filet Biscuit, the bone-in fried chicken, the Chicken Supremes, the Bo-Berry Biscuit, and the dirty rice."
+    }
+  ],
+
+  "internal_links": [
+    "popeyes-menu",
+    "chick-fil-a-menu",
+    "raising-canes-menu",
+    "zaxbys-menu",
+    "wingstop-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Bojangles."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). May vary by location.",
+    "calories": "Calories from a Bojangles nutrition source. Shown where a reliable figure exists; bone-in pieces noted inline, several items and sides left blank rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels bone-in fried chicken (pexels-1860202). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Chicken & Fast Food' category (with Popeyes, Chick-fil-A, etc.). Dave's Hot Chicken and KFC can follow.",
+    "keyword_notes": "Sections and FAQ shaped by real Bojangles search demand: what it is known for, Cajun Filet Biscuit, Bo-Berry Biscuit, chicken calories, popular items."
+  }
+}
