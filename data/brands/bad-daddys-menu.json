@@ -1,0 +1,156 @@
+{
+  "slug": "bad-daddys-menu",
+  "brand": "Bad Daddy's Burger Bar",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/bad-daddys-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/33920157/pexels-photo-33920157.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Bad Daddy's style loaded gourmet burger cooked over flame",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-33920157",
+    "_verify_note": "Tentative hero (gourmet flame-cooked burger). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Bad Daddy's Burger Bar Menu With Prices (2026)",
+    "meta_description": "Full Bad Daddy's Burger Bar menu with prices for 2026: signature burgers, build-your-own, chicken sandwiches, starters, salads, hand-spun shakes and sides.",
+    "h1": "Bad Daddy's Burger Bar Menu With Prices (2026)",
+    "primary_keyword": "bad daddy's menu with prices",
+    "keyword_volume": 2900,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Bad Daddy's Burger Bar is a casual sit-down 'better burger' chain and does not publish full calorie information, so calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Bad Daddy's Burger Bar is a casual 'better burger' chain concentrated in the Southeast and Colorado, built around chef-driven signature burgers, a big build-your-own program, hand-spun shakes and a from-scratch bar menu. Beyond burgers it does chicken sandwiches, salmon, salads and loaded starters like truffle fries and fried mozzarella. Below is the full Bad Daddy's Burger Bar menu with prices for 2026.",
+
+  "quick_answer": "At Bad Daddy's, the Classic Smashburger is about $8.45, most signature burgers run $11 to $15, and the loaded Bad Ass Burger is $17.95. A build-your-own burger is $12.75, chicken sandwiches are about $11 to $13, and hand-spun shakes are $6.45 to $8. Starters like truffle fries ($10.95) and fried pickles ($8.95) round out the bar menu.",
+
+  "highlights": [
+    { "strong": "Signature burgers", "label": "chef-driven, $11 to $18" },
+    { "strong": "Build your own", "label": "pick patty and toppings" },
+    { "strong": "Hand-spun shakes", "label": "and spiked shakes" },
+    { "strong": "From-scratch bar", "label": "truffle fries, deviled eggs" }
+  ],
+
+  "hot_deal": "Bad Daddy's value: the Classic Smashburger ($8.45) and BD's All American ($9.75) are the cheapest way into the burgers, and a build-your-own ($12.75) lets you control the spend. Hand-cut fries, tots or chips are only $3.50 as a side. The loyalty program and app drop occasional deals. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Signature Burgers",
+      "intro": "The chef-driven burgers the bar is built on.",
+      "items": [
+        { "name": "Classic Smashburger", "size": "", "price": "$8.45", "calories": "", "desc": "The simple smashed-patty classic, the value burger" },
+        { "name": "BD's All American", "size": "", "price": "$9.75", "calories": "", "desc": "American cheese, lettuce, tomato and the classic fixings" },
+        { "name": "Smash-N-Stack", "size": "", "price": "$11.95", "calories": "", "desc": "Stacked smashed patties with cheese" },
+        { "name": "Magic Mushroom Burger", "size": "", "price": "$11.25", "calories": "", "desc": "Burger piled with sauteed mushrooms and Swiss" },
+        { "name": "Heatwave Burger", "size": "", "price": "$12.45", "calories": "", "desc": "The spicy signature burger" },
+        { "name": "Smokehouse Burger", "size": "", "price": "$12.45", "calories": "", "desc": "Bacon, cheddar and barbecue sauce" },
+        { "name": "Western Burger", "size": "", "price": "$13.75", "calories": "", "desc": "Onion rings, bacon and barbecue" },
+        { "name": "Bacon Cheeseburger on Steroids", "size": "", "price": "$14.95", "calories": "", "desc": "The loaded double-bacon cheeseburger" },
+        { "name": "Bad Ass Burger", "size": "", "price": "$17.95", "calories": "", "desc": "The over-the-top loaded burger, the top of the menu" }
+      ]
+    },
+    {
+      "category": "Build Your Own & Chicken",
+      "intro": "Build-your-own and the chicken and non-beef options.",
+      "items": [
+        { "name": "Create Your Own Burger", "size": "", "price": "$12.75", "calories": "", "desc": "Pick your patty, cheese and toppings" },
+        { "name": "Buffalo Chicken", "size": "", "price": "$11.75", "calories": "", "desc": "Crispy chicken with buffalo sauce" },
+        { "name": "Kim's Honey Chicken", "size": "", "price": "$11.95", "calories": "", "desc": "Fried chicken with a honey glaze" },
+        { "name": "Emilio's Chicken", "size": "", "price": "$12.75", "calories": "", "desc": "A signature chicken sandwich" },
+        { "name": "Cantina Black Bean Burger", "size": "", "price": "$10.45", "calories": "", "desc": "The vegetarian black bean burger" },
+        { "name": "Coastal Blackened Salmon", "size": "", "price": "$16.75", "calories": "", "desc": "Blackened salmon sandwich or plate" }
+      ]
+    },
+    {
+      "category": "Starters",
+      "intro": "The from-scratch bar starters.",
+      "items": [
+        { "name": "Hand Cut Truffle Fries", "size": "", "price": "$10.95", "calories": "", "desc": "Hand-cut fries with truffle and parmesan" },
+        { "name": "Fried Pickles", "size": "", "price": "$8.95", "calories": "", "desc": "Crispy fried pickle chips" },
+        { "name": "Not Your Mama's Deviled Eggs", "size": "", "price": "$9.25", "calories": "", "desc": "The signature loaded deviled eggs" },
+        { "name": "Chicken Wings", "size": "", "price": "$14.95", "calories": "", "desc": "Wings with house sauces" },
+        { "name": "Fried Mozzarella Medallions", "size": "", "price": "$11.95", "calories": "", "desc": "Breaded fried mozzarella" },
+        { "name": "Bacon Queso", "size": "", "price": "$10.45", "calories": "", "desc": "Queso loaded with bacon" }
+      ]
+    },
+    {
+      "category": "Shakes, Salads & Sides",
+      "intro": "Hand-spun shakes, salads and the sides.",
+      "items": [
+        { "name": "Hand-Spun Shake", "size": "", "price": "$6.45", "calories": "", "desc": "Chocolate, strawberry or vanilla (create your own $6.45)" },
+        { "name": "Churro Crunch Shake", "size": "", "price": "$8.00", "calories": "", "desc": "A loaded specialty shake (others $7.45)" },
+        { "name": "Texican Chicken Salad", "size": "", "price": "$14.95", "calories": "", "desc": "Southwest chicken salad (Greek and salmon Caesar also $14.95 to $15.95)" },
+        { "name": "Hand-Cut French Fries", "size": "", "price": "$3.50", "calories": "", "desc": "Hand-cut fries (tots, chips or sweet potato also $3.50)" },
+        { "name": "Mac & Cheese", "size": "", "price": "$4.95", "calories": "", "desc": "Creamy mac and cheese side" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make a Burger Bar at Home",
+    "intro": "Want chef-style smashburgers and shakes at home? These picks help.",
+    "cards": [
+      { "icon": "🍔", "name": "Burger Smasher & Griddle", "blurb": "For a crusty smashed patty.", "amazon_search": "burger smasher press griddle" },
+      { "icon": "🍄", "name": "Truffle Oil & Parmesan", "blurb": "For the hand-cut truffle fries.", "amazon_search": "white truffle oil" },
+      { "icon": "🥤", "name": "Milkshake Blender", "blurb": "For hand-spun shakes.", "amazon_search": "milkshake maker blender" },
+      { "icon": "🥒", "name": "Fried Pickle Mix", "blurb": "For crispy fried pickles.", "amazon_search": "fried pickle batter mix" }
+    ]
+  },
+
+  "popular_items": [
+    "Smash-N-Stack",
+    "Bad Ass Burger",
+    "Create Your Own Burger",
+    "Hand Cut Truffle Fries",
+    "Hand-Spun Shake"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a burger at Bad Daddy's?",
+      "a": "The Classic Smashburger is about $8.45 and BD's All American $9.75. Most signature burgers run $11 to $15, and the loaded Bad Ass Burger tops out at $17.95. A build-your-own burger is $12.75. Prices vary by location."
+    },
+    {
+      "q": "Does Bad Daddy's have a build-your-own burger?",
+      "a": "Yes. The create-your-own program lets you choose your patty (beef, smash, chicken, black bean), cheese and toppings for about $12.75. There are also create-your-own smash burgers, sandwiches and salads."
+    },
+    {
+      "q": "What is Bad Daddy's known for?",
+      "a": "Bad Daddy's Burger Bar is known for chef-driven signature burgers, a big build-your-own program, hand-spun shakes (including spiked versions for adults), and a from-scratch bar menu with truffle fries and loaded deviled eggs."
+    },
+    {
+      "q": "Does Bad Daddy's list calories?",
+      "a": "Bad Daddy's is a casual sit-down burger bar and does not publish a full calorie guide, so calories are not listed here rather than guessed. Build-your-own burgers vary a lot with the patty, cheese and toppings you pick."
+    },
+    {
+      "q": "What are the most popular items at Bad Daddy's?",
+      "a": "Favorites include the Smash-N-Stack, the loaded Bad Ass Burger, the create-your-own burger, the hand-cut truffle fries, and the hand-spun shakes."
+    }
+  ],
+
+  "internal_links": [
+    "shake-shack-menu",
+    "smashburger-menu",
+    "whataburger-menu",
+    "cook-out-menu",
+    "au-cheval-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since this casual burger bar does not publish full nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Bad Daddy's Burger Bar."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. Bad Daddy's is a casual sit-down burger bar that does not publish a full calorie guide, and build-your-own items vary widely. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels gourmet flame-cooked burger (pexels-33920157). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Au Cheval double-burger hero.",
+    "category_note": "Uses the existing 'Burgers & Shakes' category. Internal link smashburger-menu may not exist yet; Claude Code can drop any missing-page link. #67 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Bad Daddy's search demand: burger price, build-your-own, what it is known for, the no-calories note, popular items."
+  }
+}
