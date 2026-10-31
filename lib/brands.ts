@@ -45,6 +45,7 @@ function validate(b: Brand, file: string): string[] {
       need(typeof item.size === "string", `"${item.name}" needs a size ("" if none)`);
       need(PRICE_RE.test(item.price ?? ""), `"${item.name}" price "${item.price}" must look like $12.99`);
       need(!item.calories || CALORIES_RE.test(item.calories), `"${item.name}" calories "${item.calories}" must be digits only, or ""`);
+      need(item.desc === undefined || typeof item.desc === "string", `"${item.name}" desc must be text`);
     }
   }
   for (const faq of b.faqs ?? []) need(faq.q && faq.a, "every FAQ needs q and a");

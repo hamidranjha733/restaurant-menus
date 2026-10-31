@@ -85,6 +85,7 @@ export function brandJsonLd(brand: Brand) {
         hasMenuItem: section.items.map((item) => ({
           "@type": "MenuItem",
           name: itemLabel(item.name, item.size),
+          ...(item.desc ? { description: item.desc } : {}),
           offers: { "@type": "Offer", price: priceNumber(item.price).toFixed(2), priceCurrency: "USD" },
           ...(item.calories ? { nutrition: { "@type": "NutritionInformation", calories: `${item.calories} calories` } } : {}),
         })),

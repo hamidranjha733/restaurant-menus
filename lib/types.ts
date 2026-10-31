@@ -8,6 +8,8 @@ export interface MenuItem {
   price: string;
   /** Digits only, e.g. "2250". "" or missing when there is no reliable figure; never estimate. */
   calories?: string;
+  /** Short line shown under the item name, e.g. "Feeds 4 to 6, with 2 large sides". */
+  desc?: string;
 }
 
 export interface MenuSection {

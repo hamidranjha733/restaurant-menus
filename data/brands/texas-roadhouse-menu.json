@@ -42,194 +42,194 @@
       "category": "Just For Starters",
       "intro": "The Cactus Blossom is the one almost everyone orders, but at 2,250 calories it is built for the whole table to share. Most starters here are large sharing plates.",
       "items": [
-        { "name": "Cactus Blossom", "size": "", "price": "$7.99", "calories": "2250" },
-        { "name": "Fried Pickles", "size": "", "price": "$6.99", "calories": "" },
-        { "name": "Rattlesnake Bites", "size": "", "price": "$7.99", "calories": "490" },
-        { "name": "Tater Skins", "size": "", "price": "$7.99", "calories": "" },
-        { "name": "Grilled Shrimp Appetizer", "size": "", "price": "$7.99", "calories": "" },
-        { "name": "Boneless Buffalo Wings", "size": "", "price": "$9.99", "calories": "" },
-        { "name": "Cheese Fries", "size": "", "price": "$8.99", "calories": "" },
-        { "name": "Killer Ribs", "size": "", "price": "$11.99", "calories": "" },
-        { "name": "Texas Red Chili", "size": "Cup", "price": "$3.99", "calories": "" },
-        { "name": "Texas Red Chili", "size": "Bowl", "price": "$4.99", "calories": "" },
-        { "name": "Combo Appetizer", "size": "", "price": "$12.99", "calories": "" }
+        { "name": "Cactus Blossom", "size": "", "price": "$7.99", "calories": "2250", "desc": "Giant fried onion with the signature dipping sauce" },
+        { "name": "Rattlesnake Bites", "size": "", "price": "$7.99", "calories": "490", "desc": "Fried jalapeno and jack cheese bites with Cajun sauce" },
+        { "name": "Fried Pickles", "size": "", "price": "$6.99", "calories": "", "desc": "Battered dill pickle chips, fried crisp" },
+        { "name": "Tater Skins", "size": "", "price": "$7.99", "calories": "", "desc": "Potato skins loaded with cheese and bacon" },
+        { "name": "Cheese Fries", "size": "", "price": "$8.99", "calories": "", "desc": "Fries loaded with melted cheese and bacon" },
+        { "name": "Boneless Buffalo Wings", "size": "", "price": "$9.99", "calories": "", "desc": "Tossed in your choice of wing sauce" },
+        { "name": "Grilled Shrimp Appetizer", "size": "", "price": "$7.99", "calories": "", "desc": "Seasoned grilled shrimp starter" },
+        { "name": "Killer Ribs", "size": "", "price": "$11.99", "calories": "", "desc": "Starter portion of fall-off-the-bone ribs" },
+        { "name": "Combo Appetizer", "size": "", "price": "$12.99", "calories": "", "desc": "Pick three starters on one platter" },
+        { "name": "Texas Red Chili", "size": "Cup", "price": "$3.99", "calories": "", "desc": "House chili, made without beans" },
+        { "name": "Texas Red Chili", "size": "Bowl", "price": "$4.99", "calories": "", "desc": "House chili, made without beans" }
       ]
     },
     {
       "category": "Hand-Cut Steaks",
-      "intro": "This is the reason to come. Every steak is hand-cut in the restaurant, hand-seasoned, and cooked to order over an open grill. All of them come with your choice of two sides. The sirloin is the value pick; the Bone-In Ribeye and Prime Rib are the splurges.",
+      "intro": "This is the reason to come. Every steak is hand-cut in the restaurant, hand-seasoned, and cooked to order over an open grill. All of them come with your choice of two sides. The sirloin is the value pick; the Bone-In Ribeye and Dallas Filet are the splurges.",
       "items": [
-        { "name": "Hand-Cut Sirloin", "size": "6 oz", "price": "$13.99", "calories": "250" },
-        { "name": "Hand-Cut Sirloin", "size": "8 oz", "price": "$15.99", "calories": "340" },
-        { "name": "Hand-Cut Sirloin", "size": "11 oz", "price": "$18.99", "calories": "" },
-        { "name": "Hand-Cut Sirloin", "size": "16 oz", "price": "$22.99", "calories": "" },
-        { "name": "New York Strip", "size": "8 oz", "price": "$17.49", "calories": "" },
-        { "name": "New York Strip", "size": "12 oz", "price": "$21.99", "calories": "600" },
-        { "name": "Dallas Filet", "size": "6 oz", "price": "$21.99", "calories": "" },
-        { "name": "Dallas Filet", "size": "8 oz", "price": "$24.99", "calories": "" },
-        { "name": "Ft. Worth Ribeye", "size": "12 oz", "price": "$22.49", "calories": "" },
-        { "name": "Ft. Worth Ribeye", "size": "14 oz", "price": "$24.49", "calories": "" },
-        { "name": "Ft. Worth Ribeye", "size": "16 oz", "price": "$26.49", "calories": "" },
-        { "name": "Bone-In Ribeye", "size": "16 oz", "price": "$29.49", "calories": "1480" },
-        { "name": "Porterhouse T-Bone", "size": "", "price": "$32.99", "calories": "" },
-        { "name": "Filet Medallions", "size": "", "price": "$21.99", "calories": "" },
-        { "name": "Steak Kabob", "size": "", "price": "$14.99", "calories": "" },
-        { "name": "Road Kill (chopped steak)", "size": "", "price": "$12.49", "calories": "" }
+        { "name": "Hand-Cut Sirloin", "size": "6 oz", "price": "$13.99", "calories": "250", "desc": "Lean center-cut sirloin, the best-value steak" },
+        { "name": "Hand-Cut Sirloin", "size": "8 oz", "price": "$15.99", "calories": "340", "desc": "Lean center-cut sirloin" },
+        { "name": "Hand-Cut Sirloin", "size": "11 oz", "price": "$18.99", "calories": "", "desc": "Lean center-cut sirloin, larger portion" },
+        { "name": "Hand-Cut Sirloin", "size": "16 oz", "price": "$22.99", "calories": "", "desc": "The biggest sirloin on the menu" },
+        { "name": "New York Strip", "size": "8 oz", "price": "$17.49", "calories": "", "desc": "Well-marbled, full-flavored strip steak" },
+        { "name": "New York Strip", "size": "12 oz", "price": "$21.99", "calories": "600", "desc": "Well-marbled, full-flavored strip steak" },
+        { "name": "Dallas Filet", "size": "6 oz", "price": "$21.99", "calories": "", "desc": "The most tender cut, lean and buttery" },
+        { "name": "Dallas Filet", "size": "8 oz", "price": "$24.99", "calories": "", "desc": "The most tender cut, larger portion" },
+        { "name": "Ft. Worth Ribeye", "size": "12 oz", "price": "$22.49", "calories": "", "desc": "Richly marbled ribeye, full of flavor" },
+        { "name": "Ft. Worth Ribeye", "size": "14 oz", "price": "$24.49", "calories": "", "desc": "Richly marbled ribeye" },
+        { "name": "Ft. Worth Ribeye", "size": "16 oz", "price": "$26.49", "calories": "", "desc": "The largest boneless ribeye" },
+        { "name": "Bone-In Ribeye", "size": "16 oz", "price": "$29.49", "calories": "1480", "desc": "Bone-in ribeye for extra flavor, a top splurge" },
+        { "name": "Porterhouse T-Bone", "size": "", "price": "$32.99", "calories": "", "desc": "Strip and filet together on one bone" },
+        { "name": "Filet Medallions", "size": "", "price": "$21.99", "calories": "", "desc": "Three tender filet medallions with your choice of topping" },
+        { "name": "Steak Kabob", "size": "", "price": "$14.99", "calories": "", "desc": "Sirloin skewered with peppers and onions over rice" },
+        { "name": "Road Kill (chopped steak)", "size": "", "price": "$12.49", "calories": "", "desc": "Chopped steak with sauteed onions, mushrooms and jack cheese" }
       ]
     },
     {
       "category": "Fall-Off-The-Bone Ribs",
-      "intro": "Slow-cooked pork ribs in their signature BBQ sauce. Order a half slab as a lighter meal or a full slab if you are hungry.",
+      "intro": "Slow-cooked pork ribs in the signature BBQ sauce. Order a half slab as a lighter meal or a full slab if you are hungry.",
       "items": [
-        { "name": "Slab Ribs", "size": "Half", "price": "$17.99", "calories": "900" },
-        { "name": "Slab Ribs", "size": "Full", "price": "$22.99", "calories": "1750" }
+        { "name": "Slab Ribs", "size": "Half", "price": "$17.99", "calories": "900", "desc": "Half slab of slow-cooked pork ribs in BBQ sauce" },
+        { "name": "Slab Ribs", "size": "Full", "price": "$22.99", "calories": "1750", "desc": "Full slab of slow-cooked pork ribs in BBQ sauce" }
       ]
     },
     {
       "category": "Texas Size Combos",
       "intro": "Can't choose? These pair a sirloin, ribs, shrimp or chicken on one plate, and still come with two sides.",
       "items": [
-        { "name": "Grilled BBQ Chicken & Ribs", "size": "", "price": "$20.49", "calories": "" },
-        { "name": "Grilled BBQ Chicken & Sirloin", "size": "6 oz", "price": "$22.99", "calories": "" },
-        { "name": "Chicken Critters & Ribs", "size": "", "price": "$17.99", "calories": "" },
-        { "name": "Chicken Critters & Sirloin", "size": "6 oz", "price": "$19.99", "calories": "" },
-        { "name": "Sirloin & Ribs", "size": "6 oz", "price": "$22.99", "calories": "" },
-        { "name": "Sirloin & Ribs", "size": "8 oz", "price": "$24.99", "calories": "" },
-        { "name": "Sirloin & Grilled Shrimp", "size": "6 oz", "price": "$20.99", "calories": "" },
-        { "name": "Sirloin & Grilled Shrimp", "size": "8 oz", "price": "$22.99", "calories": "" },
-        { "name": "Ribeye & Ribs", "size": "12 oz", "price": "$29.99", "calories": "" },
-        { "name": "Ribeye & Grilled Shrimp", "size": "12 oz", "price": "$27.99", "calories": "" },
-        { "name": "Filet & Ribs", "size": "6 oz", "price": "$29.49", "calories": "" },
-        { "name": "Filet & Grilled Shrimp", "size": "6 oz", "price": "$27.49", "calories": "" }
+        { "name": "Grilled BBQ Chicken & Ribs", "size": "", "price": "$20.49", "calories": "", "desc": "Grilled BBQ chicken with a half slab of ribs" },
+        { "name": "Grilled BBQ Chicken & Sirloin", "size": "6 oz", "price": "$22.99", "calories": "", "desc": "Grilled BBQ chicken with a 6 oz sirloin" },
+        { "name": "Chicken Critters & Ribs", "size": "", "price": "$17.99", "calories": "", "desc": "Hand-battered chicken tenders with ribs" },
+        { "name": "Chicken Critters & Sirloin", "size": "6 oz", "price": "$19.99", "calories": "", "desc": "Chicken tenders with a 6 oz sirloin" },
+        { "name": "Sirloin & Ribs", "size": "6 oz", "price": "$22.99", "calories": "", "desc": "6 oz sirloin with a half slab of ribs" },
+        { "name": "Sirloin & Ribs", "size": "8 oz", "price": "$24.99", "calories": "", "desc": "8 oz sirloin with a half slab of ribs" },
+        { "name": "Sirloin & Grilled Shrimp", "size": "6 oz", "price": "$20.99", "calories": "", "desc": "6 oz sirloin with grilled shrimp" },
+        { "name": "Sirloin & Grilled Shrimp", "size": "8 oz", "price": "$22.99", "calories": "", "desc": "8 oz sirloin with grilled shrimp" },
+        { "name": "Ribeye & Ribs", "size": "12 oz", "price": "$29.99", "calories": "", "desc": "12 oz ribeye with a half slab of ribs" },
+        { "name": "Ribeye & Grilled Shrimp", "size": "12 oz", "price": "$27.99", "calories": "", "desc": "12 oz ribeye with grilled shrimp" },
+        { "name": "Filet & Ribs", "size": "6 oz", "price": "$29.49", "calories": "", "desc": "6 oz filet with a half slab of ribs" },
+        { "name": "Filet & Grilled Shrimp", "size": "6 oz", "price": "$27.49", "calories": "", "desc": "6 oz filet with grilled shrimp" }
       ]
     },
     {
       "category": "Dockside Favorites",
       "intro": "The seafood options for anyone skipping steak. The grilled salmon is the lightest full meal on the menu at around 350 calories.",
       "items": [
-        { "name": "Grilled Salmon", "size": "5 oz", "price": "$15.99", "calories": "350" },
-        { "name": "Grilled Salmon", "size": "8 oz", "price": "$19.99", "calories": "" },
-        { "name": "Fried Catfish", "size": "3 pcs", "price": "$14.99", "calories": "" },
-        { "name": "Fried Catfish", "size": "4 pcs", "price": "$16.99", "calories": "" },
-        { "name": "Grilled Shrimp", "size": "", "price": "$16.99", "calories": "230" }
+        { "name": "Grilled Salmon", "size": "5 oz", "price": "$15.99", "calories": "350", "desc": "Fresh grilled salmon fillet, the light pick" },
+        { "name": "Grilled Salmon", "size": "8 oz", "price": "$19.99", "calories": "", "desc": "Larger grilled salmon fillet" },
+        { "name": "Fried Catfish", "size": "3 pcs", "price": "$14.99", "calories": "", "desc": "Hand-battered fried catfish fillets" },
+        { "name": "Fried Catfish", "size": "4 pcs", "price": "$16.99", "calories": "", "desc": "Hand-battered fried catfish, larger portion" },
+        { "name": "Grilled Shrimp", "size": "", "price": "$16.99", "calories": "230", "desc": "Full dinner of seasoned grilled shrimp" }
       ]
     },
     {
       "category": "Chicken Specialties",
       "intro": "Grilled options like the BBQ chicken stay light (around 300 calories), while the Country Fried Chicken is a heavier comfort plate.",
       "items": [
-        { "name": "Grilled BBQ Chicken", "size": "", "price": "$13.99", "calories": "300" },
-        { "name": "Country Fried Chicken", "size": "", "price": "$14.49", "calories": "1020" },
-        { "name": "Chicken Critters", "size": "", "price": "$13.99", "calories": "960" },
-        { "name": "Smothered Chicken", "size": "", "price": "$14.99", "calories": "700" },
-        { "name": "Herb Crusted Chicken", "size": "", "price": "$14.49", "calories": "260" },
-        { "name": "Portobello Mushroom Chicken", "size": "", "price": "$15.49", "calories": "" }
+        { "name": "Grilled BBQ Chicken", "size": "", "price": "$13.99", "calories": "300", "desc": "Grilled chicken glazed in BBQ sauce, the light pick" },
+        { "name": "Country Fried Chicken", "size": "", "price": "$14.49", "calories": "1020", "desc": "Breaded chicken breast topped with cream gravy" },
+        { "name": "Chicken Critters", "size": "", "price": "$13.99", "calories": "960", "desc": "Hand-battered chicken tenders with dipping sauce" },
+        { "name": "Smothered Chicken", "size": "", "price": "$14.99", "calories": "700", "desc": "Grilled chicken with sauteed onions, mushrooms and cheese" },
+        { "name": "Herb Crusted Chicken", "size": "", "price": "$14.49", "calories": "260", "desc": "Herb-crusted grilled chicken, a lighter option" },
+        { "name": "Portobello Mushroom Chicken", "size": "", "price": "$15.49", "calories": "", "desc": "Grilled chicken with portobello mushrooms and cheese" }
       ]
     },
     {
       "category": "Country Dinners",
       "intro": "Home-style plates beyond steak and chicken, all served with two sides.",
       "items": [
-        { "name": "Pulled Pork Dinner", "size": "", "price": "$13.99", "calories": "" },
-        { "name": "Grilled Pork Chops", "size": "Single", "price": "$13.99", "calories": "" },
-        { "name": "Grilled Pork Chops", "size": "Double", "price": "$16.99", "calories": "" },
-        { "name": "Country Fried Sirloin", "size": "", "price": "$14.99", "calories": "" },
-        { "name": "Beef Tips", "size": "", "price": "$14.99", "calories": "" },
-        { "name": "Country Vegetable Plate", "size": "", "price": "$10.99", "calories": "" }
+        { "name": "Pulled Pork Dinner", "size": "", "price": "$13.99", "calories": "", "desc": "Slow-cooked pulled pork in BBQ sauce" },
+        { "name": "Grilled Pork Chops", "size": "Single", "price": "$13.99", "calories": "", "desc": "One seasoned grilled pork chop" },
+        { "name": "Grilled Pork Chops", "size": "Double", "price": "$16.99", "calories": "", "desc": "Two seasoned grilled pork chops" },
+        { "name": "Country Fried Sirloin", "size": "", "price": "$14.99", "calories": "", "desc": "Breaded sirloin topped with cream gravy" },
+        { "name": "Beef Tips", "size": "", "price": "$14.99", "calories": "", "desc": "Sirloin tips with sauteed onions, peppers and mushrooms over rice" },
+        { "name": "Country Vegetable Plate", "size": "", "price": "$10.99", "calories": "", "desc": "Your choice of four made-from-scratch sides" }
       ]
     },
     {
       "category": "Salads",
       "intro": "Entree salads big enough for a meal, plus small side salads. The plain house salad is one of the lightest things on the menu.",
       "items": [
-        { "name": "Grilled Chicken Salad", "size": "", "price": "$13.99", "calories": "380" },
-        { "name": "Chicken Caesar Salad", "size": "", "price": "$13.99", "calories": "580" },
-        { "name": "Grilled Salmon Salad", "size": "", "price": "$15.49", "calories": "" },
-        { "name": "Salmon Caesar Salad", "size": "", "price": "$15.49", "calories": "" },
-        { "name": "Chicken Critter Salad", "size": "", "price": "$13.99", "calories": "" },
-        { "name": "Steakhouse Filet Salad", "size": "", "price": "$16.99", "calories": "" },
-        { "name": "House Salad", "size": "", "price": "$4.99", "calories": "130" },
-        { "name": "Caesar Salad", "size": "", "price": "$4.99", "calories": "" }
+        { "name": "Grilled Chicken Salad", "size": "", "price": "$13.99", "calories": "380", "desc": "Mixed greens topped with grilled chicken" },
+        { "name": "Chicken Caesar Salad", "size": "", "price": "$13.99", "calories": "580", "desc": "Caesar salad topped with grilled chicken" },
+        { "name": "Grilled Salmon Salad", "size": "", "price": "$15.49", "calories": "", "desc": "Mixed greens topped with grilled salmon" },
+        { "name": "Salmon Caesar Salad", "size": "", "price": "$15.49", "calories": "", "desc": "Caesar salad topped with grilled salmon" },
+        { "name": "Chicken Critter Salad", "size": "", "price": "$13.99", "calories": "", "desc": "Salad topped with hand-battered chicken tenders" },
+        { "name": "Steakhouse Filet Salad", "size": "", "price": "$16.99", "calories": "", "desc": "Salad topped with sliced filet medallions" },
+        { "name": "House Salad", "size": "", "price": "$4.99", "calories": "130", "desc": "Small mixed green side salad" },
+        { "name": "Caesar Salad", "size": "", "price": "$4.99", "calories": "", "desc": "Small Caesar side salad" }
       ]
     },
     {
       "category": "Burgers & Sandwiches",
       "intro": "Big handheld options served with fries. The Smokehouse Burger is the heaviest at close to 1,000 calories.",
       "items": [
-        { "name": "All-American Cheeseburger", "size": "", "price": "$11.99", "calories": "" },
-        { "name": "Bacon Cheeseburger", "size": "", "price": "$12.99", "calories": "" },
-        { "name": "Smokehouse Burger", "size": "", "price": "$13.49", "calories": "980" },
-        { "name": "Pulled Pork Sandwich", "size": "", "price": "$12.49", "calories": "570" },
-        { "name": "BBQ Chicken Sandwich", "size": "", "price": "$12.99", "calories": "" },
-        { "name": "Mushroom Jack Chicken Sandwich", "size": "", "price": "$13.49", "calories": "" }
+        { "name": "All-American Cheeseburger", "size": "", "price": "$11.99", "calories": "", "desc": "Classic cheeseburger with fries" },
+        { "name": "Bacon Cheeseburger", "size": "", "price": "$12.99", "calories": "", "desc": "Cheeseburger topped with bacon, with fries" },
+        { "name": "Smokehouse Burger", "size": "", "price": "$13.49", "calories": "980", "desc": "Burger with BBQ sauce, bacon and cheese" },
+        { "name": "Pulled Pork Sandwich", "size": "", "price": "$12.49", "calories": "570", "desc": "Slow-cooked pulled pork on a bun, with fries" },
+        { "name": "BBQ Chicken Sandwich", "size": "", "price": "$12.99", "calories": "", "desc": "Grilled BBQ chicken sandwich with fries" },
+        { "name": "Mushroom Jack Chicken Sandwich", "size": "", "price": "$13.49", "calories": "", "desc": "Grilled chicken with mushrooms and jack cheese" }
       ]
     },
     {
       "category": "Sides & Extras",
       "intro": "Every steak and entree includes two of these. Steamed broccoli and green beans are the lightest; the loaded baked potato is the heaviest.",
       "items": [
-        { "name": "Baked Potato", "size": "", "price": "$2.99", "calories": "" },
-        { "name": "Loaded Baked Potato", "size": "", "price": "$2.99", "calories": "630" },
-        { "name": "Mashed Potatoes", "size": "", "price": "$2.99", "calories": "290" },
-        { "name": "Steak Fries", "size": "", "price": "$2.99", "calories": "" },
-        { "name": "Sweet Potato", "size": "", "price": "$2.99", "calories": "" },
-        { "name": "Buttered Corn", "size": "", "price": "$2.99", "calories": "200" },
-        { "name": "Green Beans", "size": "", "price": "$2.99", "calories": "120" },
-        { "name": "Steamed Broccoli", "size": "", "price": "$2.99", "calories": "60" },
-        { "name": "Steamed Vegetables", "size": "", "price": "$2.99", "calories": "" },
-        { "name": "Seasoned Rice", "size": "", "price": "$2.99", "calories": "210" },
-        { "name": "Sauteed Mushrooms", "size": "", "price": "$2.99", "calories": "" },
-        { "name": "Sauteed Onions", "size": "", "price": "$2.99", "calories": "" },
-        { "name": "Kraft Macaroni & Cheese", "size": "", "price": "$3.98", "calories": "" },
-        { "name": "Grilled Shrimp Sidekick", "size": "", "price": "$7.99", "calories": "" },
-        { "name": "Extra Fresh-Baked Bread", "size": "Half Dozen", "price": "$2.49", "calories": "" },
-        { "name": "Extra Fresh-Baked Bread", "size": "Dozen", "price": "$4.99", "calories": "" }
+        { "name": "Baked Potato", "size": "", "price": "$2.99", "calories": "", "desc": "" },
+        { "name": "Loaded Baked Potato", "size": "", "price": "$2.99", "calories": "630", "desc": "Baked potato with butter, cheese, bacon and sour cream" },
+        { "name": "Mashed Potatoes", "size": "", "price": "$2.99", "calories": "290", "desc": "" },
+        { "name": "Steak Fries", "size": "", "price": "$2.99", "calories": "", "desc": "" },
+        { "name": "Sweet Potato", "size": "", "price": "$2.99", "calories": "", "desc": "With butter or marshmallow and caramel" },
+        { "name": "Buttered Corn", "size": "", "price": "$2.99", "calories": "200", "desc": "" },
+        { "name": "Green Beans", "size": "", "price": "$2.99", "calories": "120", "desc": "" },
+        { "name": "Steamed Broccoli", "size": "", "price": "$2.99", "calories": "60", "desc": "The lightest side on the menu" },
+        { "name": "Steamed Vegetables", "size": "", "price": "$2.99", "calories": "", "desc": "" },
+        { "name": "Seasoned Rice", "size": "", "price": "$2.99", "calories": "210", "desc": "" },
+        { "name": "Sauteed Mushrooms", "size": "", "price": "$2.99", "calories": "", "desc": "" },
+        { "name": "Sauteed Onions", "size": "", "price": "$2.99", "calories": "", "desc": "" },
+        { "name": "Kraft Macaroni & Cheese", "size": "", "price": "$3.98", "calories": "", "desc": "" },
+        { "name": "Grilled Shrimp Sidekick", "size": "", "price": "$7.99", "calories": "", "desc": "Add grilled shrimp to any meal" },
+        { "name": "Extra Fresh-Baked Bread", "size": "Half Dozen", "price": "$2.49", "calories": "", "desc": "Rolls with cinnamon honey butter to take away" },
+        { "name": "Extra Fresh-Baked Bread", "size": "Dozen", "price": "$4.99", "calories": "", "desc": "Rolls with cinnamon honey butter to take away" }
       ]
     },
     {
       "category": "Kids & Ranger Meals",
       "intro": "Kids meals start at $4.99 and the Ranger Meals are larger portions for bigger kids.",
       "items": [
-        { "name": "All-Beef Hot Dog", "size": "Original", "price": "$4.99", "calories": "" },
-        { "name": "Kraft Macaroni & Cheese", "size": "", "price": "$4.99", "calories": "" },
-        { "name": "Mini Cheeseburgers", "size": "", "price": "$6.49", "calories": "" },
-        { "name": "Jr. Chicken Tenders", "size": "", "price": "$6.99", "calories": "" },
-        { "name": "Grilled Chicken", "size": "", "price": "$6.99", "calories": "" },
-        { "name": "Lil' Dillo Steak Bites", "size": "", "price": "$7.99", "calories": "" },
-        { "name": "Ranger Meal - Chicken Critters Basket", "size": "", "price": "$8.99", "calories": "" },
-        { "name": "Ranger Meal - Andy's Steak", "size": "", "price": "$10.99", "calories": "" },
-        { "name": "Ranger Meal - Ranger Rib Basket", "size": "", "price": "$10.99", "calories": "" }
+        { "name": "All-Beef Hot Dog", "size": "Original", "price": "$4.99", "calories": "", "desc": "Served with one kid-sized side" },
+        { "name": "Kraft Macaroni & Cheese", "size": "", "price": "$4.99", "calories": "", "desc": "Served with one kid-sized side" },
+        { "name": "Mini Cheeseburgers", "size": "", "price": "$6.49", "calories": "", "desc": "Two mini cheeseburgers with a side" },
+        { "name": "Jr. Chicken Tenders", "size": "", "price": "$6.99", "calories": "", "desc": "Kid-sized hand-battered chicken tenders" },
+        { "name": "Grilled Chicken", "size": "", "price": "$6.99", "calories": "", "desc": "Kid-sized grilled chicken with a side" },
+        { "name": "Lil' Dillo Steak Bites", "size": "", "price": "$7.99", "calories": "", "desc": "Kid-sized sirloin steak bites" },
+        { "name": "Ranger Meal - Chicken Critters Basket", "size": "", "price": "$8.99", "calories": "", "desc": "Larger chicken tender basket for big kids" },
+        { "name": "Ranger Meal - Andy's Steak", "size": "", "price": "$10.99", "calories": "", "desc": "Larger steak meal for big kids" },
+        { "name": "Ranger Meal - Ranger Rib Basket", "size": "", "price": "$10.99", "calories": "", "desc": "Larger rib basket for big kids" }
       ]
     },
     {
       "category": "Family Packs (Legendary Features)",
       "intro": "Bundles that feed the whole family, served with sides and fresh-baked bread.",
       "items": [
-        { "name": "Family Sized Chicken Critters", "size": "", "price": "$39.99", "calories": "" },
-        { "name": "Family Sized BBQ Chicken", "size": "", "price": "$39.99", "calories": "" },
-        { "name": "Family Sized Pulled Pork", "size": "", "price": "$39.99", "calories": "" },
-        { "name": "Family Sized Beef Tips", "size": "", "price": "$44.99", "calories": "" },
-        { "name": "Family Sized Sirloins", "size": "", "price": "$49.99", "calories": "" },
-        { "name": "Family Sized Ribs", "size": "", "price": "$59.99", "calories": "" }
+        { "name": "Family Sized Chicken Critters", "size": "", "price": "$39.99", "calories": "", "desc": "Feeds 4 to 6, with 2 large sides and 8 rolls" },
+        { "name": "Family Sized BBQ Chicken", "size": "", "price": "$39.99", "calories": "", "desc": "Feeds 4 to 6, with 2 large sides and 8 rolls" },
+        { "name": "Family Sized Pulled Pork", "size": "", "price": "$39.99", "calories": "", "desc": "Feeds 4 to 6, with 2 large sides and 8 rolls" },
+        { "name": "Family Sized Beef Tips", "size": "", "price": "$44.99", "calories": "", "desc": "Feeds 4 to 6, with 2 large sides and 8 rolls" },
+        { "name": "Family Sized Sirloins", "size": "", "price": "$49.99", "calories": "", "desc": "Feeds 4 to 6, with 2 large sides and 8 rolls" },
+        { "name": "Family Sized Ribs", "size": "", "price": "$59.99", "calories": "", "desc": "Feeds 4 to 6, with 2 large sides and 8 rolls" }
       ]
     },
     {
       "category": "Desserts",
       "intro": "All three are huge and meant to share. The Big Ol' Brownie lives up to its name at over 1,100 calories.",
       "items": [
-        { "name": "Granny's Apple Classic", "size": "", "price": "$6.99", "calories": "740" },
-        { "name": "Strawberry Cheesecake", "size": "", "price": "$6.99", "calories": "" },
-        { "name": "Big Ol' Brownie", "size": "", "price": "$6.99", "calories": "1140" }
+        { "name": "Granny's Apple Classic", "size": "", "price": "$6.99", "calories": "740", "desc": "Warm apple dessert with ice cream" },
+        { "name": "Strawberry Cheesecake", "size": "", "price": "$6.99", "calories": "", "desc": "Cheesecake topped with strawberries" },
+        { "name": "Big Ol' Brownie", "size": "", "price": "$6.99", "calories": "1140", "desc": "Warm brownie with ice cream and caramel, made to share" }
       ]
     },
     {
       "category": "Drinks & Beverages",
       "intro": "Fountain drinks, fresh-brewed teas and specialty lemonades, with free refills on the non-specialty drinks.",
       "items": [
-        { "name": "Fountain Drink (Coca-Cola, Diet Coke, Sprite, Dr Pepper)", "size": "20 oz", "price": "$1.99", "calories": "" },
-        { "name": "Iced Tea / Sweet Tea", "size": "20 oz", "price": "$1.99", "calories": "" },
-        { "name": "Specialty Lemonade (Wild Strawberry, Blue Crush, Red Raspberry)", "size": "20 oz", "price": "$2.49", "calories": "" },
-        { "name": "Iced Tea / Sweet Tea / Lemonade", "size": "Gallon", "price": "$5.99", "calories": "" }
+        { "name": "Fountain Drink (Coca-Cola, Diet Coke, Sprite, Dr Pepper)", "size": "20 oz", "price": "$1.99", "calories": "", "desc": "Free refills" },
+        { "name": "Iced Tea / Sweet Tea", "size": "20 oz", "price": "$1.99", "calories": "", "desc": "Free refills" },
+        { "name": "Specialty Lemonade (Wild Strawberry, Blue Crush, Red Raspberry)", "size": "20 oz", "price": "$2.49", "calories": "", "desc": "Hand-made fruit lemonade" },
+        { "name": "Iced Tea / Sweet Tea / Lemonade", "size": "Gallon", "price": "$5.99", "calories": "", "desc": "To-go gallon" }
       ]
     }
   ],

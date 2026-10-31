@@ -75,6 +75,17 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
         </>
       )}
 
+      {/* One pill per menu section; the row scrolls sideways on narrow screens and sticks to the top. */}
+      <nav className="jump-tabs" aria-label="Menu sections">
+        <ul>
+          {brand.menu.map((section) => (
+            <li key={section.category}>
+              <a href={`#${sectionId(section.category)}`}>{section.category}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+
       {brand.quick_answer ? (
         <aside className="callout quick-answer" aria-label="Quick answer">
           <p className="callout-label">Quick answer</p>
@@ -150,7 +161,8 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
       ) : null}
 
       {brand.menu.map((section) => {
-        // The calories column appears only in sections that have at least one figure.
+        // Size and Calories columns appear only in sections where at least one item has a value.
+        const hasSize = section.items.some((item) => item.size);
         const hasCalories = section.items.some((item) => item.calories);
         return (
           <section key={section.category} aria-labelledby={sectionId(section.category)}>
@@ -164,7 +176,7 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
                 <thead>
                   <tr>
                     <th scope="col">Item</th>
-                    <th scope="col">Size</th>
+                    {hasSize ? <th scope="col">Size</th> : null}
                     {hasCalories ? (
                       <th scope="col" className="num">
                         Calories
@@ -178,9 +190,12 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
                 <tbody>
                   {section.items.map((item, i) => (
                     <tr key={`${item.name}-${item.size}-${i}`}>
-                      <th scope="row">{item.name}</th>
-                      <td>{item.size || "-"}</td>
-                      {hasCalories ? <td className="num">{item.calories ? formatCalories(item.calories) : "-"}</td> : null}
+                      <th scope="row">
+                        {item.name}
+                        {item.desc ? <span className="item-desc">{item.desc}</span> : null}
+                      </th>
+                      {hasSize ? <td className="size">{item.size}</td> : null}
+                      {hasCalories ? <td className="num">{item.calories ? formatCalories(item.calories) : null}</td> : null}
                       <td className="price">{item.price}</td>
                     </tr>
                   ))}

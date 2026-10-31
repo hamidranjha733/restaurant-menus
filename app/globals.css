@@ -465,3 +465,78 @@ main.wrap {
   border-radius: 2px;
   background: var(--cta);
 }
+
+/* Smooth jump-link scrolling, off for people who ask for reduced motion. */
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Section headings clear the sticky jump tabs when scrolled to. */
+.brand-page h2 {
+  scroll-margin-top: 4.5rem;
+}
+
+.jump-tabs {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  margin: 0 -16px 1rem;
+  padding: 0.6rem 16px;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+}
+
+.jump-tabs ul {
+  list-style: none;
+  display: flex;
+  gap: 0.5rem;
+  margin: 0;
+  padding: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.jump-tabs ul::-webkit-scrollbar {
+  display: none;
+}
+
+.jump-tabs a {
+  display: block;
+  white-space: nowrap;
+  padding: 0.4rem 0.9rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--ink);
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.jump-tabs a:hover,
+.jump-tabs a:focus-visible {
+  border-color: var(--cta);
+  color: var(--cta);
+}
+
+/* Item description under the name, inside the Item cell. */
+.item-desc {
+  display: block;
+  margin-top: 0.15rem;
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: var(--muted);
+}
+
+.menu-table .size {
+  white-space: nowrap;
+}
+
+@media (max-width: 480px) {
+  .menu-table th,
+  .menu-table td {
+    padding: 0.5rem 0.45rem;
+  }
+}
