@@ -1,0 +1,153 @@
+{
+  "slug": "bonefish-grill-menu",
+  "brand": "Bonefish Grill",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/bonefish-grill-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/29145279/pexels-photo-29145279.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Bonefish Grill style wood-grilled salmon plated with vegetables",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-29145279",
+    "_verify_note": "Tentative hero (wood-grilled salmon). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Bonefish Grill Menu With Prices (2026)",
+    "meta_description": "Full Bonefish Grill menu with prices for 2026: the famous Bang Bang Shrimp, wood-grilled salmon and fish, sea bass, combinations, steaks, sides and desserts.",
+    "h1": "Bonefish Grill Menu With Prices (2026)",
+    "primary_keyword": "bonefish grill menu with prices",
+    "keyword_volume": 8100,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Bonefish Grill is a casual-upscale seafood restaurant and does not publish full calorie information, so calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Bonefish Grill is the casual-upscale seafood chain from Bloomin' Brands, the company behind Outback, best known for its cult-favorite Bang Bang Shrimp and its wood-grilled fish prepared with a choice of signature sauces. The menu runs from fresh fish and seafood combinations to steaks, chicken and shareable starters. Below is the full Bonefish Grill menu with prices for 2026.",
+
+  "quick_answer": "At Bonefish Grill, the famous Bang Bang Shrimp starter is about $12.90, wood-grilled Atlantic salmon is $22.90, mahi-mahi $20.90, and Chilean sea bass $36.90. Steaks run from a $19.90 sirloin to a $27.90 filet mignon, and combinations like Filet & Lobster Tail reach $41.90. The Bang Bang Shrimp is the icon. Prices vary by location.",
+
+  "highlights": [
+    { "strong": "Bang Bang Shrimp", "label": "the cult-favorite starter" },
+    { "strong": "Wood-grilled fish", "label": "with signature sauces" },
+    { "strong": "Chilean sea bass", "label": "the premium fish, $36.90" },
+    { "strong": "Surf & turf", "label": "filet and lobster combos" }
+  ],
+
+  "hot_deal": "Bonefish Grill value: the weekday 'Bang Bang Bites' happy hour and the half-price Bang Bang Shrimp promotions are the best-known deals, and the salmon in the small size ($19.90) is the cheapest way into the wood-grilled fish. Sides are just $3 each. The app and emails drop regular offers. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Starters",
+      "intro": "The famous Bang Bang Shrimp and other shareable starters.",
+      "items": [
+        { "name": "Bang Bang Shrimp", "size": "", "price": "$12.90", "calories": "", "desc": "Crispy shrimp tossed in a creamy spicy sauce, the signature" },
+        { "name": "Crispy Bang Artichokes", "size": "", "price": "$8.90", "calories": "", "desc": "Crispy artichokes with Bang Bang sauce" },
+        { "name": "Maryland-Style Crab Cakes", "size": "", "price": "$15.90", "calories": "", "desc": "Lump crab cakes" },
+        { "name": "Ahi Tuna Poke", "size": "", "price": "$13.50", "calories": "", "desc": "Fresh ahi tuna poke" },
+        { "name": "Calamari", "size": "", "price": "$12.90", "calories": "", "desc": "Crispy calamari" },
+        { "name": "Mussels Josephine", "size": "", "price": "$13.50", "calories": "", "desc": "Mussels in a garlic lemon wine sauce" }
+      ]
+    },
+    {
+      "category": "Wood-Grilled Fish",
+      "intro": "Fresh fish, grilled with a choice of signature sauces.",
+      "items": [
+        { "name": "Atlantic Salmon", "size": "sm / reg", "price": "$19.90 / $22.90", "calories": "", "desc": "Wood-grilled Atlantic salmon" },
+        { "name": "Rainbow Trout", "size": "", "price": "$20.50", "calories": "", "desc": "Wood-grilled rainbow trout (parmesan-crusted $23.90)" },
+        { "name": "Mahi-Mahi", "size": "", "price": "$20.90", "calories": "", "desc": "Wood-grilled mahi-mahi" },
+        { "name": "Cod Imperial", "size": "", "price": "$23.90", "calories": "", "desc": "Cod topped with crab imperial" },
+        { "name": "Chilean Sea Bass", "size": "", "price": "$36.90", "calories": "", "desc": "The premium wood-grilled sea bass" }
+      ]
+    },
+    {
+      "category": "Combinations, Steak & Chicken",
+      "intro": "Surf-and-turf combinations, steaks and chicken.",
+      "items": [
+        { "name": "The Angler's Sirloin Steak", "size": "", "price": "$19.90", "calories": "", "desc": "Wood-grilled sirloin" },
+        { "name": "Lily's Chicken", "size": "", "price": "$19.90", "calories": "", "desc": "Grilled chicken with goat cheese, spinach and lemon butter" },
+        { "name": "Georges Bank Scallops & Shrimp", "size": "", "price": "$24.50", "calories": "", "desc": "Scallops and shrimp combination" },
+        { "name": "Filet Mignon", "size": "", "price": "$27.90", "calories": "", "desc": "Center-cut filet mignon" },
+        { "name": "Cold Water Lobster Tails", "size": "", "price": "$38.90", "calories": "", "desc": "Wood-grilled lobster tails" },
+        { "name": "Filet & Lobster Tail", "size": "", "price": "$41.90", "calories": "", "desc": "The surf-and-turf, the top of the menu" }
+      ]
+    },
+    {
+      "category": "Sides & Desserts",
+      "intro": "The $3 sides and the desserts.",
+      "items": [
+        { "name": "Bacon Mac & Cheese", "size": "", "price": "$5.50", "calories": "", "desc": "Creamy mac with bacon" },
+        { "name": "Garlic Whipped Potatoes", "size": "", "price": "$3.00", "calories": "", "desc": "Whipped potatoes (fries, rice, veg and slaw also $3)" },
+        { "name": "Steamed Asparagus", "size": "", "price": "$5.50", "calories": "", "desc": "Steamed asparagus side" },
+        { "name": "Cheesecake", "size": "", "price": "$7.90", "calories": "", "desc": "Classic cheesecake" },
+        { "name": "Macadamia Nut Brownie", "size": "", "price": "$8.50", "calories": "", "desc": "Warm brownie with macadamia nuts" },
+        { "name": "Key Lime Cake", "size": "", "price": "$8.90", "calories": "", "desc": "Key lime cake" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Bonefish Favorites at Home",
+    "intro": "Want Bang Bang Shrimp and wood-grilled fish at home? These picks help.",
+    "cards": [
+      { "icon": "🍤", "name": "Bang Bang Sauce", "blurb": "For copycat Bang Bang Shrimp.", "amazon_search": "bang bang sauce" },
+      { "icon": "🐟", "name": "Cedar Grilling Planks", "blurb": "For wood-grilled-style salmon.", "amazon_search": "cedar grilling planks salmon" },
+      { "icon": "🔥", "name": "Cast Iron Grill Pan", "blurb": "For a seared fish or steak.", "amazon_search": "cast iron grill pan" },
+      { "icon": "🦐", "name": "Fry Thermometer", "blurb": "For crispy fried shrimp.", "amazon_search": "deep fry thermometer" }
+    ]
+  },
+
+  "popular_items": [
+    "Bang Bang Shrimp",
+    "Atlantic Salmon",
+    "Chilean Sea Bass",
+    "Filet & Lobster Tail",
+    "Lily's Chicken"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is Bang Bang Shrimp at Bonefish Grill?",
+      "a": "The Bang Bang Shrimp starter is about $12.90. It is the chain's signature, crispy shrimp tossed in a creamy, spicy sauce, and Bonefish Grill regularly runs half-price Bang Bang Shrimp and 'Bang Bang Bites' happy-hour deals. Prices vary by location."
+    },
+    {
+      "q": "How much is a meal at Bonefish Grill?",
+      "a": "Wood-grilled fish runs about $20 to $37 (salmon $22.90, mahi-mahi $20.90, Chilean sea bass $36.90), steaks $19.90 to $27.90, and surf-and-turf combinations up to $41.90. Add a starter and sides ($3 each) for a full meal. It is a casual-upscale spend."
+    },
+    {
+      "q": "What is Bonefish Grill known for?",
+      "a": "Bonefish Grill is known for its wood-grilled fresh fish served with a choice of signature sauces, and above all for the Bang Bang Shrimp, a cult-favorite crispy shrimp appetizer. It is part of Bloomin' Brands, the company behind Outback Steakhouse."
+    },
+    {
+      "q": "Does Bonefish Grill list calories?",
+      "a": "Bonefish Grill does not publish a full calorie guide, so calories are not listed here rather than guessed. Totals vary with the fish, the grilling oils and the sauce you choose, so dishes differ."
+    },
+    {
+      "q": "What are the most popular dishes at Bonefish Grill?",
+      "a": "Favorites include the Bang Bang Shrimp, the wood-grilled Atlantic salmon, the Chilean sea bass, the Filet & Lobster Tail combination, and Lily's Chicken."
+    }
+  ],
+
+  "internal_links": [
+    "red-lobster-menu",
+    "longhorn-steakhouse-menu",
+    "outback-steakhouse-menu",
+    "cheddars-menu",
+    "benihana-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since Bonefish Grill does not publish full nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Bonefish Grill."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. Bonefish Grill is a casual-upscale seafood restaurant that does not publish full nutrition, and sauce choices vary totals. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels wood-grilled salmon (pexels-29145279). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Red Lobster lobster-tail hero.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (sit-down seafood restaurant, alongside Red Lobster). Internal link outback-steakhouse-menu should already exist; drop any missing-page link. #73 of the expansion list.",
+    "keyword_notes": "High-volume brand (8.1k). Sections and FAQ shaped by real Bonefish Grill search demand: Bang Bang Shrimp price, meal cost, what it is known for, calories question, popular dishes. Salmon given as a two-size price string."
+  }
+}
