@@ -1,0 +1,183 @@
+{
+  "slug": "taco-bell-menu",
+  "brand": "Taco Bell",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/taco-bell-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/40608751/pexels-photo-40608751.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Taco Bell style cheesy beef tacos with melted cheese and a side of sour cream",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-40608751"
+  },
+
+  "seo": {
+    "meta_title": "Taco Bell Menu With Prices & Calories (2026)",
+    "meta_description": "Full Taco Bell menu with prices and calories for 2026: tacos, Crunchwrap Supreme, Chalupas, burritos, nachos, Cravings value menu, boxes, sweets and drinks.",
+    "h1": "Taco Bell Menu With Prices (2026)",
+    "primary_keyword": "taco bell menu with prices",
+    "keyword_volume": 11000,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
+
+  "intro": "Taco Bell is the king of cheap, craveable Tex-Mex: crunchy tacos, Crunchwrap Supremes, Chalupas, burritos and nacho fries, washed down with a Baja Blast. The Cravings value menu and Cravings Boxes make it one of the best-value fast-food runs anywhere. Below is the full Taco Bell menu with prices and calories for 2026, organized by category.",
+
+  "quick_answer": "Taco Bell is built for value. Crunchy and soft tacos start at $1.79, the Cravings value menu starts at $1.00, and the Build Your Own Cravings Box (two entrees, a side and a drink) is about $5.99. Signature items like the Crunchwrap Supreme ($5.29) and Cheesy Gordita Crunch ($4.99) cost a bit more.",
+
+  "highlights": [
+    { "strong": "$1.00+", "label": "Cravings value menu" },
+    { "strong": "$5.99", "label": "Build Your Own Cravings Box" },
+    { "strong": "$1.79", "label": "crunchy or soft tacos" },
+    { "strong": "Baja Blast", "label": "only at Taco Bell" }
+  ],
+
+  "hot_deal": "Taco Bell value: the Cravings value menu starts at just $1.00 (Cheesy Roll Up), and the Build Your Own Cravings Box bundles two entrees, a side and a drink for around $5.99. The Luxe Cravings Box steps it up to about $7.00. Deals and limited-time items change often. Offers vary by location.",
+
+  "menu": [
+    {
+      "category": "Tacos",
+      "intro": "The classics. Crunchy or soft, add Supreme for tomatoes and sour cream.",
+      "items": [
+        { "name": "Crunchy Taco", "size": "", "price": "$1.79", "calories": "170", "desc": "Seasoned beef, lettuce and cheddar in a crunchy shell" },
+        { "name": "Soft Taco", "size": "", "price": "$1.79", "calories": "180", "desc": "Seasoned beef, lettuce and cheddar in a soft tortilla" },
+        { "name": "Crunchy Taco Supreme", "size": "", "price": "$2.59", "calories": "190", "desc": "Crunchy taco with tomatoes and sour cream" },
+        { "name": "Soft Taco Supreme", "size": "", "price": "$2.59", "calories": "", "desc": "Soft taco with tomatoes and sour cream" },
+        { "name": "Nacho Cheese Doritos Locos Tacos", "size": "", "price": "$2.59", "calories": "170", "desc": "Crunchy taco in a Nacho Cheese Doritos shell" },
+        { "name": "Doritos Locos Tacos Supreme", "size": "", "price": "$3.29", "calories": "", "desc": "Doritos Locos taco with tomatoes and sour cream" }
+      ]
+    },
+    {
+      "category": "Burritos",
+      "intro": "Rolled and loaded, from the budget Bean Burrito to the Supreme.",
+      "items": [
+        { "name": "Bean Burrito", "size": "", "price": "$1.69", "calories": "360", "desc": "Refried beans, cheese, onions and red sauce" },
+        { "name": "Beefy 5-Layer Burrito", "size": "", "price": "$3.69", "calories": "500", "desc": "Beef, beans, cheese, sour cream and nacho cheese" },
+        { "name": "Burrito Supreme", "size": "", "price": "$4.99", "calories": "400", "desc": "Beef, beans, cheese, sour cream, tomatoes and onions" },
+        { "name": "Quesarito", "size": "", "price": "$4.49", "calories": "", "desc": "Burrito wrapped in a cheese quesadilla" }
+      ]
+    },
+    {
+      "category": "Specialties",
+      "intro": "The famous ones: Crunchwrap, Chalupa and Cheesy Gordita Crunch.",
+      "items": [
+        { "name": "Crunchwrap Supreme", "size": "", "price": "$5.29", "calories": "", "desc": "Beef, nacho cheese, lettuce, tomato and a tostada folded in a grilled tortilla" },
+        { "name": "Chalupa Supreme", "size": "", "price": "$4.79", "calories": "360", "desc": "Beef, lettuce, cheese, tomato and sour cream in a fried chalupa shell" },
+        { "name": "Cheesy Gordita Crunch", "size": "", "price": "$4.99", "calories": "490", "desc": "A crunchy taco wrapped in a cheesy flatbread" },
+        { "name": "Chicken Quesadilla", "size": "", "price": "$5.19", "calories": "570", "desc": "Grilled chicken and melted cheese with creamy jalapeno sauce" },
+        { "name": "Cheese Quesadilla", "size": "", "price": "$3.99", "calories": "520", "desc": "Melted three-cheese quesadilla" }
+      ]
+    },
+    {
+      "category": "Nachos & Fries",
+      "intro": "Loaded nachos and the cult-favorite Nacho Fries.",
+      "items": [
+        { "name": "Nachos BellGrande", "size": "", "price": "$5.89", "calories": "740", "desc": "Chips loaded with beef, beans, nacho cheese, tomatoes and sour cream" },
+        { "name": "Nacho Fries", "size": "", "price": "$1.99", "calories": "330", "desc": "Seasoned fries with a side of nacho cheese" },
+        { "name": "Chips & Nacho Cheese Sauce", "size": "", "price": "$2.39", "calories": "", "desc": "Tortilla chips with warm nacho cheese" },
+        { "name": "Chips & Guacamole", "size": "", "price": "$3.39", "calories": "", "desc": "Tortilla chips with guacamole" }
+      ]
+    },
+    {
+      "category": "Cravings Value Menu",
+      "intro": "The budget heroes, starting at a dollar.",
+      "items": [
+        { "name": "Cheesy Roll Up", "size": "", "price": "$1.00", "calories": "", "desc": "Melted cheese rolled in a warm tortilla" },
+        { "name": "Spicy Potato Soft Taco", "size": "", "price": "$1.19", "calories": "", "desc": "Crispy potatoes, lettuce, cheese and chipotle sauce" },
+        { "name": "Cheesy Bean & Rice Burrito", "size": "", "price": "$1.19", "calories": "", "desc": "Beans, rice, cheese and sauce in a tortilla" },
+        { "name": "Double Stacked Taco", "size": "", "price": "$2.00", "calories": "", "desc": "A crunchy taco wrapped in a soft tortilla with cheese" },
+        { "name": "Chicken Enchilada Burrito", "size": "", "price": "$2.00", "calories": "", "desc": "Chicken, rice, cheese and enchilada sauce" },
+        { "name": "Loaded Beef Nachos", "size": "", "price": "$2.00", "calories": "", "desc": "Chips with beef, nacho cheese and jalapenos" }
+      ]
+    },
+    {
+      "category": "Boxes & Combos",
+      "intro": "Mix-and-match boxes for a full meal.",
+      "items": [
+        { "name": "Build Your Own Cravings Box", "size": "", "price": "$5.99", "calories": "", "desc": "Two entrees, a side and a medium drink, your choice" },
+        { "name": "Luxe Cravings Box", "size": "", "price": "$7.00", "calories": "", "desc": "A Chalupa Supreme, Beefy 5-Layer, taco, chips and a drink" },
+        { "name": "Grilled Cheese Burrito Deluxe Box", "size": "", "price": "$9.99", "calories": "", "desc": "Grilled Cheese Burrito, taco, chips and a drink" }
+      ]
+    },
+    {
+      "category": "Sweets & Drinks",
+      "intro": "Cinnamon Twists, Cinnabon Delights and the legendary Baja Blast.",
+      "items": [
+        { "name": "Cinnamon Twists", "size": "", "price": "$1.19", "calories": "170", "desc": "Light, crispy cinnamon-sugar twists" },
+        { "name": "Cinnabon Delights (2 Pack)", "size": "2 pack", "price": "$2.39", "calories": "", "desc": "Warm dough bites filled with cream cheese frosting" },
+        { "name": "Cinnabon Delights (4 Pack)", "size": "4 pack", "price": "$3.99", "calories": "", "desc": "Four cream-cheese-filled dough bites" },
+        { "name": "MTN Dew Baja Blast (Regular)", "size": "regular", "price": "$2.39", "calories": "", "desc": "The tropical lime soda only at Taco Bell" },
+        { "name": "Baja Blast Freeze (Regular)", "size": "regular", "price": "$3.49", "calories": "", "desc": "Frozen Baja Blast slushie" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Taco Bell at Home",
+    "intro": "Craving a late-night run at home? These picks help you build tacos and nachos your way.",
+    "cards": [
+      { "icon": "🌮", "name": "Taco Seasoning", "blurb": "The seasoned-beef flavor base.", "amazon_search": "taco seasoning mix" },
+      { "icon": "🫓", "name": "Hard Taco Shells", "blurb": "Crunchy shells for classic tacos.", "amazon_search": "hard taco shells" },
+      { "icon": "🧀", "name": "Nacho Cheese Sauce", "blurb": "For nachos, burritos and fries.", "amazon_search": "nacho cheese sauce" },
+      { "icon": "📖", "name": "Copycat Tex-Mex Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Crunchwrap Supreme",
+    "Crunchy Taco Supreme",
+    "Cheesy Gordita Crunch",
+    "Nachos BellGrande",
+    "Baja Blast Freeze"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a taco at Taco Bell?",
+      "a": "A Crunchy or Soft Taco is about $1.79, and the Supreme version with tomatoes and sour cream is around $2.59. Doritos Locos Tacos are about $2.59."
+    },
+    {
+      "q": "What is in the Taco Bell Cravings Box?",
+      "a": "The Build Your Own Cravings Box is about $5.99 and includes two entrees, a side (like chips or Cinnamon Twists) and a medium drink, all your choice. The Luxe Cravings Box is around $7.00."
+    },
+    {
+      "q": "How much is a Crunchwrap Supreme?",
+      "a": "The Crunchwrap Supreme is about $5.29. It layers seasoned beef, nacho cheese, lettuce, tomato and a crunchy tostada folded inside a grilled tortilla."
+    },
+    {
+      "q": "Does Taco Bell have a value menu?",
+      "a": "Yes. The Cravings value menu starts at $1.00 for the Cheesy Roll Up, with most items between $1.00 and $2.00, including the Spicy Potato Soft Taco and Cheesy Bean & Rice Burrito."
+    },
+    {
+      "q": "What is Baja Blast?",
+      "a": "Baja Blast is a tropical lime-flavored Mountain Dew sold only at Taco Bell. A regular is about $2.39, and the frozen Baja Blast Freeze is around $3.49."
+    },
+    {
+      "q": "What are the most popular items at Taco Bell?",
+      "a": "The best known are the Crunchwrap Supreme, the Crunchy Taco Supreme, the Cheesy Gordita Crunch, Nachos BellGrande, and the Baja Blast Freeze."
+    }
+  ],
+
+  "internal_links": [
+    "chipotle-menu",
+    "kfc-menu",
+    "popeyes-menu",
+    "raising-canes-menu",
+    "culvers-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Taco Bell."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu and limited-time items). Calories from a Taco Bell nutrition database (USDA-sourced).",
+    "calories": "Shown where a reliable single figure exists; the Crunchwrap Supreme, Quesarito, value-menu items, boxes and drinks are left blank where no reliable figure was available. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location, portion and promotion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels cheesy beef tacos image (pexels-40608751), portrait that crops well to a wide hero, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Taco Bell search demand: taco price, Cravings Box, Crunchwrap Supreme, value menu, Baja Blast."
+  }
+}
