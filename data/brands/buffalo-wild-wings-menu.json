@@ -1,0 +1,145 @@
+{
+  "slug": "buffalo-wild-wings-menu",
+  "brand": "Buffalo Wild Wings",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/buffalo-wild-wings-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/5695607/pexels-photo-5695607.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Buffalo Wild Wings style saucy buffalo chicken wings on a plate",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-5695607",
+    "_verify_note": "Tentative hero (saucy buffalo wings). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Buffalo Wild Wings Menu With Prices & Calories (2026)",
+    "meta_description": "Full Buffalo Wild Wings menu with prices and calories for 2026: traditional and boneless wings, 20-plus sauces, burgers, tenders, sides and bundles.",
+    "h1": "Buffalo Wild Wings Menu With Prices (2026)",
+    "primary_keyword": "buffalo wild wings menu with prices",
+    "keyword_volume": 3900,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and vary a lot by location (Buffalo Wild Wings is a sit-down sports bar, and wing prices move with market rates). Bundle and combo prices are the most reliable. Last updated October 2026.",
+
+  "intro": "Buffalo Wild Wings (B-Dubs) is the sports-bar chain built around wings: traditional bone-in and boneless, tossed in more than 20 signature sauces and dry rubs from mild to the hottest Blazin'. Beyond wings there are burgers, hand-breaded tenders, loaded sides and game-day bundles, all served with big screens and beer. Wing counts come as Snack, Regular, Large and Party. Below is the full Buffalo Wild Wings menu with prices and calories for 2026.",
+
+  "quick_answer": "At Buffalo Wild Wings, 10 traditional wings with fries is about $16.99, and 20 boneless with fries is around $17.99. A la carte, a 6-wing snack is roughly $9.49 and a 10-wing order about $14.49, though prices vary a lot by location. Wings come in 20-plus sauces. A plain traditional wing is about 70 calories.",
+
+  "highlights": [
+    { "strong": "20+ sauces", "label": "mild to Blazin'" },
+    { "strong": "Two styles", "label": "traditional and boneless" },
+    { "strong": "$16.99", "label": "10 wings with fries" },
+    { "strong": "Sports bar", "label": "big screens and beer" }
+  ],
+
+  "hot_deal": "Buffalo Wild Wings value: Wing Tuesday and Boneless Thursday deals drop the per-wing price, and Happy Hour (Mon to Fri, 3 to 6 PM) cuts apps and drinks (mozzarella sticks $5, chips and salsa $3). Online bundles like 20 bone-in wings with fries and dips (about $21.99) are the best value for a group. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Traditional Wings",
+      "intro": "Bone-in wings tossed in your choice of sauce or dry rub. A plain wing is about 70 cal. Prices vary by location.",
+      "items": [
+        { "name": "Snack (6 Traditional)", "size": "6 wings", "price": "$9.49", "calories": "420", "desc": "Six bone-in wings, about 420 cal plain" },
+        { "name": "Regular (10 Traditional)", "size": "10 wings", "price": "$14.49", "calories": "700", "desc": "Ten bone-in wings, about 700 cal plain" },
+        { "name": "10 Traditional Wings + Fries", "size": "10 wings", "price": "$16.99", "calories": "", "desc": "Ten wings with a side of fries" },
+        { "name": "Party (20 Traditional)", "size": "20 wings", "price": "$26.99", "calories": "", "desc": "Twenty bone-in wings to share" }
+      ]
+    },
+    {
+      "category": "Boneless Wings",
+      "intro": "Breaded boneless wings in the same sauces. A plain boneless wing is about 75 cal.",
+      "items": [
+        { "name": "Snack (6 Boneless)", "size": "6 wings", "price": "$8.49", "calories": "", "desc": "Six boneless wings" },
+        { "name": "Regular (10 Boneless)", "size": "10 wings", "price": "$12.99", "calories": "730", "desc": "Ten boneless wings, about 730 cal plain" },
+        { "name": "20 Boneless Wings + Fries", "size": "20 wings", "price": "$17.99", "calories": "", "desc": "Twenty boneless wings with fries (online bundle)" },
+        { "name": "Party (30 Boneless)", "size": "30 wings", "price": "$29.99", "calories": "", "desc": "Thirty boneless wings for a group" }
+      ]
+    },
+    {
+      "category": "Burgers, Tenders & Sandwiches",
+      "intro": "Beyond wings: burgers, hand-breaded tenders and chicken sandwiches.",
+      "items": [
+        { "name": "All-American Cheeseburger", "size": "", "price": "$13.49", "calories": "800", "desc": "Cheeseburger with lettuce, tomato and fries (about 800 cal with fries)" },
+        { "name": "Hand-Breaded Tenders (3 pc)", "size": "3 pieces", "price": "$9.99", "calories": "390", "desc": "Three hand-breaded tenders with a sauce (5 pc about 650 cal)" },
+        { "name": "Buffalo Ranch Chicken Sandwich", "size": "", "price": "$12.99", "calories": "", "desc": "Crispy chicken with buffalo sauce and ranch" }
+      ]
+    },
+    {
+      "category": "Sides & Desserts",
+      "intro": "Loaded apps, fries and the cookie skillet.",
+      "items": [
+        { "name": "French Fries (Regular)", "size": "regular", "price": "$4.99", "calories": "470", "desc": "Natural-cut fries" },
+        { "name": "Cheese Curds", "size": "", "price": "$8.99", "calories": "920", "desc": "Breaded, fried Wisconsin cheese curds" },
+        { "name": "Mozzarella Sticks", "size": "", "price": "$8.49", "calories": "810", "desc": "Fried mozzarella sticks with marinara" },
+        { "name": "Triple Chocolate Chip Cookie Skillet", "size": "", "price": "$4.99", "calories": "", "desc": "Warm cookie in a skillet with ice cream" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Wings at Home",
+    "intro": "Want saucy wings for game day at home? These picks help.",
+    "cards": [
+      { "icon": "🔥", "name": "Buffalo Wing Sauce", "blurb": "Classic buffalo and more sauces.", "amazon_search": "buffalo wing sauce" },
+      { "icon": "🍗", "name": "Air Fryer", "blurb": "For crispy wings without deep frying.", "amazon_search": "air fryer wings" },
+      { "icon": "🧀", "name": "Mozzarella & Curds", "blurb": "For fried cheese appetizers.", "amazon_search": "cheese curds" },
+      { "icon": "📖", "name": "Copycat Wing Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Traditional Wings",
+    "Boneless Wings",
+    "Cheese Curds",
+    "All-American Cheeseburger",
+    "Hand-Breaded Tenders"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much are wings at Buffalo Wild Wings?",
+      "a": "A 6-wing snack is about $9.49 and a 10-wing order around $14.49, with 10 wings and fries at about $16.99. Prices vary a lot by location since wing costs move with the market. Wing Tuesday and Boneless Thursday deals are cheaper."
+    },
+    {
+      "q": "How many sauces does Buffalo Wild Wings have?",
+      "a": "Buffalo Wild Wings has more than 20 signature sauces and dry rubs, from Sweet BBQ and Honey BBQ through Medium and Mango Habanero up to the eye-watering Blazin'. Sauce is free; you just pick when you order."
+    },
+    {
+      "q": "What is the difference between traditional and boneless wings?",
+      "a": "Traditional wings are classic bone-in chicken wings. Boneless wings are breaded, fried pieces of chicken breast, more like nuggets, tossed in the same sauces. Both come in Snack, Regular, Large and Party sizes."
+    },
+    {
+      "q": "How many calories are in Buffalo Wild Wings wings?",
+      "a": "A plain traditional wing is about 70 calories (420 for six, 700 for ten), and ten plain boneless wings are about 730. Sauces add more, and sides like cheese curds (about 920) and mozzarella sticks (810) are heavy."
+    },
+    {
+      "q": "What are the most popular items at Buffalo Wild Wings?",
+      "a": "The best known are the traditional wings, the boneless wings, the cheese curds, the All-American Cheeseburger, and the hand-breaded tenders, all built around the 20-plus sauces."
+    }
+  ],
+
+  "internal_links": [
+    "wingstop-menu",
+    "zaxbys-menu",
+    "popeyes-menu",
+    "kfc-menu",
+    "chick-fil-a-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Buffalo Wild Wings."
+  },
+
+  "_data_notes": {
+    "price_source": "Bundle and combo prices are from an established source; a la carte wing counts are representative and vary a lot by location (wing prices track market rates). Flagged as approximate.",
+    "calories": "Calories from a Buffalo Wild Wings nutrition source (plain wings, before sauce). Shown where a reliable figure exists; sauced totals and several items left blank rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary widely by location and sauce. Always display the disclaimer, and note wing prices move with the market.",
+    "hero_image": "Tentative Pexels saucy buffalo wings (pexels-5695607). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Chicken & Fast Food' category. Del Taco can follow; this is the last wings-focused brand.",
+    "keyword_notes": "Sections and FAQ shaped by real Buffalo Wild Wings search demand: wing prices, number of sauces, traditional vs boneless, wing calories, popular items."
+  }
+}
