@@ -1,0 +1,149 @@
+{
+  "slug": "hooters-menu",
+  "brand": "Hooters",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/hooters-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/27668690/pexels-photo-27668690.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Hooters style basket of buffalo chicken wings and fries",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-27668690",
+    "_verify_note": "Tentative hero (wings and fries basket). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Hooters Menu With Prices (2026)",
+    "meta_description": "Full Hooters menu with prices for 2026: traditional and boneless wings, Daytona Beach-style apps, Mile High burgers, seafood, sandwiches, salads and sides.",
+    "h1": "Hooters Menu With Prices (2026)",
+    "primary_keyword": "hooters menu with prices",
+    "keyword_volume": 9900,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Hooters is a sit-down sports-bar restaurant and does not publish full calorie information, so calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Hooters is the American sports-bar chain built on wings, beer and a casual game-day atmosphere, famous for its breaded Hooters Original Style wings and its signature sauces. Beyond wings the menu runs Mile High burgers, seafood including snow crab legs and steamed shrimp, sandwiches, tacos and shareable apps. Below is the full Hooters menu with prices for 2026.",
+
+  "quick_answer": "At Hooters, 10 traditional wings are about $19.99 and 20 are $32.99, while boneless wings run $13.99 for 8 up to $28.99 for 22. Mile High burgers are $16 to $20, snow crab legs $28.99, and most sandwiches about $16 to $20. The breaded Hooters Original Style wings are the icon. Prices vary by location.",
+
+  "highlights": [
+    { "strong": "Original Style wings", "label": "breaded, the signature" },
+    { "strong": "Boneless wings", "label": "8 to 22 pieces" },
+    { "strong": "Mile High burgers", "label": "the loaded burgers" },
+    { "strong": "Snow crab & shrimp", "label": "the seafood side" }
+  ],
+
+  "hot_deal": "Hooters value: wing specials (like discounted wings on certain weekdays) and happy-hour deals on apps and drinks are the best-known offers, and the boneless 8-piece ($13.99) or curly fries ($5.99) are the cheapest ways in. The app and Hooters rewards drop occasional deals. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Wings",
+      "intro": "Breaded Hooters Original Style and boneless wings with signature sauces.",
+      "items": [
+        { "name": "Traditional Wings (10)", "size": "10 wings", "price": "$19.99", "calories": "", "desc": "Breaded Hooters Original Style wings with your sauce" },
+        { "name": "Traditional Wings (20)", "size": "20 wings", "price": "$32.99", "calories": "", "desc": "A larger order of traditional wings" },
+        { "name": "Boneless Wings (8)", "size": "8 pieces", "price": "$13.99", "calories": "", "desc": "Boneless wings, the value size" },
+        { "name": "Boneless Wings (16)", "size": "16 pieces", "price": "$22.19", "calories": "", "desc": "Boneless wings for sharing (22 pc $28.99)" }
+      ]
+    },
+    {
+      "category": "Appetizers (Teasers)",
+      "intro": "The shareable sports-bar starters.",
+      "items": [
+        { "name": "Buffalo Shrimp (12)", "size": "12 pieces", "price": "$16.69", "calories": "", "desc": "Fried shrimp tossed in wing sauce (24 pc $26.79)" },
+        { "name": "Burger Sliders", "size": "", "price": "$15.49", "calories": "", "desc": "Mini burgers (buffalo chicken sliders also $15.49)" },
+        { "name": "Tex-Mex Nachos", "size": "", "price": "$14.99", "calories": "", "desc": "Loaded nachos (with chicken $15.29)" },
+        { "name": "Fried Pickles", "size": "", "price": "$11.29", "calories": "", "desc": "Crispy fried pickles" },
+        { "name": "Chili Cheese Fries", "size": "", "price": "$8.99", "calories": "", "desc": "Fries with chili and cheese" }
+      ]
+    },
+    {
+      "category": "Burgers & Sandwiches",
+      "intro": "Mile High burgers, sandwiches and tacos.",
+      "items": [
+        { "name": "B.Y.O.B Burger", "size": "", "price": "$16.29", "calories": "", "desc": "Build-your-own-burger, the base" },
+        { "name": "Twisted Texas Melt", "size": "", "price": "$17.79", "calories": "", "desc": "A loaded signature burger (Western BBQ also $17.79)" },
+        { "name": "Homerun Burger", "size": "", "price": "$20.28", "calories": "", "desc": "The biggest loaded burger" },
+        { "name": "Buffalo Chicken Sandwich", "size": "", "price": "$16.99", "calories": "", "desc": "Crispy buffalo chicken sandwich" },
+        { "name": "Blackened Mahi Sandwich", "size": "", "price": "$18.19", "calories": "", "desc": "Blackened mahi-mahi sandwich" },
+        { "name": "Buffalo Chicken Tacos", "size": "", "price": "$16.69", "calories": "", "desc": "Tacos with buffalo chicken (shrimp and mahi tacos also offered)" }
+      ]
+    },
+    {
+      "category": "Seafood, Salads & Desserts",
+      "intro": "Snow crab, shrimp, salads and desserts.",
+      "items": [
+        { "name": "Snow Crab Legs", "size": "", "price": "$28.99", "calories": "", "desc": "Steamed snow crab legs" },
+        { "name": "Steamed Shrimp", "size": "1/2 lb / 1 lb", "price": "$17.89 / $29.39", "calories": "", "desc": "Steamed shrimp by weight" },
+        { "name": "Chicken Caesar Salad", "size": "", "price": "$15.99", "calories": "", "desc": "Caesar salad with chicken (garden salads also offered)" },
+        { "name": "Key Lime Pie", "size": "", "price": "$6.99", "calories": "", "desc": "Key lime pie (cheesecake and mousse cake also $6.99)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Game-Day Wings at Home",
+    "intro": "Want Hooters-style wings at home? These picks help.",
+    "cards": [
+      { "icon": "🍗", "name": "Air Fryer", "blurb": "For crispy wings at home.", "amazon_search": "air fryer wings" },
+      { "icon": "🌶️", "name": "Buffalo Wing Sauce", "blurb": "For the classic wing sauce.", "amazon_search": "buffalo wing sauce" },
+      { "icon": "🍤", "name": "Fry Thermometer", "blurb": "For breaded wings and shrimp.", "amazon_search": "deep fry thermometer" },
+      { "icon": "🥬", "name": "Ranch & Blue Cheese", "blurb": "The dips for wings.", "amazon_search": "blue cheese ranch dressing" }
+    ]
+  },
+
+  "popular_items": [
+    "Traditional Wings",
+    "Boneless Wings",
+    "Buffalo Shrimp",
+    "Mile High Burger",
+    "Snow Crab Legs"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much are wings at Hooters?",
+      "a": "10 traditional breaded wings are about $19.99 and 20 are $32.99. Boneless wings run $13.99 for 8, $22.19 for 16, and $28.99 for 22. Hooters runs weekday wing specials and happy-hour deals, so the day and location change the price."
+    },
+    {
+      "q": "What is Hooters known for?",
+      "a": "Hooters is an American sports-bar chain known for its breaded Hooters Original Style wings, its signature wing sauces, beer and game-day atmosphere, and its Hooters Girls service. The menu also covers burgers, seafood like snow crab, and shareable apps."
+    },
+    {
+      "q": "Does Hooters have food other than wings?",
+      "a": "Yes. Beyond wings, Hooters serves Mile High burgers ($16 to $20), sandwiches and tacos, seafood including snow crab legs ($28.99) and steamed shrimp, big salads, and shareable apps like buffalo shrimp and Tex-Mex nachos."
+    },
+    {
+      "q": "Does Hooters list calories?",
+      "a": "Hooters is a sit-down sports bar and does not publish a full calorie guide, so calories are not listed here rather than guessed. Totals vary with the wing style (breaded versus boneless), the sauce, and the sides you add."
+    },
+    {
+      "q": "What are the most popular items at Hooters?",
+      "a": "Favorites include the traditional breaded wings, the boneless wings, the buffalo shrimp, the Mile High burgers, and the snow crab legs."
+    }
+  ],
+
+  "internal_links": [
+    "buffalo-wild-wings-menu",
+    "wingstop-menu",
+    "twin-peaks-menu",
+    "applebees-menu",
+    "bojangles-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since Hooters does not publish full nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Hooters."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (US pricing; vary by location). Real listed values at time of writing.",
+    "calories": "Deliberately left blank. Hooters is a sit-down sports bar that does not publish full nutrition, and wing style/sauce vary totals. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
+    "hero_image": "Tentative Pexels wings-and-fries basket (pexels-27668690). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed. Distinct from the Buffalo Wild Wings hero.",
+    "category_note": "Uses the existing 'Chicken & Fast Food' category (wings-led sports bar, following the Buffalo Wild Wings precedent). Internal links wingstop-menu and applebees-menu may not exist yet; drop any missing-page link. #75 of the expansion list.",
+    "keyword_notes": "High-volume brand (9.9k). Sections and FAQ shaped by real Hooters search demand: wing prices, what it is known for, non-wing food, calories question, popular items. Wing counts and shrimp given as size/quantity price strings."
+  }
+}
