@@ -1,0 +1,144 @@
+{
+  "slug": "peter-luger-menu",
+  "brand": "Peter Luger Steak House",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/peter-luger-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/299348/pexels-photo-299348.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Peter Luger style sliced dry-aged porterhouse steak on a plate",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-299348",
+    "_verify_note": "Tentative hero (sliced porterhouse-style steak). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Peter Luger Menu With Prices (2026)",
+    "meta_description": "Peter Luger Steak House menu with prices for 2026: the famous dry-aged porterhouse for two, single steak, Luger burger, extra-thick bacon, sides and desserts.",
+    "h1": "Peter Luger Steak House Menu With Prices (2026)",
+    "primary_keyword": "peter luger menu prices",
+    "keyword_volume": 5400,
+    "keyword_kd": 3
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary by location and update. Peter Luger is an upscale dry-aged steakhouse (the Brooklyn original is famously cash-only) and does not publish calorie information, so calories are left blank rather than guessed. Delivery prices can run higher. Last updated October 2026.",
+
+  "intro": "Peter Luger Steak House is the legendary Brooklyn dry-aged steakhouse, open since 1887 and famous for its porterhouse sold by the number of diners, its extra-thick bacon, German fried potatoes and creamed spinach, and its no-frills, cash-only Brooklyn room. It also has locations in Great Neck and, newer, Las Vegas. Below is the Peter Luger menu with prices for 2026.",
+
+  "quick_answer": "At Peter Luger, the signature dry-aged porterhouse Steak for Two is about $147.90, a single steak $73.95, and a rib steak $92.95. The lunch-only Luger Burger is $21.95, extra-thick Luger bacon is $8.95 a slice, and sides like German fried potatoes or creamed spinach for two are $18.95. It is an upscale, cash-only steakhouse (at the Brooklyn original).",
+
+  "highlights": [
+    { "strong": "Dry-aged porterhouse", "label": "sold for two, three or four" },
+    { "strong": "Since 1887", "label": "the Brooklyn original" },
+    { "strong": "Luger Bacon", "label": "the extra-thick slice, $8.95" },
+    { "strong": "Cash only", "label": "at the Brooklyn location" }
+  ],
+
+  "hot_deal": "Peter Luger value: this is a special-occasion steakhouse, not a value spot, but the lunch-only Luger Burger ($21.95) is the cheapest way to taste the kitchen, and a single steak ($73.95) is far less than the porterhouse for two. The Brooklyn original is cash-only, so bring cash. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Steaks",
+      "intro": "The famous dry-aged steaks, sold by the number of diners.",
+      "items": [
+        { "name": "Single Steak", "size": "for 1", "price": "$73.95", "calories": "", "desc": "A single dry-aged steak" },
+        { "name": "Rib Steak", "size": "", "price": "$92.95", "calories": "", "desc": "A dry-aged rib steak" },
+        { "name": "Steak for Two (Porterhouse)", "size": "", "price": "$147.90", "calories": "", "desc": "The signature dry-aged porterhouse for two, served sliced" },
+        { "name": "Steak for Three", "size": "", "price": "Varies", "calories": "", "desc": "Porterhouse for three (priced at the restaurant, scales with size)" },
+        { "name": "Steak for Four", "size": "", "price": "Varies", "calories": "", "desc": "Porterhouse for four (priced at the restaurant)" }
+      ]
+    },
+    {
+      "category": "Burger & Bacon",
+      "intro": "The lunch burger and the famous bacon.",
+      "items": [
+        { "name": "Luger Burger", "size": "lunch only", "price": "$21.95", "calories": "", "desc": "The famous burger, served only at lunch until 3:45 PM" },
+        { "name": "Luger Extra-Thick Bacon", "size": "per slice", "price": "$8.95", "calories": "", "desc": "A single extra-thick slice of the signature bacon" }
+      ]
+    },
+    {
+      "category": "Starters & Salads",
+      "intro": "The appetizers and salads.",
+      "items": [
+        { "name": "Caesar Salad", "size": "", "price": "$18.95", "calories": "", "desc": "Classic Caesar salad" },
+        { "name": "Iceberg Wedge", "size": "", "price": "$23.95", "calories": "", "desc": "Iceberg wedge with blue cheese and bacon" },
+        { "name": "Shrimp Cocktail", "size": "", "price": "Varies", "calories": "", "desc": "Jumbo shrimp cocktail (priced at the restaurant)" }
+      ]
+    },
+    {
+      "category": "Sides & Desserts",
+      "intro": "The classic steakhouse sides and desserts.",
+      "items": [
+        { "name": "German Fried Potatoes (for two)", "size": "", "price": "$18.95", "calories": "", "desc": "The signature crispy German fried potatoes" },
+        { "name": "Creamed Spinach (for two)", "size": "", "price": "$18.95", "calories": "", "desc": "Classic creamed spinach" },
+        { "name": "Cheesecake", "size": "", "price": "$14.95", "calories": "", "desc": "House cheesecake (most desserts $14.95)" },
+        { "name": "Apple Strudel / Pie", "size": "", "price": "$14.95", "calories": "", "desc": "Dessert with schlag (whipped cream)" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make a Steakhouse Dinner at Home",
+    "intro": "Want a dry-aged-style porterhouse at home? These picks help.",
+    "cards": [
+      { "icon": "🥩", "name": "Cast Iron Skillet", "blurb": "For a seared porterhouse.", "amazon_search": "cast iron skillet steak" },
+      { "icon": "🌡️", "name": "Meat Thermometer", "blurb": "For a perfect medium-rare.", "amazon_search": "instant read meat thermometer" },
+      { "icon": "🥓", "name": "Thick-Cut Bacon", "blurb": "For Luger-style extra-thick bacon.", "amazon_search": "thick cut bacon" },
+      { "icon": "🥬", "name": "Creamed Spinach Recipe Kit", "blurb": "The classic steakhouse side.", "amazon_search": "creamed spinach" }
+    ]
+  },
+
+  "popular_items": [
+    "Porterhouse Steak for Two",
+    "Luger Burger",
+    "Luger Extra-Thick Bacon",
+    "German Fried Potatoes",
+    "Creamed Spinach"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is the porterhouse at Peter Luger?",
+      "a": "The dry-aged porterhouse Steak for Two is about $147.90, and larger sizes for three or four scale up from there and are priced at the restaurant. A single steak is $73.95 and a rib steak $92.95. Prices vary by location and update."
+    },
+    {
+      "q": "Is Peter Luger cash only?",
+      "a": "The Brooklyn original is famously cash-only (it also takes the Peter Luger house card), so you should bring cash. Policies at the newer Great Neck and Las Vegas locations can differ, so it is worth checking before you go."
+    },
+    {
+      "q": "What is Peter Luger known for?",
+      "a": "Peter Luger, open in Brooklyn since 1887, is known for its dry-aged porterhouse sold by the number of diners and served sliced, its extra-thick bacon, German fried potatoes and creamed spinach, and its no-frills, cash-only room. It is one of America's most famous steakhouses."
+    },
+    {
+      "q": "Can you get the Luger burger for dinner?",
+      "a": "No. The famous Luger Burger is served only at lunch, until about 3:45 PM, and is not on the dinner menu. At $21.95 it is the cheapest way to taste the kitchen, so lunch is the budget-friendly visit."
+    },
+    {
+      "q": "What are the most popular dishes at Peter Luger?",
+      "a": "Favorites include the dry-aged porterhouse for two, the lunch-only Luger Burger, the extra-thick Luger bacon, the German fried potatoes, and the creamed spinach."
+    }
+  ],
+
+  "internal_links": [
+    "longhorn-steakhouse-menu",
+    "benihana-menu",
+    "au-cheval-menu",
+    "amalfi-llama-menu",
+    "ruths-chris-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (no per-item calories, since Peter Luger does not publish nutrition), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Peter Luger Steak House."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from third-party menu trackers (Peter Luger's own site lists dishes but not dine-in prices). Real reported values at time of writing; Steak for Three/Four and shrimp cocktail left blank where no reliable figure exists. On import those blank prices became 'Varies' (the site does not accept an empty price), and the 'for N' size was dropped on items whose name already says 'for Two/Three/Four' so it is not shown twice. Delivery can run higher.",
+    "calories": "Deliberately left blank. Upscale steakhouse, no published nutrition. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location and update. Always display the disclaimer, and note the Brooklyn original is cash-only.",
+    "hero_image": "Tentative Pexels sliced steak (pexels-299348) for the sliced-served porterhouse. NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Breakfast & Dining' category (upscale steakhouse). Internal link ruths-chris-menu may not exist yet; drop any missing-page link. #84 of the expansion list.",
+    "keyword_notes": "Strong brand interest (5.4k). Sections and FAQ shaped by real Peter Luger search demand: porterhouse price, cash-only question, what it is known for, the lunch-only burger, popular dishes. Steak for Three/Four left price-blank honestly."
+  }
+}
