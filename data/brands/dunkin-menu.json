@@ -1,0 +1,164 @@
+{
+  "slug": "dunkin-menu",
+  "brand": "Dunkin'",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/dunkin-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/1191639/pexels-photo-1191639.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Dunkin' style colorful frosted donuts with rainbow sprinkles",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-1191639"
+  },
+
+  "seo": {
+    "meta_title": "Dunkin' Menu With Prices & Calories (2026)",
+    "meta_description": "Full Dunkin' menu with prices and calories for 2026: iced coffee, lattes, Refreshers, glazed and Boston Kreme donuts, Munchkins, bagels and breakfast.",
+    "h1": "Dunkin' Menu With Prices (2026)",
+    "primary_keyword": "dunkin menu with prices",
+    "keyword_volume": 4900,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate (medium sizes), are provided as a guide only, and may vary by location, size and customization. Last updated October 2026.",
+
+  "intro": "Dunkin' (formerly Dunkin' Donuts) is the coffee-and-donuts chain that 'America runs on', famous for its iced coffee, flavor swirls, classic glazed donuts, poppable Munchkins and quick breakfast sandwiches. It's built for speed and value. Below is the full Dunkin' menu with prices and calories for 2026.",
+
+  "quick_answer": "A glazed donut at Dunkin' is about $1.29, a medium iced coffee is $3.19, and a latte is $4.49. Munchkins are 10 for $2.49, and a Bacon, Egg & Cheese is around $4.99. Dunkin' is known for its coffee and donuts, with most drinks customizable with flavor swirls.",
+
+  "highlights": [
+    { "strong": "$1.29", "label": "classic glazed donut" },
+    { "strong": "$3.19", "label": "medium iced coffee" },
+    { "strong": "10 for $2.49", "label": "Munchkins" },
+    { "strong": "Swirls", "label": "customize any coffee" }
+  ],
+
+  "hot_deal": "Dunkin' value: the Dunkin' Rewards app has the best deals, with points toward free drinks, a birthday reward and daily app offers. The glazed donut ($1.29) and a medium hot coffee ($2.39) are the cheapest treats, and the Wake-Up Wrap ($2.49) is the budget breakfast. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Hot & Iced Coffee",
+      "intro": "The core coffee, hot or iced, endlessly customizable with flavor swirls. Prices are medium.",
+      "items": [
+        { "name": "Hot Coffee", "size": "medium", "price": "$2.39", "calories": "", "desc": "Fresh-brewed coffee, cream and sugar to taste" },
+        { "name": "Iced Coffee", "size": "medium", "price": "$3.19", "calories": "", "desc": "Signature iced coffee, about 5 cal black" },
+        { "name": "Cold Brew", "size": "medium", "price": "$3.49", "calories": "", "desc": "Smooth slow-steeped cold brew" }
+      ]
+    },
+    {
+      "category": "Espresso & Lattes",
+      "intro": "Lattes, cappuccinos and signature drinks. Prices are medium.",
+      "items": [
+        { "name": "Latte", "size": "medium", "price": "$4.49", "calories": "170", "desc": "Espresso with steamed milk" },
+        { "name": "Cappuccino", "size": "medium", "price": "$4.49", "calories": "", "desc": "Espresso with foamed milk" },
+        { "name": "Macchiato", "size": "medium", "price": "$5.49", "calories": "", "desc": "Layered espresso and milk" },
+        { "name": "Signature Latte", "size": "medium", "price": "$5.99", "calories": "", "desc": "Latte with flavor, whipped cream and toppings" },
+        { "name": "Americano", "size": "medium", "price": "$3.39", "calories": "", "desc": "Espresso with hot water" }
+      ]
+    },
+    {
+      "category": "Refreshers & Frozen",
+      "intro": "Fruity Refreshers and frozen Coolattas.",
+      "items": [
+        { "name": "Dunkin' Refreshers", "size": "medium", "price": "$3.69", "calories": "", "desc": "Fruit-flavored, green-tea-based refreshers" },
+        { "name": "Coolatta", "size": "medium", "price": "$4.49", "calories": "", "desc": "Frozen fruit slush drink" },
+        { "name": "Frozen Coffee", "size": "medium", "price": "$4.99", "calories": "", "desc": "Blended frozen coffee with whipped cream" }
+      ]
+    },
+    {
+      "category": "Donuts",
+      "intro": "The classics, by the single or the dozen.",
+      "items": [
+        { "name": "Glazed Donut", "size": "", "price": "$1.29", "calories": "240", "desc": "The classic ring donut with sweet glaze" },
+        { "name": "Boston Kreme", "size": "", "price": "$1.49", "calories": "", "desc": "Custard-filled donut with chocolate icing" },
+        { "name": "Jelly Donut", "size": "", "price": "$1.39", "calories": "", "desc": "Jelly-filled donut dusted with sugar" },
+        { "name": "Dozen Donuts", "size": "12 donuts", "price": "$12.99", "calories": "", "desc": "A box of a dozen assorted donuts" }
+      ]
+    },
+    {
+      "category": "Munchkins & Bagels",
+      "intro": "Poppable donut holes and bagels.",
+      "items": [
+        { "name": "Munchkins (10)", "size": "10 pieces", "price": "$2.49", "calories": "", "desc": "Ten donut holes (glazed is about 60 cal each)" },
+        { "name": "Munchkins (25)", "size": "25 pieces", "price": "$5.99", "calories": "", "desc": "A bucket of 25 donut holes" },
+        { "name": "Munchkins (50)", "size": "50 pieces", "price": "$9.99", "calories": "", "desc": "Fifty donut holes to share" },
+        { "name": "Plain Bagel", "size": "", "price": "$1.69", "calories": "", "desc": "A fresh bagel, with cream cheese extra" }
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "intro": "Quick breakfast sandwiches, wraps and sides.",
+      "items": [
+        { "name": "Bacon, Egg & Cheese on Croissant", "size": "", "price": "$4.99", "calories": "520", "desc": "Bacon, egg and cheese on a buttery croissant" },
+        { "name": "Sausage, Egg & Cheese", "size": "", "price": "$4.79", "calories": "680", "desc": "Sausage, egg and cheese on an English muffin" },
+        { "name": "Wake-Up Wrap", "size": "", "price": "$2.49", "calories": "180", "desc": "Egg and cheese in a small tortilla, the budget pick" },
+        { "name": "Hash Browns", "size": "", "price": "$1.79", "calories": "110", "desc": "Crispy potato hash brown bites" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Dunkin' at Home",
+    "intro": "Want iced coffee and donuts at home? These picks help.",
+    "cards": [
+      { "icon": "☕", "name": "Drip Coffee Maker", "blurb": "Brew Dunkin'-style coffee at home.", "amazon_search": "drip coffee maker" },
+      { "icon": "🍩", "name": "Donut Pan", "blurb": "Bake your own glazed donuts.", "amazon_search": "donut baking pan" },
+      { "icon": "🍯", "name": "Flavor Swirl Syrups", "blurb": "Caramel, French vanilla and more.", "amazon_search": "coffee flavor syrup caramel vanilla" },
+      { "icon": "🧊", "name": "Iced Coffee Tumbler", "blurb": "For iced coffee on the go.", "amazon_search": "iced coffee tumbler" }
+    ]
+  },
+
+  "popular_items": [
+    "Iced Coffee",
+    "Glazed Donut",
+    "Boston Kreme Donut",
+    "Munchkins",
+    "Bacon, Egg & Cheese"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a donut at Dunkin'?",
+      "a": "A classic glazed donut is about $1.29, a Boston Kreme is $1.49, and a jelly donut is $1.39. A dozen assorted donuts runs around $12.99, cheaper per donut than buying singles."
+    },
+    {
+      "q": "What are Munchkins at Dunkin'?",
+      "a": "Munchkins are Dunkin's donut holes, sold in boxes and buckets. Ten are about $2.49, 25 are $5.99 and 50 are $9.99. A glazed Munchkin is roughly 60 calories each."
+    },
+    {
+      "q": "How much is a Dunkin' iced coffee?",
+      "a": "A medium iced coffee is about $3.19, and a medium hot coffee is $2.39. Flavor swirls, espresso shots and milk alternatives add a little to the price."
+    },
+    {
+      "q": "What is the lowest-calorie drink at Dunkin'?",
+      "a": "Black hot or iced coffee is nearly calorie-free (about 5 calories). Adding cream, sugar and flavor swirls is what drives the calories up, so ordering it plain or with skim milk keeps it light."
+    },
+    {
+      "q": "What are the most popular items at Dunkin'?",
+      "a": "The best known are the iced coffee, the glazed donut, the Boston Kreme donut, Munchkins, and the Bacon, Egg & Cheese breakfast sandwich."
+    }
+  ],
+
+  "internal_links": [
+    "starbucks-menu",
+    "mcdonalds-menu",
+    "subway-menu",
+    "chick-fil-a-menu",
+    "burger-king-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Dunkin'."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US medium pricing; vary by location). Calories from a Dunkin' nutrition source.",
+    "calories": "Shown where a reliable figure exists; most coffees are left blank or noted inline (black coffee is near zero), since calories depend heavily on cream, sugar and swirls. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate (medium) and vary by location, size and customization. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels colorful donuts image (pexels-1191639), landscape, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "category_note": "Uses the 'Coffee & Drinks' category added for Starbucks; no new category needed.",
+    "keyword_notes": "Sections and FAQ shaped by real Dunkin' search demand: donut price, Munchkins, iced coffee price, lowest-calorie drink, popular items."
+  }
+}
