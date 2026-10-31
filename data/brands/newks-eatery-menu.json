@@ -1,0 +1,144 @@
+{
+  "slug": "newks-eatery-menu",
+  "brand": "Newk's Eatery",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/newks-eatery-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/15305397/pexels-photo-15305397.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Newk's Eatery style sandwich served with a bowl of soup",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-15305397",
+    "_verify_note": "Tentative hero (sandwich and soup combo). Not visually verified this session; confirm it is appetizing and unbranded before publishing; swap if needed."
+  },
+
+  "seo": {
+    "meta_title": "Newk's Eatery Menu With Prices (2026)",
+    "meta_description": "Newk's Eatery menu with prices for 2026: signature sandwiches, big salads, soups like the Lobster & Crab Bisque, hand-pressed pizzas, combos and kids meals.",
+    "h1": "Newk's Eatery Menu With Prices (2026)",
+    "primary_keyword": "newk's eatery menu with prices",
+    "keyword_volume": 2400,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices are approximate ranges, are provided as a guide only, and vary by location and protein choice. Newk's Eatery does not publish a fixed national price list or full per-item calories, so figures below are representative and calories are left blank rather than guessed. Last updated October 2026.",
+
+  "intro": "Newk's Eatery is the Southern fast-casual chain built on made-to-order sandwiches, big salads, soups like the signature Lobster & Crab Bisque, and hand-pressed pizzas, all ordered at the counter and brought to your table. It is known for fresh ingredients, the famous Newk's Pickle, and a self-serve condiment bar. Below is the Newk's Eatery menu with representative prices for 2026.",
+
+  "quick_answer": "At Newk's Eatery, sandwiches run about $9.50 to $12.50 (with kettle chips), whole salads $11.50 to $14.50, and a 10-inch hand-pressed pizza $10.50 to $13.50. Soups are about $4.50 to $7.50, and the Half & Half combo (half sandwich with a salad or soup) is $9.50 to $11.50. The Newk's Q, Newk's Favorite salad and the Lobster & Crab Bisque are the signatures.",
+
+  "highlights": [
+    { "strong": "Made to order", "label": "sandwiches, salads, pizza" },
+    { "strong": "Lobster & Crab Bisque", "label": "the signature soup" },
+    { "strong": "Half & Half", "label": "the popular combo" },
+    { "strong": "The Newk's Pickle", "label": "the free side touch" }
+  ],
+
+  "hot_deal": "Newk's Eatery value: the Half & Half combo ($9.50 to $11.50) is the best value, pairing a half sandwich with a salad or a cup of soup. A cup of soup ($4.50 to $5.50) is the cheapest single item, and kids meals are $6 to $7.50. Newk's Rewards drops occasional deals. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Signature Sandwiches",
+      "intro": "Made-to-order sandwiches, served with kettle chips (about $9.50 to $12.50).",
+      "items": [
+        { "name": "The Newk's Q", "size": "", "price": "Varies", "calories": "", "desc": "BBQ chicken sandwich with pepper jack and onions, a signature" },
+        { "name": "Newk's Favorite", "size": "", "price": "Varies", "calories": "", "desc": "Turkey, bacon, cheddar and avocado" },
+        { "name": "Pimento Cheese Sandwich", "size": "", "price": "Varies", "calories": "", "desc": "The Southern pimento cheese sandwich" },
+        { "name": "Italian Sandwich", "size": "", "price": "Varies", "calories": "", "desc": "Salami, ham, pepperoni and provolone" }
+      ]
+    },
+    {
+      "category": "Salads",
+      "intro": "Big made-to-order salads (half or whole).",
+      "items": [
+        { "name": "Newk's Favorite Salad", "size": "half / whole", "price": "Varies", "calories": "", "desc": "Mixed greens with grapes, apples, pecans, feta and chicken" },
+        { "name": "The Simple Salad", "size": "half / whole", "price": "$7.50 / $11.50", "calories": "", "desc": "A simple fresh green salad" },
+        { "name": "Cobb Salad", "size": "half / whole", "price": "$9.50 / $14.50", "calories": "", "desc": "Chicken, bacon, egg, avocado and blue cheese" }
+      ]
+    },
+    {
+      "category": "Soups & Pizza",
+      "intro": "Signature soups and 10-inch hand-pressed pizzas.",
+      "items": [
+        { "name": "Lobster & Crab Bisque", "size": "cup / bowl", "price": "$5.50 / $7.50", "calories": "", "desc": "The signature creamy seafood bisque" },
+        { "name": "Tomato Basil Soup", "size": "cup / bowl", "price": "$4.50 / $6.00", "calories": "", "desc": "Classic tomato basil (soups rotate)" },
+        { "name": "Four Cheese Pizza", "size": "10 inch", "price": "Varies", "calories": "", "desc": "Hand-pressed 10-inch pizza" },
+        { "name": "Pepperoni Pizza", "size": "10 inch", "price": "Varies", "calories": "", "desc": "Hand-pressed pepperoni pizza (BBQ chicken, margherita also offered)" }
+      ]
+    },
+    {
+      "category": "Combos & Kids",
+      "intro": "The Half & Half combo, drinks and kids meals.",
+      "items": [
+        { "name": "Half & Half Combo", "size": "", "price": "$9.50 - $11.50", "calories": "", "desc": "Half sandwich with a half salad or a cup of soup" },
+        { "name": "Hand-Shaken Lemonade", "size": "", "price": "$3.50 - $4.00", "calories": "", "desc": "Fresh hand-shaken lemonade" },
+        { "name": "Kids Meal", "size": "", "price": "$6.00 - $7.50", "calories": "", "desc": "Entree, side and drink for guests 12 and under" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Fast-Casual Favorites at Home",
+    "intro": "Want Newk's-style soups, salads and sandwiches at home? These picks help.",
+    "cards": [
+      { "icon": "🦞", "name": "Seafood Bisque Base", "blurb": "For a lobster-and-crab-style bisque.", "amazon_search": "lobster bisque base" },
+      { "icon": "🥪", "name": "Panini Press", "blurb": "For pressed sandwiches.", "amazon_search": "panini press grill" },
+      { "icon": "🥗", "name": "Salad Spinner", "blurb": "For big fresh salads.", "amazon_search": "salad spinner large" },
+      { "icon": "🍕", "name": "Pizza Stone", "blurb": "For hand-pressed-style pizza.", "amazon_search": "pizza stone oven" }
+    ]
+  },
+
+  "popular_items": [
+    "The Newk's Q",
+    "Newk's Favorite Salad",
+    "Lobster & Crab Bisque",
+    "Half & Half Combo",
+    "Four Cheese Pizza"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a sandwich at Newk's Eatery?",
+      "a": "Sandwiches run about $9.50 to $12.50 and come with house-made kettle chips. The Half & Half combo, a half sandwich with a salad or cup of soup, is about $9.50 to $11.50 and is the most popular value option. Prices vary by location."
+    },
+    {
+      "q": "What is Newk's Eatery known for?",
+      "a": "Newk's Eatery is a Southern fast-casual chain known for made-to-order sandwiches, big salads like the Newk's Favorite, its signature Lobster & Crab Bisque, hand-pressed pizzas, and the free Newk's Pickle. You order at the counter and it is brought to your table."
+    },
+    {
+      "q": "Does Newk's have pizza?",
+      "a": "Yes. Newk's serves 10-inch hand-pressed pizzas, about $10.50 to $13.50, in varieties like four cheese, pepperoni, margherita and BBQ chicken. They are a popular alternative to the sandwiches and salads."
+    },
+    {
+      "q": "Does Newk's Eatery list calories?",
+      "a": "Newk's does not publish a full per-item calorie guide, so calories are not listed here rather than guessed. Totals depend on the sandwich, salad protein, soup and sides you choose, so dishes vary."
+    },
+    {
+      "q": "What are the most popular items at Newk's Eatery?",
+      "a": "Favorites include The Newk's Q sandwich, the Newk's Favorite salad, the Lobster & Crab Bisque, the Half & Half combo, and the hand-pressed pizzas."
+    }
+  ],
+
+  "internal_links": [
+    "panera-menu",
+    "jasons-deli-menu",
+    "jersey-mikes-menu",
+    "firehouse-subs-menu",
+    "mcalisters-deli-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array (representative price ranges, no calories), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Newk's Eatery."
+  },
+
+  "_data_notes": {
+    "price_source": "Representative price RANGES from a Newk's menu guide (sandwiches $9.50-12.50, whole salads $11.50-14.50, pizza $10.50-13.50, soups $4.50-7.50). No fixed national list published; item NAMES are real signatures, prices given as ranges rather than guessed exact figures. On import the section-wide ranges were moved off individual sandwiches and pizzas (each now shows 'Varies'; the ranges stay in the section intros, quick answer and FAQ), and the Newk's Favorite Salad price '$7.50 / $11.50 - $14.50' became 'Varies' because a per-size price cannot also hold a range. Item-level ranges (Half & Half, lemonade, kids meal) are kept.",
+    "calories": "Deliberately left blank. Newk's does not publish full per-item nutrition. Disclaimer and FAQ both state this. Never invent a calorie number.",
+    "accuracy": "Prices are representative ranges and vary by location and protein. Always display the disclaimer noting these are ranges.",
+    "hero_image": "Tentative Pexels sandwich-and-soup combo (pexels-15305397). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
+    "category_note": "Uses the existing 'Pizza Coffee & Subs' category (soup/salad/sandwich/pizza fast-casual, like Panera). Internal link mcalisters-deli-menu may not exist yet; drop any missing-page link. #80 of the expansion list.",
+    "keyword_notes": "Sections and FAQ shaped by real Newk's search demand: sandwich price, what it is known for, the pizza, calories question, popular items. Prices given as ranges (honest) since no fixed national list is published."
+  }
+}
