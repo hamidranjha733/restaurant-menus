@@ -1,0 +1,159 @@
+{
+  "slug": "scooters-coffee-menu",
+  "brand": "Scooter's Coffee",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/scooters-coffee-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/6680481/pexels-photo-6680481.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Scooter's Coffee style blended caramel drink with whipped cream and caramel drizzle in a dome-lid cup",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-6680481"
+  },
+
+  "seo": {
+    "meta_title": "Scooter's Coffee Menu With Prices (2026)",
+    "meta_description": "Full Scooter's Coffee menu with prices for 2026: the Caramelicious, lattes, Blenders, Red Bull Infusions, cold brew, smoothies, teas and breakfast, by size.",
+    "h1": "Scooter's Coffee Menu With Prices (2026)",
+    "primary_keyword": "scooters coffee menu with prices",
+    "keyword_volume": 2900,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Scooter's Coffee is franchise owned and prices by size. Prices below are national averages checked in October 2026 and shown by size (Small / Medium / Large, with XL where offered). Calories vary by size, milk and flavor, so only a reliable figure is shown. Always confirm at the window or in the app.",
+
+  "intro": "Scooter's Coffee is the drive-thru coffee chain from Omaha, Nebraska, known for its signature Caramelicious caramel latte, blended Blenders, Red Bull Infusions, cold brew and a small breakfast menu of burritos, muffins and Cake Bites. Drinks come in Small, Medium, Large and, on many, an Extra Large, hot, iced or blended. Below is the full Scooter's Coffee menu with prices for 2026.",
+
+  "quick_answer": "A small Scooter's Caramelicious or latte is about $3.75, rising to about $5.00 large and $5.50 XL. Blenders start at $4.50 small, Red Bull Infusions at $4.50, and a brewed coffee is $2.25. Breakfast burritos and bagels are $4.50, and a Cake Bite is $1.75. The Caramelicious is the signature drink.",
+
+  "highlights": [
+    { "strong": "Caramelicious", "label": "the signature caramel latte" },
+    { "strong": "Blenders", "label": "blended frozen coffee" },
+    { "strong": "Red Bull", "label": "Infusion energy drinks" },
+    { "strong": "$1.75", "label": "Birthday Cake Bite" }
+  ],
+
+  "hot_deal": "Scooter's value: the app has a loyalty program (Scooter's Rewards) with points toward free drinks and a birthday reward, and there is often a 'two large drinks for $9' type deal. A brewed coffee ($2.25 small) is the cheapest way in, and a Cake Bite ($1.75) is the signature cheap treat. Prices vary by location.",
+
+  "menu": [
+    {
+      "category": "Espresso & Signature Drinks",
+      "intro": "The Caramelicious is the star. Available hot or iced, same price. Shown Small / Medium / Large / XL. A hot Caramelicious with 2% milk is about 400 cal.",
+      "items": [
+        { "name": "Caramelicious (caramel latte)", "size": "S / M / L / XL", "price": "$3.75 / $4.50 / $5.00 / $5.50", "calories": "", "desc": "The signature caramel latte (hot with 2% milk about 400 cal)" },
+        { "name": "Latte", "size": "S / M / L / XL", "price": "$3.75 / $4.50 / $5.00 / $5.50", "calories": "", "desc": "Espresso with steamed milk" },
+        { "name": "Mocha", "size": "S / M / L / XL", "price": "$3.75 / $4.50 / $5.00 / $5.50", "calories": "", "desc": "Espresso with chocolate and milk" },
+        { "name": "Cappuccino", "size": "S / M / L / XL", "price": "$3.50 / $4.25 / $4.75 / $5.25", "calories": "", "desc": "Espresso with steamed and foamed milk" },
+        { "name": "Brewed Coffee", "size": "S / M / L / XL", "price": "$2.25 / $2.75 / $3.25 / $3.75", "calories": "", "desc": "Fresh-brewed drip coffee, the cheapest drink" }
+      ]
+    },
+    {
+      "category": "Cold Brew & Blenders",
+      "intro": "Smooth cold brew and the blended Blenders. Shown Small / Medium / Large / XL.",
+      "items": [
+        { "name": "Cold Brew", "size": "S / M / L / XL", "price": "$3.00 / $3.50 / $4.00 / $4.50", "calories": "", "desc": "Slow-steeped cold brew (add cold foam for a little more)" },
+        { "name": "Caramelicious Blender", "size": "S / M / L / XL", "price": "$4.50 / $5.25 / $5.75 / $6.25", "calories": "", "desc": "Blended frozen caramel coffee with whipped cream" },
+        { "name": "Mocha Blender", "size": "S / M / L / XL", "price": "$4.50 / $5.25 / $5.75 / $6.25", "calories": "", "desc": "Blended frozen mocha" },
+        { "name": "OREO Blender", "size": "S / M / L / XL", "price": "$4.50 / $5.25 / $5.75 / $6.25", "calories": "", "desc": "Blended coffee with OREO cookie" },
+        { "name": "CHIPS AHOY! Caramel Blender", "size": "S / M / L / XL", "price": "$4.75 / $5.50 / $6.00 / $6.50", "calories": "", "desc": "Blended with CHIPS AHOY! and caramel" }
+      ]
+    },
+    {
+      "category": "Red Bull Infusions & Smoothies",
+      "intro": "Red Bull Infusions and blended fruit smoothies. Shown Small / Medium / Large.",
+      "items": [
+        { "name": "Red Bull Infusion", "size": "S / M / L", "price": "$4.50 / $5.25 / $5.75", "calories": "", "desc": "Red Bull with flavor syrups and fruit" },
+        { "name": "Blended Red Bull Infusion", "size": "S / M / L", "price": "$5.00 / $5.75 / $6.25", "calories": "", "desc": "Red Bull Infusion blended with ice" },
+        { "name": "Iceberry Ignite Red Bull Infusion", "size": "S / M / L", "price": "$4.75 / $5.50 / $6.00", "calories": "", "desc": "Berry Red Bull Infusion" },
+        { "name": "Fruit Smoothie", "size": "S / M / L", "price": "$4.50 / $5.25 / $5.75", "calories": "", "desc": "Blended fruit smoothie (Vertigo adds Red Bull)" }
+      ]
+    },
+    {
+      "category": "Tea, Chai & Lemonade",
+      "intro": "Teas, chai, matcha and lemonade. Shown Small / Medium / Large.",
+      "items": [
+        { "name": "Hot or Iced Tea (Black, Green, White, Herbal)", "size": "S / M / L", "price": "$2.75 / $3.50 / $4.00", "calories": "", "desc": "Brewed tea, hot or iced" },
+        { "name": "Chai Tea Latte", "size": "S / M / L", "price": "$3.75 / $4.50 / $5.00", "calories": "", "desc": "Spiced chai with steamed milk" },
+        { "name": "Matcha Green Tea Latte", "size": "S / M / L", "price": "$4.00 / $4.75 / $5.25", "calories": "", "desc": "Matcha with milk, hot or iced" },
+        { "name": "Lemonberry-ade", "size": "S / M / L", "price": "$3.25 / $3.75 / $4.25", "calories": "", "desc": "Lemonade with berry, caffeine free" }
+      ]
+    },
+    {
+      "category": "Breakfast & Snacks",
+      "intro": "A small food menu of burritos, muffins and the famous Cake Bites. Single prices.",
+      "items": [
+        { "name": "Breakfast Bagel Sandwich", "size": "", "price": "$4.50", "calories": "", "desc": "Egg and cheese breakfast bagel" },
+        { "name": "Spicy Sausage Burrito", "size": "", "price": "$4.50", "calories": "", "desc": "Sausage, egg and cheese breakfast burrito" },
+        { "name": "Bacon Burrito", "size": "", "price": "$4.50", "calories": "", "desc": "Bacon, egg and cheese breakfast burrito" },
+        { "name": "Caramelicious Muffin", "size": "", "price": "$2.75", "calories": "", "desc": "Caramel muffin (blueberry also available)" },
+        { "name": "Birthday Cake Bite", "size": "", "price": "$1.75", "calories": "", "desc": "The signature bite-size cake pop, cheap treat" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Scooter's at Home",
+    "intro": "Craving the Caramelicious without the drive? These picks help.",
+    "cards": [
+      { "icon": "☕", "name": "Espresso Machine", "blurb": "Pull espresso for lattes at home.", "amazon_search": "espresso machine home" },
+      { "icon": "🍯", "name": "Caramel Sauce & Syrup", "blurb": "For a copycat Caramelicious.", "amazon_search": "caramel coffee syrup sauce" },
+      { "icon": "🧊", "name": "Blender", "blurb": "For frozen blended coffee drinks.", "amazon_search": "blender for frozen drinks" },
+      { "icon": "🥤", "name": "Dome-Lid Cold Cups", "blurb": "For blended drinks with whipped cream.", "amazon_search": "clear cups dome lids straws" }
+    ]
+  },
+
+  "popular_items": [
+    "Caramelicious",
+    "Caramelicious Blender",
+    "Red Bull Infusion",
+    "Cold Brew",
+    "Birthday Cake Bite"
+  ],
+
+  "faqs": [
+    {
+      "q": "What is the Caramelicious at Scooter's Coffee?",
+      "a": "The Caramelicious is Scooter's signature drink: an espresso latte with caramel, served hot, iced or blended. It is what the chain is best known for. A hot Caramelicious with 2% milk is about 400 calories; size, milk and blending change that."
+    },
+    {
+      "q": "How much is a drink at Scooter's Coffee?",
+      "a": "A small Caramelicious or latte is about $3.75, a large about $5.00 and an XL $5.50. Blenders start at $4.50, Red Bull Infusions at $4.50, and a small brewed coffee is $2.25. Prices are averages and vary by location."
+    },
+    {
+      "q": "Does Scooter's Coffee have food?",
+      "a": "Yes, a small breakfast menu. Breakfast burritos and bagel sandwiches are about $4.50, muffins $2.75, and the signature bite-size Cake Bites $1.75. It is grab-and-go food to go with the drinks, not a full kitchen."
+    },
+    {
+      "q": "What is a Red Bull Infusion?",
+      "a": "A Red Bull Infusion is Red Bull energy drink mixed with flavor syrups and fruit, served over ice or blended. It is Scooter's answer to the colorful energy drinks at other drive-thrus, starting around $4.50 for a small."
+    },
+    {
+      "q": "What are the most popular items at Scooter's Coffee?",
+      "a": "The best known are the Caramelicious, the Caramelicious Blender, the Red Bull Infusions, cold brew, and the Birthday Cake Bite."
+    }
+  ],
+
+  "internal_links": [
+    "dutch-bros-menu",
+    "7-brew-menu",
+    "starbucks-menu",
+    "dunkin-menu",
+    "mcdonalds-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with the one calorie figure where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Scooter's Coffee."
+  },
+
+  "_data_notes": {
+    "price_source": "Per-size prices are national averages (Small / Medium / Large, plus XL on espresso and Blenders), matching how Scooter's prices (by size). Franchise owned; prices vary by location.",
+    "calories": "Scooter's publishes nutrition, but calories vary heavily by size, milk and flavor, so only a reliable single figure is shown (hot Caramelicious with 2% milk about 400 cal, noted inline). Other items left blank rather than guessing. Never invent a calorie number.",
+    "accuracy": "Prices are typical national averages and vary by location. Seasonal drinks rotate. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels blended caramel drink with whipped cream and caramel candies in a dome-lid cup (pexels-6680481), no branding, portrait that crops well. Matches the Scooter's Caramelicious Blender and is distinct from the other coffee brands.",
+    "category_note": "Uses the existing 'Coffee & Drinks' category (with Starbucks, Dunkin, Dutch Bros, 7 Brew). No new category needed. This completes the coffee brands.",
+    "format_note": "Prices shown as S / M / L (/ XL) inside one price cell, matching how the competitor presents drive-thru coffee priced by size.",
+    "keyword_notes": "Sections and FAQ shaped by real Scooter's search demand: Caramelicious, drink prices, food menu, Red Bull Infusion, popular items."
+  }
+}
