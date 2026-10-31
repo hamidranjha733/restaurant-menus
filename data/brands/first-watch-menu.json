@@ -1,0 +1,185 @@
+{
+  "slug": "first-watch-menu",
+  "brand": "First Watch",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/first-watch-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/7936736/pexels-photo-7936736.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "First Watch style avocado toast topped with a poached egg and dill on a slate plate",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-7936736"
+  },
+
+  "seo": {
+    "meta_title": "First Watch Menu With Prices & Calories (2026)",
+    "meta_description": "Full First Watch menu with prices and calories for 2026: breakfast classics, omelets, Avocado Toast, Power Bowls, pancakes, lunch salads and fresh juices.",
+    "h1": "First Watch Menu With Prices (2026)",
+    "primary_keyword": "first watch menu with prices",
+    "keyword_volume": 7400,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, season and current promotions. Last updated October 2026.",
+
+  "intro": "First Watch is a daytime-only cafe serving fresh breakfast, brunch and lunch, known for made-to-order classics like the Farmhouse Hash and Chickichanga, healthier Power Bowls, the famous Avocado Toast and Million Dollar Bacon, plus juiced-in-house tonics. It opens in the morning and closes mid-afternoon. Below is the full First Watch menu with prices and calories for 2026.",
+
+  "quick_answer": "First Watch is a daytime-only breakfast, brunch and lunch spot. Most breakfast classics and omelets run about $12 to $14, the famous Avocado Toast is $12.99, and Million Dollar Bacon is $5.99. Fresh juices like the Kale Tonic are around $5.29. There is no dinner; First Watch closes mid-afternoon.",
+
+  "highlights": [
+    { "strong": "Daytime", "label": "breakfast, brunch & lunch only" },
+    { "strong": "$12.99", "label": "famous Avocado Toast" },
+    { "strong": "$5.99", "label": "Million Dollar Bacon" },
+    { "strong": "Fresh", "label": "juiced-in-house tonics" }
+  ],
+
+  "hot_deal": "First Watch doesn't run discount deals, but the value is in the fresh, made-to-order cooking. Crowd favorites are the Avocado Toast ($12.99), Million Dollar Bacon ($5.99) and the juiced-in-house Kale Tonic. Note it is daytime only, usually open until about 2:30 PM. Menu varies by season and location.",
+
+  "menu": [
+    {
+      "category": "Breakfast Classics",
+      "intro": "The signature plates First Watch is known for.",
+      "items": [
+        { "name": "Farmhouse Hash", "size": "", "price": "$13.79", "calories": "1310", "desc": "Potatoes, chicken, bacon, veggies and cheese topped with eggs" },
+        { "name": "Chickichanga", "size": "", "price": "$13.49", "calories": "1190", "desc": "Breakfast chimichanga with chicken, eggs, cheese and chorizo gravy" },
+        { "name": "The Traditional", "size": "", "price": "$12.49", "calories": "1060", "desc": "Two eggs, bacon or sausage, potatoes and toast" },
+        { "name": "Tri-Fecta", "size": "", "price": "$12.49", "calories": "860", "desc": "A pancake, two eggs and bacon or sausage" },
+        { "name": "Belgian Waffle", "size": "", "price": "$10.79", "calories": "590", "desc": "A crisp Belgian waffle with whipped butter" }
+      ]
+    },
+    {
+      "category": "Benedicts & Omelets",
+      "intro": "Eggs Benedict and fresh-cracked omelets.",
+      "items": [
+        { "name": "Classic Benedict", "size": "", "price": "$13.79", "calories": "620", "desc": "Ham and poached eggs on an English muffin with hollandaise" },
+        { "name": "Smoked Salmon Benedict", "size": "", "price": "$15.49", "calories": "520", "desc": "Smoked salmon and poached eggs with hollandaise" },
+        { "name": "Bacado Omelet", "size": "", "price": "$13.79", "calories": "1200", "desc": "Omelet with bacon, avocado and Monterey Jack" },
+        { "name": "The Works Omelet", "size": "", "price": "$13.79", "calories": "1180", "desc": "Loaded omelet with ham, veggies and cheese" },
+        { "name": "Ham and Gruyere Omelet", "size": "", "price": "$12.29", "calories": "1050", "desc": "Omelet with ham and nutty Gruyere cheese" },
+        { "name": "Farm Stand Breakfast Tacos", "size": "", "price": "$12.99", "calories": "1000", "desc": "Soft tacos with eggs, chorizo, avocado and salsa" }
+      ]
+    },
+    {
+      "category": "Pancakes & French Toast",
+      "intro": "Griddle favorites and sweet French toast.",
+      "items": [
+        { "name": "Multigrain Pancake", "size": "1 pancake", "price": "$7.49", "calories": "670", "desc": "A single hearty multigrain pancake" },
+        { "name": "Lemon Ricotta Pancakes", "size": "", "price": "$12.49", "calories": "1250", "desc": "Pancakes with lemon ricotta and berries" },
+        { "name": "French Toast", "size": "", "price": "$11.49", "calories": "810", "desc": "Classic thick-cut French toast" },
+        { "name": "Floridian French Toast", "size": "", "price": "$12.79", "calories": "880", "desc": "French toast topped with tropical fruit" }
+      ]
+    },
+    {
+      "category": "Healthier & Power Bowls",
+      "intro": "The fresh, lighter side First Watch is loved for.",
+      "items": [
+        { "name": "Avocado Toast", "size": "", "price": "$12.99", "calories": "640", "desc": "Smashed avocado on multigrain with eggs and everything seasoning" },
+        { "name": "Power Breakfast Quinoa Bowl", "size": "", "price": "$12.49", "calories": "860", "desc": "Quinoa, eggs, kale, avocado and veggies" },
+        { "name": "A.M. Superfoods Bowl", "size": "", "price": "$12.99", "calories": "960", "desc": "Quinoa, chia, fruit, almonds and acai" },
+        { "name": "Healthy Turkey", "size": "", "price": "$12.99", "calories": "540", "desc": "Turkey, egg whites, veggies and avocado" },
+        { "name": "Tri-Athlete", "size": "", "price": "$12.49", "calories": "510", "desc": "Egg white omelet with veggies and fresh fruit" },
+        { "name": "Power Wrap", "size": "", "price": "$11.29", "calories": "500", "desc": "Egg whites, turkey, veggies and cheese in a wrap" }
+      ]
+    },
+    {
+      "category": "Lunch (Sandwiches & Salads)",
+      "intro": "Served alongside breakfast all day. First Watch has no dinner.",
+      "items": [
+        { "name": "BLTE", "size": "", "price": "$11.99", "calories": "1190", "desc": "Bacon, lettuce, tomato and fried egg on sourdough" },
+        { "name": "Baja Turkey Burger", "size": "", "price": "$11.29", "calories": "880", "desc": "Turkey burger with avocado and chipotle" },
+        { "name": "Monterey Club", "size": "", "price": "$12.79", "calories": "1090", "desc": "Turkey, bacon, avocado and cheese on toast" },
+        { "name": "Chicken Avocado Chop Salad", "size": "", "price": "$12.29", "calories": "880", "desc": "Chopped greens with chicken, avocado and bacon" },
+        { "name": "Cobb Salad", "size": "", "price": "$12.29", "calories": "770", "desc": "Chicken, bacon, egg, avocado and blue cheese" },
+        { "name": "Superfood Kale Salad", "size": "", "price": "$12.29", "calories": "910", "desc": "Kale, quinoa, almonds and dried fruit" }
+      ]
+    },
+    {
+      "category": "Sides",
+      "intro": "The Million Dollar Bacon is the must-add.",
+      "items": [
+        { "name": "Million Dollar Bacon", "size": "", "price": "$5.99", "calories": "250", "desc": "Candied bacon with brown sugar, black pepper and cayenne" },
+        { "name": "Million Dollar Potatoes", "size": "", "price": "$5.99", "calories": "460", "desc": "Crispy potatoes with cheese and bacon" },
+        { "name": "Fresh Seasoned Potatoes", "size": "", "price": "$3.69", "calories": "320", "desc": "House-seasoned breakfast potatoes" },
+        { "name": "Sliced Avocado", "size": "", "price": "$3.79", "calories": "80", "desc": "Fresh sliced avocado" },
+        { "name": "Biscuits & Gravy", "size": "", "price": "$5.69", "calories": "440", "desc": "Biscuits with turkey sausage gravy" },
+        { "name": "Side Two Eggs", "size": "", "price": "$4.59", "calories": "270", "desc": "Two eggs cooked your way" }
+      ]
+    },
+    {
+      "category": "Juices & Coffee",
+      "intro": "Juiced-in-house tonics and specialty coffee.",
+      "items": [
+        { "name": "Kale Tonic", "size": "", "price": "$5.29", "calories": "130", "desc": "Kale, cucumber, apple, lemon and ginger" },
+        { "name": "Purple Haze", "size": "", "price": "$5.29", "calories": "230", "desc": "Blueberry, apple, lemon and agave" },
+        { "name": "Tropical Sunrise", "size": "", "price": "$5.49", "calories": "130", "desc": "Orange, pineapple and mango" },
+        { "name": "Iced Coffee", "size": "", "price": "$3.99", "calories": "180", "desc": "House iced coffee" },
+        { "name": "Cold Brew Coffee", "size": "", "price": "$4.49", "calories": "15", "desc": "Smooth cold brew" },
+        { "name": "Mint Mocha Iced Coffee", "size": "", "price": "$5.59", "calories": "350", "desc": "Iced coffee with mint and chocolate" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make First Watch at Home",
+    "intro": "Want the fresh brunch at home? These picks help you toast, poach and juice.",
+    "cards": [
+      { "icon": "🥑", "name": "Avocado Slicer", "blurb": "For perfect avocado toast fans.", "amazon_search": "avocado slicer tool" },
+      { "icon": "🍳", "name": "Egg Poacher", "blurb": "Nail the poached egg on top.", "amazon_search": "egg poacher pan" },
+      { "icon": "🧃", "name": "Cold-Press Juicer", "blurb": "Juice your own Kale Tonic at home.", "amazon_search": "cold press juicer" },
+      { "icon": "📖", "name": "Copycat Brunch Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Avocado Toast",
+    "Chickichanga",
+    "Farmhouse Hash",
+    "Million Dollar Bacon",
+    "Kale Tonic"
+  ],
+
+  "faqs": [
+    {
+      "q": "Does First Watch serve dinner?",
+      "a": "No. First Watch is daytime only, serving breakfast, brunch and lunch. Most locations open in the morning and close around 2:30 PM, so there is no dinner service."
+    },
+    {
+      "q": "What is Million Dollar Bacon at First Watch?",
+      "a": "Million Dollar Bacon is First Watch's signature side: thick-cut bacon candied with brown sugar, black pepper, cayenne and maple. A side is about $5.99."
+    },
+    {
+      "q": "What is the Chickichanga?",
+      "a": "The Chickichanga is a breakfast chimichanga: a crispy flour tortilla stuffed with chicken, scrambled eggs and cheese, topped with chorizo gravy. It is about $13.49."
+    },
+    {
+      "q": "Does First Watch have healthy options?",
+      "a": "Yes. First Watch is known for its healthier side, with Power Bowls, the Avocado Toast, the Tri-Athlete egg-white omelet, kale salads and juiced-in-house tonics like the Kale Tonic."
+    },
+    {
+      "q": "What are the most popular items at First Watch?",
+      "a": "The best known are the Avocado Toast, the Chickichanga, the Farmhouse Hash, Million Dollar Bacon, and the Kale Tonic juice."
+    }
+  ],
+
+  "internal_links": [
+    "dennys-menu",
+    "cracker-barrel-menu",
+    "applebees-menu",
+    "chilis-menu",
+    "olive-garden-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > First Watch."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; menu changes seasonally). Calories from First Watch's published figures.",
+    "calories": "First Watch publishes calories for its menu, so figures are included throughout. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and season. First Watch is daytime only. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels avocado toast with poached egg image (pexels-7936736), portrait that crops well to a wide hero, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real First Watch search demand: Avocado Toast, Million Dollar Bacon, Chickichanga, no dinner / hours, healthy options."
+  }
+}
