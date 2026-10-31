@@ -1,0 +1,178 @@
+{
+  "slug": "red-robin-menu",
+  "brand": "Red Robin",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/red-robin-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/28525179/pexels-photo-28525179.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Red Robin style gourmet burger stacked with onion rings, bacon and cheese",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-28525179"
+  },
+
+  "seo": {
+    "meta_title": "Red Robin Menu With Prices & Calories (2026)",
+    "meta_description": "Full Red Robin menu with prices and calories for 2026: gourmet burgers, bottomless steak fries, onion rings, salads, milkshakes and drinks.",
+    "h1": "Red Robin Menu With Prices (2026)",
+    "primary_keyword": "red robin menu with prices",
+    "keyword_volume": 6100,
+    "keyword_kd": 1
+  },
+
+  "last_updated": "2026-10",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and current promotions. Last updated October 2026.",
+
+  "intro": "Red Robin is the gourmet burger chain where every burger comes with Bottomless Steak Fries. Known for over-the-top builds like the Royal (a burger with a fried egg) and the Whiskey River BBQ, plus Towering Onion Rings, big salads and hand-spun milkshakes, it's a sit-down burger destination. Below is the full Red Robin menu with prices and calories for 2026.",
+
+  "quick_answer": "Red Robin is known for gourmet burgers that come with bottomless steak fries. Most burgers run about $15 to $17, like the Royal ($16.69) and Whiskey River BBQ ($15.69). Appetizers such as the Towering Onion Rings are around $13, and hand-spun milkshakes are about $7.29. Fries, some sides and soft drinks are bottomless.",
+
+  "highlights": [
+    { "strong": "Bottomless", "label": "steak fries with every burger" },
+    { "strong": "$15.39", "label": "Gourmet Cheeseburger" },
+    { "strong": "Towering", "label": "Onion Rings appetizer" },
+    { "strong": "Bottomless", "label": "Freckled Lemonade & soft drinks" }
+  ],
+
+  "hot_deal": "Red Robin value: every gourmet burger comes with Bottomless Steak Fries, and the fries, some sides and soft drinks (including the Freckled Lemonade) are bottomless. Daily deals include $10 Tuesday (Gourmet Cheeseburger plus a bottomless side) and half-price Kids Meals on Wednesdays. Offers vary by location.",
+
+  "menu": [
+    {
+      "category": "Gourmet Burgers",
+      "intro": "Every burger comes with Bottomless Steak Fries. The Royal is topped with a fried egg.",
+      "items": [
+        { "name": "Royal Red Robin Burger", "size": "", "price": "$16.69", "calories": "1130", "desc": "Beef patty with a fried egg, bacon, cheese and mayo" },
+        { "name": "Whiskey River BBQ", "size": "", "price": "$15.69", "calories": "", "desc": "Burger with BBQ sauce, cheddar, onion straws and bacon" },
+        { "name": "Gourmet Cheeseburger", "size": "", "price": "$15.39", "calories": "", "desc": "The classic cheeseburger with lettuce, tomato and pickles" },
+        { "name": "Bacon Cheeseburger", "size": "", "price": "$16.39", "calories": "", "desc": "Cheeseburger loaded with bacon" },
+        { "name": "Banzai Burger", "size": "", "price": "$15.69", "calories": "", "desc": "Teriyaki-marinated burger with pineapple and cheddar" },
+        { "name": "Burnin' Love Burger", "size": "", "price": "$16.89", "calories": "", "desc": "Spicy burger with pepper-jack, jalapenos and salsa" },
+        { "name": "The Southern Charm", "size": "", "price": "$17.19", "calories": "", "desc": "Burger with fried pickles, cheddar and Cajun aioli" }
+      ]
+    },
+    {
+      "category": "Chicken & Entrees",
+      "intro": "Crispy and grilled chicken plus ribs, all with bottomless fries.",
+      "items": [
+        { "name": "Whiskey River BBQ Chicken Sandwich", "size": "", "price": "$16.59", "calories": "", "desc": "Crispy chicken with BBQ sauce, cheddar and onion straws" },
+        { "name": "Crispy Chicken Sandwich", "size": "", "price": "$16.19", "calories": "", "desc": "Crispy chicken breast with lettuce, tomato and mayo" },
+        { "name": "Clucks & Fries", "size": "", "price": "$15.39", "calories": "", "desc": "Hand-breaded chicken tenders with bottomless fries" },
+        { "name": "Whiskey River BBQ Ribs", "size": "", "price": "$20.59", "calories": "", "desc": "BBQ-glazed ribs with a side" }
+      ]
+    },
+    {
+      "category": "Appetizers",
+      "intro": "The Towering Onion Rings are a showpiece.",
+      "items": [
+        { "name": "Towering Onion Rings", "size": "", "price": "$13.29", "calories": "", "desc": "A tall stack of crispy beer-battered onion rings" },
+        { "name": "The Onion Ring Shorty", "size": "", "price": "$9.59", "calories": "", "desc": "A smaller order of onion rings" },
+        { "name": "Cheesy Mozzarella Twists", "size": "", "price": "$10.99", "calories": "", "desc": "Fried mozzarella twists with marinara" },
+        { "name": "Bottomless Steak Fries", "size": "", "price": "$4.29", "calories": "", "desc": "Signature thick-cut steak fries, refillable" }
+      ]
+    },
+    {
+      "category": "Salads",
+      "intro": "Big entree salads with burger-level toppings.",
+      "items": [
+        { "name": "Avo-Cobb-O Salad", "size": "", "price": "$16.79", "calories": "", "desc": "Chicken, avocado, bacon, egg and blue cheese over greens" },
+        { "name": "Southwest Salad", "size": "", "price": "$16.79", "calories": "", "desc": "Chicken with corn, black beans, tortilla strips and chipotle" },
+        { "name": "Crispy Chicken Tender Salad", "size": "", "price": "$16.39", "calories": "", "desc": "Greens topped with crispy chicken tenders" },
+        { "name": "House Salad", "size": "", "price": "$7.79", "calories": "", "desc": "A side garden salad" }
+      ]
+    },
+    {
+      "category": "Bottomless Sides",
+      "intro": "Swap your fries or add a side. Fries and select sides are refillable.",
+      "items": [
+        { "name": "Bottomless Sweet Potato Fries", "size": "", "price": "$4.29", "calories": "", "desc": "Refillable sweet potato fries" },
+        { "name": "Bottomless Garlic Parmesan Fries", "size": "", "price": "$4.29", "calories": "", "desc": "Steak fries tossed in garlic and parmesan" },
+        { "name": "Garlic Parmesan Broccoli", "size": "", "price": "$3.99", "calories": "", "desc": "Broccoli with garlic and parmesan" },
+        { "name": "Coleslaw", "size": "", "price": "$3.99", "calories": "", "desc": "Creamy coleslaw" }
+      ]
+    },
+    {
+      "category": "Milkshakes & Desserts",
+      "intro": "Hand-spun shakes (21+ Boozy versions too) and big desserts.",
+      "items": [
+        { "name": "Chocolate Milkshake", "size": "", "price": "$7.29", "calories": "", "desc": "Hand-spun chocolate milkshake" },
+        { "name": "OREO Cookie Magic Milkshake", "size": "", "price": "$7.29", "calories": "", "desc": "Milkshake blended with OREO cookies" },
+        { "name": "Mountain High Mudd Pie", "size": "", "price": "$9.99", "calories": "", "desc": "Towering ice cream mud pie" },
+        { "name": "Gooey Chocolate Brownie Cake", "size": "", "price": "$8.49", "calories": "", "desc": "Warm brownie cake with ice cream" },
+        { "name": "Cinnamon Sugar Towering Doh! Rings", "size": "", "price": "$10.99", "calories": "", "desc": "A tower of cinnamon-sugar dough rings" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "The Freckled Lemonade and soft drinks are bottomless.",
+      "items": [
+        { "name": "Freckled Lemonade", "size": "", "price": "$4.99", "calories": "", "desc": "Strawberry lemonade, bottomless" },
+        { "name": "Soft Drinks", "size": "", "price": "$3.99", "calories": "", "desc": "Coca-Cola fountain drinks, bottomless" },
+        { "name": "Root Beer Float", "size": "", "price": "$5.59", "calories": "", "desc": "Root beer with vanilla soft serve" },
+        { "name": "Fresh-Brewed Gold Peak Tea", "size": "", "price": "$3.99", "calories": "", "desc": "Freshly brewed iced tea" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Red Robin at Home",
+    "intro": "Want gourmet burgers and tall onion rings at home? These picks help.",
+    "cards": [
+      { "icon": "🍔", "name": "Smash Burger Press", "blurb": "Griddle a juicy gourmet-style patty.", "amazon_search": "smash burger press" },
+      { "icon": "🧅", "name": "Onion Ring Batter Mix", "blurb": "For crispy beer-battered onion rings.", "amazon_search": "onion ring batter mix" },
+      { "icon": "🥤", "name": "Milkshake Blender", "blurb": "Spin thick milkshakes at home.", "amazon_search": "milkshake blender" },
+      { "icon": "📖", "name": "Copycat Burger Recipes", "blurb": "Cookbooks that recreate famous chain dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Royal Red Robin Burger",
+    "Whiskey River BBQ",
+    "Bottomless Steak Fries",
+    "Towering Onion Rings",
+    "Gourmet Milkshakes"
+  ],
+
+  "faqs": [
+    {
+      "q": "Does Red Robin have bottomless fries?",
+      "a": "Yes. Every gourmet burger and most entrees come with Bottomless Steak Fries, meaning free refills while you dine in. Some other sides and soft drinks, including the Freckled Lemonade, are bottomless too."
+    },
+    {
+      "q": "What is the Royal Red Robin Burger?",
+      "a": "The Royal is Red Robin's signature burger: a beef patty topped with a fried egg, bacon, cheese and mayo. It is about $16.69 and roughly 1,130 calories."
+    },
+    {
+      "q": "How much is a burger at Red Robin?",
+      "a": "Most gourmet burgers run about $15 to $17, with the Gourmet Cheeseburger around $15.39 and premium builds like The Southern Charm about $17.19. All come with bottomless steak fries."
+    },
+    {
+      "q": "What drinks are bottomless at Red Robin?",
+      "a": "Soft drinks, iced tea and the signature Freckled Lemonade are bottomless for dine-in guests, with free refills throughout your meal."
+    },
+    {
+      "q": "What are the most popular items at Red Robin?",
+      "a": "The best known are the Royal Red Robin Burger, the Whiskey River BBQ, Bottomless Steak Fries, the Towering Onion Rings, and the hand-spun gourmet milkshakes."
+    }
+  ],
+
+  "internal_links": [
+    "culvers-menu",
+    "jack-in-the-box-menu",
+    "applebees-menu",
+    "chilis-menu",
+    "cheesecake-factory-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema (with calories where present) from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Red Robin."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (typical US pricing; may lag current menu). Calories from a Red Robin nutrition source.",
+    "calories": "Shown where a reliable single figure exists; Red Robin publishes full nutrition on its site, but most build figures are left blank here rather than guessed. Never invent a calorie number.",
+    "accuracy": "Prices and calories are typical/approximate and vary by location and portion. Always display the disclaimer.",
+    "hero_image": "Verified free-license Pexels gourmet burger with onion rings image (pexels-28525179), tall portrait that crops well to a wide hero, hotlinked CDN URL that loads client-side in the visitor's browser.",
+    "keyword_notes": "Sections and FAQ shaped by real Red Robin search demand: bottomless fries, Royal burger, burger prices, bottomless drinks, popular items."
+  }
+}
