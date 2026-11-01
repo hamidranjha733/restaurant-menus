@@ -37,5 +37,5 @@ export const MENU_BASE = "/menu";
 export const NAV = [
   { href: "/", label: "Home" },
   { href: `${MENU_BASE}/`, label: "All menus" },
-  { href: "/calorie-calculator/", label: "Calorie calculator" },
+  { href: "/#calorie-calculator", label: "Calorie Calculator" },
 ];

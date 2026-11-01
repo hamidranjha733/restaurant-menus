@@ -1,4 +1,4 @@
-/* Calorie calculator. Tokens kept from the supplied design, scoped to this page. */
+/* Calorie calculator homepage section. Tokens kept from the supplied design, scoped to the section. */
 .cc {
   --cc-accent: #c0552b;
   --cc-accent-dark: #a8461f;
@@ -20,10 +20,12 @@
   color: var(--cc-ink);
   line-height: 1.5;
   padding: 24px 0 48px;
+  /* Clears the header when the nav tab /#calorie-calculator scrolls here. */
+  scroll-margin-top: 5rem;
 }
 
 .title {
-  font-size: clamp(30px, 5vw, 52px);
+  font-size: clamp(28px, 4.5vw, 44px);
   line-height: 1.05;
   letter-spacing: -0.02em;
   margin: 0 0 18px;

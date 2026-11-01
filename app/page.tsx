@@ -1,5 +1,6 @@
 import { MENU_BASE, SITE_NAME, SITE_TAGLINE } from "@/site.config";
 import { BrandList } from "@/components/BrandList";
+import { CalorieCalculator } from "@/components/CalorieCalculator";
 import { JsonLd } from "@/components/Layout";
 import { categoryPath, getActiveCategories, getBrands } from "@/lib/brands";
 import { absoluteUrl, pageMetadata } from "@/lib/seo";
@@ -50,6 +51,8 @@ export default function HomePage() {
         <h2>Recently updated menus</h2>
         <BrandList brands={recent} />
       </section>
+
+      <CalorieCalculator />
     </>
   );
 }

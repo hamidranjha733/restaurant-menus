@@ -1,11 +1,4 @@
-import { pageMetadata } from "@/lib/seo";
-import styles from "./calculator.module.css";
-
-const TITLE = "Calorie Calculator — Check Your Calories Before You Order";
-const DESCRIPTION =
-  "Free calorie calculator: estimate how many calories you need a day with the Mifflin-St Jeor equation, then see how much a restaurant meal uses before you order.";
-
-export const metadata = pageMetadata({ title: TITLE, description: DESCRIPTION, path: "/calorie-calculator/" });
+import styles from "./CalorieCalculator.module.css";
 
 /**
  * The calculator runs in the browser. The site strips all framework JS after the build
@@ -13,7 +6,7 @@ export const metadata = pageMetadata({ title: TITLE, description: DESCRIPTION, p
  * postbuild leaves in place. Nothing typed into the form leaves the page.
  */
 const SCRIPT = `(function(){
-  var root = document.getElementById('cc');
+  var root = document.getElementById('calorie-calculator');
   if(!root) return;
   var state = { units:'us', sex:'female' };
   function $(id){ return document.getElementById(id); }
@@ -105,10 +98,13 @@ const SCRIPT = `(function(){
   calc();
 })();`;
 
-export default function CalorieCalculatorPage() {
+/** Homepage section: <section id="calorie-calculator">, reached from the nav tab /#calorie-calculator. */
+export function CalorieCalculator() {
   return (
-    <div className={styles.cc} id="cc">
-      <h1 className={styles.title}>Check Your Calories Before You Order</h1>
+    <section className={styles.cc} id="calorie-calculator" aria-labelledby="calorie-calculator-title">
+      <h2 className={styles.title} id="calorie-calculator-title">
+        Check Your Calories Before You Order
+      </h2>
       <p className={styles.lede}>
         Many menus on this site list calories next to the price where the chain publishes them. This free calculator turns those numbers
         into something useful: it estimates how many calories you need in a day, then shows how much of that a restaurant meal uses before
@@ -259,6 +255,6 @@ export default function CalorieCalculatorPage() {
       </p>
 
       <script data-keep="" dangerouslySetInnerHTML={{ __html: SCRIPT }} />
-    </div>
+    </section>
   );
 }
