@@ -58,6 +58,7 @@ for (const file of pages) {
   if ((html.match(/<h1[\s>]/g) ?? []).length !== 1) err("expected exactly one <h1>");
 
   for (const [, attrs, body] of html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/g)) {
+    if (/\bdata-keep\b/.test(attrs) && !/\bsrc=/.test(attrs)) continue; // page script kept on purpose (e.g. the calorie calculator)
     if (!/application\/ld\+json/.test(attrs)) {
       err("framework script left in page (postbuild did not run?)");
       continue;

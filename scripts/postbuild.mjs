@@ -34,7 +34,6 @@ for (const file of htmlFiles) {
   html = html.replace(/<link\b[^>]*rel=["'](?:preload|modulepreload)["'][^>]*as=["']script["'][^>]*\/?>/gi, "");
   html = html.replace(/<link\b[^>]*as=["']script["'][^>]*rel=["'](?:preload|modulepreload)["'][^>]*\/?>/gi, "");
   html = html.replace(/<link\b[^>]*rel=["']modulepreload["'][^>]*\/?>/gi, "");
-  html = html.replace(/\s*data-keep=""/g, "");
   // Next adds its own <meta name="robots" content="noindex"> to the 404 page; ours is
   // already there (noindex), so keep a single tag.
   const robotsTags = html.match(/<meta name="robots"[^>]*>/g) ?? [];

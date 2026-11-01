@@ -14,6 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     { url: absoluteUrl("/"), lastModified: newest },
     { url: absoluteUrl(`${MENU_BASE}/`), lastModified: newest },
+    { url: absoluteUrl("/calorie-calculator/") },
     ...getActiveCategories().map(({ category, brands }) => ({
       url: absoluteUrl(categoryPath(category.slug)),
       lastModified: brands.map((b) => fullDate(b.last_updated)).sort().at(-1),

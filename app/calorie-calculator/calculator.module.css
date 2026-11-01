@@ -1,0 +1,276 @@
+/* Calorie calculator. Tokens kept from the supplied design, scoped to this page. */
+.cc {
+  --cc-accent: #c0552b;
+  --cc-accent-dark: #a8461f;
+  --cc-accent-soft: #f6e3d7;
+  --cc-accent-text: #e0864f;
+  --cc-ink: #1b1b1b;
+  --cc-ink-soft: #5a5a5a;
+  --cc-card: #fcf9f4;
+  --cc-card-border: #ece5da;
+  --cc-field: #ffffff;
+  --cc-field-border: #d9d2c6;
+  --cc-panel: #141c2b;
+  --cc-panel-tile: #1e2838;
+  --cc-panel-tile-border: #2a3647;
+  --cc-panel-text: #e8edf5;
+  --cc-panel-muted: #9aa6b8;
+  --cc-radius: 18px;
+  --cc-radius-sm: 12px;
+  color: var(--cc-ink);
+  line-height: 1.5;
+  padding: 24px 0 48px;
+}
+
+.title {
+  font-size: clamp(30px, 5vw, 52px);
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+  margin: 0 0 18px;
+  font-weight: 800;
+}
+.lede {
+  font-size: clamp(16px, 2.2vw, 20px);
+  color: var(--cc-ink-soft);
+  max-width: 860px;
+  margin: 0 0 36px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-radius: var(--cc-radius);
+  overflow: hidden;
+  box-shadow: 0 20px 50px rgba(20, 28, 43, 0.1);
+  border: 1px solid var(--cc-card-border);
+}
+@media (max-width: 860px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.inputs {
+  background: var(--cc-card);
+  padding: 28px;
+}
+.toggles {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-bottom: 26px;
+}
+.seg {
+  display: inline-flex;
+  background: var(--cc-accent-soft);
+  border-radius: 999px;
+  padding: 5px;
+}
+.seg button {
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 600;
+  color: var(--cc-accent-dark);
+  padding: 10px 20px;
+  border-radius: 999px;
+  transition: 0.15s;
+  white-space: nowrap;
+}
+.seg button[aria-pressed="true"] {
+  background: var(--cc-accent);
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(192, 85, 43, 0.35);
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1.4fr 1fr;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+@media (max-width: 520px) {
+  .row {
+    grid-template-columns: 1fr;
+  }
+}
+.cc label {
+  display: block;
+  font-weight: 700;
+  font-size: 14px;
+  margin: 0 0 7px;
+}
+.field {
+  position: relative;
+  display: flex;
+  align-items: center;
+  background: var(--cc-field);
+  border: 1.5px solid var(--cc-field-border);
+  border-radius: var(--cc-radius-sm);
+  overflow: hidden;
+}
+.field:focus-within {
+  border-color: var(--cc-accent);
+}
+.field input {
+  border: 0;
+  outline: 0;
+  background: transparent;
+  font: inherit;
+  font-size: 17px;
+  padding: 13px 12px;
+  width: 100%;
+  min-width: 0;
+  color: var(--cc-ink);
+}
+.unit {
+  padding: 0 10px 0 0;
+  color: var(--cc-ink-soft);
+  font-size: 14px;
+  white-space: nowrap;
+}
+.ht {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+.ht .unit {
+  padding: 0 10px 0 0;
+}
+.ht .field input {
+  padding-right: 4px;
+}
+.ht[hidden],
+.field[hidden],
+.bar[hidden] {
+  display: none;
+}
+
+.block {
+  margin-bottom: 20px;
+}
+.cc select {
+  width: 100%;
+  font: inherit;
+  font-size: 16px;
+  padding: 13px 14px;
+  border: 1.5px solid var(--cc-field-border);
+  border-radius: var(--cc-radius-sm);
+  background: var(--cc-field);
+  color: var(--cc-ink);
+  cursor: pointer;
+  appearance: none;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%235a5a5a' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'><polyline points='6 9 12 15 18 9'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 14px center;
+}
+.cc select:focus {
+  outline: 0;
+  border-color: var(--cc-accent);
+}
+
+.results {
+  background: var(--cc-panel);
+  color: var(--cc-panel-text);
+  padding: 30px;
+}
+.cap {
+  color: var(--cc-accent-text);
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.big {
+  font-size: clamp(44px, 8vw, 68px);
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+.big small {
+  display: block;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--cc-panel-muted);
+  margin-top: 8px;
+  letter-spacing: 0;
+}
+.tiles {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 12px;
+  margin: 24px 0;
+}
+.meals {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin: 0 0 26px;
+}
+@media (max-width: 520px) {
+  .tiles {
+    grid-template-columns: 1fr 1fr;
+  }
+  .meals {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.tile {
+  background: var(--cc-panel-tile);
+  border: 1px solid var(--cc-panel-tile-border);
+  border-radius: var(--cc-radius-sm);
+  padding: 15px;
+}
+.v {
+  font-size: 22px;
+  font-weight: 700;
+}
+.k {
+  font-size: 12.5px;
+  color: var(--cc-panel-muted);
+  margin-top: 3px;
+}
+
+.mealcheck label {
+  color: var(--cc-panel-text);
+}
+.mealcheck .field {
+  background: #f3f5f8;
+  border-color: transparent;
+}
+.mealcheck .field input {
+  color: #111;
+}
+.mealresult {
+  margin-top: 12px;
+  font-size: 14.5px;
+  color: var(--cc-panel-muted);
+  min-height: 20px;
+}
+.mealresult b {
+  color: #fff;
+}
+.bar {
+  display: block;
+  height: 8px;
+  border-radius: 999px;
+  background: #273142;
+  overflow: hidden;
+  margin-top: 10px;
+}
+.bar i {
+  display: block;
+  height: 100%;
+  background: var(--cc-accent-text);
+  width: 0;
+  transition: width 0.25s;
+}
+
+.note {
+  font-size: 14px;
+  color: var(--cc-ink-soft);
+  max-width: 900px;
+  margin: 22px 2px 0;
+}
