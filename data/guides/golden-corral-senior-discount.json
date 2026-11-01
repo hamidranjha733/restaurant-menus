@@ -1,0 +1,63 @@
+{
+  "slug": "golden-corral-senior-discount",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Golden Corral",
+  "brand_slug": "golden-corral-menu",
+  "cover_hint": "Reuse the Golden Corral brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-10",
+
+  "seo": {
+    "meta_title": "Does Golden Corral Have a Senior Discount? (2026)",
+    "meta_description": "Yes. Most Golden Corral locations offer a senior discount on the buffet, often with a senior early-bird price. Here's how it works and what to ask.",
+    "h1": "Does Golden Corral Have a Senior Discount?",
+    "primary_keyword": "golden corral senior discount",
+    "keyword_volume": 2900,
+    "keyword_kd": 1
+  },
+
+  "question": "Does Golden Corral Have a Senior Discount?",
+
+  "quick_answer": "Yes. Most Golden Corral locations offer a senior discount on the all-you-can-eat buffet, and many also run a reduced 'senior early-bird' price in the late afternoon. The exact discount, age cutoff and times are set by each franchise, so it is worth asking at your local Golden Corral.",
+
+  "key_facts": [
+    "Most locations offer a senior buffet discount",
+    "Many also have a reduced senior early-bird price (late afternoon)",
+    "Discount, age cutoff and times vary by location",
+    "A senior drink discount is common too"
+  ],
+
+  "body": [
+    {
+      "heading": "Yes, seniors get a discount",
+      "text": "Golden Corral is popular with older diners, and most locations offer a senior discount on the buffet. Typically that means a lower per-person buffet price for seniors compared with the standard adult price, and often a discounted drink as well."
+    },
+    {
+      "heading": "The senior early-bird is the best value",
+      "text": "Many Golden Corral restaurants also run a 'senior early-bird' special, a reduced buffet price for seniors who come in during a set late-afternoon window (for example, before the dinner rush). This is usually the cheapest way for seniors to eat there, since it stacks a lower time-of-day price with the senior discount."
+    },
+    {
+      "heading": "It varies by location, so ask",
+      "text": "Because Golden Corral is franchised, the senior discount amount, the qualifying age (often 60 or 65) and the early-bird hours differ from one restaurant to another. There is no single national senior price, so the safest move is to ask at your local Golden Corral or check its page before you go."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What age qualifies for the Golden Corral senior discount?", "a": "It varies by location, but the senior age cutoff is usually 60 or 65. Ask at your local Golden Corral, since each franchise sets its own policy." },
+    { "q": "Is there a senior early-bird at Golden Corral?", "a": "Many locations offer a reduced senior early-bird buffet price during a late-afternoon window. It is usually the cheapest way for seniors to eat there, but hours vary by restaurant." },
+    { "q": "How much is the Golden Corral senior buffet?", "a": "It varies by location and meal, but the senior price is lower than the standard adult buffet. See the Golden Corral buffet-prices page for typical pricing." }
+  ],
+
+  "internal_links": [
+    { "label": "Golden Corral Buffet Prices", "slug": "golden-corral-menu" },
+    { "label": "Who Owns Golden Corral?", "slug": "who-owns-golden-corral" },
+    { "label": "Shady Maple Smorgasbord Prices", "slug": "shady-maple-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Golden Corral senior discount + senior early-bird are offered at most (franchised) locations; exact amount/age/times vary by location. Consistent with the Golden Corral buffet-prices page built for this site.",
+    "accuracy": "Phrased to avoid stating a single national price (franchise-dependent), per the 'confirm at location' approach. Not time-sensitive beyond franchise variation.",
+    "keyword_notes": "Targets 'golden corral senior discount' + PAA. Paired with the ownership guide and the buffet-prices page."
+  }
+}

@@ -83,9 +83,17 @@ for (const slug of brandSlugs) {
   for (const link of data.internal_links ?? []) if (!brandSlugs.has(link)) pending.set(link, [...(pending.get(link) ?? []), slug]);
 }
 
-console.log(`check: ${pages.length} pages, ${brandSlugs.size} brands.`);
+const GUIDES = path.join(process.cwd(), "data", "guides");
+const guideSlugs = new Set(fs.existsSync(GUIDES) ? fs.readdirSync(GUIDES).filter((f) => f.endsWith(".json")).map((f) => f.replace(/\.json$/, "")) : []);
+for (const slug of guideSlugs) {
+  const data = JSON.parse(fs.readFileSync(path.join(GUIDES, `${slug}.json`), "utf8"));
+  for (const { slug: link } of data.internal_links ?? [])
+    if (!brandSlugs.has(link) && !guideSlugs.has(link)) pending.set(link, [...(pending.get(link) ?? []), `guide:${slug}`]);
+}
+
+console.log(`check: ${pages.length} pages, ${brandSlugs.size} brands, ${guideSlugs.size} guides.`);
 if (pending.size) {
-  console.log(`Waiting on ${pending.size} brand pages (linked but not added yet; links appear once the JSON exists):`);
+  console.log(`Waiting on ${pending.size} pages (brand menus or guides linked but not added yet; links appear once the JSON exists):`);
   for (const [slug, from] of pending) console.log(`  ${slug}  <- ${from.join(", ")}`);
 }
 if (errors.length) {

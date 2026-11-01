@@ -1,0 +1,63 @@
+{
+  "slug": "are-red-robin-fries-bottomless",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Red Robin",
+  "brand_slug": "",
+  "cover_hint": "Branded 'Red Robin' guide card, red accent. (No Red Robin menu page yet on this site.)",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-10",
+
+  "seo": {
+    "meta_title": "Are Red Robin Fries Really Bottomless? (2026)",
+    "meta_description": "Yes. Red Robin's Bottomless Steak Fries come free with most burgers and entrees, with unlimited refills for dine-in guests. Here's how it works.",
+    "h1": "Are Red Robin Fries Really Bottomless?",
+    "primary_keyword": "are red robin fries bottomless",
+    "keyword_volume": 1900,
+    "keyword_kd": 1
+  },
+
+  "question": "Are Red Robin Fries Really Bottomless?",
+
+  "quick_answer": "Yes. Red Robin's Bottomless Steak Fries are genuinely bottomless for dine-in guests: they come free with most burgers and entrees, and your server will bring more at no extra charge. Bottomless refills apply to dine-in only, not to takeout or delivery.",
+
+  "key_facts": [
+    "Bottomless Steak Fries come free with most burgers and entrees",
+    "Unlimited refills for dine-in guests at no extra charge",
+    "You can also swap the side or get bottomless versions of some other sides",
+    "Refills are dine-in only (not takeout or delivery)"
+  ],
+
+  "body": [
+    {
+      "heading": "Yes, the fries are bottomless",
+      "text": "Red Robin's steak fries are one of the chain's signatures, and they really are bottomless. When you dine in and order most burgers or entrees, the Bottomless Steak Fries come included, and you can ask your server for more at no extra charge as many times as you like."
+    },
+    {
+      "heading": "How the bottomless deal works",
+      "text": "The free refills apply to dine-in only. Each burger or qualifying entree comes with a side of steak fries, and refills are free while you are seated. Red Robin also lets you substitute certain other sides, and some of those can be made bottomless too, though steak fries are the classic choice."
+    },
+    {
+      "heading": "What's not bottomless",
+      "text": "The bottomless refills are for dine-in guests. Takeout and delivery orders come with a single portion, not endless refills. Premium side swaps may carry a small upcharge, but the standard steak fries that come with your meal are free to refill."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Do Red Robin's bottomless fries cost extra?", "a": "No. The Bottomless Steak Fries come free with most burgers and entrees, and dine-in refills are at no extra charge." },
+    { "q": "Are the fries bottomless for takeout?", "a": "No. Bottomless refills are for dine-in guests only. Takeout and delivery orders come with a single portion of fries." },
+    { "q": "Can I get a different side bottomless?", "a": "Steak fries are the classic bottomless side, and Red Robin lets you swap for certain other sides; some can be made bottomless, though premium swaps may cost a little more." }
+  ],
+
+  "internal_links": [
+    { "label": "Who Owns Red Robin?", "slug": "who-owns-red-robin" },
+    { "label": "The Habit Burger Grill Menu With Prices", "slug": "habit-burger-menu" },
+    { "label": "Bad Daddy's Burger Bar Menu With Prices", "slug": "bad-daddys-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Red Robin Bottomless Steak Fries (free with most burgers/entrees; unlimited refills dine-in). Well-documented brand policy; dine-in-only refills. No Red Robin menu page on this site yet.",
+    "accuracy": "Descriptive policy; dine-in-only caveat kept. Re-verify if Red Robin changes its bottomless policy or side options.",
+    "keyword_notes": "Targets 'are red robin fries bottomless' + PAA. Paired with the Red Robin ownership guide."
+  }
+}

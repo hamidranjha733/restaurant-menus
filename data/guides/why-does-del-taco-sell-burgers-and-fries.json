@@ -1,0 +1,63 @@
+{
+  "slug": "why-does-del-taco-sell-burgers-and-fries",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Del Taco",
+  "brand_slug": "del-taco-menu",
+  "cover_hint": "Reuse the Del Taco brand banner / menu hero. Branded 'Del Taco' guide card, red accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-10",
+
+  "seo": {
+    "meta_title": "Why Does Del Taco Sell Burgers and Fries? (2026)",
+    "meta_description": "Del Taco sells burgers, fries and shakes because it was built from the start as Mexican food plus American fast food. Here's the story behind its mixed menu.",
+    "h1": "Why Does Del Taco Sell Burgers and Fries?",
+    "primary_keyword": "why does del taco sell burgers",
+    "keyword_volume": 1300,
+    "keyword_kd": 1
+  },
+
+  "question": "Why Does Del Taco Sell Burgers and Fries?",
+
+  "quick_answer": "Del Taco sells burgers, fries and shakes because it was built from the start as a mix of Mexican food and American fast food, not a taco-only chain. That combined menu is a deliberate selling point: a group can order tacos, burritos, cheeseburgers and crinkle-cut fries at the same counter, which sets Del Taco apart from Mexican fast-food rivals.",
+
+  "key_facts": [
+    "Del Taco has mixed Mexican and American fast food since the 1960s",
+    "Signature crossover: tacos and burritos alongside burgers, fries and shakes",
+    "Crinkle-cut fries and the Double Del cheeseburger are longtime menu items",
+    "The mixed menu is a differentiator vs. taco-only competitors"
+  ],
+
+  "body": [
+    {
+      "heading": "It was designed that way from the beginning",
+      "text": "Del Taco was never meant to be a taco-only restaurant. Since the 1960s it has combined Mexican-style food (tacos, burritos, quesadillas) with American fast-food staples (burgers, fries, shakes). That blend is core to the brand, which has long marketed itself as a place offering 'Mexican food and more.'"
+    },
+    {
+      "heading": "The burgers and fries are a selling point, not an afterthought",
+      "text": "Having both sides of the menu is a real advantage. A group with mixed cravings can get tacos for one person and a cheeseburger and crinkle-cut fries for another, all in one stop. That flexibility helps Del Taco win family and group orders that a taco-only chain might lose."
+    },
+    {
+      "heading": "What crossover items is Del Taco known for?",
+      "text": "Beyond tacos and burritos, Del Taco is known for its crinkle-cut fries (often loaded with cheese as Deluxe Chili Cheese Fries or Nacho Fries), the Double Del cheeseburger, and shakes. These American items sit right alongside the Mexican menu rather than being hidden in a corner of it."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Does Del Taco really sell cheeseburgers?", "a": "Yes. Del Taco sells cheeseburgers, including the Double Del, along with crinkle-cut fries and shakes, right next to its tacos and burritos." },
+    { "q": "What are Del Taco's fries like?", "a": "Del Taco serves crinkle-cut fries, which are also offered loaded as Deluxe Chili Cheese Fries and Nacho Fries. They are a longtime signature side." },
+    { "q": "Is Del Taco Mexican or American food?", "a": "Both. Del Taco is built as a mix of Mexican-style food and American fast food, which is exactly why it sells burgers and fries alongside tacos and burritos." }
+  ],
+
+  "internal_links": [
+    { "label": "Del Taco Menu With Prices", "slug": "del-taco-menu" },
+    { "label": "Who Owns Del Taco?", "slug": "who-owns-del-taco" },
+    { "label": "Taco Palenque Menu With Prices", "slug": "taco-palenque-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Del Taco's long-standing Mexican + American fast-food positioning (tacos/burritos plus burgers, crinkle-cut fries, shakes; Double Del cheeseburger). Stable brand knowledge; consistent with the Del Taco menu page built for this site.",
+    "accuracy": "Descriptive brand/menu facts, not time-sensitive. Keep crinkle-cut fries and Double Del as the cited crossover items.",
+    "keyword_notes": "Targets the 'why does Del Taco sell burgers' curiosity question + People Also Ask. Paired with the 'who owns Del Taco' guide and the Del Taco menu page."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "krispy-kreme-hot-light-meaning",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Krispy Kreme",
+  "brand_slug": "krispy-kreme-menu",
+  "cover_hint": "Reuse the Krispy Kreme brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-10",
+
+  "seo": {
+    "meta_title": "What Does the Krispy Kreme Hot Light Mean? (2026)",
+    "meta_description": "The Krispy Kreme Hot Light means fresh Original Glazed doughnuts are coming off the line, warm. When it's on, shops often give away a free Original Glazed.",
+    "h1": "What Does the Krispy Kreme Hot Light Mean?",
+    "primary_keyword": "krispy kreme hot light meaning",
+    "keyword_volume": 2900,
+    "keyword_kd": 1
+  },
+
+  "question": "What Does the Krispy Kreme Hot Light Mean?",
+
+  "quick_answer": "The Krispy Kreme Hot Light is a glowing 'Hot Now' sign in the window that turns on when fresh Original Glazed doughnuts are coming off the glazing line, meaning the doughnuts are warm right now. When the Hot Light is on, many shops hand out a free warm Original Glazed doughnut.",
+
+  "key_facts": [
+    "The Hot Light signals warm, fresh Original Glazed doughnuts are being made",
+    "It reads 'Hot Now' and glows red in the window",
+    "When lit, shops often give a free Original Glazed doughnut",
+    "Hot Light hours vary by shop; the app can show when it's on"
+  ],
+
+  "body": [
+    {
+      "heading": "What the Hot Light means",
+      "text": "The Hot Light is Krispy Kreme's famous 'Hot Now' sign. When it glows in the window, it means the shop is actively making Original Glazed doughnuts and they are coming off the glazing line warm. In other words, the doughnuts you buy right then are fresh and hot, at their melt-in-your-mouth best."
+    },
+    {
+      "heading": "The free doughnut perk",
+      "text": "The Hot Light is also a little giveaway signal. At many Krispy Kreme shops, when the Hot Light is on you can get a free warm Original Glazed doughnut, a long-running tradition that turns the light into a reason to stop in. Policies can vary by location, so it is worth confirming at your shop."
+    },
+    {
+      "heading": "When is the Hot Light on?",
+      "text": "Hot Light hours depend on each shop's doughnut-making schedule, usually in the morning and again in the evening. Krispy Kreme's app and website have a 'Hot Light' feature that can show you when a nearby shop's light is on, so you can time your visit for warm doughnuts."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Do you get a free doughnut when the Hot Light is on?", "a": "Often, yes. Many Krispy Kreme shops give a free warm Original Glazed doughnut when the Hot Light is on, though the policy can vary by location." },
+    { "q": "What does 'Hot Now' mean at Krispy Kreme?", "a": "It means fresh Original Glazed doughnuts are coming off the glazing line warm right now, so the doughnuts are hot and fresh." },
+    { "q": "How do I know when the Krispy Kreme Hot Light is on?", "a": "Look for the glowing 'Hot Now' sign in the shop window, or use the Krispy Kreme app's Hot Light feature, which shows when nearby shops have it lit." }
+  ],
+
+  "internal_links": [
+    { "label": "Krispy Kreme Menu With Prices", "slug": "krispy-kreme-menu" },
+    { "label": "Who Owns Krispy Kreme?", "slug": "who-owns-krispy-kreme" },
+    { "label": "Dunkin' Menu With Prices", "slug": "dunkin-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Krispy Kreme Hot Light = 'Hot Now' sign indicating fresh warm Original Glazed; free Original Glazed often given when lit; app has a Hot Light locator. Consistent with the Krispy Kreme menu page built for this site.",
+    "accuracy": "Descriptive brand fact; free-doughnut perk framed as 'often/varies by location'. Not time-sensitive.",
+    "keyword_notes": "Targets 'krispy kreme hot light meaning' + PAA. Paired with the ownership guide and the menu page."
+  }
+}

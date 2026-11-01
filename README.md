@@ -75,3 +75,7 @@ Pages are server-rendered HTML. `scripts/postbuild.mjs` removes Next.js hydratio
 ## Deploy to Vercel
 
 Import the repo in Vercel. `vercel.json` already sets the build command and the `out` folder. Add the domain, set `DOMAIN` and `SITE_NAME`, set `INDEXING = true`, and push.
+
+## Guides
+
+Short Q&A articles live in `data/guides/<slug>.json` (shape: `Guide` in `lib/types.ts`) and build to `/guides/<slug>/`, with a hub at `/guides/`. The build checks them like brand files (title ≤ 60, description ≤ 160, required fields). `brand_slug` must name an existing brand file or be `""`; when set, the guide reuses that brand's hero image and is listed on its menu page. `internal_links` can point at brand menus or other guides by slug; ones that do not exist yet are skipped and listed by `npm run check`.

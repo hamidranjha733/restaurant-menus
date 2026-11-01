@@ -92,3 +92,36 @@ export interface Category {
   slug: string;
   description: string;
 }
+
+/** Shape of one guide file in data/guides/<slug>.json: a short Q&A article about a brand. */
+export interface Guide {
+  slug: string;
+  type: "guide";
+  /** Shown as the eyebrow label, e.g. "Restaurant Guides". */
+  category: string;
+  brand: string;
+  /** The brand's menu page slug, e.g. "krispy-kreme-menu", or "" when there is none. Its hero image is reused as the banner. */
+  brand_slug: string;
+  /** Editorial note about the cover; never rendered. */
+  cover_hint?: string;
+  byline: string;
+  /** "YYYY-MM" or "YYYY-MM-DD" */
+  last_updated: string;
+  seo: {
+    meta_title: string;
+    meta_description: string;
+    h1: string;
+    primary_keyword?: string;
+    keyword_volume?: number;
+    keyword_kd?: number;
+  };
+  question: string;
+  quick_answer: string;
+  key_facts?: string[];
+  body: { heading: string; text: string }[];
+  faqs?: Faq[];
+  /** Links to brand menu pages or other guides by slug. Ones that do not exist yet are skipped until they do. */
+  internal_links?: { label: string; slug: string }[];
+  /** Editorial notes; never rendered. */
+  _data_notes?: unknown;
+}

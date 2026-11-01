@@ -1,0 +1,63 @@
+{
+  "slug": "bojangles-bo-berry-biscuit",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Bojangles",
+  "brand_slug": "bojangles-menu",
+  "cover_hint": "Reuse the Bojangles brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-10",
+
+  "seo": {
+    "meta_title": "What Is a Bojangles Bo-Berry Biscuit? (2026)",
+    "meta_description": "A Bo-Berry Biscuit is Bojangles' sweet biscuit baked with blueberry-flavored bits and finished with a sugary icing drizzle. Here's what's in this treat.",
+    "h1": "What Is a Bojangles Bo-Berry Biscuit?",
+    "primary_keyword": "bojangles bo-berry biscuit",
+    "keyword_volume": 1600,
+    "keyword_kd": 1
+  },
+
+  "question": "What Is a Bojangles Bo-Berry Biscuit?",
+
+  "quick_answer": "A Bo-Berry Biscuit is Bojangles' sweet, dessert-style biscuit: a made-from-scratch buttermilk biscuit baked with blueberry-flavored bits (the 'Bo-Berries') and finished with a sweet sugar icing drizzle. It is a signature treat, sold individually or by the box, and tastes more like a glazed pastry than a plain biscuit.",
+
+  "key_facts": [
+    "A sweet biscuit with blueberry-flavored bits and sugar icing",
+    "Made from Bojangles' scratch buttermilk biscuit dough",
+    "Sold individually or by the box (for sharing)",
+    "A dessert-style item, sweeter than a regular biscuit"
+  ],
+
+  "body": [
+    {
+      "heading": "What's in a Bo-Berry Biscuit",
+      "text": "The Bo-Berry Biscuit starts with the same made-from-scratch buttermilk biscuit Bojangles is known for, but it is studded with sweet blueberry-flavored bits (the Bo-Berries) and then drizzled with a sugary white icing. The result is soft, sweet and closer to a pastry or scone than a traditional savory biscuit."
+    },
+    {
+      "heading": "How Bojangles serves it",
+      "text": "Bo-Berry Biscuits are a popular morning and anytime treat. You can order them individually or by the box, which makes them a common choice to share or bring to the office. They pair naturally with Bojangles' coffee or sweet tea."
+    },
+    {
+      "heading": "Is it a dessert?",
+      "text": "Effectively, yes. While it sits on the breakfast menu, the Bo-Berry Biscuit is really a sweet treat thanks to the blueberry bits and icing. Many people order it as a dessert or a sweet add-on to a savory meal like fried chicken or a chicken biscuit."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Are Bo-Berry Biscuits made with real blueberries?", "a": "They are made with sweet blueberry-flavored bits baked into the biscuit dough, then drizzled with sugar icing, rather than whole fresh blueberries." },
+    { "q": "Can you buy Bo-Berry Biscuits by the box?", "a": "Yes. Bojangles sells Bo-Berry Biscuits individually or by the box, which makes them easy to share." },
+    { "q": "Is a Bo-Berry Biscuit sweet?", "a": "Yes. With blueberry bits and a sugar icing drizzle, it is a sweet, dessert-style biscuit rather than a plain savory one." }
+  ],
+
+  "internal_links": [
+    { "label": "Bojangles Menu With Prices", "slug": "bojangles-menu" },
+    { "label": "Who Owns Bojangles?", "slug": "who-owns-bojangles" },
+    { "label": "Krispy Kreme Menu With Prices", "slug": "krispy-kreme-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Bojangles Bo-Berry Biscuit = sweet buttermilk biscuit with blueberry-flavored bits and icing drizzle; sold individually or by the box. Well-documented signature item; consistent with the Bojangles menu page built for this site.",
+    "accuracy": "Descriptive menu fact; 'blueberry-flavored bits' rather than claiming fresh blueberries. Not time-sensitive. On import the meta description (162 chars, over the 160 limit) was trimmed by dropping 'signature' from the last sentence.",
+    "keyword_notes": "Targets 'bojangles bo-berry biscuit' + PAA. Paired with the ownership guide and the Bojangles menu page."
+  }
+}

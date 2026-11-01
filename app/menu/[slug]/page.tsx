@@ -1,8 +1,10 @@
 import { notFound } from "next/navigation";
 import { AMAZON_ASSOCIATE_TAG } from "@/site.config";
 import { BrandList } from "@/components/BrandList";
+import { GuideList } from "@/components/GuideList";
 import { Breadcrumbs, JsonLd } from "@/components/Layout";
 import { brandPath, categoryPath, getBrand, getBrands, getCategory, getRelatedBrands } from "@/lib/brands";
+import { getGuidesForBrand } from "@/lib/guides";
 import { sectionPriceRange } from "@/lib/price";
 import { brandCrumbs, brandJsonLd, formatCalories, formatDate, itemLabel, pageMetadata } from "@/lib/seo";
 import type { MenuSection } from "@/lib/types";
@@ -40,6 +42,7 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
   if (!brand) notFound();
   const category = getCategory(brand.site_category);
   const related = getRelatedBrands(brand);
+  const guides = getGuidesForBrand(brand.slug);
   const updated = formatDate(brand.last_updated);
 
   return (
@@ -255,6 +258,13 @@ export default async function BrandMenuPage({ params }: { params: Promise<{ slug
               </div>
             ))}
           </div>
+        </section>
+      ) : null}
+
+      {guides.length ? (
+        <section aria-labelledby="guides">
+          <h2 id="guides">{brand.brand} guides</h2>
+          <GuideList guides={guides} />
         </section>
       ) : null}
 

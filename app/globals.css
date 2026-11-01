@@ -572,3 +572,17 @@ main.wrap {
 .disclaimer.small {
   padding: 0.5rem 0.85rem;
 }
+
+/* Guides */
+.guide-eyebrow {
+  font-weight: 700;
+}
+
+.key-facts {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.key-facts li {
+  margin: 0.3rem 0;
+}
