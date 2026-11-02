@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-baskin-robbins",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Baskin-Robbins",
+  "brand_slug": "baskin-robbins-menu",
+  "cover_hint": "Reuse the Baskin-Robbins brand banner / menu hero. Pink/blue accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Baskin-Robbins? (2026)",
+    "meta_description": "Baskin-Robbins is owned by Inspire Brands, the same company as Dunkin', which bought it in 2020. Inspire is backed by Roark Capital. Full ownership story.",
+    "h1": "Who Owns Baskin-Robbins?",
+    "primary_keyword": "who owns baskin robbins",
+    "keyword_volume": 2900,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Baskin-Robbins?",
+
+  "quick_answer": "Baskin-Robbins is owned by Inspire Brands, the same company that owns Dunkin'. Inspire acquired Dunkin' Brands, which included Baskin-Robbins, in 2020 for about $11.3 billion. Inspire Brands is backed by the private equity firm Roark Capital. Baskin-Robbins was founded in 1945 in Glendale, California.",
+
+  "key_facts": [
+    "Founded: 1945, Glendale, California",
+    "Founders: Burt Baskin and Irv Robbins",
+    "Current owner: Inspire Brands (since 2020)",
+    "Same parent as Dunkin', Arby's, Sonic, Buffalo Wild Wings and Jimmy John's",
+    "Inspire is backed by Roark Capital"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Baskin-Robbins?",
+      "text": "Baskin-Robbins is owned by Inspire Brands, a large US restaurant company. Inspire bought Dunkin' Brands, the parent of both Dunkin' and Baskin-Robbins, in 2020 in a deal worth about $11.3 billion. That put Baskin-Robbins under the same roof as Dunkin', Arby's, Sonic, Buffalo Wild Wings and Jimmy John's."
+    },
+    {
+      "heading": "Backed by Roark Capital",
+      "text": "Inspire Brands itself is backed by Roark Capital, an Atlanta-based private equity firm focused on franchised and restaurant businesses. So Baskin-Robbins is ultimately part of a big, privately held restaurant group rather than a standalone public company."
+    },
+    {
+      "heading": "A long history",
+      "text": "Baskin-Robbins was founded in 1945 in Glendale, California, by brothers-in-law Burt Baskin and Irv Robbins, who merged their two ice cream shops. It grew into one of the world's largest ice cream chains, famous for its '31 flavors', before becoming part of Dunkin' Brands and then Inspire Brands."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Baskin-Robbins owned by Dunkin'?", "a": "They share the same owner. Baskin-Robbins and Dunkin' are both owned by Inspire Brands, which bought their parent company, Dunkin' Brands, in 2020." },
+    { "q": "Is Baskin-Robbins publicly traded?", "a": "No. Baskin-Robbins is part of Inspire Brands, a privately held company backed by Roark Capital. It does not trade on a stock exchange." },
+    { "q": "Who founded Baskin-Robbins?", "a": "Baskin-Robbins was founded in 1945 in Glendale, California, by Burt Baskin and Irv Robbins." }
+  ],
+
+  "internal_links": [
+    { "label": "Baskin-Robbins Menu With Prices", "slug": "baskin-robbins-menu" },
+    { "label": "Why Is Baskin-Robbins Called 31 Flavors?", "slug": "baskin-robbins-31-flavors" },
+    { "label": "Dunkin' Menu With Prices", "slug": "dunkin-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Inspire Brands acquired Dunkin' Brands (incl. Baskin-Robbins) 2020 for ~$11.3B; Inspire backed by Roark Capital (NBC / PYMNTS / Today). Founded 1945 Glendale CA by Burt Baskin & Irv Robbins. Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable.",
+    "keyword_notes": "Volume 2.9k. Paired with the '31 flavors' guide and the Baskin-Robbins menu page."
+  }
+}

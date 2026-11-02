@@ -10,7 +10,7 @@
 
   "seo": {
     "meta_title": "Why Is Chick-fil-A Closed on Sunday?",
-    "meta_description": "Chick-fil-A closes every Sunday because founder Truett Cathy set it as a day of rest for staff. Here's the story and whether it ever opens.",
+    "meta_description": "Chick-fil-A closes every Sunday because founder Truett Cathy set it as a day of rest, a practice he began back at his first diner in 1946.",
     "h1": "Why Is Chick-fil-A Closed on Sunday?",
     "primary_keyword": "why is chick fil a closed on sunday",
     "keyword_volume": 8100,
@@ -19,10 +19,11 @@
 
   "question": "Why Is Chick-fil-A Closed on Sunday?",
 
-  "quick_answer": "Chick-fil-A is closed every Sunday because founder S. Truett Cathy set it as a day of rest from the very beginning. He wanted employees to have a guaranteed day off to rest and spend time with family, tied to his own faith, and the company has kept the policy ever since. Almost every Chick-fil-A in the US stays closed on Sundays.",
+  "quick_answer": "Chick-fil-A is closed every Sunday because founder S. Truett Cathy made it a day of rest. He started the practice back in 1946 at his first diner, the Dwarf Grill, so his staff could rest and spend time with family, tied to his own faith, and he carried it into Chick-fil-A when it launched in 1967. Almost every Chick-fil-A in the US stays closed on Sundays.",
 
   "key_facts": [
-    "A policy set by founder S. Truett Cathy from day one in 1967",
+    "A practice Truett Cathy began in 1946 at his first diner, the Dwarf Grill",
+    "Carried into Chick-fil-A when it launched in 1967",
     "Meant to give employees a guaranteed day of rest",
     "Tied to the founder's Christian faith",
     "Still company policy today across the US"
@@ -30,8 +31,8 @@
 
   "body": [
     {
-      "heading": "A rule from the founder",
-      "text": "Chick-fil-A has been closed on Sundays since founder S. Truett Cathy opened his first restaurant. He decided early on that his restaurants would not open on Sundays, and that choice became a permanent part of how the company operates."
+      "heading": "A rule that predates Chick-fil-A",
+      "text": "The Sunday closing goes back further than Chick-fil-A itself. Founder S. Truett Cathy began closing on Sundays in 1946 at his first diner, the Dwarf Grill in Hapeville, Georgia. When he launched Chick-fil-A in 1967, he kept the same practice, and it has been part of the company ever since."
     },
     {
       "heading": "Rest and faith",
@@ -45,8 +46,8 @@
 
   "faqs": [
     { "q": "Is every Chick-fil-A closed on Sunday?", "a": "Almost all of them. The standard company policy is to close on Sundays. A few unusual locations, such as some in airports or stadiums, can differ, but the normal rule is closed." },
-    { "q": "Who decided Chick-fil-A would close on Sundays?", "a": "Founder S. Truett Cathy made the decision from the start, so employees would have a guaranteed day of rest. It was tied to his Christian faith." },
-    { "q": "Does Chick-fil-A lose money by closing on Sundays?", "a": "It gives up a day of potential sales, but the company has kept the policy for decades, saying the day of rest for staff matters more than the extra revenue." }
+    { "q": "When did Chick-fil-A start closing on Sundays?", "a": "The practice goes back to 1946, when founder Truett Cathy closed his first diner, the Dwarf Grill, on Sundays. He carried it into Chick-fil-A from its 1967 launch." },
+    { "q": "Why does Chick-fil-A close on Sundays?", "a": "Founder Truett Cathy wanted employees to have a guaranteed day of rest, tied to his Christian faith. The company has kept the policy ever since." }
   ],
 
   "internal_links": [
@@ -56,8 +57,8 @@
   ],
 
   "_data_notes": {
-    "fact_source": "Chick-fil-A closed Sundays since 1967 by founder S. Truett Cathy; day of rest for employees, tied to his Christian faith; rare airport/stadium exceptions. Verified via web Nov 2026.",
-    "accuracy": "Descriptive, well-established; religion mentioned factually as the founder's own stated reason, not as commentary.",
-    "keyword_notes": "Volume ~8.1k, very high-interest PAA question. Paired with the ownership guide and the Chick-fil-A menu page."
+    "fact_source": "CORRECTED: Sunday closing began 1946 at Truett Cathy's Dwarf Grill (Hapeville), carried into Chick-fil-A from its 1967 launch (not 'from day one in 1967'). Day of rest for employees, tied to his Christian faith; rare airport/stadium exceptions. Verified via web Nov 2026.",
+    "accuracy": "Fixed the '1967 from day one' framing flagged in build review; now traces the practice to the 1946 Dwarf Grill.",
+    "keyword_notes": "Volume ~8.1k, very high-interest PAA. Paired with the ownership guide and the Chick-fil-A menu page."
   }
 }
