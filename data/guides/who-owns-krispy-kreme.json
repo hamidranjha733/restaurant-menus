@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-krispy-kreme",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Krispy Kreme",
+  "brand_slug": "krispy-kreme-menu",
+  "cover_hint": "Reuse the Krispy Kreme brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-10",
+
+  "seo": {
+    "meta_title": "Who Owns Krispy Kreme? (2026)",
+    "meta_description": "Krispy Kreme is majority-owned by JAB Holding Company, the Reimann family's investment firm, which took it public on the Nasdaq in 2021. Full ownership story.",
+    "h1": "Who Owns Krispy Kreme?",
+    "primary_keyword": "who owns krispy kreme",
+    "keyword_volume": 3600,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Krispy Kreme?",
+
+  "quick_answer": "Krispy Kreme is majority-owned by JAB Holding Company, the private investment firm tied to Germany's Reimann family. JAB bought Krispy Kreme in 2016 and took it public again on the Nasdaq in 2021 (ticker DNUT), but it has remained the controlling shareholder. Krispy Kreme was founded in 1937 in Winston-Salem, North Carolina.",
+
+  "key_facts": [
+    "Founded: 1937, Winston-Salem, North Carolina",
+    "Founder: Vernon Rudolph",
+    "Majority owner: JAB Holding Company (Reimann family)",
+    "JAB acquired Krispy Kreme in 2016",
+    "Returned to the Nasdaq in 2021 (ticker DNUT), JAB still controlling"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Krispy Kreme?",
+      "text": "Krispy Kreme is controlled by JAB Holding Company, a private investment firm connected to Germany's wealthy Reimann family. JAB also owns or has owned a string of coffee and food brands (such as Panera, Pret A Manger and Peet's). JAB bought Krispy Kreme in 2016 and, even after bringing it back to the stock market, has kept a controlling majority stake."
+    },
+    {
+      "heading": "Public, but JAB is in control",
+      "text": "Krispy Kreme returned to the Nasdaq in 2021 under the ticker DNUT, so its shares trade publicly. But JAB Holding kept the largest, controlling block of stock, which means JAB still calls the shots rather than a dispersed group of public shareholders. That makes Krispy Kreme a public company with a clear majority owner."
+    },
+    {
+      "heading": "A long history",
+      "text": "Krispy Kreme was founded in 1937 by Vernon Rudolph in Winston-Salem, North Carolina. Over the decades it was public, then private, then public again, before JAB's 2016 purchase. Through all of it, the Original Glazed doughnut and the Hot Light have stayed the brand's signatures."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Krispy Kreme owned by JAB?", "a": "Yes. JAB Holding Company, the Reimann family's investment firm, is Krispy Kreme's majority owner. It bought the chain in 2016 and kept control after the 2021 Nasdaq listing." },
+    { "q": "Is Krispy Kreme a public company?", "a": "Yes, Krispy Kreme trades on the Nasdaq under the ticker DNUT, but JAB Holding remains the controlling majority shareholder." },
+    { "q": "Who founded Krispy Kreme?", "a": "Krispy Kreme was founded in 1937 by Vernon Rudolph in Winston-Salem, North Carolina." }
+  ],
+
+  "internal_links": [
+    { "label": "Krispy Kreme Menu With Prices", "slug": "krispy-kreme-menu" },
+    { "label": "What Does the Krispy Kreme Hot Light Mean?", "slug": "krispy-kreme-hot-light-meaning" },
+    { "label": "Dunkin' Menu With Prices", "slug": "dunkin-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "JAB Holding Company (Reimann family) acquired Krispy Kreme 2016; relisted on Nasdaq 2021 (ticker DNUT) with JAB as controlling shareholder (SEC 13D/A filings; RetailDetail; CSP). Founded 1937 Winston-Salem NC by Vernon Rudolph. Verified via web Oct 2026.",
+    "accuracy": "JAB majority control verified. There has been talk of Krispy Kreme going private again; kept to the confirmed majority-owner framing. Re-verify if a take-private completes.",
+    "keyword_notes": "Targets 'who owns krispy kreme'. Paired with the Hot Light guide and the Krispy Kreme menu page."
+  }
+}
