@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-bojangles",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Bojangles",
+  "brand_slug": "bojangles-menu",
+  "cover_hint": "Reuse the Bojangles brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-10",
+
+  "seo": {
+    "meta_title": "Who Owns Bojangles? (2026)",
+    "meta_description": "Bojangles is privately owned by Durational Capital Management and The Jordan Company, which took it private in 2019. Here's the ownership story and key facts.",
+    "h1": "Who Owns Bojangles?",
+    "primary_keyword": "who owns bojangles",
+    "keyword_volume": 2400,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Bojangles?",
+
+  "quick_answer": "Bojangles is privately owned by two New York investment firms, Durational Capital Management and The Jordan Company, which took the chain private in a roughly $593 million deal in 2019. Bojangles was founded in 1977 in Charlotte, North Carolina, by Jack Fulk and Richard Thomas.",
+
+  "key_facts": [
+    "Founded: 1977, Charlotte, North Carolina",
+    "Founders: Jack Fulk and Richard Thomas",
+    "Current owners: Durational Capital Management and The Jordan Company",
+    "Taken private in 2019 for ~$593 million",
+    "Was previously publicly traded (NYSE: BOJA)"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Bojangles?",
+      "text": "Bojangles is owned by two New York-based investment firms, Durational Capital Management and The Jordan Company. In 2019 they acquired Bojangles in a deal worth about $593 million and took the company private, meaning its shares no longer trade on a stock exchange. It had previously been publicly listed on the NYSE under the ticker BOJA."
+    },
+    {
+      "heading": "How Bojangles started",
+      "text": "Bojangles was founded in 1977 in Charlotte, North Carolina, by Jack Fulk and Richard Thomas. It built its name on Southern-style fried chicken, made-from-scratch buttermilk biscuits, seasoned fries and sweet tea, and grew into a major chain across the Southeast."
+    },
+    {
+      "heading": "What private ownership means",
+      "text": "Going private in 2019 let Bojangles focus on long-term growth without the pressures of quarterly public reporting. Its owners have backed expansion into new markets. For customers, the menu and restaurants are unchanged by the ownership structure."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Bojangles publicly traded?", "a": "No. Bojangles was publicly traded (NYSE: BOJA) until 2019, when Durational Capital Management and The Jordan Company took it private in a ~$593 million deal." },
+    { "q": "Who founded Bojangles?", "a": "Bojangles was founded in 1977 in Charlotte, North Carolina, by Jack Fulk and Richard Thomas." },
+    { "q": "Where is Bojangles based?", "a": "Bojangles is based in Charlotte, North Carolina, where it was founded in 1977, and is strongest across the Southeastern US." }
+  ],
+
+  "internal_links": [
+    { "label": "Bojangles Menu With Prices", "slug": "bojangles-menu" },
+    { "label": "What Is a Bojangles Bo-Berry Biscuit?", "slug": "bojangles-bo-berry-biscuit" },
+    { "label": "KFC Menu With Prices", "slug": "kfc-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Bojangles taken private by Durational Capital Management & The Jordan Company (2019, ~$593M; NRN / QSR / Wikipedia). Was NYSE: BOJA. Founded 1977 Charlotte NC by Jack Fulk & Richard Thomas. Verified via web Oct 2026.",
+    "accuracy": "Private ownership verified. Re-verify if sold again.",
+    "keyword_notes": "Targets 'who owns bojangles'. Paired with the Bo-Berry Biscuit guide and the Bojangles menu page."
+  }
+}

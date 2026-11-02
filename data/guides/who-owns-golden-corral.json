@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-golden-corral",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Golden Corral",
+  "brand_slug": "golden-corral-menu",
+  "cover_hint": "Reuse the Golden Corral brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-10",
+
+  "seo": {
+    "meta_title": "Who Owns Golden Corral? (2026)",
+    "meta_description": "Golden Corral is privately held, controlled by Investors Management Corporation and the Maynard family. Here's the ownership story and key facts.",
+    "h1": "Who Owns Golden Corral?",
+    "primary_keyword": "who owns golden corral",
+    "keyword_volume": 2400,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Golden Corral?",
+
+  "quick_answer": "Golden Corral is privately held. The brand, Golden Corral Corporation, is controlled by Investors Management Corporation (IMC), a Raleigh, North Carolina holding company tied to the family of co-founder James Maynard. Golden Corral was founded in 1973 in Fayetteville, North Carolina, by James Maynard and William F. Carl.",
+
+  "key_facts": [
+    "Founded: 1973, Fayetteville, North Carolina",
+    "Founders: James Maynard and William F. Carl",
+    "Parent: Golden Corral Corporation",
+    "Controlled by: Investors Management Corporation (Maynard family)",
+    "Ownership: privately held, not publicly traded"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Golden Corral?",
+      "text": "Golden Corral is a private, family-linked company. Its parent, Golden Corral Corporation, is controlled by Investors Management Corporation (IMC), a holding company based in Raleigh, North Carolina, connected to the family of co-founder James Maynard. It has never been a publicly traded company, and it is not owned by an outside private-equity firm."
+    },
+    {
+      "heading": "How Golden Corral started",
+      "text": "Golden Corral opened its first restaurant in 1973 in Fayetteville, North Carolina, founded by James Maynard and William F. Carl. It grew into one of America's largest grill-buffet chains, famous for its all-you-can-eat buffet, carved meats, yeast rolls and the chocolate wonderfall fountain."
+    },
+    {
+      "heading": "Franchised, but family-controlled",
+      "text": "Like many buffet chains, many Golden Corral locations are run by franchisees, but the brand itself stays under the founding family's control through IMC. That long-term private ownership is part of why Golden Corral has kept its buffet-first identity for decades."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Golden Corral publicly traded?", "a": "No. Golden Corral is privately held, controlled by Investors Management Corporation and the family of co-founder James Maynard. It does not trade on a stock exchange." },
+    { "q": "Who founded Golden Corral?", "a": "Golden Corral was founded in 1973 in Fayetteville, North Carolina, by James Maynard and William F. Carl." },
+    { "q": "Is Golden Corral a franchise?", "a": "Yes. Many Golden Corral restaurants are franchised, while the brand itself remains under family control through Investors Management Corporation." }
+  ],
+
+  "internal_links": [
+    { "label": "Golden Corral Buffet Prices", "slug": "golden-corral-menu" },
+    { "label": "Does Golden Corral Have a Senior Discount?", "slug": "golden-corral-senior-discount" },
+    { "label": "Shady Maple Smorgasbord Prices", "slug": "shady-maple-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Golden Corral Corporation, privately held; controlled by Investors Management Corporation (Maynard family), Raleigh NC. Founded 1973 Fayetteville NC by James Maynard & William F. Carl (Funding Universe / encyclopedia / BGSU). Verified via web Oct 2026.",
+    "accuracy": "Private family ownership verified and stable. Re-verify only if the company is sold.",
+    "keyword_notes": "Targets 'who owns golden corral'. Paired with the senior-discount guide and the Golden Corral buffet-prices page."
+  }
+}

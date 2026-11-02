@@ -1,0 +1,63 @@
+{
+  "slug": "most-popular-smoothie-tropical-smoothie-cafe",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Tropical Smoothie Cafe",
+  "brand_slug": "tropical-smoothie-cafe-menu",
+  "cover_hint": "Reuse the Tropical Smoothie Cafe brand banner / menu hero. Teal accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-10",
+
+  "seo": {
+    "meta_title": "The Most Popular Smoothie at Tropical Smoothie Cafe (2026)",
+    "meta_description": "The Bahama Mama is Tropical Smoothie Cafe's most popular smoothie, while the Detox Island Green is the top better-for-you pick. Here's what's in each.",
+    "h1": "What Is the Most Popular Smoothie at Tropical Smoothie Cafe?",
+    "primary_keyword": "most popular smoothie tropical smoothie cafe",
+    "keyword_volume": 1600,
+    "keyword_kd": 1
+  },
+
+  "question": "What Is the Most Popular Smoothie at Tropical Smoothie Cafe?",
+
+  "quick_answer": "The Bahama Mama is Tropical Smoothie Cafe's signature and most popular smoothie, a blend of strawberry, pineapple, white chocolate and coconut. The Detox Island Green is the most popular better-for-you option, made with spinach, kale, mango, pineapple, banana and ginger.",
+
+  "key_facts": [
+    "Most popular overall: Bahama Mama (strawberry, pineapple, white chocolate, coconut)",
+    "Most popular healthy pick: Detox Island Green (spinach, kale, mango, pineapple, banana, ginger)",
+    "Bahama Mama (24 oz) is about 410 calories",
+    "Detox Island Green (24 oz) is about 180 calories"
+  ],
+
+  "body": [
+    {
+      "heading": "The Bahama Mama is the signature",
+      "text": "The Bahama Mama is the smoothie Tropical Smoothie Cafe is best known for and its top seller. It blends strawberry, pineapple, white chocolate and coconut into a sweet, tropical, dessert-leaning smoothie. A 24 oz is roughly 410 calories, so it sits on the indulgent side of the menu."
+    },
+    {
+      "heading": "The Detox Island Green is the healthy favorite",
+      "text": "On the better-for-you side, the Detox Island Green is the most popular pick. It is made with spinach, kale, mango, pineapple, banana and fresh ginger, and at about 180 calories for a 24 oz it is one of the lightest smoothies on the menu. It is the go-to for customers wanting greens without a heavy, sugary blend."
+    },
+    {
+      "heading": "Other popular blends",
+      "text": "Beyond those two, the Acai Berry Boost, the Peanut Butter Banana Crunch (a filling, higher-calorie blend) and the Island Green are among the other well-loved smoothies. Many drinks can be customized with added protein, supplements or lighter options."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What is the best-selling smoothie at Tropical Smoothie Cafe?", "a": "The Bahama Mama, a blend of strawberry, pineapple, white chocolate and coconut, is the signature and best-selling smoothie. A 24 oz is about 410 calories." },
+    { "q": "What is the healthiest smoothie at Tropical Smoothie Cafe?", "a": "The Detox Island Green is the most popular lighter option, made with spinach, kale, mango, pineapple, banana and ginger, at about 180 calories for a 24 oz." },
+    { "q": "How much is a Bahama Mama?", "a": "A 24 oz Bahama Mama is usually around $5.49, though prices vary by location. See the Tropical Smoothie Cafe menu page for the current lineup." }
+  ],
+
+  "internal_links": [
+    { "label": "Tropical Smoothie Cafe Menu With Prices", "slug": "tropical-smoothie-cafe-menu" },
+    { "label": "Who Owns Tropical Smoothie Cafe?", "slug": "who-owns-tropical-smoothie-cafe" },
+    { "label": "Smoothie King Menu With Prices", "slug": "smoothie-king-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Tropical Smoothie Cafe signature Bahama Mama (best-seller) and Detox Island Green (top healthy pick); calories ~410 and ~180 for 24 oz, consistent with the Tropical Smoothie menu page built for this site.",
+    "accuracy": "Descriptive menu facts; calories from the brand's published figures. Not time-sensitive.",
+    "keyword_notes": "Targets 'most popular smoothie tropical smoothie cafe' + PAA. Paired with the ownership guide and the menu page."
+  }
+}

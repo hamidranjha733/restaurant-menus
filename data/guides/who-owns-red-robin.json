@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-red-robin",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Red Robin",
+  "brand_slug": "",
+  "cover_hint": "Branded 'Red Robin' guide card, red accent. (No Red Robin menu page yet on this site.)",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-10",
+
+  "seo": {
+    "meta_title": "Who Owns Red Robin? (2026)",
+    "meta_description": "Red Robin is a publicly traded company, Red Robin Gourmet Burgers, Inc. (Nasdaq: RRGB), owned by its shareholders. Here's the ownership picture.",
+    "h1": "Who Owns Red Robin?",
+    "primary_keyword": "who owns red robin",
+    "keyword_volume": 2900,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Red Robin?",
+
+  "quick_answer": "Red Robin is a publicly traded company called Red Robin Gourmet Burgers, Inc., listed on the Nasdaq under the ticker RRGB. It has no single owner; it is owned by its shareholders, mostly large institutional investors. Red Robin was founded in 1969 in Seattle, Washington.",
+
+  "key_facts": [
+    "Founded: 1969, Seattle, Washington",
+    "Company: Red Robin Gourmet Burgers, Inc.",
+    "Ownership: publicly traded (Nasdaq: RRGB)",
+    "Majority held by institutional investors (around 62%)",
+    "No single controlling owner"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Red Robin?",
+      "text": "Red Robin is owned by the public. The parent company, Red Robin Gourmet Burgers, Inc., trades on the Nasdaq stock exchange under the ticker RRGB, which means anyone can buy shares. Most of the stock is held by large institutional investors (funds and asset managers), who together own a majority, with the rest spread among individual shareholders. There is no single family or private-equity owner."
+    },
+    {
+      "heading": "A bit of history",
+      "text": "Red Robin started in 1969 in Seattle as a tavern that became known for its gourmet burgers. It grew into a national casual-dining chain, Red Robin Gourmet Burgers, and went public in 2002. As a public company, its ownership shifts constantly as shares are bought and sold."
+    },
+    {
+      "heading": "What does being public mean for Red Robin?",
+      "text": "Because Red Robin is publicly traded, it reports its finances openly and answers to shareholders. Activist investors have at times pushed for changes, but no one investor controls the company. For diners, the menu and experience are unaffected by this ownership structure."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Red Robin owned by a private equity firm?", "a": "No. Red Robin is a publicly traded company (Nasdaq: RRGB), owned by its shareholders rather than a single private-equity owner." },
+    { "q": "When was Red Robin founded?", "a": "Red Robin was founded in 1969 in Seattle, Washington, and grew into the national Red Robin Gourmet Burgers chain." },
+    { "q": "What is Red Robin's stock ticker?", "a": "Red Robin Gourmet Burgers, Inc. trades on the Nasdaq under the ticker symbol RRGB." }
+  ],
+
+  "internal_links": [
+    { "label": "Are Red Robin Fries Really Bottomless?", "slug": "are-red-robin-fries-bottomless" },
+    { "label": "The Habit Burger Grill Menu With Prices", "slug": "habit-burger-menu" },
+    { "label": "Bad Daddy's Burger Bar Menu With Prices", "slug": "bad-daddys-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Red Robin Gourmet Burgers, Inc. (Nasdaq: RRGB), publicly traded, ~62% institutional ownership (Yahoo Finance / SimplyWall.st). Founded 1969 Seattle; IPO 2002. Verified via web Oct 2026.",
+    "accuracy": "Public-company ownership verified; percentages shift. No Red Robin menu page exists on this site yet, so brand_slug is empty and internal links point to related burger brands.",
+    "keyword_notes": "Targets 'who owns red robin'. Paired with the bottomless-fries guide. Could add a Red Robin menu page later for stronger internal linking."
+  }
+}
