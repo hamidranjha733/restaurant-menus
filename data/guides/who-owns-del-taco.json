@@ -4,61 +4,61 @@
   "category": "Restaurant Guides",
   "brand": "Del Taco",
   "brand_slug": "del-taco-menu",
-  "cover_hint": "Reuse the Del Taco brand banner / menu hero. Branded 'Del Taco' guide card, red accent.",
+  "cover_hint": "Reuse the Del Taco brand banner / menu hero.",
   "byline": "USA Food Menu Editorial",
-  "last_updated": "2026-10",
+  "last_updated": "2026-11",
 
   "seo": {
     "meta_title": "Who Owns Del Taco? (2026)",
-    "meta_description": "Del Taco is now owned by Yadav Enterprises, which agreed to buy it from Jack in the Box in 2025. Here's the full ownership history and key facts.",
+    "meta_description": "Del Taco is owned by Yadav Enterprises, which completed its purchase from Jack in the Box in late 2025. Here's the full ownership story.",
     "h1": "Who Owns Del Taco?",
     "primary_keyword": "who owns del taco",
-    "keyword_volume": 2400,
+    "keyword_volume": 1900,
     "keyword_kd": 2
   },
 
   "question": "Who Owns Del Taco?",
 
-  "quick_answer": "Del Taco is owned by Yadav Enterprises Inc., one of the largest franchise operators in the US. In October 2025, Jack in the Box agreed to sell Del Taco Holdings to Yadav for about $115 million, ending Jack in the Box's roughly three-year ownership. Del Taco was founded in 1964 in Yermo, California.",
+  "quick_answer": "Del Taco is owned by Yadav Enterprises, one of the largest franchise operators in the US, which completed its purchase of Del Taco from Jack in the Box in late 2025. Jack in the Box had owned Del Taco since 2022. Del Taco was founded in 1964 in Yermo, California, and is known for its mix of tacos, burgers and fries.",
 
   "key_facts": [
+    "Current owner: Yadav Enterprises (purchase completed late 2025)",
+    "Previously owned by Jack in the Box (2022-2025)",
     "Founded: 1964, Yermo, California",
-    "Founders: Ed Hackbarth and David Jameson",
-    "Current owner: Yadav Enterprises Inc.",
-    "Deal: Jack in the Box agreed to sell Del Taco for ~$115 million (announced Oct 2025)",
-    "Previous owner: Jack in the Box (from 2022)"
+    "Known for combining Mexican food with burgers and fries",
+    "Yadav Enterprises is a large multi-brand franchise operator"
   ],
 
   "body": [
     {
       "heading": "Who owns Del Taco now?",
-      "text": "Del Taco is owned by Yadav Enterprises Inc., a large, privately held franchise operator. In October 2025, Jack in the Box announced a definitive agreement to sell Del Taco Holdings to Yadav Enterprises for approximately $115 million, and the sale moved Del Taco out of Jack in the Box's hands. Yadav is one of the biggest franchisees in the country, operating hundreds of restaurants across several brands."
+      "text": "Del Taco is owned by Yadav Enterprises, a major US franchise operator. Yadav agreed to buy Del Taco from Jack in the Box, and the sale was completed in late 2025. Yadav Enterprises runs a large portfolio of restaurants, so Del Taco is now part of a big franchise group rather than being owned by a public company."
     },
     {
-      "heading": "Del Taco's ownership history",
-      "text": "Del Taco was founded in 1964 by Ed Hackbarth and David Jameson in Yermo, California. For decades it grew as a regional Mexican-American fast-food chain. In 2015 it went public on the Nasdaq (ticker TACO) through a merger with Levy Acquisition Corp. Jack in the Box then acquired Del Taco in March 2022 for about $575 million, before agreeing to sell it to Yadav Enterprises in 2025."
+      "heading": "Who owned it before",
+      "text": "Before Yadav, Del Taco was owned by Jack in the Box, which had acquired it in 2022. Earlier still, Del Taco had been a publicly traded company. Jack in the Box decided to focus on its core brand and sold Del Taco, leading to the 2025 purchase by Yadav Enterprises."
     },
     {
-      "heading": "Why did Jack in the Box sell Del Taco?",
-      "text": "Jack in the Box moved to sell Del Taco as it refocused on its core Jack in the Box brand and worked to simplify the company. Selling Del Taco to a large, experienced franchise operator like Yadav Enterprises let Jack in the Box raise cash and let Del Taco sit with an owner focused on running and growing it."
+      "heading": "The brand's roots",
+      "text": "Del Taco was founded in 1964 in Yermo, California. It built its identity around affordable Mexican food served alongside American favorites like burgers, fries and shakes, which still sets it apart from many taco-focused chains."
     }
   ],
 
   "faqs": [
-    { "q": "Is Del Taco owned by Jack in the Box?", "a": "Not anymore. Jack in the Box owned Del Taco from 2022, but in October 2025 it agreed to sell Del Taco to Yadav Enterprises Inc. for about $115 million." },
-    { "q": "When was Del Taco founded?", "a": "Del Taco was founded in 1964 in Yermo, California, by Ed Hackbarth and David Jameson." },
-    { "q": "Is Del Taco a public company?", "a": "No. Del Taco was publicly traded from 2015 to 2022, but after Jack in the Box bought it and then sold it to Yadav Enterprises, it is privately held." }
+    { "q": "Who owns Del Taco now?", "a": "Del Taco is owned by Yadav Enterprises, which completed its purchase from Jack in the Box in late 2025." },
+    { "q": "Did Jack in the Box own Del Taco?", "a": "Yes. Jack in the Box owned Del Taco from 2022 until selling it to Yadav Enterprises, a sale completed in late 2025." },
+    { "q": "Where was Del Taco founded?", "a": "Del Taco was founded in 1964 in Yermo, California." }
   ],
 
   "internal_links": [
     { "label": "Del Taco Menu With Prices", "slug": "del-taco-menu" },
-    { "label": "Why Does Del Taco Sell Burgers and Fries?", "slug": "why-does-del-taco-sell-burgers-and-fries" },
-    { "label": "El Pollo Loco Menu With Prices", "slug": "el-pollo-loco-menu" }
+    { "label": "Who Owns Jack in the Box?", "slug": "who-owns-jack-in-the-box" },
+    { "label": "Taco Bell Menu With Prices", "slug": "taco-bell-menu" }
   ],
 
   "_data_notes": {
-    "fact_source": "Jack in the Box / Businesswire announcement (Oct 16, 2025): definitive agreement to sell Del Taco Holdings to Yadav Enterprises for ~$115M. Founding 1964 Yermo, CA (Hackbarth & Jameson). Jack in the Box acquired Del Taco March 2022 (~$575M). Verified via web Oct 2026.",
-    "accuracy": "Ownership is time-sensitive and was recently sold; phrased around the announced agreement. Re-verify if the deal terms or close date change.",
-    "keyword_notes": "Targets the 'who owns del taco' question keyword + People Also Ask. Paired with the 'why does Del Taco sell burgers and fries' guide and the Del Taco menu page."
+    "fact_source": "UPDATED/CONFIRMED: Del Taco owned by Yadav Enterprises; sale from Jack in the Box completed Dec 22, 2025 (Businesswire / NRN 'finalizes sale'). JIB owned Del Taco 2022-2025; Del Taco formerly public; founded 1964 Yermo CA. Verified via web Nov 2026.",
+    "accuracy": "Deal confirmed CLOSED (Dec 2025). Added the Jack in the Box ownership history and cross-link for consistency with the JIB guide.",
+    "keyword_notes": "Volume ~1.9k. Now cross-links to the Jack in the Box ownership guide."
   }
 }

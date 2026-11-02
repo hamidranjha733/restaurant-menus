@@ -23,15 +23,15 @@
 
   "key_facts": [
     "Open 24/7, 365 days a year by design",
-    "Most locations have no locks on the front doors",
-    "Tries to stay open even during storms and holidays",
+    "Built to run around the clock, including holidays",
+    "Tries to stay open even during storms",
     "The 'Waffle House Index' is used informally to gauge disaster severity"
   ],
 
   "body": [
     {
       "heading": "It is built into the brand",
-      "text": "From the start, Waffle House set out to be an always-open diner. The restaurants are designed to run 24 hours a day, every day of the year, so people can get a hot meal at any hour. Many locations famously do not even have locks on the front doors, because they are not meant to close."
+      "text": "From the start, Waffle House set out to be an always-open diner. The restaurants are designed to run 24 hours a day, every day of the year, so people can get a hot meal at any hour. Staying open around the clock has been part of the brand's identity for decades."
     },
     {
       "heading": "Staying open through storms",
@@ -44,7 +44,7 @@
   ],
 
   "faqs": [
-    { "q": "Is Waffle House really open 24/7?", "a": "Yes, by design. Most Waffle House locations are open 24 hours a day, 365 days a year, including holidays, and many have no locks on the doors." },
+    { "q": "Is Waffle House really open 24/7?", "a": "Yes, by design. Most Waffle House locations are open 24 hours a day, 365 days a year, including holidays." },
     { "q": "What is the Waffle House Index?", "a": "It is an informal gauge used by emergency planners. Because Waffle House tries hard to stay open, a closed location signals that a storm or disaster is especially severe." },
     { "q": "Does Waffle House ever close?", "a": "Only rarely. Individual restaurants may close for severe weather, damage or safety, but the chain aims to stay open around the clock." }
   ],
@@ -56,8 +56,8 @@
   ],
 
   "_data_notes": {
-    "fact_source": "Waffle House open 24/7/365 by design; many locations lack door locks; storm-staying reputation and the 'Waffle House Index' used informally by FEMA/emergency planners. Verified via web Nov 2026.",
-    "accuracy": "Descriptive and well-established; notes individual locations can close for weather so it is not overstated.",
-    "keyword_notes": "Volume ~2.4k + strong PAA ('Waffle House Index'). Paired with the ownership guide and the Waffle House menu page."
+    "fact_source": "Waffle House open 24/7/365 by design; storm-staying reputation and the 'Waffle House Index' used informally by emergency planners. Verified via web Nov 2026.",
+    "accuracy": "FIXED: removed the 'no locks on the doors' claim (often repeated but more lore than confirmed fact). Kept only well-supported points.",
+    "keyword_notes": "Volume ~2.4k + strong PAA. Paired with the ownership guide and the Waffle House menu page."
   }
 }
