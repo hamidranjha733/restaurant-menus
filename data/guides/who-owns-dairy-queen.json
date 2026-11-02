@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-dairy-queen",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Dairy Queen",
+  "brand_slug": "dairy-queen-menu",
+  "cover_hint": "Reuse the Dairy Queen brand banner / menu hero. Red/blue accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Dairy Queen? (2026)",
+    "meta_description": "Dairy Queen is owned by Berkshire Hathaway, Warren Buffett's company, which bought it in 1998. Here's the full ownership story.",
+    "h1": "Who Owns Dairy Queen?",
+    "primary_keyword": "who owns dairy queen",
+    "keyword_volume": 2900,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Dairy Queen?",
+
+  "quick_answer": "Dairy Queen is owned by Berkshire Hathaway, the holding company led by Warren Buffett, which acquired it in 1998. That makes Dairy Queen part of the same company that owns a wide range of businesses and investments. Dairy Queen was founded in 1940 and is known for its soft serve and Blizzard treats.",
+
+  "key_facts": [
+    "Owner: Berkshire Hathaway (Warren Buffett's company), since 1998",
+    "Operates as International Dairy Queen",
+    "Founded: 1940, first store in Joliet, Illinois",
+    "Known for soft serve and the Blizzard",
+    "Mostly franchised"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Dairy Queen?",
+      "text": "Dairy Queen is owned by Berkshire Hathaway, the large holding company run by Warren Buffett. Berkshire acquired Dairy Queen's parent, International Dairy Queen, in 1998. So while Dairy Queen operates as its own brand, its ultimate owner is Buffett's company."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Dairy Queen traces back to 1940, when the first store opened in Joliet, Illinois, built around a soft-serve recipe. It grew into a large chain known for soft serve, sundaes and later the Blizzard, with most locations run by franchisees."
+    },
+    {
+      "heading": "Part of Berkshire Hathaway",
+      "text": "Being owned by Berkshire Hathaway places Dairy Queen alongside many other businesses in Buffett's portfolio. Day to day, Dairy Queen runs as its own company and brand, with Berkshire as the parent owner rather than a hands-on operator."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Does Warren Buffett own Dairy Queen?", "a": "Through his company, yes. Dairy Queen is owned by Berkshire Hathaway, the holding company led by Warren Buffett, which bought it in 1998." },
+    { "q": "Is Dairy Queen publicly traded on its own?", "a": "No. Dairy Queen is owned by Berkshire Hathaway. You cannot buy Dairy Queen stock directly, only shares of its parent, Berkshire Hathaway." },
+    { "q": "When was Dairy Queen founded?", "a": "Dairy Queen's first store opened in 1940 in Joliet, Illinois." }
+  ],
+
+  "internal_links": [
+    { "label": "Dairy Queen Menu With Prices", "slug": "dairy-queen-menu" },
+    { "label": "What Is a Dairy Queen Blizzard?", "slug": "what-is-a-dairy-queen-blizzard" },
+    { "label": "Baskin-Robbins Menu With Prices", "slug": "baskin-robbins-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Dairy Queen owned by Berkshire Hathaway (acquired International Dairy Queen 1998); founded 1940 Joliet IL; mostly franchised. Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable; clarifies you can only buy Berkshire stock, not DQ directly.",
+    "keyword_notes": "Volume ~2.9k. Paired with the Blizzard guide and the Dairy Queen menu page."
+  }
+}

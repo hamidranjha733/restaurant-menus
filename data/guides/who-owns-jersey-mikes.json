@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-jersey-mikes",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Jersey Mike's",
+  "brand_slug": "jersey-mikes-menu",
+  "cover_hint": "Reuse the Jersey Mike's brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Jersey Mike's? (2026)",
+    "meta_description": "Jersey Mike's is majority-owned by Blackstone after a 2025 deal, with founder Peter Cancro staying on as CEO. Here's the ownership story.",
+    "h1": "Who Owns Jersey Mike's?",
+    "primary_keyword": "who owns jersey mikes",
+    "keyword_volume": 2400,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Jersey Mike's?",
+
+  "quick_answer": "Jersey Mike's is now majority-owned by Blackstone, a large investment firm, which took a majority position in a deal reported at around $8 billion that completed in 2025. Founder Peter Cancro stays involved and continues to lead the company as CEO. Jersey Mike's traces back to 1956 in Point Pleasant, New Jersey.",
+
+  "key_facts": [
+    "Majority owner: Blackstone (deal completed in 2025)",
+    "Reported value around $8 billion",
+    "Founder Peter Cancro remains CEO and keeps a stake",
+    "Roots date to 1956 in Point Pleasant, New Jersey",
+    "Cancro bought the original shop in 1975 at age 17"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Jersey Mike's now?",
+      "text": "Jersey Mike's is majority-owned by the investment firm Blackstone. Blackstone agreed in late 2024 to take a majority ownership position in a deal reported at roughly $8 billion, and the acquisition completed in 2025. Founder Peter Cancro kept a significant stake and continues to run the company as CEO."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Jersey Mike's goes back to 1956, when the original sub shop opened in Point Pleasant, New Jersey. Peter Cancro started working there as a teenager and bought the shop in 1975 at just 17. He grew it into a nationwide franchise known for sandwiches made 'Mike's Way'."
+    },
+    {
+      "heading": "What Blackstone ownership means",
+      "text": "Blackstone's majority stake is aimed at funding Jersey Mike's continued growth. With Cancro staying on as CEO, the brand keeps its leadership and identity while gaining the backing of a major investment firm. Most Jersey Mike's locations are run by franchisees."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Did Jersey Mike's get sold?", "a": "Yes. Blackstone took a majority ownership position in Jersey Mike's in a deal reported at about $8 billion that completed in 2025. Founder Peter Cancro stayed on as CEO with a continued stake." },
+    { "q": "Who founded Jersey Mike's?", "a": "The original shop opened in 1956 in Point Pleasant, New Jersey. Peter Cancro bought it in 1975 at age 17 and built it into the national chain." },
+    { "q": "Is Jersey Mike's publicly traded?", "a": "No. Jersey Mike's is privately held, now majority-owned by Blackstone. It does not trade on a stock exchange." }
+  ],
+
+  "internal_links": [
+    { "label": "Jersey Mike's Menu With Prices", "slug": "jersey-mikes-menu" },
+    { "label": "What Does 'Mike's Way' Mean?", "slug": "what-is-mikes-way" },
+    { "label": "Subway Menu With Prices", "slug": "subway-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Blackstone acquired majority ownership of Jersey Mike's (~$8B), announced Nov 2024, completed 2025; founder Peter Cancro stays CEO with a stake; roots 1956 Point Pleasant NJ, Cancro bought shop 1975 at 17 (Virginia Business 'Blackstone completes' / ABC News / Restaurant Dive). Verified via web Nov 2026.",
+    "accuracy": "TIME-SENSITIVE recent deal; verified as completed 2025 and worded as 'majority stake, founder stays CEO' rather than a full takeover. Re-verify if ownership structure changes.",
+    "keyword_notes": "Volume ~2.4k, high interest due to the recent Blackstone deal. Paired with the Mike's Way guide and the Jersey Mike's menu page."
+  }
+}

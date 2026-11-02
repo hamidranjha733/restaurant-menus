@@ -1,0 +1,64 @@
+{
+  "slug": "what-is-a-dairy-queen-blizzard",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Dairy Queen",
+  "brand_slug": "dairy-queen-menu",
+  "cover_hint": "Reuse the Dairy Queen brand banner / menu hero. Red/blue accent. Blizzard cup close-up if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "What Is a Dairy Queen Blizzard?",
+    "meta_description": "A Blizzard is Dairy Queen's thick soft-serve treat blended with mix-ins, famously served upside down. Here's what it is and why they flip it.",
+    "h1": "What Is a Dairy Queen Blizzard?",
+    "primary_keyword": "what is a blizzard dairy queen",
+    "keyword_volume": 1900,
+    "keyword_kd": 1
+  },
+
+  "question": "What Is a Dairy Queen Blizzard?",
+
+  "quick_answer": "A Blizzard is Dairy Queen's signature frozen treat: thick soft-serve blended with mix-ins like cookies, candy, fruit or brownie pieces. It is famously so thick that staff serve it by flipping the cup upside down to show it will not fall out. Popular versions include the Oreo and Reese's Blizzards, plus rotating seasonal flavors.",
+
+  "key_facts": [
+    "Thick soft serve blended with mix-ins (candy, cookies, fruit, etc.)",
+    "Served upside down to show how thick it is",
+    "Launched in 1985 and became a Dairy Queen signature",
+    "Popular flavors include Oreo and Reese's",
+    "Rotating seasonal and limited-time flavors"
+  ],
+
+  "body": [
+    {
+      "heading": "What a Blizzard is",
+      "text": "A Blizzard is Dairy Queen's blended soft-serve dessert. The crew takes thick soft serve and mixes in your choice of candy, cookies, brownie, fruit or other add-ins to create a dense, spoonable treat. It is one of the most recognizable items on the Dairy Queen menu."
+    },
+    {
+      "heading": "Why it is served upside down",
+      "text": "Dairy Queen is known for flipping the Blizzard upside down when handing it over. The point is to show that it is so thick the treat stays put and will not fall out of the cup. It became a signature move and even a kind of guarantee of thickness."
+    },
+    {
+      "heading": "Flavors and history",
+      "text": "The Blizzard launched in 1985 and quickly became a Dairy Queen staple. Classic options include the Oreo Cookie and Reese's Peanut Butter Cup Blizzards, and Dairy Queen regularly adds seasonal and limited-time flavors, such as holiday and fall specials. Check the Dairy Queen menu page for current Blizzard options."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Why does Dairy Queen flip the Blizzard upside down?", "a": "To show that it is thick enough to stay in the cup without falling out. It is a signature move that demonstrates the Blizzard's thickness." },
+    { "q": "What is in a Blizzard?", "a": "Thick soft serve blended with mix-ins like cookies, candy, brownie pieces or fruit. Popular versions include Oreo and Reese's." },
+    { "q": "When did the Blizzard come out?", "a": "Dairy Queen launched the Blizzard in 1985, and it became one of the brand's signature treats." }
+  ],
+
+  "internal_links": [
+    { "label": "Dairy Queen Menu With Prices", "slug": "dairy-queen-menu" },
+    { "label": "Who Owns Dairy Queen?", "slug": "who-owns-dairy-queen" },
+    { "label": "Baskin-Robbins Menu With Prices", "slug": "baskin-robbins-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "DQ Blizzard = thick soft serve blended with mix-ins, served upside down to show thickness; launched 1985; Oreo/Reese's + seasonal flavors. Consistent with the Dairy Queen menu page.",
+    "accuracy": "Descriptive; not time-sensitive.",
+    "keyword_notes": "Volume ~1.9k + strong 'why upside down' PAA. Paired with the ownership guide and the Dairy Queen menu page."
+  }
+}

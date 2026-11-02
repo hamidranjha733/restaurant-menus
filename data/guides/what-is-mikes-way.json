@@ -1,0 +1,64 @@
+{
+  "slug": "what-is-mikes-way",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Jersey Mike's",
+  "brand_slug": "jersey-mikes-menu",
+  "cover_hint": "Reuse the Jersey Mike's brand banner / menu hero. Sub sandwich close-up if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "What Does 'Mike's Way' Mean at Jersey Mike's?",
+    "meta_description": "'Mike's Way' is Jersey Mike's classic topping combo: onions, lettuce, tomatoes, oil, vinegar and spices. Here's what it includes and how to order.",
+    "h1": "What Does 'Mike's Way' Mean?",
+    "primary_keyword": "what is mikes way",
+    "keyword_volume": 2900,
+    "keyword_kd": 1
+  },
+
+  "question": "What Does 'Mike's Way' Mean?",
+
+  "quick_answer": "'Mike's Way' is Jersey Mike's classic way of dressing a sub. It means the sandwich comes with onions, lettuce, tomatoes, a splash of oil and red wine vinegar, and a blend of spices (oregano and salt). It is the signature combination the chain is known for, and you can simply ask for your sub 'Mike's Way' to get all of it.",
+
+  "key_facts": [
+    "A signature topping and dressing combo at Jersey Mike's",
+    "Includes onions, lettuce, tomatoes",
+    "Finished with oil, red wine vinegar and spices",
+    "You can just ask for your sub 'Mike's Way'",
+    "Easy to customize by adding or removing items"
+  ],
+
+  "body": [
+    {
+      "heading": "What 'Mike's Way' includes",
+      "text": "When you order a sub 'Mike's Way', it comes topped with onions, lettuce and tomatoes, then finished with a splash of olive oil and red wine vinegar and a sprinkle of the chain's spice blend, typically oregano and salt. It is the classic Jersey Mike's finish that gives the subs their signature taste."
+    },
+    {
+      "heading": "Why people order it that way",
+      "text": "'Mike's Way' is popular because it is the combination the chain was built around, so it is an easy, reliable way to get a well-balanced sub without choosing every topping yourself. Many regulars simply say 'Mike's Way' and let the crew add the standard mix."
+    },
+    {
+      "heading": "Customizing your sub",
+      "text": "You do not have to take everything. You can order 'Mike's Way' and then adjust, for example asking for no onions or extra vinegar, or skip it entirely and pick your own toppings. It is a starting point rather than a fixed rule, which makes it easy to tweak to taste."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What comes on a sub 'Mike's Way'?", "a": "Onions, lettuce and tomatoes, finished with olive oil, red wine vinegar and a blend of spices (oregano and salt)." },
+    { "q": "Can I customize 'Mike's Way'?", "a": "Yes. You can order it and then adjust, such as no onions or extra vinegar, or skip it and choose your own toppings." },
+    { "q": "Do I have to order 'Mike's Way'?", "a": "No. It is the classic default combination, but you can build your sub however you like." }
+  ],
+
+  "internal_links": [
+    { "label": "Jersey Mike's Menu With Prices", "slug": "jersey-mikes-menu" },
+    { "label": "Who Owns Jersey Mike's?", "slug": "who-owns-jersey-mikes" },
+    { "label": "Subway Menu With Prices", "slug": "subway-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "'Mike's Way' = onions, lettuce, tomatoes, olive oil, red wine vinegar, spices (oregano/salt); Jersey Mike's signature dressing; customizable. Consistent with the Jersey Mike's menu page.",
+    "accuracy": "Descriptive; not time-sensitive.",
+    "keyword_notes": "Volume ~2.9k + PAA. Paired with the ownership guide and the Jersey Mike's menu page."
+  }
+}

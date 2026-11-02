@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-jack-in-the-box",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Jack in the Box",
+  "brand_slug": "jack-in-the-box-menu",
+  "cover_hint": "Reuse the Jack in the Box brand banner / menu hero. Red accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Jack in the Box? (2026)",
+    "meta_description": "Jack in the Box is a publicly traded company (NASDAQ: JACK), owned by its shareholders. Here's the full ownership story.",
+    "h1": "Who Owns Jack in the Box?",
+    "primary_keyword": "who owns jack in the box",
+    "keyword_volume": 1600,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Jack in the Box?",
+
+  "quick_answer": "Jack in the Box is an independent, publicly traded company listed on the NASDAQ under the ticker JACK, so it is owned by its shareholders rather than a parent company. It was founded in 1951 by Robert O. Peterson in San Diego, California. The company also owned Qdoba for a time before selling it.",
+
+  "key_facts": [
+    "Publicly traded on the NASDAQ under ticker JACK",
+    "Owned by its shareholders",
+    "Founded: 1951, San Diego, California",
+    "Founder: Robert O. Peterson",
+    "Once owned Qdoba, which it later sold"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Jack in the Box?",
+      "text": "Jack in the Box is a public company, owned collectively by its shareholders. It trades on the NASDAQ stock exchange under the ticker JACK and is run by its own management and board, not owned by a larger restaurant conglomerate."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Jack in the Box was founded in 1951 by Robert O. Peterson in San Diego, California. It was an early pioneer of drive-thru fast food, using an intercom and a clown mascot, and grew mainly across the western and southern US."
+    },
+    {
+      "heading": "Other brands",
+      "text": "For a number of years Jack in the Box also owned the Mexican fast-casual chain Qdoba, which it later sold. Today it operates as its own public company, focused on the Jack in the Box brand and its acquisitions over time."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Jack in the Box publicly traded?", "a": "Yes. Jack in the Box trades on the NASDAQ under the ticker JACK, so it is owned by its shareholders." },
+    { "q": "Who founded Jack in the Box?", "a": "Jack in the Box was founded in 1951 by Robert O. Peterson in San Diego, California." },
+    { "q": "Did Jack in the Box own Qdoba?", "a": "Yes, for a number of years. Jack in the Box owned Qdoba before later selling the chain." }
+  ],
+
+  "internal_links": [
+    { "label": "Jack in the Box Menu With Prices", "slug": "jack-in-the-box-menu" },
+    { "label": "Who Owns Sonic Drive-In?", "slug": "who-owns-sonic" },
+    { "label": "Carl's Jr. Menu With Prices", "slug": "carls-jr-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Jack in the Box independent, public (NASDAQ: JACK); founded 1951 San Diego by Robert O. Peterson; formerly owned Qdoba (later sold). Verified via web Nov 2026.",
+    "accuracy": "Verified and stable; Qdoba framed as 'later sold' without a specific disputed date.",
+    "keyword_notes": "Volume ~1.6k. Cross-links to other West-Coast fast-food menu pages."
+  }
+}
