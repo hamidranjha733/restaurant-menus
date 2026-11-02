@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-raising-canes",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Raising Cane's",
+  "brand_slug": "raising-canes-menu",
+  "cover_hint": "Reuse the Raising Cane's brand banner / menu hero. Yellow/red accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Raising Cane's? (2026)",
+    "meta_description": "Raising Cane's is owned by founder Todd Graves, who started it in 1996. It is privately held. Here's the full ownership story.",
+    "h1": "Who Owns Raising Cane's?",
+    "primary_keyword": "who owns raising canes",
+    "keyword_volume": 4400,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Raising Cane's?",
+
+  "quick_answer": "Raising Cane's is owned by its founder, Todd Graves, who started the chain in 1996 in Baton Rouge, Louisiana. He remains the majority owner and co-CEO, and the company is privately held, so it does not trade on a stock exchange. The brand is named after Graves's dog, Raising Cane.",
+
+  "key_facts": [
+    "Founded: 1996, Baton Rouge, Louisiana",
+    "Founder and majority owner: Todd Graves",
+    "Privately held, not publicly traded",
+    "Named after Graves's dog, 'Raising Cane'",
+    "Known for serving only chicken finger meals"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Raising Cane's?",
+      "text": "Raising Cane's is owned by Todd Graves, who founded it and is still the majority owner and co-CEO. The company has stayed privately held rather than going public, so there is no Raising Cane's stock to buy. Graves's large ownership stake has made him one of the wealthiest restaurant founders in the US."
+    },
+    {
+      "heading": "How it started",
+      "text": "Graves opened the first Raising Cane's in 1996 near the Louisiana State University campus in Baton Rouge. The idea came from a college business plan built around one focused product: quality chicken finger meals. The restaurant is named after his dog, Raising Cane."
+    },
+    {
+      "heading": "Still founder-led",
+      "text": "Unlike many big chains that sold to investment firms, Raising Cane's has remained founder-led. Graves continues to shape the brand, and keeping it private has let the company grow on its own terms while sticking to its simple, chicken-only menu."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Raising Cane's publicly traded?", "a": "No. Raising Cane's is privately held and owned mainly by founder Todd Graves, so you cannot buy shares in it." },
+    { "q": "Who founded Raising Cane's?", "a": "Todd Graves founded Raising Cane's in 1996 in Baton Rouge, Louisiana, and still owns and co-leads the company." },
+    { "q": "Why is it called Raising Cane's?", "a": "The chain is named after founder Todd Graves's dog, Raising Cane." }
+  ],
+
+  "internal_links": [
+    { "label": "Raising Cane's Menu With Prices", "slug": "raising-canes-menu" },
+    { "label": "Why Does Raising Cane's Only Sell Chicken Fingers?", "slug": "why-raising-canes-only-chicken-fingers" },
+    { "label": "Chick-fil-A Menu With Prices", "slug": "chick-fil-a-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Raising Cane's owned by founder Todd Graves (majority owner, co-CEO); privately held; founded 1996 Baton Rouge LA near LSU; named after his dog 'Raising Cane' (Bloomberg / QSR). Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable. Net worth figures deliberately omitted (finance detail, and they go stale).",
+    "keyword_notes": "Volume ~4.4k. Paired with the chicken-fingers guide and the Raising Cane's menu page."
+  }
+}

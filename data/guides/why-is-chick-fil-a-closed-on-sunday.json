@@ -1,0 +1,63 @@
+{
+  "slug": "why-is-chick-fil-a-closed-on-sunday",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Chick-fil-A",
+  "brand_slug": "chick-fil-a-menu",
+  "cover_hint": "Reuse the Chick-fil-A brand banner / menu hero. Red accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Why Is Chick-fil-A Closed on Sunday?",
+    "meta_description": "Chick-fil-A closes every Sunday because founder Truett Cathy set it as a day of rest for staff. Here's the story and whether it ever opens.",
+    "h1": "Why Is Chick-fil-A Closed on Sunday?",
+    "primary_keyword": "why is chick fil a closed on sunday",
+    "keyword_volume": 8100,
+    "keyword_kd": 2
+  },
+
+  "question": "Why Is Chick-fil-A Closed on Sunday?",
+
+  "quick_answer": "Chick-fil-A is closed every Sunday because founder S. Truett Cathy set it as a day of rest from the very beginning. He wanted employees to have a guaranteed day off to rest and spend time with family, tied to his own faith, and the company has kept the policy ever since. Almost every Chick-fil-A in the US stays closed on Sundays.",
+
+  "key_facts": [
+    "A policy set by founder S. Truett Cathy from day one in 1967",
+    "Meant to give employees a guaranteed day of rest",
+    "Tied to the founder's Christian faith",
+    "Still company policy today across the US"
+  ],
+
+  "body": [
+    {
+      "heading": "A rule from the founder",
+      "text": "Chick-fil-A has been closed on Sundays since founder S. Truett Cathy opened his first restaurant. He decided early on that his restaurants would not open on Sundays, and that choice became a permanent part of how the company operates."
+    },
+    {
+      "heading": "Rest and faith",
+      "text": "The main reasons are rest and faith. Cathy wanted every employee to have at least one guaranteed day off each week to rest, be with family, and worship if they chose to. The decision was rooted in his own Christian beliefs, and the company has described it as a way of valuing people over extra sales."
+    },
+    {
+      "heading": "Does it ever open on Sunday?",
+      "text": "As a rule, no. The vast majority of Chick-fil-A locations stay closed every Sunday. There are a small number of unusual exceptions, such as certain locations inside airports or stadiums that are operated differently, but the standard across the chain is closed on Sundays."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is every Chick-fil-A closed on Sunday?", "a": "Almost all of them. The standard company policy is to close on Sundays. A few unusual locations, such as some in airports or stadiums, can differ, but the normal rule is closed." },
+    { "q": "Who decided Chick-fil-A would close on Sundays?", "a": "Founder S. Truett Cathy made the decision from the start, so employees would have a guaranteed day of rest. It was tied to his Christian faith." },
+    { "q": "Does Chick-fil-A lose money by closing on Sundays?", "a": "It gives up a day of potential sales, but the company has kept the policy for decades, saying the day of rest for staff matters more than the extra revenue." }
+  ],
+
+  "internal_links": [
+    { "label": "Chick-fil-A Menu With Prices", "slug": "chick-fil-a-menu" },
+    { "label": "Who Owns Chick-fil-A?", "slug": "who-owns-chick-fil-a" },
+    { "label": "Popeyes Menu With Prices", "slug": "popeyes-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Chick-fil-A closed Sundays since 1967 by founder S. Truett Cathy; day of rest for employees, tied to his Christian faith; rare airport/stadium exceptions. Verified via web Nov 2026.",
+    "accuracy": "Descriptive, well-established; religion mentioned factually as the founder's own stated reason, not as commentary.",
+    "keyword_notes": "Volume ~8.1k, very high-interest PAA question. Paired with the ownership guide and the Chick-fil-A menu page."
+  }
+}

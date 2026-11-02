@@ -1,0 +1,63 @@
+{
+  "slug": "why-raising-canes-only-chicken-fingers",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Raising Cane's",
+  "brand_slug": "raising-canes-menu",
+  "cover_hint": "Reuse the Raising Cane's brand banner / menu hero. Yellow/red accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Why Does Raising Cane's Only Sell Chicken Fingers?",
+    "meta_description": "Raising Cane's only sells chicken finger meals on purpose, to do one thing really well. Here's the story behind the menu.",
+    "h1": "Why Does Raising Cane's Only Sell Chicken Fingers?",
+    "primary_keyword": "why does raising canes only sell chicken fingers",
+    "keyword_volume": 1300,
+    "keyword_kd": 1
+  },
+
+  "question": "Why Does Raising Cane's Only Sell Chicken Fingers?",
+
+  "quick_answer": "Raising Cane's only sells chicken finger meals on purpose. Founder Todd Graves built the whole concept around doing one thing really well, so the menu stays tiny: chicken fingers, fries, Texas toast, coleslaw, the Cane's Sauce and drinks. Keeping it simple lets the kitchen focus on quality and speed instead of a huge menu.",
+
+  "key_facts": [
+    "The single-focus menu was the founder's original idea",
+    "Core menu: chicken fingers, fries, Texas toast, coleslaw, Cane's Sauce, drinks",
+    "A simple menu means fresher, faster, more consistent food",
+    "The company sums it up as doing 'One Love' well"
+  ],
+
+  "body": [
+    {
+      "heading": "It was the plan from the start",
+      "text": "The chicken-only menu is not an accident. When Todd Graves wrote the original business plan, the whole idea was a restaurant that served just quality chicken finger meals. That focus became the identity of the brand rather than something it grew into later."
+    },
+    {
+      "heading": "Doing one thing well",
+      "text": "By serving only chicken fingers and a few sides, Raising Cane's keeps its kitchen simple. Staff get very good at one product, orders move fast, and the quality stays consistent from visit to visit. The company often describes this single focus as its 'One Love': craveable chicken finger meals."
+    },
+    {
+      "heading": "What you can actually order",
+      "text": "The menu is short by design. You get chicken fingers in combos or by the box, crinkle-cut fries, Texas toast, coleslaw, the signature Cane's Sauce, and drinks including the sweet tea the chain is known for. You will not find burgers, wings or a big side menu here, and that is the point."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Does Raising Cane's sell anything other than chicken fingers?", "a": "Only a few sides. The menu is chicken fingers plus fries, Texas toast, coleslaw, Cane's Sauce and drinks. There are no burgers, wings or large side menu." },
+    { "q": "Why is the Raising Cane's menu so small?", "a": "It is intentional. Founder Todd Graves built the brand around doing one thing, chicken finger meals, really well, which keeps the food fast, fresh and consistent." },
+    { "q": "What is Cane's Sauce?", "a": "Cane's Sauce is the chain's signature dipping sauce served with the chicken fingers. The exact recipe is kept secret." }
+  ],
+
+  "internal_links": [
+    { "label": "Raising Cane's Menu With Prices", "slug": "raising-canes-menu" },
+    { "label": "Who Owns Raising Cane's?", "slug": "who-owns-raising-canes" },
+    { "label": "Chick-fil-A Menu With Prices", "slug": "chick-fil-a-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Raising Cane's single-focus chicken-finger menu by design from founder Todd Graves's original business plan; core menu fingers/fries/Texas toast/coleslaw/Cane's Sauce/drinks; 'One Love' positioning. Consistent with the Raising Cane's menu page.",
+    "accuracy": "Descriptive brand/menu history; not time-sensitive.",
+    "keyword_notes": "Volume ~1.3k curiosity question + PAA. Paired with the ownership guide and the Raising Cane's menu page."
+  }
+}

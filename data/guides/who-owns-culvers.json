@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-culvers",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Culver's",
+  "brand_slug": "culvers-menu",
+  "cover_hint": "Reuse the Culver's brand banner / menu hero. Blue accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Culver's? (2026)",
+    "meta_description": "Culver's is still family-founded and led, with investment firm Roark Capital holding a minority stake. Here's the full ownership story.",
+    "h1": "Who Owns Culver's?",
+    "primary_keyword": "who owns culvers",
+    "keyword_volume": 3600,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Culver's?",
+
+  "quick_answer": "Culver's was founded and built by the Culver family, and it is still family-led today. In recent years the company sold a minority stake to Roark Capital, an Atlanta-based investment firm, but that is a minority interest rather than a full buyout, so Culver's remains founder-rooted. It started in 1984 in Sauk City, Wisconsin.",
+
+  "key_facts": [
+    "Founded: 1984, Sauk City, Wisconsin",
+    "Founded by Craig and Lea Culver with Craig's parents",
+    "Still family-led",
+    "Roark Capital holds a minority stake",
+    "Known for ButterBurgers and fresh frozen custard"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Culver's?",
+      "text": "Culver's grew from a family business and remains family-led. The founding Culver family built the company from a single Wisconsin restaurant into a large Midwestern chain. More recently, the investment firm Roark Capital bought a minority stake in Culver's, but because it is a minority interest the brand stays rooted in its founding family rather than being fully owned by outside investors."
+    },
+    {
+      "heading": "How it started",
+      "text": "Culver's opened in 1984 in Sauk City, Wisconsin, started by Craig and Lea Culver together with Craig's parents, George and Ruth. The family's hospitality background shaped the brand, which became known for friendly service, ButterBurgers and fresh frozen custard."
+    },
+    {
+      "heading": "What the Roark stake means",
+      "text": "Roark Capital is well known for investing in restaurant and franchise brands. Its minority stake gives Culver's investment backing to keep growing, while day-to-day leadership and the family identity stay in place. In short, Culver's is family-led with a minority investor, not a chain that was sold off."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Culver's still family owned?", "a": "Yes, it is still family-led. The founding Culver family built and runs the brand, with investment firm Roark Capital holding only a minority stake." },
+    { "q": "Did Culver's sell to Roark Capital?", "a": "Culver's sold Roark Capital a minority interest, not the whole company. It remains founder-rooted and family-led." },
+    { "q": "Where did Culver's start?", "a": "Culver's started in 1984 in Sauk City, Wisconsin, founded by Craig and Lea Culver with Craig's parents." }
+  ],
+
+  "internal_links": [
+    { "label": "Culver's Menu With Prices", "slug": "culvers-menu" },
+    { "label": "What Is a Culver's ButterBurger?", "slug": "what-is-a-culvers-butterburger" },
+    { "label": "In-N-Out Menu With Prices", "slug": "in-n-out-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Culver's founded 1984 Sauk City WI by Craig & Lea Culver with parents George & Ruth; family-led; Roark Capital acquired a MINORITY stake (NRN / Restaurant Business / QSR). Verified via web Nov 2026 - confirmed minority, not full acquisition.",
+    "accuracy": "Ownership verified; carefully worded as 'minority stake, still family-led' to avoid the common error of calling it a full Roark buyout.",
+    "keyword_notes": "Volume ~3.6k. Paired with a ButterBurger guide and the Culver's menu page."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-chick-fil-a",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Chick-fil-A",
+  "brand_slug": "chick-fil-a-menu",
+  "cover_hint": "Reuse the Chick-fil-A brand banner / menu hero. Red accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Chick-fil-A? (2026)",
+    "meta_description": "Chick-fil-A is privately owned by the Cathy family, who founded it in 1967. It has never gone public. Here's the full ownership story.",
+    "h1": "Who Owns Chick-fil-A?",
+    "primary_keyword": "who owns chick fil a",
+    "keyword_volume": 5400,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Chick-fil-A?",
+
+  "quick_answer": "Chick-fil-A is privately owned by the Cathy family. It was founded in 1967 by S. Truett Cathy in Hapeville, Georgia, and the family has kept it private ever since, so it does not trade on any stock exchange. Leadership has stayed within the family, with Truett's son Dan Cathy serving as chairman.",
+
+  "key_facts": [
+    "Founded: 1967, Hapeville, Georgia",
+    "Founder: S. Truett Cathy",
+    "Privately owned by the Cathy family",
+    "Not publicly traded",
+    "Most locations are run by independent operators"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Chick-fil-A?",
+      "text": "Chick-fil-A is owned by the Cathy family, who have kept the company private since it was founded. There are no outside shareholders and the chain has never had an IPO, so you cannot buy stock in Chick-fil-A. Control and leadership have stayed within the family across generations."
+    },
+    {
+      "heading": "The founder and the roots",
+      "text": "S. Truett Cathy opened the first Chick-fil-A restaurant in 1967 in Hapeville, Georgia, after years running a small diner called the Dwarf Grill. He is credited with inventing the original chicken sandwich concept the brand is built on. After his passing, the family continued to lead the company, with his son Dan Cathy as chairman."
+    },
+    {
+      "heading": "How the restaurants are run",
+      "text": "While the Cathy family owns the company, most Chick-fil-A restaurants are run by independent operators who are selected and licensed by the company. That model keeps the brand family-controlled at the top while local operators run day-to-day service."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Chick-fil-A publicly traded?", "a": "No. Chick-fil-A is privately owned by the Cathy family and has never gone public, so you cannot buy shares in it." },
+    { "q": "Who founded Chick-fil-A?", "a": "Chick-fil-A was founded by S. Truett Cathy, who opened the first restaurant in 1967 in Hapeville, Georgia." },
+    { "q": "Is Chick-fil-A still family owned?", "a": "Yes. The Cathy family still owns and leads Chick-fil-A, keeping it private rather than selling to outside investors." }
+  ],
+
+  "internal_links": [
+    { "label": "Chick-fil-A Menu With Prices", "slug": "chick-fil-a-menu" },
+    { "label": "Why Is Chick-fil-A Closed on Sunday?", "slug": "why-is-chick-fil-a-closed-on-sunday" },
+    { "label": "Popeyes Menu With Prices", "slug": "popeyes-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Chick-fil-A privately owned by the Cathy family; founded 1967 Hapeville GA by S. Truett Cathy; never public; Dan Cathy chairman; franchised via independent operators. Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable.",
+    "keyword_notes": "Volume ~5.4k. Paired with the Sunday-closure guide and the Chick-fil-A menu page."
+  }
+}
