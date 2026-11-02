@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-burger-king",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Burger King",
+  "brand_slug": "burger-king-menu",
+  "cover_hint": "Reuse the Burger King brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Burger King? (2026)",
+    "meta_description": "Burger King is owned by Restaurant Brands International, the same parent as Tim Hortons and Popeyes. Here's the full ownership story.",
+    "h1": "Who Owns Burger King?",
+    "primary_keyword": "who owns burger king",
+    "keyword_volume": 3600,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Burger King?",
+
+  "quick_answer": "Burger King is owned by Restaurant Brands International (RBI), a publicly traded company that is also the parent of Tim Hortons, Popeyes and Firehouse Subs. RBI was formed in 2014 when Burger King merged with Tim Hortons. Burger King itself was founded in 1954 in Miami, Florida.",
+
+  "key_facts": [
+    "Owner: Restaurant Brands International (RBI)",
+    "RBI was formed in 2014 (Burger King + Tim Hortons merger)",
+    "Sister brands: Tim Hortons, Popeyes, Firehouse Subs",
+    "Founded: 1954, Miami, Florida",
+    "Known for the flame-grilled Whopper"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Burger King?",
+      "text": "Burger King is part of Restaurant Brands International, usually called RBI, one of the largest restaurant companies in the world. RBI is publicly traded and also owns Tim Hortons, Popeyes and Firehouse Subs, so Burger King shares a parent with those brands."
+    },
+    {
+      "heading": "How RBI was formed",
+      "text": "RBI was created in 2014 when Burger King merged with the Canadian coffee chain Tim Hortons, a deal backed by the investment firm 3G Capital. Popeyes was later added in 2017 and Firehouse Subs in 2021, building RBI into a multi-brand group."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Burger King was founded in 1954 in Miami, Florida, and built its identity around the flame-grilled Whopper. It grew into a global fast-food giant before becoming the anchor brand of RBI."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Burger King owned by the same company as Popeyes?", "a": "Yes. Burger King, Popeyes, Tim Hortons and Firehouse Subs are all owned by Restaurant Brands International (RBI)." },
+    { "q": "When was Restaurant Brands International formed?", "a": "RBI was formed in 2014 when Burger King merged with Tim Hortons, backed by 3G Capital." },
+    { "q": "Where was Burger King founded?", "a": "Burger King was founded in 1954 in Miami, Florida." }
+  ],
+
+  "internal_links": [
+    { "label": "Burger King Menu With Prices", "slug": "burger-king-menu" },
+    { "label": "What Is the Whopper?", "slug": "what-is-the-whopper" },
+    { "label": "Who Owns Popeyes?", "slug": "who-owns-popeyes" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Burger King owned by Restaurant Brands International (RBI); RBI formed 2014 (BK + Tim Hortons, 3G Capital); sister brands Tim Hortons, Popeyes, Firehouse Subs; founded 1954 Miami FL. Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable; consistent with the Popeyes ownership guide (same parent).",
+    "keyword_notes": "Volume ~3.6k. Paired with the Whopper guide and cross-linked to the Popeyes ownership guide."
+  }
+}

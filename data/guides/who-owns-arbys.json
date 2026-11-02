@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-arbys",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Arby's",
+  "brand_slug": "arbys-menu",
+  "cover_hint": "Reuse the Arby's brand banner / menu hero. Red accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Arby's? (2026)",
+    "meta_description": "Arby's is owned by Inspire Brands, the company behind Dunkin', Sonic and Buffalo Wild Wings. Here's the full ownership story.",
+    "h1": "Who Owns Arby's?",
+    "primary_keyword": "who owns arbys",
+    "keyword_volume": 1900,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Arby's?",
+
+  "quick_answer": "Arby's is owned by Inspire Brands, the restaurant company that also owns Dunkin', Baskin-Robbins, Sonic, Buffalo Wild Wings and Jimmy John's. In fact, Arby's was the foundation of Inspire Brands, which was created in 2018. Arby's was founded in 1964 in Boardman, Ohio, and is known for its roast beef sandwiches.",
+
+  "key_facts": [
+    "Owner: Inspire Brands",
+    "Arby's was the founding brand of Inspire Brands (2018)",
+    "Inspire is backed by Roark Capital",
+    "Sister brands: Dunkin', Baskin-Robbins, Sonic, Buffalo Wild Wings, Jimmy John's",
+    "Founded: 1964, Boardman, Ohio"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Arby's?",
+      "text": "Arby's is owned by Inspire Brands. Arby's was actually the starting point for Inspire: the company was formed in 2018 as Arby's parent expanded by acquiring other chains. Today Inspire also owns Dunkin', Baskin-Robbins, Sonic, Buffalo Wild Wings and Jimmy John's, and it is backed by the private equity firm Roark Capital."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Arby's was founded in 1964 in Boardman, Ohio, by the Raffel brothers. It built its identity around roast beef sandwiches and later a wider menu of meats, becoming one of the best-known sandwich chains in the US before anchoring the Inspire Brands group."
+    },
+    {
+      "heading": "Part of a bigger group",
+      "text": "Because Arby's helped create Inspire Brands, it sits at the heart of a large multi-brand company. Arby's keeps its own menu and 'meats' identity, while Inspire runs the broader portfolio."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Arby's owned by the same company as Dunkin'?", "a": "Yes. Arby's and Dunkin' are both owned by Inspire Brands, along with Baskin-Robbins, Sonic, Buffalo Wild Wings and Jimmy John's." },
+    { "q": "Did Arby's create Inspire Brands?", "a": "Essentially yes. Inspire Brands was formed in 2018 out of Arby's parent company as it acquired more chains." },
+    { "q": "Where was Arby's founded?", "a": "Arby's was founded in 1964 in Boardman, Ohio, by the Raffel brothers." }
+  ],
+
+  "internal_links": [
+    { "label": "Arby's Menu With Prices", "slug": "arbys-menu" },
+    { "label": "What Meat Is in Arby's Roast Beef?", "slug": "arbys-roast-beef-meat" },
+    { "label": "Who Owns Dunkin'?", "slug": "who-owns-dunkin" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Arby's owned by Inspire Brands (formed 2018 from Arby's parent); Inspire backed by Roark Capital; sister brands Dunkin', Baskin-Robbins, Sonic, Buffalo Wild Wings, Jimmy John's; founded 1964 Boardman OH by Raffel brothers. Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable; consistent with the Dunkin'/Jimmy John's ownership guides.",
+    "keyword_notes": "Volume ~1.9k. Paired with the roast-beef guide and cross-linked to the Dunkin' ownership guide."
+  }
+}

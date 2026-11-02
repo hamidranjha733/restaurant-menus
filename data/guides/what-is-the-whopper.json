@@ -1,0 +1,63 @@
+{
+  "slug": "what-is-the-whopper",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Burger King",
+  "brand_slug": "burger-king-menu",
+  "cover_hint": "Reuse the Burger King brand banner / menu hero. Whopper close-up if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "What Is the Whopper at Burger King?",
+    "meta_description": "The Whopper is Burger King's signature flame-grilled beef burger with veggies and mayo on a sesame bun. Here's what's on it and its variations.",
+    "h1": "What Is the Whopper?",
+    "primary_keyword": "what is the whopper",
+    "keyword_volume": 2900,
+    "keyword_kd": 1
+  },
+
+  "question": "What Is the Whopper?",
+
+  "quick_answer": "The Whopper is Burger King's signature burger: a flame-grilled beef patty topped with tomatoes, lettuce, mayo, ketchup, pickles and sliced onions on a soft sesame seed bun. It has been the brand's flagship sandwich since 1957, and the flame-grilling is a big part of what sets it apart from fried fast-food burgers.",
+
+  "key_facts": [
+    "Burger King's signature burger since 1957",
+    "A flame-grilled beef patty, not fried",
+    "Topped with tomato, lettuce, mayo, ketchup, pickles and onion on a sesame bun",
+    "Comes in variations like the Double Whopper and Whopper Jr."
+  ],
+
+  "body": [
+    {
+      "heading": "What is on a Whopper",
+      "text": "A classic Whopper is a flame-grilled quarter-pound-style beef patty served on a sesame seed bun with tomatoes, fresh lettuce, mayonnaise, ketchup, crunchy pickles and sliced white onions. It is built to be a big, loaded burger, which is where the name 'Whopper' comes from."
+    },
+    {
+      "heading": "Flame-grilled, not fried",
+      "text": "A key part of the Whopper is that the beef is flame-grilled rather than fried on a flat top. Burger King has long used flame-grilling as a selling point, giving the patty a slightly charred, cooked-over-fire flavor that the brand highlights in its advertising."
+    },
+    {
+      "heading": "Whopper variations",
+      "text": "Beyond the classic, there are several versions: the Double Whopper and Triple Whopper with extra patties, the smaller Whopper Jr., and limited-time or specialty Whoppers. You can also customize toppings. Check the Burger King menu page for the current Whopper lineup and pricing."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What comes on a Whopper?", "a": "A flame-grilled beef patty with tomato, lettuce, mayo, ketchup, pickles and sliced onion on a sesame seed bun." },
+    { "q": "Is the Whopper flame-grilled?", "a": "Yes. The Whopper's beef is flame-grilled rather than fried, which is a signature part of Burger King's burgers." },
+    { "q": "What are the different Whopper sizes?", "a": "There is the classic Whopper, the Double and Triple Whopper with more patties, and the smaller Whopper Jr., plus occasional specialty versions." }
+  ],
+
+  "internal_links": [
+    { "label": "Burger King Menu With Prices", "slug": "burger-king-menu" },
+    { "label": "Who Owns Burger King?", "slug": "who-owns-burger-king" },
+    { "label": "McDonald's Menu With Prices", "slug": "mcdonalds-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Whopper = BK signature flame-grilled beef burger since 1957; tomato, lettuce, mayo, ketchup, pickles, onion, sesame bun; Double/Triple/Jr variations. Consistent with the Burger King menu page.",
+    "accuracy": "Descriptive; no specific calorie/price figures invented. Not time-sensitive.",
+    "keyword_notes": "Volume ~2.9k + PAA. Paired with the ownership guide and the Burger King menu page."
+  }
+}

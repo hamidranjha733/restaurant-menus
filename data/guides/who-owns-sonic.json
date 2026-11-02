@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-sonic",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Sonic Drive-In",
+  "brand_slug": "sonic-menu",
+  "cover_hint": "Reuse the Sonic brand banner / menu hero. Blue/yellow accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Sonic Drive-In? (2026)",
+    "meta_description": "Sonic Drive-In is owned by Inspire Brands, which bought it in 2018. Inspire is backed by Roark Capital. Here's the ownership story.",
+    "h1": "Who Owns Sonic Drive-In?",
+    "primary_keyword": "who owns sonic",
+    "keyword_volume": 1600,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Sonic Drive-In?",
+
+  "quick_answer": "Sonic Drive-In is owned by Inspire Brands, the restaurant company that also owns Arby's, Dunkin', Baskin-Robbins, Buffalo Wild Wings and Jimmy John's. Inspire acquired Sonic in 2018. Sonic was founded in 1953 in Shawnee, Oklahoma, and is known for its carhop drive-in service.",
+
+  "key_facts": [
+    "Owner: Inspire Brands (since 2018)",
+    "Inspire is backed by Roark Capital",
+    "Sister brands: Arby's, Dunkin', Baskin-Robbins, Buffalo Wild Wings, Jimmy John's",
+    "Founded: 1953, Shawnee, Oklahoma",
+    "Known for carhop drive-in service and slushes"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Sonic?",
+      "text": "Sonic Drive-In is part of Inspire Brands. Inspire bought Sonic in 2018, adding the drive-in chain to a group that also includes Arby's, Dunkin', Baskin-Robbins, Buffalo Wild Wings and Jimmy John's. Inspire itself is backed by the private equity firm Roark Capital."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Sonic was founded in 1953 in Shawnee, Oklahoma. It grew into a classic American drive-in known for carhops who bring food to your car, a large drink and slush menu, and all-day offerings, before joining the Inspire Brands group."
+    },
+    {
+      "heading": "Part of a bigger group",
+      "text": "Under Inspire Brands, Sonic shares an owner with several major chains. It keeps its own drive-in identity and menu, while Inspire runs the wider portfolio of restaurants."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Sonic owned by the same company as Arby's?", "a": "Yes. Sonic and Arby's are both owned by Inspire Brands, along with Dunkin', Baskin-Robbins, Buffalo Wild Wings and Jimmy John's." },
+    { "q": "When did Inspire Brands buy Sonic?", "a": "Inspire Brands acquired Sonic Drive-In in 2018." },
+    { "q": "Where was Sonic founded?", "a": "Sonic was founded in 1953 in Shawnee, Oklahoma." }
+  ],
+
+  "internal_links": [
+    { "label": "Sonic Menu With Prices", "slug": "sonic-menu" },
+    { "label": "Who Owns Arby's?", "slug": "who-owns-arbys" },
+    { "label": "Who Owns Dunkin'?", "slug": "who-owns-dunkin" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Sonic Drive-In owned by Inspire Brands (acquired 2018); Inspire backed by Roark Capital; sister brands Arby's, Dunkin', Baskin-Robbins, Buffalo Wild Wings, Jimmy John's; founded 1953 Shawnee OK. Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable; consistent with the Arby's/Dunkin' ownership guides.",
+    "keyword_notes": "Volume ~1.6k. Cross-links to the Arby's and Dunkin' ownership guides and the Sonic menu page."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "arbys-roast-beef-meat",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Arby's",
+  "brand_slug": "arbys-menu",
+  "cover_hint": "Reuse the Arby's brand banner / menu hero. Red accent. Roast beef sandwich close-up if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "What Meat Is in Arby's Roast Beef?",
+    "meta_description": "Arby's roast beef is real beef, roasted and thinly sliced in-store. Here's what's actually in it and why myths say otherwise.",
+    "h1": "What Meat Is in Arby's Roast Beef?",
+    "primary_keyword": "what is arbys roast beef made of",
+    "keyword_volume": 2400,
+    "keyword_kd": 1
+  },
+
+  "question": "What Meat Is in Arby's Roast Beef?",
+
+  "quick_answer": "Arby's roast beef is real beef. The company says each sandwich is made from beef that is roasted, then thinly sliced in the restaurant. Despite long-running internet rumors claiming it is some kind of 'liquid' or fake meat, Arby's has stated it uses genuine beef with a small amount of seasoning and binder, cooked for hours before serving.",
+
+  "key_facts": [
+    "Arby's roast beef is real beef, per the company",
+    "It is roasted and then thinly sliced in-store",
+    "Contains beef plus a small amount of seasoning and a binder",
+    "The 'liquid meat' claim is a myth Arby's has denied"
+  ],
+
+  "body": [
+    {
+      "heading": "It is real beef",
+      "text": "Arby's roast beef is made from actual beef. According to the company, the beef is delivered to restaurants, roasted for several hours, and then thinly sliced before being piled onto the sandwich. It is not a mystery meat or an artificial product."
+    },
+    {
+      "heading": "What else is in it",
+      "text": "Alongside the beef, the product includes a small amount of seasoning and a binder to help it hold together and keep its texture and moisture, which is common for sliced roast beef products. The result is the thin, tender roast beef the chain is known for."
+    },
+    {
+      "heading": "The 'liquid meat' myth",
+      "text": "For years an internet rumor claimed Arby's roast beef was some kind of 'liquid' or paste-like meat. Arby's has publicly denied this, explaining that it uses real beef that is roasted and sliced. The myth persists online, but the company's answer is that it is genuine roasted beef."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Arby's roast beef real meat?", "a": "Yes. Arby's says its roast beef is real beef that is roasted and then thinly sliced in the restaurant, with a small amount of seasoning and binder." },
+    { "q": "Is Arby's roast beef 'liquid meat'?", "a": "No. That is a long-running internet myth. Arby's has denied it and says the product is genuine roasted, sliced beef." },
+    { "q": "How is Arby's roast beef cooked?", "a": "The beef is roasted for several hours and then thinly sliced in-store before being served on the sandwich." }
+  ],
+
+  "internal_links": [
+    { "label": "Arby's Menu With Prices", "slug": "arbys-menu" },
+    { "label": "Who Owns Arby's?", "slug": "who-owns-arbys" },
+    { "label": "Subway Menu With Prices", "slug": "subway-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Arby's roast beef = real beef, roasted then thinly sliced in-store, with seasoning + binder; company has denied 'liquid meat' myth. Consistent with the Arby's menu page.",
+    "accuracy": "Factual myth-busting; attributes claims to 'the company says' rather than overstating. Not time-sensitive.",
+    "keyword_notes": "Volume ~2.4k, strong myth-driven PAA ('is Arby's roast beef real'). Paired with the ownership guide and the Arby's menu page."
+  }
+}
