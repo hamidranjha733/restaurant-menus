@@ -1,0 +1,63 @@
+{
+  "slug": "who-owns-bonefish-grill",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Bonefish Grill",
+  "brand_slug": "bonefish-grill-menu",
+  "cover_hint": "Reuse the Bonefish Grill brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Bonefish Grill? (2026)",
+    "meta_description": "Bonefish Grill is owned by Bloomin' Brands, the parent of Outback Steakhouse and Carrabba's. Here's the full ownership story behind the seafood chain.",
+    "h1": "Who Owns Bonefish Grill?",
+    "primary_keyword": "who owns bonefish grill",
+    "keyword_volume": 1900,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Bonefish Grill?",
+
+  "quick_answer": "Bonefish Grill is owned by Bloomin' Brands, Inc. (NASDAQ: BLMN), the same company behind Outback Steakhouse, Carrabba's Italian Grill and Fleming's Prime Steakhouse. Bonefish Grill was founded in 2000 in St. Petersburg, Florida, and became part of the Bloomin' Brands family of restaurants.",
+
+  "key_facts": [
+    "Founded: 2000, St. Petersburg, Florida",
+    "Owner: Bloomin' Brands, Inc. (NASDAQ: BLMN)",
+    "Sister brands: Outback Steakhouse, Carrabba's, Fleming's",
+    "A polished-casual seafood chain known for its wood-grilled fish"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Bonefish Grill?",
+      "text": "Bonefish Grill is part of Bloomin' Brands, Inc., a publicly traded US restaurant company listed on the NASDAQ under the ticker BLMN. Bloomin' Brands is best known for Outback Steakhouse, and it also owns Carrabba's Italian Grill and Fleming's Prime Steakhouse, so Bonefish Grill sits alongside those names under one parent."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Bonefish Grill opened its first restaurant in 2000 in St. Petersburg, Florida. It grew into a polished-casual seafood chain, focusing on wood-grilled fish and a lively bar scene, and expanded across the US as part of the Bloomin' Brands portfolio."
+    },
+    {
+      "heading": "What that means for diners",
+      "text": "Because Bonefish Grill shares a parent with Outback and Carrabba's, you'll sometimes see shared loyalty programs, gift cards and promotions across those brands. The menu, though, stays focused on seafood, with signatures like the Bang Bang Shrimp."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Bonefish Grill owned by Outback?", "a": "They share the same parent. Bonefish Grill and Outback Steakhouse are both owned by Bloomin' Brands, Inc., along with Carrabba's and Fleming's." },
+    { "q": "Is Bonefish Grill publicly traded?", "a": "Bonefish Grill itself is a brand within Bloomin' Brands, Inc., which is publicly traded on the NASDAQ under the ticker BLMN." },
+    { "q": "When was Bonefish Grill founded?", "a": "Bonefish Grill was founded in 2000 in St. Petersburg, Florida." }
+  ],
+
+  "internal_links": [
+    { "label": "Bonefish Grill Menu With Prices", "slug": "bonefish-grill-menu" },
+    { "label": "What Is Bonefish Grill's Bang Bang Shrimp?", "slug": "bonefish-grill-bang-bang-shrimp" },
+    { "label": "Red Lobster Menu With Prices", "slug": "red-lobster-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Bonefish Grill owned by Bloomin' Brands, Inc. (NASDAQ: BLMN); sister brands Outback Steakhouse, Carrabba's, Fleming's. Founded 2000 St. Petersburg FL (Bloomin' Brands corporate / company history). Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable.",
+    "keyword_notes": "Volume ~1.9k. Paired with the Bang Bang Shrimp guide and the Bonefish Grill menu page."
+  }
+}

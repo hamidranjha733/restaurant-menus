@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-in-n-out",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "In-N-Out",
+  "brand_slug": "in-n-out-menu",
+  "cover_hint": "Reuse the In-N-Out brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns In-N-Out Burger? (2026)",
+    "meta_description": "In-N-Out is owned by Lynsi Snyder, granddaughter of the founders. It is still family-owned, private and has never franchised. Here's the full story.",
+    "h1": "Who Owns In-N-Out Burger?",
+    "primary_keyword": "who owns in-n-out",
+    "keyword_volume": 5400,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns In-N-Out Burger?",
+
+  "quick_answer": "In-N-Out Burger is owned by Lynsi Snyder, the granddaughter of founders Harry and Esther Snyder. She is the sole owner and president, which makes In-N-Out a rare, fully family-owned national burger chain. It has stayed private and has never franchised. In-N-Out was founded in 1948 in Baldwin Park, California.",
+
+  "key_facts": [
+    "Founded: 1948, Baldwin Park, California",
+    "Founders: Harry and Esther Snyder",
+    "Current owner: Lynsi Snyder (granddaughter of the founders)",
+    "Private and family-owned; never franchised",
+    "One of the few major chains with a single family owner"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns In-N-Out?",
+      "text": "In-N-Out is owned by Lynsi Snyder, the only grandchild of founders Harry and Esther Snyder. She inherited control of the company and serves as its president. Unlike almost every other large burger chain, In-N-Out has never gone public and has never sold franchises, so it remains entirely in family hands."
+    },
+    {
+      "heading": "How it stayed in the family",
+      "text": "Harry and Esther Snyder opened the first In-N-Out in 1948 in Baldwin Park, California, pioneering the drive-thru hamburger stand. The company passed down through the family, and after a series of deaths in the Snyder family, ownership ultimately landed with Lynsi Snyder, who took full control as she came of age."
+    },
+    {
+      "heading": "Why In-N-Out stays private",
+      "text": "Keeping In-N-Out private and franchise-free lets the family control quality, limit how fast it grows, and protect the brand's reputation. That is a big reason the chain only expanded slowly and stayed mostly in the West for decades, though it has begun opening in new states."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is In-N-Out a franchise?", "a": "No. In-N-Out has never franchised. Every location is company-owned and run, which is unusual for a chain its size." },
+    { "q": "Is In-N-Out publicly traded?", "a": "No. In-N-Out is a private, family-owned company controlled by Lynsi Snyder. You cannot buy shares in it." },
+    { "q": "Who founded In-N-Out?", "a": "In-N-Out was founded in 1948 by Harry and Esther Snyder in Baldwin Park, California." }
+  ],
+
+  "internal_links": [
+    { "label": "In-N-Out Menu With Prices", "slug": "in-n-out-menu" },
+    { "label": "What Is the In-N-Out Secret Menu?", "slug": "in-n-out-secret-menu" },
+    { "label": "The Habit Burger Grill Menu With Prices", "slug": "habit-burger-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "In-N-Out owned by Lynsi Snyder (granddaughter of Harry & Esther Snyder), sole owner/president; private, never franchised (Wikipedia / Chowhound / NBC LA). Founded 1948 Baldwin Park CA. Verified via web Nov 2026.",
+    "accuracy": "Family ownership verified and stable. Expansion east ongoing but ownership unchanged.",
+    "keyword_notes": "High volume (5.4k). Paired with the secret-menu guide and the In-N-Out menu page."
+  }
+}

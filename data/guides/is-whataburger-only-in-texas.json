@@ -1,0 +1,63 @@
+{
+  "slug": "is-whataburger-only-in-texas",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Whataburger",
+  "brand_slug": "whataburger-menu",
+  "cover_hint": "Reuse the Whataburger brand banner / menu hero. Orange accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Is Whataburger Only in Texas? (2026)",
+    "meta_description": "No. Whataburger started in Texas and is strongest there, but it has hundreds of locations across the South and is expanding into new states. Here's where it is.",
+    "h1": "Is Whataburger Only in Texas?",
+    "primary_keyword": "is whataburger only in texas",
+    "keyword_volume": 1900,
+    "keyword_kd": 1
+  },
+
+  "question": "Is Whataburger Only in Texas?",
+
+  "quick_answer": "No. Whataburger is most famous in Texas and the brand is deeply tied to the state, but it is not Texas-only. It has hundreds of locations across the southern US and has been expanding into new states in recent years, moving well beyond its original footprint.",
+
+  "key_facts": [
+    "Founded and headquartered in Texas, strongest there",
+    "Hundreds of locations across the southern US",
+    "Found across states like Florida, Arizona, Georgia and the Carolinas",
+    "Expanding into new markets (e.g. Tennessee, Kansas, Colorado)"
+  ],
+
+  "body": [
+    {
+      "heading": "Whataburger is a Texas icon, but not Texas-only",
+      "text": "Whataburger is strongly associated with Texas, where it was founded in 1950 and where most people first encounter it. But it has long operated across the broader South, and today it has hundreds of restaurants outside Texas, so being 'a Texas thing' is more about its identity than its actual map."
+    },
+    {
+      "heading": "Where you can find Whataburger",
+      "text": "Beyond Texas, Whataburger has a big presence across the southern US, including states like Florida, Arizona, Georgia, Alabama, Louisiana and the Carolinas. It has traditionally been a Sun Belt chain, strongest in the South and Southwest."
+    },
+    {
+      "heading": "The recent expansion",
+      "text": "After the 2019 majority-stake sale to an investment firm, Whataburger has been expanding into new markets it never served before, such as Tennessee, Kansas and Colorado. So the chain is steadily moving north and out of its original base, and more states are getting their first Whataburgers."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Whataburger a Texas-only chain?", "a": "No. Whataburger started in Texas and is strongest there, but it operates hundreds of restaurants across the southern US and is expanding into new states." },
+    { "q": "What states have Whataburger?", "a": "Besides Texas, Whataburger is found across much of the South and Southwest, including Florida, Arizona, Georgia, Alabama, Louisiana and the Carolinas, with newer markets being added." },
+    { "q": "Why do people think Whataburger is only in Texas?", "a": "Because it was founded there, is headquartered there and is a cultural icon in Texas. Its identity is so tied to the state that many assume it never left." }
+  ],
+
+  "internal_links": [
+    { "label": "Whataburger Menu With Prices", "slug": "whataburger-menu" },
+    { "label": "Who Owns Whataburger?", "slug": "who-owns-whataburger" },
+    { "label": "Cook Out Menu With Prices", "slug": "cook-out-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Whataburger founded/HQ Texas, strongest in the South/Southwest, hundreds of locations beyond Texas, expanding into new states (Tennessee, Kansas, Colorado) post-2019. Consistent with the Whataburger menu page.",
+    "accuracy": "State list kept general (South/Southwest) to avoid a stale exact count; expansion framed as ongoing. Re-verify specific new states over time. On import the meta description (165 chars, over the 160 limit) was trimmed: 'Here's where to find it.' became 'Here's where it is.'",
+    "keyword_notes": "Volume 1.9k. Paired with the ownership guide and the Whataburger menu page."
+  }
+}

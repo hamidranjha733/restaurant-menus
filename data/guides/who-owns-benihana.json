@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-benihana",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Benihana",
+  "brand_slug": "benihana-menu",
+  "cover_hint": "Reuse the Benihana brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Benihana? (2026)",
+    "meta_description": "Benihana is owned by The ONE Group Hospitality, which bought its parent company in 2024 for $365 million. Here's the full ownership history.",
+    "h1": "Who Owns Benihana?",
+    "primary_keyword": "who owns benihana",
+    "keyword_volume": 2400,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Benihana?",
+
+  "quick_answer": "Benihana is owned by The ONE Group Hospitality, Inc., the company behind STK Steakhouse, which completed a $365 million purchase of Benihana's parent (Safflower Holdings) in 2024. The ONE Group also owns the RA Sushi and Kona Grill brands. Benihana was founded in 1964 in New York City by Hiroaki 'Rocky' Aoki.",
+
+  "key_facts": [
+    "Founded: 1964, New York City",
+    "Founder: Hiroaki 'Rocky' Aoki",
+    "Current owner: The ONE Group Hospitality (since 2024)",
+    "Deal value: $365 million",
+    "Previous owner: Angelo Gordon & Co. (from 2012)"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Benihana now?",
+      "text": "Benihana is owned by The ONE Group Hospitality, Inc., a US restaurant company best known for its STK Steakhouse brand. In 2024, The ONE Group completed a $365 million acquisition of Safflower Holdings, Benihana's parent company, adding Benihana along with the RA Sushi and Kona Grill brands to its portfolio."
+    },
+    {
+      "heading": "Ownership history",
+      "text": "Benihana was founded in 1964 in New York City by Hiroaki 'Rocky' Aoki, a Japanese immigrant, who turned tableside teppanyaki cooking into dinner-and-a-show. The company was publicly traded for years, then bought by private-equity firm Angelo Gordon & Co. in 2012, before The ONE Group's 2024 purchase."
+    },
+    {
+      "heading": "What the new ownership means",
+      "text": "Under The ONE Group, Benihana sits alongside other upscale and Japanese-themed dining brands. For guests, the tableside hibachi experience and the menu are unchanged; the ownership mainly affects the company's finances and growth plans."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Did The ONE Group buy Benihana?", "a": "Yes. The ONE Group Hospitality completed a $365 million acquisition of Benihana's parent company in 2024, so Benihana is now owned by The ONE Group." },
+    { "q": "Who founded Benihana?", "a": "Benihana was founded in 1964 in New York City by Hiroaki 'Rocky' Aoki, a Japanese immigrant who popularized teppanyaki dining in the US." },
+    { "q": "Is Benihana publicly traded?", "a": "Benihana itself is not; it is owned by The ONE Group Hospitality. The ONE Group is a publicly traded company." }
+  ],
+
+  "internal_links": [
+    { "label": "Benihana Menu With Prices", "slug": "benihana-menu" },
+    { "label": "Is Benihana Actually Japanese?", "slug": "is-benihana-japanese" },
+    { "label": "Sakura Japanese Steakhouse Menu", "slug": "sakura-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "The ONE Group Hospitality completed $365M acquisition of Safflower Holdings (Benihana parent) in 2024, adding RA Sushi & Kona Grill (Businesswire / FSR / SEC 10-Q). Prior owner Angelo Gordon (2012). Founded 1964 NYC by Rocky Aoki. Verified via web Nov 2026.",
+    "accuracy": "Ownership verified. Re-verify if sold again.",
+    "keyword_notes": "Volume 2.4k. Paired with the 'is Benihana Japanese' guide and the Benihana menu page."
+  }
+}
