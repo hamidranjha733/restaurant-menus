@@ -1,0 +1,64 @@
+{
+  "slug": "mcdonalds-ice-cream-machine-broken",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "McDonald's",
+  "brand_slug": "mcdonalds-menu",
+  "cover_hint": "Reuse the McDonald's brand banner / menu hero. Red/yellow accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Why Is the McDonald's Ice Cream Machine Always Broken?",
+    "meta_description": "McDonald's ice cream machines often show as 'down' because of long cleaning cycles and complex repairs. Here's the real reason behind the meme.",
+    "h1": "Why Is the McDonald's Ice Cream Machine Always Broken?",
+    "primary_keyword": "why is the mcdonalds ice cream machine always broken",
+    "keyword_volume": 6600,
+    "keyword_kd": 2
+  },
+
+  "question": "Why Is the McDonald's Ice Cream Machine Always Broken?",
+
+  "quick_answer": "McDonald's ice cream machines are often 'down' mainly because of their long, complicated cleaning cycle and tricky repairs, not because they are truly broken most of the time. The machines run an hours-long automated heat-cleaning cycle, and if anything goes wrong during it, the machine locks until it is fixed or reset. Hard-to-read error messages and specialized repair rules have made the problem famous online.",
+
+  "key_facts": [
+    "The machines run a long automated heat-cleaning cycle (often done overnight)",
+    "If the cycle fails, the machine locks until reset or serviced",
+    "Error messages are hard to interpret, so staff often cannot fix it fast",
+    "Repairs were historically restricted to specialized technicians",
+    "It became a long-running internet meme"
+  ],
+
+  "body": [
+    {
+      "heading": "The cleaning cycle is the main culprit",
+      "text": "The soft-serve machines run a lengthy automated heat-cleaning cycle to keep the dairy mix safe, and it can take hours, often run overnight. During that cycle the machine cannot serve, and if the cycle is interrupted or fails partway, the machine can lock itself until it is reset or serviced. So a lot of 'broken' machines are really mid-cleaning or stuck after a failed cycle."
+    },
+    {
+      "heading": "Hard to diagnose and repair",
+      "text": "The machines are known for confusing error codes that are hard for restaurant staff to understand. For a long time, repairs and certain settings were restricted to specialized technicians, so a store often had to wait for service rather than fixing the machine themselves. That delay is a big reason a machine can be unavailable for a while."
+    },
+    {
+      "heading": "Why it became a meme",
+      "text": "Because the machines went down so often and so unpredictably, 'the McDonald's ice cream machine is broken' turned into a widely shared internet joke, even inspiring websites that track which locations have working machines. The attention also led to broader debates about repair rules. McDonald's and its suppliers have since worked on making the machines easier to maintain."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Are McDonald's ice cream machines really broken that often?", "a": "Often they are not truly broken but mid-cleaning or locked after a failed cleaning cycle. The long automated cycle and tricky resets are the main reasons they show as unavailable." },
+    { "q": "Why can't staff just fix the machine?", "a": "The machines have confusing error codes, and for a long time many repairs and settings were restricted to specialized technicians, so staff often had to wait for service." },
+    { "q": "Is there a way to find a working machine?", "a": "The problem became so well known that people built unofficial trackers showing which McDonald's locations have working ice cream machines." }
+  ],
+
+  "internal_links": [
+    { "label": "McDonald's Menu With Prices", "slug": "mcdonalds-menu" },
+    { "label": "Who Owns McDonald's?", "slug": "who-owns-mcdonalds" },
+    { "label": "Wendy's Menu With Prices", "slug": "wendys-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "McDonald's soft-serve machines: long automated heat-clean cycle, lock on failed cycle, confusing error codes, historically restricted repairs (Taylor/Kytch saga, right-to-repair coverage), inspired working-machine trackers. Verified via web Nov 2026.",
+    "accuracy": "Explained factually and carefully; avoids naming specific companies in a disputed legal matter, frames as 'specialized technicians' and 'debates about repair rules'. Not pinned to a single date.",
+    "keyword_notes": "Volume ~6.6k, very high-interest meme query + strong PAA. Paired with the ownership guide and the McDonald's menu page."
+  }
+}

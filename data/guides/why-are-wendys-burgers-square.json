@@ -1,0 +1,63 @@
+{
+  "slug": "why-are-wendys-burgers-square",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Wendy's",
+  "brand_slug": "wendys-menu",
+  "cover_hint": "Reuse the Wendy's brand banner / menu hero. Red accent. Square patty close-up if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Why Are Wendy's Burgers Square?",
+    "meta_description": "Wendy's burgers are square so the patty sticks out past the bun, signaling fresh, meaty quality. Here's the story behind the shape.",
+    "h1": "Why Are Wendy's Burgers Square?",
+    "primary_keyword": "why are wendys burgers square",
+    "keyword_volume": 2400,
+    "keyword_kd": 1
+  },
+
+  "question": "Why Are Wendy's Burgers Square?",
+
+  "quick_answer": "Wendy's burgers are square on purpose. Founder Dave Thomas made the patties square so the corners stick out past the round bun, giving customers a clear, visible sign that they are getting a big, meaty burger. There is also a saying tied to the brand about not cutting corners, which the square patty reflects.",
+
+  "key_facts": [
+    "The square patty was founder Dave Thomas's idea",
+    "The corners stick out past the round bun on purpose",
+    "It signals a big, meaty, 'we don't cut corners' burger",
+    "It makes Wendy's instantly recognizable"
+  ],
+
+  "body": [
+    {
+      "heading": "A deliberate choice by the founder",
+      "text": "The square shape is not an accident or a cost-saving trick. Founder Dave Thomas chose square patties from the start so the burger would look generous. Because the corners extend past the round bun, customers can see the meat clearly instead of it being hidden inside."
+    },
+    {
+      "heading": "The 'don't cut corners' idea",
+      "text": "The square patty ties into a brand saying about not cutting corners, meaning Wendy's does not skimp on quality. Thomas reportedly wanted the burger to stand out and signal a more substantial, fresh product than a typical round patty tucked inside a bun."
+    },
+    {
+      "heading": "A recognizable signature",
+      "text": "Over time the square burger became a signature that instantly identifies Wendy's. Combined with the brand's focus on fresh, never-frozen beef for its core burgers in the US, the shape helps reinforce the message that you are getting a quality, meaty burger."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Why did Wendy's make their burgers square?", "a": "Founder Dave Thomas made them square so the corners stick out past the bun, showing customers they are getting a big, meaty burger, tied to a 'we don't cut corners' idea." },
+    { "q": "Does the square shape mean more meat?", "a": "The point is partly visual: the corners are visible past the round bun, which makes the patty look generous. It is meant to signal a substantial burger." },
+    { "q": "Are Wendy's burgers fresh or frozen?", "a": "Wendy's is known for using fresh, never-frozen beef for its core burgers in the US, which fits its quality message." }
+  ],
+
+  "internal_links": [
+    { "label": "Wendy's Menu With Prices", "slug": "wendys-menu" },
+    { "label": "Who Owns Wendy's?", "slug": "who-owns-wendys" },
+    { "label": "McDonald's Menu With Prices", "slug": "mcdonalds-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Wendy's square patties by founder Dave Thomas so corners show past the bun, signaling a big/meaty burger and 'don't cut corners'; fresh never-frozen beef for US core burgers. Consistent with the Wendy's menu page.",
+    "accuracy": "Descriptive brand history; not time-sensitive.",
+    "keyword_notes": "Volume ~2.4k curiosity question + PAA. Paired with the ownership guide and the Wendy's menu page."
+  }
+}

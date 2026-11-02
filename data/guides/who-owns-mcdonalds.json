@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-mcdonalds",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "McDonald's",
+  "brand_slug": "mcdonalds-menu",
+  "cover_hint": "Reuse the McDonald's brand banner / menu hero. Red/yellow accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns McDonald's? (2026)",
+    "meta_description": "McDonald's is an independent, publicly traded company (NYSE: MCD), owned by its shareholders. Most restaurants are run by franchisees. Full story.",
+    "h1": "Who Owns McDonald's?",
+    "primary_keyword": "who owns mcdonalds",
+    "keyword_volume": 4400,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns McDonald's?",
+
+  "quick_answer": "McDonald's is an independent, publicly traded company listed on the New York Stock Exchange under the ticker MCD, so it is owned by its shareholders rather than a parent company. It was founded in 1940 by the McDonald brothers and expanded worldwide under Ray Kroc. Most McDonald's restaurants are run by independent franchisees.",
+
+  "key_facts": [
+    "Publicly traded on the NYSE under ticker MCD",
+    "Owned by its shareholders, no single parent company",
+    "Founded: 1940 by Richard and Maurice McDonald",
+    "Expanded globally under Ray Kroc",
+    "Around 95% of locations are run by franchisees"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns McDonald's?",
+      "text": "McDonald's is a public company, owned collectively by its shareholders. It trades on the New York Stock Exchange under the ticker MCD and is run by its own management and board, not owned by a larger conglomerate. Anyone can buy shares in it."
+    },
+    {
+      "heading": "The founders and Ray Kroc",
+      "text": "The first McDonald's was opened in 1940 by brothers Richard and Maurice McDonald in San Bernardino, California. Salesman Ray Kroc later partnered with them, built the franchise system, and eventually bought the company, driving its global expansion. That history is why Kroc's name is so tied to the brand."
+    },
+    {
+      "heading": "A franchise business",
+      "text": "Most McDonald's restaurants, around 95%, are not owned directly by the company but run by independent franchisees who license the brand. McDonald's as a corporation earns from franchise fees, rent and royalties, while local owners run day-to-day service."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is McDonald's publicly traded?", "a": "Yes. McDonald's trades on the New York Stock Exchange under the ticker MCD, so it is owned by its shareholders." },
+    { "q": "Who founded McDonald's?", "a": "It was founded in 1940 by brothers Richard and Maurice McDonald, and later expanded worldwide under Ray Kroc, who bought the company." },
+    { "q": "Does one person own McDonald's?", "a": "No. McDonald's is a public company owned by many shareholders, and most restaurants are run by independent franchisees." }
+  ],
+
+  "internal_links": [
+    { "label": "McDonald's Menu With Prices", "slug": "mcdonalds-menu" },
+    { "label": "Why Is the McDonald's Ice Cream Machine Always Broken?", "slug": "mcdonalds-ice-cream-machine-broken" },
+    { "label": "Burger King Menu With Prices", "slug": "burger-king-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "McDonald's independent, public (NYSE: MCD); founded 1940 by Richard & Maurice McDonald, expanded under Ray Kroc; ~95% franchised. Verified via web Nov 2026.",
+    "accuracy": "Verified and stable.",
+    "keyword_notes": "Volume ~4.4k. Paired with the ice-cream-machine guide and the McDonald's menu page."
+  }
+}

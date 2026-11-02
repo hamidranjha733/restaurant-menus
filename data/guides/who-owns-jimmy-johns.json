@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-jimmy-johns",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Jimmy John's",
+  "brand_slug": "jimmy-johns-menu",
+  "cover_hint": "Reuse the Jimmy John's brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Jimmy John's? (2026)",
+    "meta_description": "Jimmy John's is owned by Inspire Brands, which acquired it in 2019. Inspire is backed by Roark Capital. Here's the full ownership story.",
+    "h1": "Who Owns Jimmy John's?",
+    "primary_keyword": "who owns jimmy johns",
+    "keyword_volume": 1900,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Jimmy John's?",
+
+  "quick_answer": "Jimmy John's is owned by Inspire Brands, the restaurant company that also owns Dunkin', Baskin-Robbins, Arby's, Sonic and Buffalo Wild Wings. Inspire acquired Jimmy John's in 2019. The chain was founded in 1983 by Jimmy John Liautaud in Charleston, Illinois, and is known for its fast sandwich delivery.",
+
+  "key_facts": [
+    "Owner: Inspire Brands (since 2019)",
+    "Inspire is backed by Roark Capital",
+    "Sister brands: Dunkin', Baskin-Robbins, Arby's, Sonic, Buffalo Wild Wings",
+    "Founded: 1983, Charleston, Illinois",
+    "Founder: Jimmy John Liautaud"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Jimmy John's?",
+      "text": "Jimmy John's is part of Inspire Brands, a large US restaurant company. Inspire acquired Jimmy John's in 2019, adding it to a portfolio that includes Dunkin', Baskin-Robbins, Arby's, Sonic and Buffalo Wild Wings. Inspire itself is backed by the private equity firm Roark Capital."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Jimmy John's was founded in 1983 by Jimmy John Liautaud in Charleston, Illinois. He built it into a fast-growing sandwich chain known for its 'Freaky Fast' delivery and simple, made-to-order subs before selling it into the Inspire Brands group."
+    },
+    {
+      "heading": "Part of a bigger group",
+      "text": "Being under Inspire Brands means Jimmy John's shares an owner with several other well-known chains. The brand keeps its own menu and fast-delivery identity, while its corporate owner runs a broad set of restaurant names."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Jimmy John's owned by the same company as Arby's?", "a": "Yes. Jimmy John's and Arby's are both owned by Inspire Brands, along with Dunkin', Baskin-Robbins, Sonic and Buffalo Wild Wings." },
+    { "q": "When did Inspire Brands buy Jimmy John's?", "a": "Inspire Brands acquired Jimmy John's in 2019." },
+    { "q": "Who founded Jimmy John's?", "a": "Jimmy John's was founded in 1983 by Jimmy John Liautaud in Charleston, Illinois." }
+  ],
+
+  "internal_links": [
+    { "label": "Jimmy John's Menu With Prices", "slug": "jimmy-johns-menu" },
+    { "label": "Who Owns Dunkin'?", "slug": "who-owns-dunkin" },
+    { "label": "Subway Menu With Prices", "slug": "subway-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Jimmy John's owned by Inspire Brands (acquired 2019); Inspire backed by Roark Capital; sister brands Dunkin', Baskin-Robbins, Arby's, Sonic, Buffalo Wild Wings; founded 1983 Charleston IL by Jimmy John Liautaud. Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable; consistent with the Dunkin' and Baskin-Robbins ownership guides (same owner).",
+    "keyword_notes": "Volume ~1.9k. Cross-links to the Dunkin' ownership guide and the Jimmy John's / Subway menu pages."
+  }
+}

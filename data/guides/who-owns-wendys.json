@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-wendys",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Wendy's",
+  "brand_slug": "wendys-menu",
+  "cover_hint": "Reuse the Wendy's brand banner / menu hero. Red accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Wendy's? (2026)",
+    "meta_description": "Wendy's is a publicly traded company (NASDAQ: WEN) known as The Wendy's Company, owned by shareholders. Here's the full ownership story.",
+    "h1": "Who Owns Wendy's?",
+    "primary_keyword": "who owns wendys",
+    "keyword_volume": 2900,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Wendy's?",
+
+  "quick_answer": "Wendy's is a publicly traded company, formally The Wendy's Company, listed on the NASDAQ under the ticker WEN, so it is owned by its shareholders. It was founded in 1969 by Dave Thomas in Columbus, Ohio. The investment firm Trian Partners, led by Nelson Peltz, has long been its largest shareholder.",
+
+  "key_facts": [
+    "Publicly traded as The Wendy's Company (NASDAQ: WEN)",
+    "Owned by its shareholders",
+    "Founded: 1969, Columbus, Ohio",
+    "Founder: Dave Thomas",
+    "Trian Partners (Nelson Peltz) is a major shareholder"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Wendy's?",
+      "text": "Wendy's is a public company known as The Wendy's Company, trading on the NASDAQ under the ticker WEN. That means it is owned by its shareholders rather than a single parent company. It is run by its own management team and board of directors."
+    },
+    {
+      "heading": "The founder, Dave Thomas",
+      "text": "Wendy's was founded in 1969 by Dave Thomas in Columbus, Ohio, and named after his daughter. Thomas became the face of the brand for years through its advertising. The company grew into one of the largest burger chains in the US."
+    },
+    {
+      "heading": "A major shareholder",
+      "text": "The investment firm Trian Partners, led by Nelson Peltz, has long been the biggest shareholder in Wendy's and has had significant influence on the company. Even so, as a public company Wendy's is owned broadly by its shareholders, not by any one person outright."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Wendy's publicly traded?", "a": "Yes. Wendy's, officially The Wendy's Company, trades on the NASDAQ under the ticker WEN, so it is owned by its shareholders." },
+    { "q": "Who founded Wendy's?", "a": "Wendy's was founded in 1969 by Dave Thomas in Columbus, Ohio, and named after his daughter." },
+    { "q": "Who is the biggest shareholder of Wendy's?", "a": "Trian Partners, the investment firm led by Nelson Peltz, has long been Wendy's largest shareholder." }
+  ],
+
+  "internal_links": [
+    { "label": "Wendy's Menu With Prices", "slug": "wendys-menu" },
+    { "label": "Why Are Wendy's Burgers Square?", "slug": "why-are-wendys-burgers-square" },
+    { "label": "McDonald's Menu With Prices", "slug": "mcdonalds-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Wendy's = The Wendy's Company, public (NASDAQ: WEN); founded 1969 Columbus OH by Dave Thomas; Trian Partners (Nelson Peltz) largest shareholder. Verified via web Nov 2026.",
+    "accuracy": "Verified and stable.",
+    "keyword_notes": "Volume ~2.9k. Paired with the square-burgers guide and the Wendy's menu page."
+  }
+}
