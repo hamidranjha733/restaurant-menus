@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-five-guys",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Five Guys",
+  "brand_slug": "five-guys-menu",
+  "cover_hint": "Reuse the Five Guys brand banner / menu hero. Red/white accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Five Guys? (2026)",
+    "meta_description": "Five Guys is privately owned by the Murrell family, who founded it in 1986. It has never gone public. Here's the full ownership story.",
+    "h1": "Who Owns Five Guys?",
+    "primary_keyword": "who owns five guys",
+    "keyword_volume": 2400,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Five Guys?",
+
+  "quick_answer": "Five Guys is privately owned by the Murrell family, who founded it in 1986 in Arlington, Virginia. The 'five guys' are founder Jerry Murrell's sons, and the family has kept the company private, so it does not trade on a stock exchange. It expanded through franchising while staying family-controlled.",
+
+  "key_facts": [
+    "Founded: 1986, Arlington, Virginia",
+    "Founded by Jerry Murrell and his family",
+    "The 'five guys' are Murrell's sons",
+    "Privately owned by the Murrell family",
+    "Not publicly traded"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Five Guys?",
+      "text": "Five Guys is owned by the Murrell family, who have kept it private since it started. There are no public shares in Five Guys, and the company has stayed family-controlled rather than selling to an investment group or going public."
+    },
+    {
+      "heading": "Where the name comes from",
+      "text": "Jerry Murrell and his wife started Five Guys in 1986 in Arlington, Virginia. The 'five guys' originally referred to Jerry and his sons, who were part of the business. The family focused on a simple menu of fresh burgers, fries and free peanuts, cooked to order."
+    },
+    {
+      "heading": "Growth through franchising",
+      "text": "Five Guys grew quickly in the 2000s by franchising while the Murrell family kept ownership and control of the brand. That lets the company expand widely while staying privately held rather than becoming a public company."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Five Guys publicly traded?", "a": "No. Five Guys is privately owned by the Murrell family and has never gone public, so you cannot buy shares in it." },
+    { "q": "Who are the 'five guys'?", "a": "The name originally referred to founder Jerry Murrell and his sons, who were part of the family business." },
+    { "q": "Where was Five Guys founded?", "a": "Five Guys was founded in 1986 in Arlington, Virginia, by the Murrell family." }
+  ],
+
+  "internal_links": [
+    { "label": "Five Guys Menu With Prices", "slug": "five-guys-menu" },
+    { "label": "Why Is Five Guys So Expensive?", "slug": "why-is-five-guys-so-expensive" },
+    { "label": "In-N-Out Menu With Prices", "slug": "in-n-out-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Five Guys privately owned by the Murrell family; founded 1986 Arlington VA by Jerry Murrell & sons ('five guys'); grew via franchising; never public. Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable.",
+    "keyword_notes": "Volume ~2.4k. Paired with the 'why so expensive' guide and the Five Guys menu page."
+  }
+}

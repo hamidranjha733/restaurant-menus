@@ -1,0 +1,63 @@
+{
+  "slug": "is-panda-express-real-chinese",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Panda Express",
+  "brand_slug": "panda-express-menu",
+  "cover_hint": "Reuse the Panda Express brand banner / menu hero. Red accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Is Panda Express Real Chinese Food?",
+    "meta_description": "Panda Express serves American Chinese food, not traditional Chinese cuisine. Dishes like Orange Chicken were created for US tastes. Full story.",
+    "h1": "Is Panda Express Real Chinese Food?",
+    "primary_keyword": "is panda express real chinese food",
+    "keyword_volume": 1900,
+    "keyword_kd": 1
+  },
+
+  "question": "Is Panda Express Real Chinese Food?",
+
+  "quick_answer": "Panda Express serves American Chinese food, which is a real cuisine in its own right, but it is not traditional Chinese cooking as eaten in China. Many of its most popular dishes, like Orange Chicken, were created for American tastes and are not found in traditional Chinese restaurants. So it is Chinese-American food rather than authentic regional Chinese cuisine.",
+
+  "key_facts": [
+    "Panda Express serves American Chinese food",
+    "American Chinese is its own established cuisine, adapted for US tastes",
+    "Signature dishes like Orange Chicken were created in the US",
+    "Traditional Chinese cuisine varies hugely by region and differs from the menu"
+  ],
+
+  "body": [
+    {
+      "heading": "American Chinese, not traditional Chinese",
+      "text": "Panda Express is a leader in American Chinese food, a style that developed in the US as Chinese immigrants adapted their cooking to local ingredients and tastes. It is a genuine cuisine with a long history, but it is distinct from the regional cooking found across China."
+    },
+    {
+      "heading": "Dishes made for US tastes",
+      "text": "Some of Panda Express's most famous items, especially Orange Chicken, were created for American diners and are not traditional Chinese dishes. They tend to be sweeter, fried and milder than much regional Chinese food, which is part of why they are so popular in the US."
+    },
+    {
+      "heading": "How it compares to food in China",
+      "text": "Traditional Chinese cuisine is extremely diverse, with very different flavors, ingredients and techniques from region to region. Panda Express offers a streamlined, Americanized version built for fast, consistent service, so it is best thought of as Chinese-American fast food rather than authentic Chinese cooking."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Panda Express authentic Chinese food?", "a": "Not in the traditional sense. It serves American Chinese food, a US-adapted cuisine, rather than the regional cooking eaten in China." },
+    { "q": "Was Orange Chicken invented in China?", "a": "No. Orange Chicken is an American Chinese creation made for US tastes, and it is one of Panda Express's signature dishes." },
+    { "q": "Is American Chinese food 'real' food?", "a": "Yes. American Chinese is a genuine, established cuisine with its own history. It is simply different from traditional regional Chinese cooking." }
+  ],
+
+  "internal_links": [
+    { "label": "Panda Express Menu With Prices", "slug": "panda-express-menu" },
+    { "label": "Who Owns Panda Express?", "slug": "who-owns-panda-express" },
+    { "label": "Is Chipotle Actually Mexican?", "slug": "is-chipotle-actually-mexican" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Panda Express = American Chinese cuisine (US-adapted), not traditional regional Chinese; Orange Chicken a US creation. Consistent with the Panda Express menu page.",
+    "accuracy": "Balanced and respectful: treats American Chinese as a legitimate cuisine rather than 'fake'. Not time-sensitive.",
+    "keyword_notes": "Volume ~1.9k curiosity question + PAA. Paired with the ownership guide and cross-linked to the Chipotle 'is it Mexican' guide."
+  }
+}

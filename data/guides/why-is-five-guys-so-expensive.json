@@ -1,0 +1,64 @@
+{
+  "slug": "why-is-five-guys-so-expensive",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Five Guys",
+  "brand_slug": "five-guys-menu",
+  "cover_hint": "Reuse the Five Guys brand banner / menu hero. Red/white accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Why Is Five Guys So Expensive?",
+    "meta_description": "Five Guys costs more than typical fast food because of fresh ingredients, big portions, free toppings and peanuts. Here's what you're paying for.",
+    "h1": "Why Is Five Guys So Expensive?",
+    "primary_keyword": "why is five guys so expensive",
+    "keyword_volume": 4400,
+    "keyword_kd": 1
+  },
+
+  "question": "Why Is Five Guys So Expensive?",
+
+  "quick_answer": "Five Guys costs more than typical fast food because of what goes into each order. It uses fresh, never-frozen beef, cooks everything to order, gives generous portions, includes unlimited free toppings, piles the fry cups high, and offers free peanuts. You are paying for a bigger, fresher, made-to-order meal rather than a cheap value-menu burger.",
+
+  "key_facts": [
+    "Fresh, never-frozen beef cooked to order",
+    "Large portions, especially the overfilled fries",
+    "All toppings are free, which is built into the base price",
+    "Free peanuts in most stores",
+    "Priced as a premium fast-casual burger, not value fast food"
+  ],
+
+  "body": [
+    {
+      "heading": "Fresh, made-to-order food",
+      "text": "A big reason for the price is that Five Guys uses fresh, never-frozen beef and cooks each burger to order rather than holding food under a heat lamp. Fresh ingredients and cooking on demand cost more than the pre-made, value-focused approach of cheaper chains."
+    },
+    {
+      "heading": "Big portions and free extras",
+      "text": "Five Guys is known for generous servings. The fries are famously overfilled, the burgers are hefty, and all toppings are free rather than added-cost. Most stores also give out free peanuts. Those extras are not really free; the cost is built into the menu price, which pushes the base price up."
+    },
+    {
+      "heading": "A premium position",
+      "text": "Five Guys positions itself as a premium fast-casual burger brand rather than a budget option. Between quality ingredients, large portions and free toppings, a meal ends up priced higher than a typical fast-food combo, which is why it feels expensive. Whether it is worth it depends on how much you value the size and freshness."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Why does Five Guys cost more than other fast food?", "a": "It uses fresh, never-frozen beef, cooks to order, gives big portions, includes free toppings and free peanuts, and positions itself as premium rather than budget fast food." },
+    { "q": "Are the toppings really free at Five Guys?", "a": "Yes, toppings are included at no extra charge, but that cost is built into the base price, which is part of why Five Guys feels pricey." },
+    { "q": "Do you get a lot of food at Five Guys?", "a": "Portions are generous. The fries are famously overfilled and the burgers are large, so you typically get more food than a standard fast-food order." }
+  ],
+
+  "internal_links": [
+    { "label": "Five Guys Menu With Prices", "slug": "five-guys-menu" },
+    { "label": "Who Owns Five Guys?", "slug": "who-owns-five-guys" },
+    { "label": "In-N-Out Menu With Prices", "slug": "in-n-out-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Five Guys higher price drivers: fresh never-frozen beef, cook-to-order, large portions/overfilled fries, free toppings, free peanuts, premium fast-casual positioning. Consistent with the Five Guys menu page.",
+    "accuracy": "Explanatory and balanced; no specific prices quoted (per standing no-pricing preference and to avoid stale numbers). Not time-sensitive.",
+    "keyword_notes": "Volume ~4.4k, strong PAA. Paired with the ownership guide and the Five Guys menu page."
+  }
+}

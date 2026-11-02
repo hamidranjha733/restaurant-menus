@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-shake-shack",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Shake Shack",
+  "brand_slug": "shake-shack-menu",
+  "cover_hint": "Reuse the Shake Shack brand banner / menu hero. Green accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Shake Shack? (2026)",
+    "meta_description": "Shake Shack is a publicly traded company (NYSE: SHAK) that grew from a New York hot dog cart started by restaurateur Danny Meyer. Full story.",
+    "h1": "Who Owns Shake Shack?",
+    "primary_keyword": "who owns shake shack",
+    "keyword_volume": 1600,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Shake Shack?",
+
+  "quick_answer": "Shake Shack is a publicly traded company listed on the New York Stock Exchange under the ticker SHAK, so it is owned by its shareholders. It grew out of a hot dog cart started in 2001 by restaurateur Danny Meyer's Union Square Hospitality Group in New York City, became a permanent stand in 2004, and went public in 2015.",
+
+  "key_facts": [
+    "Publicly traded on the NYSE under ticker SHAK",
+    "Owned by its shareholders",
+    "Started as a 2001 hot dog cart in Madison Square Park, New York",
+    "Founded through Danny Meyer's Union Square Hospitality Group",
+    "Went public in 2015"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Shake Shack?",
+      "text": "Shake Shack is a public company, owned collectively by its shareholders. It trades on the New York Stock Exchange under the ticker SHAK. While restaurateur Danny Meyer and his company are closely tied to Shake Shack's founding and remained influential, as a public company it is owned by its shareholders rather than one person."
+    },
+    {
+      "heading": "From a hot dog cart to a chain",
+      "text": "Shake Shack began in 2001 as a hot dog cart in Madison Square Park in New York City, run by Danny Meyer's Union Square Hospitality Group. It proved so popular that it became a permanent kiosk in 2004 and then grew into a fast-casual burger chain known for its ShackBurger and shakes."
+    },
+    {
+      "heading": "Going public",
+      "text": "Shake Shack held its initial public offering in 2015, turning it into a publicly traded company. Since then its ownership has been spread among public shareholders, while it continues to expand in the US and internationally."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Shake Shack publicly traded?", "a": "Yes. Shake Shack trades on the New York Stock Exchange under the ticker SHAK, so it is owned by its shareholders." },
+    { "q": "Who started Shake Shack?", "a": "Shake Shack grew from a 2001 hot dog cart created by restaurateur Danny Meyer's Union Square Hospitality Group in New York City." },
+    { "q": "When did Shake Shack go public?", "a": "Shake Shack held its initial public offering in 2015." }
+  ],
+
+  "internal_links": [
+    { "label": "Shake Shack Menu With Prices", "slug": "shake-shack-menu" },
+    { "label": "In-N-Out Menu With Prices", "slug": "in-n-out-menu" },
+    { "label": "Five Guys Menu With Prices", "slug": "five-guys-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Shake Shack public (NYSE: SHAK); grew from 2001 Madison Square Park hot dog cart under Danny Meyer's Union Square Hospitality Group; permanent stand 2004; IPO 2015. Verified via web Nov 2026.",
+    "accuracy": "Verified and stable; frames Danny Meyer's role without overstating personal ownership of a public company.",
+    "keyword_notes": "Volume ~1.6k. Cross-links to In-N-Out and Five Guys menu pages (better-burger comparisons)."
+  }
+}

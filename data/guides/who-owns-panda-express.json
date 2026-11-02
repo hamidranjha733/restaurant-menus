@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-panda-express",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Panda Express",
+  "brand_slug": "panda-express-menu",
+  "cover_hint": "Reuse the Panda Express brand banner / menu hero. Red accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Panda Express? (2026)",
+    "meta_description": "Panda Express is privately owned by its founders, Andrew and Peggy Cherng, through Panda Restaurant Group. Here's the full ownership story.",
+    "h1": "Who Owns Panda Express?",
+    "primary_keyword": "who owns panda express",
+    "keyword_volume": 2400,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Panda Express?",
+
+  "quick_answer": "Panda Express is privately owned by its founders, Andrew and Peggy Cherng, through their company Panda Restaurant Group. They opened the first Panda Express in 1983 in Glendale, California, and have kept the company family-owned and private, so it does not trade on a stock exchange.",
+
+  "key_facts": [
+    "Owner: founders Andrew and Peggy Cherng, via Panda Restaurant Group",
+    "Founded: 1983, Glendale, California",
+    "Privately held, not publicly traded",
+    "Family-owned and operated",
+    "The largest American Chinese fast-food chain"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Panda Express?",
+      "text": "Panda Express is owned by its founders, Andrew and Peggy Cherng, through Panda Restaurant Group. The couple has kept the company private and family-controlled rather than selling to investors or going public, so there is no Panda Express stock to buy."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "The Cherngs opened the first Panda Express in 1983 in a Glendale, California mall, building on an earlier full-service restaurant called Panda Inn. Panda Express grew into the largest American Chinese fast-food chain, known for dishes like Orange Chicken."
+    },
+    {
+      "heading": "Still family-owned",
+      "text": "Decades later, Panda Express remains privately held by the founding family. Staying private has let the Cherngs keep control of the brand and its direction while expanding across the US and beyond."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Panda Express publicly traded?", "a": "No. Panda Express is privately owned by founders Andrew and Peggy Cherng through Panda Restaurant Group, so you cannot buy shares in it." },
+    { "q": "Who founded Panda Express?", "a": "Panda Express was founded in 1983 by Andrew and Peggy Cherng in Glendale, California." },
+    { "q": "Is Panda Express family owned?", "a": "Yes. It remains privately owned and controlled by the founding Cherng family." }
+  ],
+
+  "internal_links": [
+    { "label": "Panda Express Menu With Prices", "slug": "panda-express-menu" },
+    { "label": "Is Panda Express Real Chinese Food?", "slug": "is-panda-express-real-chinese" },
+    { "label": "Chipotle Menu With Prices", "slug": "chipotle-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Panda Express privately owned by founders Andrew & Peggy Cherng via Panda Restaurant Group; founded 1983 Glendale CA (from earlier Panda Inn); largest American Chinese fast-food chain. Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable.",
+    "keyword_notes": "Volume ~2.4k. Paired with the 'is it real Chinese' guide and the Panda Express menu page."
+  }
+}
