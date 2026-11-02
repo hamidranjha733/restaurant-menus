@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-chipotle",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Chipotle",
+  "brand_slug": "chipotle-menu",
+  "cover_hint": "Reuse the Chipotle brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Chipotle? (2026)",
+    "meta_description": "Chipotle is an independent, publicly traded company (NYSE: CMG). McDonald's once invested in it but fully sold out by 2006. Full story.",
+    "h1": "Who Owns Chipotle?",
+    "primary_keyword": "who owns chipotle",
+    "keyword_volume": 4400,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Chipotle?",
+
+  "quick_answer": "Chipotle is an independent, publicly traded company listed on the New York Stock Exchange under the ticker CMG, so it is owned by its shareholders rather than a parent company. McDonald's was once a major investor and helped Chipotle grow, but it fully sold its stake by 2006. Chipotle was founded in 1993 by Steve Ells in Denver, Colorado.",
+
+  "key_facts": [
+    "Publicly traded on the NYSE under ticker CMG",
+    "Owned by its shareholders, no single parent company",
+    "Founded: 1993, Denver, Colorado, by Steve Ells",
+    "McDonald's was a past investor but exited fully by 2006",
+    "Known for build-your-own burritos and bowls"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Chipotle?",
+      "text": "Chipotle Mexican Grill is a public company, which means it is owned collectively by its shareholders. It trades on the New York Stock Exchange under the ticker CMG and is run by its own management and board, not controlled by a larger restaurant conglomerate."
+    },
+    {
+      "heading": "The McDonald's connection",
+      "text": "A common question is whether McDonald's owns Chipotle. McDonald's did invest heavily in Chipotle in its early years and at one point held a large stake, which helped fund Chipotle's expansion. However, McDonald's fully divested its shares by 2006, around the time Chipotle went public, so the two companies are not connected today."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Chipotle was founded in 1993 by Steve Ells, who opened the first location in Denver, Colorado. It pioneered the fast-casual, build-your-own burrito and bowl model and grew into one of the largest Mexican-style chains in the US as an independent public company."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Does McDonald's own Chipotle?", "a": "No. McDonald's was a major early investor but sold its entire stake by 2006. Chipotle is now an independent, publicly traded company." },
+    { "q": "Is Chipotle publicly traded?", "a": "Yes. Chipotle trades on the New York Stock Exchange under the ticker symbol CMG, so it is owned by its shareholders." },
+    { "q": "Who founded Chipotle?", "a": "Chipotle was founded in 1993 by Steve Ells in Denver, Colorado." }
+  ],
+
+  "internal_links": [
+    { "label": "Chipotle Menu With Prices", "slug": "chipotle-menu" },
+    { "label": "Is Chipotle Actually Mexican?", "slug": "is-chipotle-actually-mexican" },
+    { "label": "Qdoba Menu With Prices", "slug": "qdoba-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Chipotle independent, public (NYSE: CMG); founded 1993 Denver by Steve Ells; McDonald's was a major investor but fully divested by 2006 (Money Digest / OCBJ IPO coverage). Verified via web Nov 2026.",
+    "accuracy": "Verified; directly corrects the widespread 'McDonald's owns Chipotle' myth.",
+    "keyword_notes": "Volume ~4.4k, strong 'does McDonald's own Chipotle' PAA. Paired with the 'is Chipotle Mexican' guide and the Chipotle menu page."
+  }
+}

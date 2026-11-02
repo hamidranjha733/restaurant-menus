@@ -1,0 +1,64 @@
+{
+  "slug": "popeyes-chicken-sandwich",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Popeyes",
+  "brand_slug": "popeyes-menu",
+  "cover_hint": "Reuse the Popeyes brand banner / menu hero. Orange accent. Chicken sandwich close-up if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Why Is the Popeyes Chicken Sandwich So Popular?",
+    "meta_description": "The Popeyes Chicken Sandwich went viral in 2019 and sparked the fast-food 'chicken sandwich wars'. Here's what's on it and why it blew up.",
+    "h1": "Why Is the Popeyes Chicken Sandwich So Popular?",
+    "primary_keyword": "popeyes chicken sandwich",
+    "keyword_volume": 9900,
+    "keyword_kd": 2
+  },
+
+  "question": "Why Is the Popeyes Chicken Sandwich So Popular?",
+
+  "quick_answer": "The Popeyes Chicken Sandwich launched in 2019 and became a viral sensation almost overnight. It is a crispy, buttermilk-battered fried chicken fillet on a toasted brioche-style bun with pickles and mayo. Its popularity exploded through social media and a famous online rivalry with Chick-fil-A, kicking off what people called the fast-food 'chicken sandwich wars'.",
+
+  "key_facts": [
+    "Launched in 2019 and sold out within weeks due to demand",
+    "Crispy buttermilk-battered chicken fillet on a toasted bun",
+    "Served with pickles and mayo (spicy version also available)",
+    "Went viral partly through an online rivalry with Chick-fil-A",
+    "Started the fast-food 'chicken sandwich wars'"
+  ],
+
+  "body": [
+    {
+      "heading": "What is on it",
+      "text": "The Popeyes Chicken Sandwich is a large, crispy fried chicken fillet, battered in a buttermilk coating, served on a soft toasted bun with pickles and mayo. There is a classic and a spicy version. The combination of a thick, crunchy fillet and a sturdy bun is what made it stand out from thinner fast-food chicken sandwiches."
+    },
+    {
+      "heading": "How it went viral",
+      "text": "When it launched in 2019, the sandwich took off on social media. A playful online back-and-forth with Chick-fil-A turned into a nationwide talking point, lines formed at restaurants, and many locations sold out within weeks. That buzz turned a single menu item into a cultural moment."
+    },
+    {
+      "heading": "The 'chicken sandwich wars'",
+      "text": "The sandwich's success pushed other chains to launch or upgrade their own chicken sandwiches, which the media dubbed the 'chicken sandwich wars'. Years later, the Popeyes Chicken Sandwich is a permanent menu staple and still one of the brand's best-known items."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What comes on the Popeyes Chicken Sandwich?", "a": "A crispy buttermilk-battered chicken fillet on a toasted bun with pickles and mayo. There is a classic version and a spicy version." },
+    { "q": "When did the Popeyes Chicken Sandwich come out?", "a": "It launched in 2019 and quickly went viral, with many locations selling out within weeks." },
+    { "q": "Is the Popeyes Chicken Sandwich spicy?", "a": "There are two versions: a classic and a spicy one. You can choose based on how much heat you want." }
+  ],
+
+  "internal_links": [
+    { "label": "Popeyes Menu With Prices", "slug": "popeyes-menu" },
+    { "label": "Who Owns Popeyes?", "slug": "who-owns-popeyes" },
+    { "label": "Chick-fil-A Menu With Prices", "slug": "chick-fil-a-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Popeyes Chicken Sandwich launched 2019, viral sellout, Chick-fil-A online rivalry, 'chicken sandwich wars'; buttermilk-battered fillet, toasted bun, pickles, mayo, classic + spicy. Consistent with the Popeyes menu page.",
+    "accuracy": "Descriptive, well-established; not time-sensitive.",
+    "keyword_notes": "Volume ~9.9k, very high-interest dish query. Paired with the ownership guide and the Popeyes menu page; cross-links to Chick-fil-A."
+  }
+}

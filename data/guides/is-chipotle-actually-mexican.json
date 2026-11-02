@@ -1,0 +1,63 @@
+{
+  "slug": "is-chipotle-actually-mexican",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Chipotle",
+  "brand_slug": "chipotle-menu",
+  "cover_hint": "Reuse the Chipotle brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Is Chipotle Actually Mexican Food?",
+    "meta_description": "Chipotle serves Mexican-inspired food but is an American company founded in Denver. Here's the real story behind the 'Mexican Grill'.",
+    "h1": "Is Chipotle Actually Mexican?",
+    "primary_keyword": "is chipotle mexican",
+    "keyword_volume": 1900,
+    "keyword_kd": 1
+  },
+
+  "question": "Is Chipotle Actually Mexican?",
+
+  "quick_answer": "Chipotle serves Mexican-inspired food, but it is an American company, not a Mexican one. It was founded in Denver, Colorado, in 1993, and its burritos, bowls and tacos are an Americanized, fast-casual take on Mexican flavors rather than traditional, regional Mexican cooking. So the food is Mexican-style; the chain is American.",
+
+  "key_facts": [
+    "Chipotle is an American company, founded in Denver in 1993",
+    "The menu is Mexican-inspired, not traditional regional Mexican",
+    "Dishes like the burrito bowl are Americanized fast-casual versions",
+    "The name 'chipotle' is a real Mexican ingredient (a smoked chili)"
+  ],
+
+  "body": [
+    {
+      "heading": "Mexican-inspired, American company",
+      "text": "Chipotle's food draws clearly from Mexican cooking: burritos, tacos, salsas, guacamole, carnitas and barbacoa all come from that tradition. But Chipotle itself is an American company, founded in Denver, Colorado, so it is best described as Mexican-inspired rather than authentically Mexican."
+    },
+    {
+      "heading": "An Americanized style",
+      "text": "The build-your-own burrito and bowl format, the large portion sizes, and items like the burrito bowl are fast-casual American inventions built on Mexican flavors. Traditional Mexican food varies hugely by region and often looks quite different from Chipotle's streamlined menu, so purists would call it Tex-Mex-leaning or Mexican-American."
+    },
+    {
+      "heading": "Where the name comes from",
+      "text": "The word 'chipotle' is genuinely Mexican: it refers to a smoked, dried jalapeno chili used in Mexican cooking. So the name nods to real Mexican ingredients even though the company and its style are American."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Chipotle real Mexican food?", "a": "It is Mexican-inspired rather than traditional Mexican. Chipotle is an American company serving an Americanized, fast-casual version of Mexican flavors." },
+    { "q": "Where was Chipotle founded?", "a": "Chipotle was founded in 1993 in Denver, Colorado, which is why it is considered an American company." },
+    { "q": "What does 'chipotle' mean?", "a": "Chipotle is a Mexican word for a smoked, dried jalapeno chili used in Mexican cooking." }
+  ],
+
+  "internal_links": [
+    { "label": "Chipotle Menu With Prices", "slug": "chipotle-menu" },
+    { "label": "Who Owns Chipotle?", "slug": "who-owns-chipotle" },
+    { "label": "Qdoba Menu With Prices", "slug": "qdoba-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Chipotle = Mexican-inspired American company founded 1993 Denver; Americanized fast-casual format; 'chipotle' = smoked dried jalapeno. Consistent with the Chipotle menu page.",
+    "accuracy": "Nuanced 'Mexican style, American company' framing; descriptive, not time-sensitive.",
+    "keyword_notes": "Volume ~1.9k curiosity question + PAA. Paired with the ownership guide and the Chipotle menu page."
+  }
+}

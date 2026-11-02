@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-dunkin",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Dunkin'",
+  "brand_slug": "dunkin-menu",
+  "cover_hint": "Reuse the Dunkin' brand banner / menu hero. Pink/orange accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Dunkin'? (2026)",
+    "meta_description": "Dunkin' is owned by Inspire Brands, which took it private in 2020. Inspire is backed by Roark Capital. Here's the full ownership story.",
+    "h1": "Who Owns Dunkin'?",
+    "primary_keyword": "who owns dunkin",
+    "keyword_volume": 2900,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Dunkin'?",
+
+  "quick_answer": "Dunkin' is owned by Inspire Brands, a large US restaurant company that bought Dunkin' Brands in 2020 for about $11.3 billion and took it private. Inspire is backed by the private equity firm Roark Capital, and it also owns Baskin-Robbins, Arby's, Sonic, Buffalo Wild Wings and Jimmy John's. Dunkin' was founded in 1950 in Quincy, Massachusetts.",
+
+  "key_facts": [
+    "Owner: Inspire Brands (since 2020)",
+    "Inspire bought Dunkin' Brands for about $11.3 billion and took it private",
+    "Inspire is backed by Roark Capital",
+    "Sister brands: Baskin-Robbins, Arby's, Sonic, Buffalo Wild Wings, Jimmy John's",
+    "Founded: 1950, Quincy, Massachusetts"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Dunkin'?",
+      "text": "Dunkin' is owned by Inspire Brands. In 2020, Inspire acquired Dunkin' Brands, the parent of both Dunkin' and Baskin-Robbins, in a deal worth about $11.3 billion and took the company private. So Dunkin' no longer trades on the stock market."
+    },
+    {
+      "heading": "Backed by Roark Capital",
+      "text": "Inspire Brands is backed by Roark Capital, an Atlanta-based private equity firm focused on restaurant and franchise businesses. Under Inspire, Dunkin' sits in a group that also includes Arby's, Sonic, Buffalo Wild Wings and Jimmy John's, as well as Baskin-Robbins."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Dunkin' was founded in 1950 in Quincy, Massachusetts, originally as Dunkin' Donuts. Over time it leaned more heavily into coffee and drinks and shortened its name to simply 'Dunkin'', though it is still known for its donuts and baked goods."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Dunkin' owned by the same company as Baskin-Robbins?", "a": "Yes. Both Dunkin' and Baskin-Robbins are owned by Inspire Brands, which bought their shared parent, Dunkin' Brands, in 2020." },
+    { "q": "Is Dunkin' publicly traded?", "a": "No. Inspire Brands took Dunkin' private in 2020, so it no longer trades on a stock exchange." },
+    { "q": "Where was Dunkin' founded?", "a": "Dunkin' was founded in 1950 in Quincy, Massachusetts, originally as Dunkin' Donuts." }
+  ],
+
+  "internal_links": [
+    { "label": "Dunkin' Menu With Prices", "slug": "dunkin-menu" },
+    { "label": "Who Owns Baskin-Robbins?", "slug": "who-owns-baskin-robbins" },
+    { "label": "Starbucks Menu With Prices", "slug": "starbucks-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Dunkin' owned by Inspire Brands (acquired Dunkin' Brands 2020 ~$11.3B, taken private); Inspire backed by Roark Capital; sister brands Baskin-Robbins, Arby's, Sonic, Buffalo Wild Wings, Jimmy John's; founded 1950 Quincy MA. Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable; consistent with the Baskin-Robbins ownership guide (same owner).",
+    "keyword_notes": "Volume ~2.9k. Cross-links to the Baskin-Robbins ownership guide and the Dunkin' menu page."
+  }
+}

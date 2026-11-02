@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-popeyes",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Popeyes",
+  "brand_slug": "popeyes-menu",
+  "cover_hint": "Reuse the Popeyes brand banner / menu hero. Orange accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Popeyes? (2026)",
+    "meta_description": "Popeyes is owned by Restaurant Brands International, the same parent as Burger King and Tim Hortons, which bought it in 2017. Full story.",
+    "h1": "Who Owns Popeyes?",
+    "primary_keyword": "who owns popeyes",
+    "keyword_volume": 3600,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Popeyes?",
+
+  "quick_answer": "Popeyes is owned by Restaurant Brands International (RBI), the same company that owns Burger King and Tim Hortons. RBI bought Popeyes in 2017 for about $1.8 billion. Popeyes was founded in 1972 in New Orleans, Louisiana, and is known for its Louisiana-style fried chicken.",
+
+  "key_facts": [
+    "Owner: Restaurant Brands International (RBI), since 2017",
+    "RBI bought Popeyes for about $1.8 billion",
+    "Sister brands: Burger King, Tim Hortons, Firehouse Subs",
+    "Founded: 1972, New Orleans, Louisiana",
+    "Known for Louisiana-style fried chicken"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Popeyes?",
+      "text": "Popeyes is part of Restaurant Brands International, usually called RBI, a large publicly traded restaurant company. RBI acquired Popeyes in 2017 in a deal worth roughly $1.8 billion, placing it alongside Burger King and Tim Hortons under the same parent."
+    },
+    {
+      "heading": "The RBI family of brands",
+      "text": "RBI owns several big quick-service names, including Burger King, Tim Hortons and Firehouse Subs, in addition to Popeyes. So while Popeyes keeps its own Louisiana identity and menu, its corporate owner also runs some of the best-known fast-food brands in North America."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Popeyes was founded in 1972 in New Orleans, Louisiana, and built its reputation on spicy, Louisiana-style fried chicken. That New Orleans heritage is still central to the brand, even though it is now owned by a global company."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Popeyes owned by Burger King?", "a": "They share the same parent. Popeyes and Burger King are both owned by Restaurant Brands International (RBI), along with Tim Hortons and Firehouse Subs." },
+    { "q": "When did RBI buy Popeyes?", "a": "Restaurant Brands International bought Popeyes in 2017 for about $1.8 billion." },
+    { "q": "Where was Popeyes founded?", "a": "Popeyes was founded in 1972 in New Orleans, Louisiana, which is the source of its Louisiana-style fried chicken." }
+  ],
+
+  "internal_links": [
+    { "label": "Popeyes Menu With Prices", "slug": "popeyes-menu" },
+    { "label": "What Makes the Popeyes Chicken Sandwich So Popular?", "slug": "popeyes-chicken-sandwich" },
+    { "label": "Chick-fil-A Menu With Prices", "slug": "chick-fil-a-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Popeyes owned by Restaurant Brands International (RBI), acquired 2017 ~$1.8B; sister brands Burger King, Tim Hortons, Firehouse Subs; founded 1972 New Orleans LA (CSP / FES Mag / Gulf News). Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable.",
+    "keyword_notes": "Volume ~3.6k. Paired with the chicken-sandwich guide and the Popeyes menu page."
+  }
+}
