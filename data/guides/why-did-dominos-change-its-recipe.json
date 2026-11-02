@@ -1,0 +1,64 @@
+{
+  "slug": "why-did-dominos-change-its-recipe",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Domino's",
+  "brand_slug": "dominos-menu",
+  "cover_hint": "Reuse the Domino's brand banner / menu hero. Blue/red accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Why Did Domino's Change Its Pizza Recipe?",
+    "meta_description": "Domino's reinvented its pizza recipe in 2009-2010 after admitting customers disliked the old one. Here's the story behind the bold relaunch.",
+    "h1": "Why Did Domino's Change Its Pizza Recipe?",
+    "primary_keyword": "why did dominos change their recipe",
+    "keyword_volume": 1300,
+    "keyword_kd": 1
+  },
+
+  "question": "Why Did Domino's Change Its Pizza Recipe?",
+
+  "quick_answer": "Domino's changed its pizza recipe around 2009 and 2010 because its own research showed many customers thought the pizza tasted bland or poor. Instead of hiding it, Domino's ran a bold campaign openly admitting the old pizza fell short, then relaunched with a reworked crust, sauce and cheese. The honest 'we listened and fixed it' approach became a famous marketing turnaround.",
+
+  "key_facts": [
+    "The recipe was reinvented around 2009-2010",
+    "Domino's publicly admitted customers disliked the old pizza",
+    "The crust, sauce and cheese were all reworked",
+    "The honest relaunch campaign became a famous marketing case study",
+    "It helped drive a major sales and brand turnaround"
+  ],
+
+  "body": [
+    {
+      "heading": "Customers did not love the old pizza",
+      "text": "By the late 2000s, Domino's own feedback and taste tests showed that a lot of customers found the pizza disappointing, with complaints about the crust and overall flavor. Rather than quietly tweaking it, the company decided to overhaul the recipe and be open about why."
+    },
+    {
+      "heading": "An unusually honest relaunch",
+      "text": "In 2009 and 2010, Domino's launched a campaign that openly shared the harsh customer criticism and admitted the old pizza needed fixing. It then introduced a reworked pizza with a new crust, sauce and cheese. Publicly admitting your product was not good enough was a bold, unusual move for a big brand."
+    },
+    {
+      "heading": "Why it worked",
+      "text": "The honesty got attention and made the improvement believable. Combined with a stronger focus on technology and delivery, the recipe relaunch helped fuel a major turnaround in sales and reputation for Domino's, and it is still cited as a classic marketing example."
+    }
+  ],
+
+  "faqs": [
+    { "q": "When did Domino's change its pizza recipe?", "a": "Domino's reinvented its pizza recipe around 2009 and 2010, reworking the crust, sauce and cheese." },
+    { "q": "Why did Domino's admit its pizza was bad?", "a": "Its own research showed many customers disliked the old pizza, so Domino's ran an honest campaign acknowledging the criticism and relaunched an improved recipe." },
+    { "q": "Did changing the recipe help Domino's?", "a": "Yes. The honest relaunch, along with a strong focus on delivery and technology, helped drive a major turnaround in sales and brand reputation." }
+  ],
+
+  "internal_links": [
+    { "label": "Domino's Menu With Prices", "slug": "dominos-menu" },
+    { "label": "Who Owns Domino's Pizza?", "slug": "who-owns-dominos" },
+    { "label": "Pizza Hut Menu With Prices", "slug": "pizza-hut-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Domino's 2009-2010 'Pizza Turnaround': admitted poor customer feedback, reworked crust/sauce/cheese, honest ad campaign, major sales/brand turnaround. Well-documented marketing case. Consistent with the Domino's menu page.",
+    "accuracy": "Descriptive and well-established; not time-sensitive.",
+    "keyword_notes": "Volume ~1.3k curiosity question + PAA. Paired with the ownership guide and the Domino's menu page."
+  }
+}

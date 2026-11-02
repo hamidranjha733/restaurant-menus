@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-pizza-hut",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Pizza Hut",
+  "brand_slug": "pizza-hut-menu",
+  "cover_hint": "Reuse the Pizza Hut brand banner / menu hero. Red accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Pizza Hut? (2026)",
+    "meta_description": "Pizza Hut is owned by Yum! Brands, the same parent as KFC and Taco Bell. Here's the full ownership story behind the pizza chain.",
+    "h1": "Who Owns Pizza Hut?",
+    "primary_keyword": "who owns pizza hut",
+    "keyword_volume": 2900,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Pizza Hut?",
+
+  "quick_answer": "Pizza Hut is owned by Yum! Brands, a publicly traded company that also owns KFC and Taco Bell. Pizza Hut was founded in 1958 by brothers Dan and Frank Carney in Wichita, Kansas. It became part of the company now known as Yum! Brands, which was spun off from PepsiCo in 1997.",
+
+  "key_facts": [
+    "Owner: Yum! Brands (publicly traded)",
+    "Sister brands: KFC and Taco Bell",
+    "Founded: 1958, Wichita, Kansas",
+    "Founders: Dan and Frank Carney",
+    "Yum! Brands was spun off from PepsiCo in 1997"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Pizza Hut?",
+      "text": "Pizza Hut is part of Yum! Brands, one of the world's biggest restaurant companies. Yum! Brands is publicly traded and also owns KFC and Taco Bell, so Pizza Hut shares a parent with those two chains."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Pizza Hut was founded in 1958 by brothers Dan and Frank Carney in Wichita, Kansas, using money borrowed from their mother. It grew into one of the largest pizza chains in the world, known for its pan pizza and, for years, its red-roof dine-in restaurants."
+    },
+    {
+      "heading": "How it became part of Yum!",
+      "text": "PepsiCo owned Pizza Hut for a time, then spun off its restaurant business, including Pizza Hut, KFC and Taco Bell, in 1997. That spin-off became Tricon and was later renamed Yum! Brands, which still owns Pizza Hut today."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Pizza Hut owned by the same company as KFC?", "a": "Yes. Pizza Hut, KFC and Taco Bell are all owned by Yum! Brands." },
+    { "q": "Who founded Pizza Hut?", "a": "Pizza Hut was founded in 1958 by brothers Dan and Frank Carney in Wichita, Kansas." },
+    { "q": "Did PepsiCo own Pizza Hut?", "a": "Yes, in the past. PepsiCo spun off its restaurants, including Pizza Hut, in 1997 into the company now called Yum! Brands." }
+  ],
+
+  "internal_links": [
+    { "label": "Pizza Hut Menu With Prices", "slug": "pizza-hut-menu" },
+    { "label": "Who Owns KFC?", "slug": "who-owns-kfc" },
+    { "label": "Domino's Menu With Prices", "slug": "dominos-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Pizza Hut owned by Yum! Brands (also KFC, Taco Bell); founded 1958 Wichita KS by Dan & Frank Carney; PepsiCo spun off restaurants 1997 (Tricon -> Yum! Brands). Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable; consistent with the KFC/Taco Bell ownership guides.",
+    "keyword_notes": "Volume ~2.9k. Cross-links to the KFC ownership guide and the Domino's menu page."
+  }
+}

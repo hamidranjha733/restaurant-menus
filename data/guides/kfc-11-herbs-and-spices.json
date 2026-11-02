@@ -1,0 +1,64 @@
+{
+  "slug": "kfc-11-herbs-and-spices",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "KFC",
+  "brand_slug": "kfc-menu",
+  "cover_hint": "Reuse the KFC brand banner / menu hero. Red/white accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "What Are KFC's 11 Herbs and Spices?",
+    "meta_description": "KFC's 11 herbs and spices recipe is a closely guarded secret created by Colonel Sanders. Here's what's known and why it stays hidden.",
+    "h1": "What Are KFC's 11 Herbs and Spices?",
+    "primary_keyword": "kfc 11 herbs and spices",
+    "keyword_volume": 4400,
+    "keyword_kd": 1
+  },
+
+  "question": "What Are KFC's 11 Herbs and Spices?",
+
+  "quick_answer": "KFC's '11 herbs and spices' is the secret seasoning blend Colonel Harland Sanders created for his fried chicken, and the exact recipe is one of the most closely guarded secrets in the food industry. KFC keeps the full formula confidential, so while people often guess common seasonings like pepper, paprika, garlic and herbs, the real, precise blend has never been officially confirmed.",
+
+  "key_facts": [
+    "The blend was created by Colonel Harland Sanders",
+    "The exact recipe is a closely guarded trade secret",
+    "KFC has never officially confirmed the full list",
+    "Commonly guessed ingredients include pepper, paprika, garlic and salt",
+    "Security measures protect the original recipe"
+  ],
+
+  "body": [
+    {
+      "heading": "A famous secret recipe",
+      "text": "The '11 herbs and spices' is the seasoning mix Colonel Sanders developed for KFC's Original Recipe fried chicken. It is one of the best-known secret recipes in the world, and KFC treats it as a core trade secret rather than public information."
+    },
+    {
+      "heading": "Why it stays hidden",
+      "text": "KFC protects the recipe carefully. The company has described keeping the original handwritten formula secured, and it is said that no single supplier knows the whole blend, with different parts mixed separately. This secrecy is part of the brand's marketing as well as its recipe protection."
+    },
+    {
+      "heading": "What people think is in it",
+      "text": "Over the years there have been many guesses and leaked lists claiming to reveal the blend, often including everyday seasonings like black and white pepper, paprika, garlic, salt and various herbs. KFC has not officially confirmed any of these, so the precise, authentic 11-ingredient mix remains unverified."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Does KFC reveal its 11 herbs and spices?", "a": "No. KFC keeps the exact recipe a closely guarded secret and has never officially confirmed the full list of ingredients." },
+    { "q": "Who created KFC's secret recipe?", "a": "Colonel Harland Sanders created the 11 herbs and spices blend for KFC's Original Recipe fried chicken." },
+    { "q": "What ingredients are rumored to be in it?", "a": "Common guesses include black and white pepper, paprika, garlic, salt and various herbs, but none of these are officially confirmed by KFC." }
+  ],
+
+  "internal_links": [
+    { "label": "KFC Menu With Prices", "slug": "kfc-menu" },
+    { "label": "Who Owns KFC?", "slug": "who-owns-kfc" },
+    { "label": "Popeyes Menu With Prices", "slug": "popeyes-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "KFC '11 herbs and spices' = Colonel Sanders's secret Original Recipe blend; kept a guarded trade secret, never officially confirmed; recipe-protection measures; rumored ingredients unverified. Consistent with the KFC menu page.",
+    "accuracy": "Deliberately does NOT present any leaked/guessed recipe as fact; frames rumors as unconfirmed. Not time-sensitive.",
+    "keyword_notes": "Volume ~4.4k, strong curiosity + PAA. Paired with the ownership guide and the KFC menu page."
+  }
+}

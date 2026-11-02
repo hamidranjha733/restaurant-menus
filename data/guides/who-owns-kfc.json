@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-kfc",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "KFC",
+  "brand_slug": "kfc-menu",
+  "cover_hint": "Reuse the KFC brand banner / menu hero. Red/white accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns KFC? (2026)",
+    "meta_description": "KFC is owned by Yum! Brands, the same parent as Taco Bell and Pizza Hut. Here's the full ownership story behind Kentucky Fried Chicken.",
+    "h1": "Who Owns KFC?",
+    "primary_keyword": "who owns kfc",
+    "keyword_volume": 3600,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns KFC?",
+
+  "quick_answer": "KFC is owned by Yum! Brands, a publicly traded company that is also the parent of Taco Bell and Pizza Hut. KFC, short for Kentucky Fried Chicken, was founded by Colonel Harland Sanders, who began franchising in the 1950s. It became part of the company now known as Yum! Brands, which was spun off from PepsiCo in 1997.",
+
+  "key_facts": [
+    "Owner: Yum! Brands (publicly traded)",
+    "Sister brands: Taco Bell and Pizza Hut",
+    "Founded by Colonel Harland Sanders",
+    "Franchising began in the 1950s, rooted in Corbin, Kentucky",
+    "Yum! Brands was spun off from PepsiCo in 1997"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns KFC?",
+      "text": "KFC is part of Yum! Brands, one of the largest restaurant companies in the world. Yum! Brands is publicly traded and also owns Taco Bell and Pizza Hut, so KFC shares a parent with those two chains."
+    },
+    {
+      "heading": "Colonel Sanders and the roots",
+      "text": "KFC traces back to Colonel Harland Sanders, who developed his fried chicken recipe and began franchising it in the 1950s from Kentucky. The 'Kentucky Fried Chicken' name and the Colonel's image are still central to the brand. Over the years the company changed hands and eventually landed under PepsiCo's restaurant division."
+    },
+    {
+      "heading": "How it became part of Yum!",
+      "text": "PepsiCo spun off its restaurant business, including KFC, Taco Bell and Pizza Hut, in 1997. That spin-off became Tricon Global Restaurants, later renamed Yum! Brands, which still owns KFC today."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is KFC owned by the same company as Taco Bell?", "a": "Yes. KFC, Taco Bell and Pizza Hut are all owned by Yum! Brands." },
+    { "q": "Did PepsiCo own KFC?", "a": "Yes, in the past. PepsiCo owned KFC before spinning off its restaurants in 1997 into the company now called Yum! Brands." },
+    { "q": "Who founded KFC?", "a": "KFC was founded by Colonel Harland Sanders, who began franchising his Kentucky Fried Chicken recipe in the 1950s." }
+  ],
+
+  "internal_links": [
+    { "label": "KFC Menu With Prices", "slug": "kfc-menu" },
+    { "label": "What Are KFC's 11 Herbs and Spices?", "slug": "kfc-11-herbs-and-spices" },
+    { "label": "Who Owns Taco Bell?", "slug": "who-owns-taco-bell" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "KFC owned by Yum! Brands (also Taco Bell, Pizza Hut); founded by Colonel Harland Sanders, franchising from 1950s Kentucky; PepsiCo spun off restaurants 1997 (Tricon -> Yum! Brands). Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable; consistent with the Taco Bell ownership guide (same parent).",
+    "keyword_notes": "Volume ~3.6k. Paired with the 11-herbs guide and cross-linked to the Taco Bell ownership guide."
+  }
+}

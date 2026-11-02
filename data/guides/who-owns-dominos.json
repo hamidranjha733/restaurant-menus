@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-dominos",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Domino's",
+  "brand_slug": "dominos-menu",
+  "cover_hint": "Reuse the Domino's brand banner / menu hero. Blue/red accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Domino's Pizza? (2026)",
+    "meta_description": "Domino's is an independent, publicly traded company (NYSE: DPZ), owned by its shareholders. Here's the full ownership story.",
+    "h1": "Who Owns Domino's Pizza?",
+    "primary_keyword": "who owns dominos",
+    "keyword_volume": 2900,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Domino's Pizza?",
+
+  "quick_answer": "Domino's Pizza is an independent, publicly traded company listed on the New York Stock Exchange under the ticker DPZ, so it is owned by its shareholders rather than a parent company. It was founded in 1960 by brothers Tom and James Monaghan in Ypsilanti, Michigan. Most Domino's stores are run by franchisees.",
+
+  "key_facts": [
+    "Publicly traded on the NYSE under ticker DPZ",
+    "Owned by its shareholders, no single parent company",
+    "Founded: 1960, Ypsilanti, Michigan",
+    "Founders: Tom and James Monaghan",
+    "Most locations are run by franchisees"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Domino's?",
+      "text": "Domino's Pizza is a public company, owned collectively by its shareholders. It trades on the New York Stock Exchange under the ticker DPZ and is run by its own management and board, not owned by a larger restaurant conglomerate."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Domino's was founded in 1960 by brothers Tom and James Monaghan, who bought a small pizzeria in Ypsilanti, Michigan. Tom Monaghan built it into a delivery-focused chain famous for fast pizza delivery, and the company later went public."
+    },
+    {
+      "heading": "A franchise business",
+      "text": "Most Domino's stores are run by independent franchisees rather than owned directly by the company. Domino's as a corporation earns from franchise fees, supply, and company-owned stores, while local owners handle most day-to-day operations."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Domino's publicly traded?", "a": "Yes. Domino's Pizza trades on the New York Stock Exchange under the ticker DPZ, so it is owned by its shareholders." },
+    { "q": "Who founded Domino's?", "a": "Domino's was founded in 1960 by brothers Tom and James Monaghan in Ypsilanti, Michigan." },
+    { "q": "Does one company own Domino's?", "a": "No. Domino's is an independent public company owned by many shareholders, and most restaurants are run by franchisees." }
+  ],
+
+  "internal_links": [
+    { "label": "Domino's Menu With Prices", "slug": "dominos-menu" },
+    { "label": "Why Did Domino's Change Its Pizza Recipe?", "slug": "why-did-dominos-change-its-recipe" },
+    { "label": "Pizza Hut Menu With Prices", "slug": "pizza-hut-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Domino's independent, public (NYSE: DPZ); founded 1960 Ypsilanti MI by Tom & James Monaghan; mostly franchised. Verified via web Nov 2026.",
+    "accuracy": "Verified and stable.",
+    "keyword_notes": "Volume ~2.9k. Paired with the recipe-change guide and the Pizza Hut menu page."
+  }
+}
