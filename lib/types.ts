@@ -120,7 +120,7 @@ export interface Guide {
   key_facts?: string[];
   body: { heading: string; text: string }[];
   faqs?: Faq[];
-  /** Links to brand menu pages or other guides by slug. Ones that do not exist yet are skipped until they do. */
+  /** Links to brand menu pages, other guides or "calorie-calculator" by slug. Ones that do not exist yet are skipped until they do. */
   internal_links?: { label: string; slug: string }[];
   /** Editorial notes; never rendered. */
   _data_notes?: unknown;

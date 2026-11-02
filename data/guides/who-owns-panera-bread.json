@@ -1,0 +1,74 @@
+{
+  "slug": "who-owns-panera-bread",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Panera Bread",
+  "brand_slug": "panera-menu",
+  "cover_hint": "Reuse the Panera Bread brand banner / menu hero. Green accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+  "seo": {
+    "meta_title": "Who Owns Panera Bread? (2026)",
+    "meta_description": "Panera Bread is owned by JAB Holding, the investment group behind Krispy Kreme and Caribou, which took it private in 2017. Full ownership story.",
+    "h1": "Who Owns Panera Bread?",
+    "primary_keyword": "who owns panera bread",
+    "keyword_volume": 3600,
+    "keyword_kd": 2
+  },
+  "question": "Who Owns Panera Bread?",
+  "quick_answer": "Panera Bread is owned by JAB Holding Company, a private investment group that bought Panera in 2017 for about $7.5 billion and took it private. JAB also backs brands like Krispy Kreme, Caribou Coffee and Peet's. Panera is held within JAB's Panera Brands group and does not currently trade on the stock market.",
+  "key_facts": [
+    "Owner: JAB Holding Company (since 2017)",
+    "JAB took Panera private in a deal worth about $7.5 billion",
+    "Held within the Panera Brands group",
+    "Sister brands include Krispy Kreme, Caribou Coffee and Peet's",
+    "Panera was founded from the Saint Louis Bread Company (1987)"
+  ],
+  "body": [
+    {
+      "heading": "Who owns Panera Bread?",
+      "text": "Panera Bread is owned by JAB Holding Company, a large private investment group. JAB acquired Panera in 2017 in a deal worth roughly $7.5 billion and took the company private, so Panera shares no longer trade publicly. Panera sits inside JAB's Panera Brands group."
+    },
+    {
+      "heading": "The bigger JAB family",
+      "text": "JAB is known for owning coffee and food brands, including Krispy Kreme, Caribou Coffee and Peet's Coffee. That puts Panera among a group of well-known names under the same investment owner, rather than being a standalone public company."
+    },
+    {
+      "heading": "Panera's roots",
+      "text": "Panera grew out of the Saint Louis Bread Company, founded in 1987, which was later acquired and rebranded as Panera Bread. It became known for its bakery-cafe model, soups, sandwiches and salads before JAB bought it in 2017."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Panera Bread publicly traded?",
+      "a": "Not currently. JAB Holding took Panera private in 2017, so it does not trade on a stock exchange."
+    },
+    {
+      "q": "Who bought Panera Bread?",
+      "a": "JAB Holding Company bought Panera Bread in 2017 for about $7.5 billion and took it private."
+    },
+    {
+      "q": "What other brands does JAB own?",
+      "a": "JAB backs brands including Krispy Kreme, Caribou Coffee and Peet's Coffee, alongside Panera."
+    }
+  ],
+  "internal_links": [
+    {
+      "label": "Panera Bread Menu With Prices",
+      "slug": "panera-menu"
+    },
+    {
+      "label": "Is Panera Bread Actually Healthy?",
+      "slug": "is-panera-bread-healthy"
+    },
+    {
+      "label": "Who Owns Krispy Kreme?",
+      "slug": "who-owns-krispy-kreme"
+    }
+  ],
+  "_data_notes": {
+    "fact_source": "Panera owned by JAB Holding (acquired 2017 ~$7.5B, taken private); held within Panera Brands; JAB sister brands Krispy Kreme, Caribou, Peet's; Panera grew from Saint Louis Bread Co (1987) (Food Business News / PYMNTS / Fox). Verified via web Nov 2026.",
+    "accuracy": "Ownership verified; phrased 'not currently public' since JAB has floated IPO plans over the years but Panera remains private as of verification. On import, brand_slug and the menu internal link were changed from 'panera-bread-menu' to 'panera-menu', the slug of the existing Panera page.",
+    "keyword_notes": "Volume ~3.6k. Paired with the 'is Panera healthy' guide and the Panera menu page; cross-links to the Krispy Kreme ownership guide (same owner)."
+  }
+}

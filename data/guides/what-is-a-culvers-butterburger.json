@@ -1,0 +1,64 @@
+{
+  "slug": "what-is-a-culvers-butterburger",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Culver's",
+  "brand_slug": "culvers-menu",
+  "cover_hint": "Reuse the Culver's brand banner / menu hero. Blue accent. Burger close-up if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "What Is a Culver's ButterBurger?",
+    "meta_description": "A Culver's ButterBurger is a fresh beef patty served on a lightly buttered, toasted bun. Here's what makes it different and how to order it.",
+    "h1": "What Is a Culver's ButterBurger?",
+    "primary_keyword": "what is a butterburger",
+    "keyword_volume": 2900,
+    "keyword_kd": 1
+  },
+
+  "question": "What Is a Culver's ButterBurger?",
+
+  "quick_answer": "A ButterBurger is Culver's signature burger: a fresh, never-frozen beef patty served on a bun that has been lightly buttered and toasted on the grill. The butter is on the toasted bun, not drowning the burger, which gives it a soft, slightly rich, golden bun. It is the burger the whole Culver's menu is built around.",
+
+  "key_facts": [
+    "Culver's signature burger",
+    "The bun is lightly buttered and toasted, which gives it the name",
+    "Made with fresh, never-frozen beef",
+    "Patties are cooked to order",
+    "Comes in single, double and triple versions, plus Deluxe and cheese options"
+  ],
+
+  "body": [
+    {
+      "heading": "Where the name comes from",
+      "text": "The 'butter' in ButterBurger refers to the bun, not a stick of butter inside the burger. Culver's lightly butters the crown of the bun and toasts it on the grill, so it comes out soft, golden and a little richer than a plain bun. That toasted, buttered bun is the signature touch."
+    },
+    {
+      "heading": "What is actually in it",
+      "text": "A ButterBurger is built on fresh, never-frozen beef patties that are cooked to order rather than held under a heat lamp. You can order it as a single, double or triple, with cheese, or as a Deluxe with lettuce, tomato, onion and pickle. It is a simple burger done carefully rather than a loaded specialty."
+    },
+    {
+      "heading": "How to order one",
+      "text": "On the Culver's menu, look for the ButterBurger line. The most popular is usually the ButterBurger Cheese or the Deluxe. Many people pair it with Culver's crinkle-cut fries and a scoop of the chain's fresh frozen custard. Check the Culver's menu page for the current options and pricing."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is there butter inside a ButterBurger?", "a": "No. The name comes from the bun, which is lightly buttered and toasted on the grill. The beef patty itself is a standard fresh patty." },
+    { "q": "Is the ButterBurger beef fresh or frozen?", "a": "Culver's uses fresh, never-frozen beef, and the patties are cooked to order." },
+    { "q": "What ButterBurger options are there?", "a": "You can get it as a single, double or triple, with cheese, or as a Deluxe with lettuce, tomato, onion and pickle." }
+  ],
+
+  "internal_links": [
+    { "label": "Culver's Menu With Prices", "slug": "culvers-menu" },
+    { "label": "Who Owns Culver's?", "slug": "who-owns-culvers" },
+    { "label": "In-N-Out Menu With Prices", "slug": "in-n-out-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Culver's ButterBurger = fresh never-frozen beef on a lightly buttered, toasted bun; cooked to order; single/double/triple, cheese, Deluxe options. Consistent with the Culver's menu page.",
+    "accuracy": "Descriptive; clears up the common 'butter inside' misconception. Not time-sensitive.",
+    "keyword_notes": "Volume ~2.9k 'what is a butterburger' + PAA. Paired with the ownership guide and the Culver's menu page."
+  }
+}

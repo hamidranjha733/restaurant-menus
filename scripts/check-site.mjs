@@ -88,7 +88,7 @@ const guideSlugs = new Set(fs.existsSync(GUIDES) ? fs.readdirSync(GUIDES).filter
 for (const slug of guideSlugs) {
   const data = JSON.parse(fs.readFileSync(path.join(GUIDES, `${slug}.json`), "utf8"));
   for (const { slug: link } of data.internal_links ?? [])
-    if (!brandSlugs.has(link) && !guideSlugs.has(link)) pending.set(link, [...(pending.get(link) ?? []), `guide:${slug}`]);
+    if (!brandSlugs.has(link) && !guideSlugs.has(link) && link !== "calorie-calculator") pending.set(link, [...(pending.get(link) ?? []), `guide:${slug}`]);
 }
 
 console.log(`check: ${pages.length} pages, ${brandSlugs.size} brands, ${guideSlugs.size} guides.`);

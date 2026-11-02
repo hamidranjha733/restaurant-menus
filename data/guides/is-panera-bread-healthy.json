@@ -1,0 +1,73 @@
+{
+  "slug": "is-panera-bread-healthy",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Panera Bread",
+  "brand_slug": "panera-menu",
+  "cover_hint": "Reuse the Panera Bread brand banner / menu hero. Green accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+  "seo": {
+    "meta_title": "Is Panera Bread Actually Healthy?",
+    "meta_description": "Panera has plenty of lighter choices, but some items are high in calories, sodium or sugar. Here's how to read the menu and order smart.",
+    "h1": "Is Panera Bread Actually Healthy?",
+    "primary_keyword": "is panera bread healthy",
+    "keyword_volume": 2400,
+    "keyword_kd": 2
+  },
+  "question": "Is Panera Bread Actually Healthy?",
+  "quick_answer": "It depends on what you order. Panera has a reputation for fresh, lighter food and does offer many salads, soups and lean options, but the menu also has items that are high in calories, sodium or sugar, like creamy pastas, big sandwiches, pastries and some drinks. So Panera can be a healthy choice or an indulgent one depending on the exact order.",
+  "key_facts": [
+    "Panera offers many lighter options: salads, broth-based soups, lean proteins",
+    "Some items are high in calories, sodium or sugar",
+    "Portion sizes and add-ons change the numbers a lot",
+    "Panera publishes nutrition information to help you choose"
+  ],
+  "body": [
+    {
+      "heading": "The healthier side of the menu",
+      "text": "Panera built its brand on fresh, made-to-order food, and there are genuinely lighter choices. Salads with lean proteins, broth-based soups, and half-portion options through the pick-two format all make it easy to put together a lighter meal. Many people choose Panera specifically because it feels fresher than typical fast food."
+    },
+    {
+      "heading": "Where it gets heavier",
+      "text": "Not everything on the menu is light. Creamy pasta dishes, large sandwiches on big breads, mac and cheese, pastries and some sweetened or blended drinks can be high in calories, sodium or sugar. Bread bowls and extra dressings add up quickly too. These are fine as a treat, but they are not low-calorie just because they are from Panera."
+    },
+    {
+      "heading": "How to order smart",
+      "text": "Because the range is so wide, the order matters more than the brand. Checking Panera's published nutrition information, choosing broth-based soups or salads, going easy on dressing, and using the pick-two for smaller portions all help. If you want numbers for a specific meal, our calorie tools and the Panera menu page can help you compare."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Panera healthier than fast food?",
+      "a": "It can be. Panera offers many fresh, lighter options, but it also has high-calorie items. The healthiest choice depends on what you order, not just the brand."
+    },
+    {
+      "q": "What are the healthier options at Panera?",
+      "a": "Broth-based soups, salads with lean proteins, and smaller pick-two portions tend to be lighter. Watch dressings, bread bowls and sweetened drinks."
+    },
+    {
+      "q": "Does Panera publish nutrition information?",
+      "a": "Yes. Panera provides nutrition details for its menu, which makes it easier to pick lighter options or track calories."
+    }
+  ],
+  "internal_links": [
+    {
+      "label": "Panera Bread Menu With Prices",
+      "slug": "panera-menu"
+    },
+    {
+      "label": "Who Owns Panera Bread?",
+      "slug": "who-owns-panera-bread"
+    },
+    {
+      "label": "Calorie Calculator",
+      "slug": "calorie-calculator"
+    }
+  ],
+  "_data_notes": {
+    "fact_source": "General, honest nutrition framing: Panera offers lighter salads/soups/lean options but also high-calorie/sodium/sugar items; nutrition info published by Panera. No specific calorie numbers invented; directs users to Panera's own nutrition data and the site's menu/calculator.",
+    "accuracy": "Deliberately balanced, non-prescriptive; no invented figures, no medical/diet claims. Not time-sensitive. On import, brand_slug and the menu internal link were changed from 'panera-bread-menu' to 'panera-menu', the slug of the existing Panera page.",
+    "keyword_notes": "Volume ~2.4k 'is panera healthy' + strong PAA. Paired with the ownership guide, the Panera menu page, and the site's calorie calculator."
+  }
+}

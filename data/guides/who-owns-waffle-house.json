@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-waffle-house",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Waffle House",
+  "brand_slug": "waffle-house-menu",
+  "cover_hint": "Reuse the Waffle House brand banner / menu hero. Yellow accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Waffle House? (2026)",
+    "meta_description": "Waffle House is privately owned by the Rogers family, who co-founded it in 1955. It has never gone public. Here's the ownership story.",
+    "h1": "Who Owns Waffle House?",
+    "primary_keyword": "who owns waffle house",
+    "keyword_volume": 4400,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Waffle House?",
+
+  "quick_answer": "Waffle House is privately owned and has been family-run since it started. It was co-founded in 1955 in Avondale Estates, Georgia, by Joe Rogers Sr. and Tom Forkner, and the Rogers family has kept it private ever since. It does not trade on a stock exchange, so there are no public shares.",
+
+  "key_facts": [
+    "Founded: 1955, Avondale Estates, Georgia",
+    "Co-founders: Joe Rogers Sr. and Tom Forkner",
+    "Privately owned, mainly by the Rogers family",
+    "Never gone public",
+    "Headquartered in the Atlanta, Georgia area"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Waffle House?",
+      "text": "Waffle House is a private, family-controlled company. It has stayed in the hands of its founding families, led by the Rogers family, rather than selling to outside investors or listing on the stock market. That is why you cannot buy Waffle House stock."
+    },
+    {
+      "heading": "How it started",
+      "text": "The first Waffle House opened in 1955 in Avondale Estates, Georgia, started by neighbors Joe Rogers Sr. and Tom Forkner. Rogers came from the restaurant side and Forkner from real estate, and together they built a 24-hour diner concept that spread across the American South."
+    },
+    {
+      "heading": "Still private today",
+      "text": "Decades later, Waffle House remains privately held and family-led, with its headquarters in the Atlanta area. Staying private has let the company keep its own culture, including the always-open model it is famous for."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Waffle House publicly traded?", "a": "No. Waffle House is privately owned by its founding families, led by the Rogers family, and has never gone public." },
+    { "q": "Who founded Waffle House?", "a": "Waffle House was co-founded in 1955 by Joe Rogers Sr. and Tom Forkner in Avondale Estates, Georgia." },
+    { "q": "Is Waffle House still family owned?", "a": "Yes. It remains a private, family-controlled company led by the Rogers family." }
+  ],
+
+  "internal_links": [
+    { "label": "Waffle House Menu With Prices", "slug": "waffle-house-menu" },
+    { "label": "Why Is Waffle House Always Open?", "slug": "why-is-waffle-house-always-open" },
+    { "label": "IHOP Menu With Prices", "slug": "ihop-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Waffle House privately owned, family-led (Rogers family); co-founded 1955 Avondale Estates GA by Joe Rogers Sr. & Tom Forkner; never public; HQ Atlanta area (Chowhound / Tasting Table / Wikipedia). Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable.",
+    "keyword_notes": "Volume ~4.4k. Paired with the always-open guide and the Waffle House menu page."
+  }
+}

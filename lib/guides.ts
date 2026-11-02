@@ -8,6 +8,9 @@ const DATE_RE = /^\d{4}-\d{2}(-\d{2})?$/;
 const SLUG_RE = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 
 export const GUIDES_BASE = "/guides";
+
+/** Link slugs that point at a site feature rather than a brand or guide. */
+export const FEATURE_LINKS: Record<string, string> = { "calorie-calculator": "/#calorie-calculator" };
 export const guidePath = (slug: string) => `${GUIDES_BASE}/${slug}/`;
 
 /** Checks a guide file and returns every problem found; the build fails on any of them. */
@@ -77,6 +80,7 @@ export function getGuidesForBrand(brandSlug: string): Guide[] {
 export function resolveGuideLinks(guide: Guide): { label: string; href: string }[] {
   return (guide.internal_links ?? []).flatMap((l) => {
     if (l.slug === guide.slug) return [];
+    if (FEATURE_LINKS[l.slug]) return [{ label: l.label, href: FEATURE_LINKS[l.slug] }];
     if (getBrand(l.slug)) return [{ label: l.label, href: brandPath(l.slug) }];
     if (getGuide(l.slug)) return [{ label: l.label, href: guidePath(l.slug) }];
     return [];
