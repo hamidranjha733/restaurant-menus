@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-cava",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "CAVA",
+  "brand_slug": "cava-menu",
+  "cover_hint": "Reuse the CAVA brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns CAVA? (2026)",
+    "meta_description": "CAVA is a publicly traded company (NYSE: CAVA) that went public in 2023 and also acquired Zoes Kitchen. Here's the full ownership story.",
+    "h1": "Who Owns CAVA?",
+    "primary_keyword": "who owns cava",
+    "keyword_volume": 1300,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns CAVA?",
+
+  "quick_answer": "CAVA is an independent, publicly traded company listed on the New York Stock Exchange under the ticker CAVA, so it is owned by its shareholders. It started as a Mediterranean restaurant founded by friends in the Washington, D.C. area, grew as a fast-casual brand, acquired Zoes Kitchen in 2018, and went public in 2023.",
+
+  "key_facts": [
+    "Publicly traded on the NYSE under ticker CAVA",
+    "Owned by its shareholders",
+    "Started as a Mediterranean restaurant in the Washington, D.C. area",
+    "Acquired Zoes Kitchen in 2018",
+    "Went public in 2023"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns CAVA?",
+      "text": "CAVA is a public company, owned collectively by its shareholders. It trades on the New York Stock Exchange under the ticker CAVA and is run by its own management and board, rather than being owned by a larger parent company."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "CAVA began as a Mediterranean restaurant founded by a group of friends in the Washington, D.C. area. It grew into a fast-casual chain built around customizable Mediterranean bowls and pitas, with fresh ingredients, dips and spreads."
+    },
+    {
+      "heading": "Growth and going public",
+      "text": "CAVA acquired the Mediterranean chain Zoes Kitchen in 2018, which helped it expand quickly by converting locations. In 2023 it held its initial public offering, becoming a publicly traded company owned by its shareholders."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is CAVA publicly traded?", "a": "Yes. CAVA trades on the New York Stock Exchange under the ticker CAVA, so it is owned by its shareholders." },
+    { "q": "Did CAVA buy Zoes Kitchen?", "a": "Yes. CAVA acquired Zoes Kitchen in 2018, which helped it expand its footprint." },
+    { "q": "When did CAVA go public?", "a": "CAVA held its initial public offering in 2023." }
+  ],
+
+  "internal_links": [
+    { "label": "CAVA Menu With Prices", "slug": "cava-menu" },
+    { "label": "Is CAVA Actually Healthy?", "slug": "is-cava-healthy" },
+    { "label": "Chipotle Menu With Prices", "slug": "chipotle-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "CAVA independent, public (NYSE: CAVA); Mediterranean fast-casual from Washington D.C. area; acquired Zoes Kitchen 2018; IPO 2023. Verified via web Nov 2026.",
+    "accuracy": "Verified and stable.",
+    "keyword_notes": "Volume ~1.3k, growing brand interest. Paired with the 'is CAVA healthy' guide and cross-linked to Chipotle (fast-casual comparison)."
+  }
+}

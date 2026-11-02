@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-sweetgreen",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Sweetgreen",
+  "brand_slug": "sweetgreen-menu",
+  "cover_hint": "Reuse the Sweetgreen brand banner / menu hero. Green accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Sweetgreen? (2026)",
+    "meta_description": "Sweetgreen is a publicly traded company (NYSE: SG) founded by three college friends and taken public in 2021. Here's the ownership story.",
+    "h1": "Who Owns Sweetgreen?",
+    "primary_keyword": "who owns sweetgreen",
+    "keyword_volume": 1000,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Sweetgreen?",
+
+  "quick_answer": "Sweetgreen is an independent, publicly traded company listed on the New York Stock Exchange under the ticker SG, so it is owned by its shareholders. It was founded in 2007 by three Georgetown University friends, Nicolas Jammet, Jonathan Neman and Nathaniel Ru, and went public in 2021.",
+
+  "key_facts": [
+    "Publicly traded on the NYSE under ticker SG",
+    "Owned by its shareholders",
+    "Founded: 2007 by three Georgetown University friends",
+    "Founders: Nicolas Jammet, Jonathan Neman and Nathaniel Ru",
+    "Went public in 2021"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Sweetgreen?",
+      "text": "Sweetgreen is a public company, owned collectively by its shareholders. It trades on the New York Stock Exchange under the ticker SG. The founders remain closely associated with the company and its leadership, but as a public company it is owned by its shareholders rather than any one person."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Sweetgreen was founded in 2007 by three Georgetown University friends, Nicolas Jammet, Jonathan Neman and Nathaniel Ru, who opened a small salad shop in Washington, D.C. It grew into a fast-casual chain focused on salads, grain bowls and seasonal, locally sourced ingredients."
+    },
+    {
+      "heading": "Going public",
+      "text": "Sweetgreen held its initial public offering in 2021, becoming a publicly traded company. Since then its ownership has been spread among public shareholders, while it continues to expand and invest in technology and new store formats."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Sweetgreen publicly traded?", "a": "Yes. Sweetgreen trades on the New York Stock Exchange under the ticker SG, so it is owned by its shareholders." },
+    { "q": "Who founded Sweetgreen?", "a": "Sweetgreen was founded in 2007 by three Georgetown University friends: Nicolas Jammet, Jonathan Neman and Nathaniel Ru." },
+    { "q": "When did Sweetgreen go public?", "a": "Sweetgreen held its initial public offering in 2021." }
+  ],
+
+  "internal_links": [
+    { "label": "Sweetgreen Menu With Prices", "slug": "sweetgreen-menu" },
+    { "label": "Who Owns CAVA?", "slug": "who-owns-cava" },
+    { "label": "Chipotle Menu With Prices", "slug": "chipotle-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Sweetgreen independent, public (NYSE: SG); founded 2007 Washington D.C. by Georgetown friends Nicolas Jammet, Jonathan Neman, Nathaniel Ru; IPO 2021. Verified via web Nov 2026.",
+    "accuracy": "Verified and stable.",
+    "keyword_notes": "Volume ~1k. Cross-links to the CAVA ownership guide (fast-casual peers) and Chipotle menu page."
+  }
+}

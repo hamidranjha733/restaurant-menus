@@ -1,0 +1,64 @@
+{
+  "slug": "best-wingstop-flavors",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Wingstop",
+  "brand_slug": "wingstop-menu",
+  "cover_hint": "Reuse the Wingstop brand banner / menu hero. Wings close-up if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "What Are the Best Wingstop Flavors?",
+    "meta_description": "Wingstop has 11 wing flavors from mild to extra hot. Here are the most popular fan favorites and how to pick the right heat level.",
+    "h1": "What Are the Best Wingstop Flavors?",
+    "primary_keyword": "best wingstop flavors",
+    "keyword_volume": 3600,
+    "keyword_kd": 1
+  },
+
+  "question": "What Are the Best Wingstop Flavors?",
+
+  "quick_answer": "Wingstop offers around 11 wing flavors ranging from mild to very hot. The most popular fan favorites tend to be Lemon Pepper, Garlic Parmesan, Louisiana Rub, Hickory Smoked BBQ and the Original Hot. The 'best' one really depends on whether you want dry-rub or saucy, and how much heat you can handle.",
+
+  "key_facts": [
+    "Wingstop has about 11 wing flavors",
+    "Flavors range from mild to extra hot",
+    "Popular dry rubs: Lemon Pepper, Louisiana Rub, Garlic Parmesan",
+    "Popular sauces: Hickory Smoked BBQ, Original Hot, Mango Habanero",
+    "Atomic is the hottest standard flavor"
+  ],
+
+  "body": [
+    {
+      "heading": "The fan favorites",
+      "text": "A few flavors come up again and again as crowd-pleasers. Lemon Pepper is a classic dry rub that many regulars swear by. Garlic Parmesan is a milder, savory favorite. Louisiana Rub gives mild heat with flavor, Hickory Smoked BBQ is a sweet, saucy pick, and the Original Hot is the go-to for classic buffalo-style heat."
+    },
+    {
+      "heading": "Dry rub vs sauce",
+      "text": "Wingstop flavors come as either dry rubs or wet sauces. Dry rubs like Lemon Pepper and Louisiana Rub keep the wing crispier, while sauces like Original Hot, Hickory Smoked BBQ and Mango Habanero coat the wing in flavor. Many people order a couple of different flavors to get both styles in one meal."
+    },
+    {
+      "heading": "Picking your heat level",
+      "text": "If you want mild, try Garlic Parmesan, Hawaiian or Lemon Pepper. For medium heat, Louisiana Rub or Original Hot work well. For serious spice, Mango Habanero and then Atomic are the hottest standard options. Starting milder and working up is a safe way to find your favorite."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What is the most popular Wingstop flavor?", "a": "Lemon Pepper is one of the most popular, along with Garlic Parmesan, Louisiana Rub, Hickory Smoked BBQ and the Original Hot." },
+    { "q": "What is the hottest Wingstop flavor?", "a": "Atomic is the hottest standard flavor, with Mango Habanero as the next step down in heat." },
+    { "q": "How many flavors does Wingstop have?", "a": "Wingstop offers around 11 wing flavors, ranging from mild dry rubs to very hot sauces." }
+  ],
+
+  "internal_links": [
+    { "label": "Wingstop Menu With Prices", "slug": "wingstop-menu" },
+    { "label": "Who Owns Wingstop?", "slug": "who-owns-wingstop" },
+    { "label": "Buffalo Wild Wings Menu With Prices", "slug": "buffalo-wild-wings-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Wingstop ~11 flavors, mild to hot; popular: Lemon Pepper, Garlic Parmesan, Louisiana Rub, Hickory Smoked BBQ, Original Hot, Mango Habanero; Atomic hottest. Consistent with the Wingstop menu page.",
+    "accuracy": "Framed as 'popular fan favorites' and heat guidance rather than Claude's personal ranking; descriptive. Flavor lineup can change, so phrased generally.",
+    "keyword_notes": "Volume ~3.6k, high-intent 'best flavors' + PAA. Paired with the ownership guide and the Wingstop menu page."
+  }
+}

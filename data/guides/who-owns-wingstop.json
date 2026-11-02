@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-wingstop",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Wingstop",
+  "brand_slug": "wingstop-menu",
+  "cover_hint": "Reuse the Wingstop brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Wingstop? (2026)",
+    "meta_description": "Wingstop is a publicly traded company (NASDAQ: WING), owned by its shareholders. Here's the full ownership story behind the wing chain.",
+    "h1": "Who Owns Wingstop?",
+    "primary_keyword": "who owns wingstop",
+    "keyword_volume": 1900,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Wingstop?",
+
+  "quick_answer": "Wingstop is an independent, publicly traded company listed on the NASDAQ under the ticker WING, so it is owned by its shareholders rather than a parent company. It was founded in 1994 in Garland, Texas, and went public in 2015. Almost all Wingstop locations are run by franchisees.",
+
+  "key_facts": [
+    "Publicly traded on the NASDAQ under ticker WING",
+    "Owned by its shareholders",
+    "Founded: 1994, Garland, Texas",
+    "Went public in 2015",
+    "Overwhelmingly franchised"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Wingstop?",
+      "text": "Wingstop is a public company, owned collectively by its shareholders. It trades on the NASDAQ stock exchange under the ticker WING and is run by its own management and board, not owned by a larger restaurant group."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Wingstop was founded in 1994 in Garland, Texas, built around cooked-to-order wings in a range of flavors. It grew steadily and held its initial public offering in 2015, becoming a publicly traded company."
+    },
+    {
+      "heading": "A franchise model",
+      "text": "The vast majority of Wingstop restaurants are run by independent franchisees rather than owned directly by the company. Wingstop as a corporation focuses on the brand, menu and supply, while local owners handle day-to-day operations."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Wingstop publicly traded?", "a": "Yes. Wingstop trades on the NASDAQ under the ticker WING, so it is owned by its shareholders." },
+    { "q": "Where was Wingstop founded?", "a": "Wingstop was founded in 1994 in Garland, Texas." },
+    { "q": "When did Wingstop go public?", "a": "Wingstop held its initial public offering in 2015." }
+  ],
+
+  "internal_links": [
+    { "label": "Wingstop Menu With Prices", "slug": "wingstop-menu" },
+    { "label": "What Are the Best Wingstop Flavors?", "slug": "best-wingstop-flavors" },
+    { "label": "Buffalo Wild Wings Menu With Prices", "slug": "buffalo-wild-wings-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Wingstop independent, public (NASDAQ: WING); founded 1994 Garland TX; IPO 2015; overwhelmingly franchised. Verified via web Nov 2026.",
+    "accuracy": "Verified and stable.",
+    "keyword_notes": "Volume ~1.9k. Paired with the flavors guide and the Wingstop menu page."
+  }
+}

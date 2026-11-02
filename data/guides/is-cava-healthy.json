@@ -1,0 +1,63 @@
+{
+  "slug": "is-cava-healthy",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "CAVA",
+  "brand_slug": "cava-menu",
+  "cover_hint": "Reuse the CAVA brand banner / menu hero. Mediterranean bowl close-up if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Is CAVA Actually Healthy?",
+    "meta_description": "CAVA can be a healthy Mediterranean meal, but calories add up fast with dressings, dips and pita. Here's how to build a lighter bowl.",
+    "h1": "Is CAVA Actually Healthy?",
+    "primary_keyword": "is cava healthy",
+    "keyword_volume": 1900,
+    "keyword_kd": 1
+  },
+
+  "question": "Is CAVA Actually Healthy?",
+
+  "quick_answer": "CAVA can be a healthy choice because it is built on Mediterranean ingredients like greens, grains, vegetables, lean proteins, hummus and olive oil. But it is not automatically light. A loaded bowl with several dressings, dips, pita and extra toppings can climb high in calories and sodium. So how healthy it is depends on how you build your bowl.",
+
+  "key_facts": [
+    "Based on Mediterranean ingredients: greens, grains, veg, lean protein, hummus",
+    "Can be very balanced, or heavy depending on add-ons",
+    "Dressings, dips, cheese and pita add the most calories and sodium",
+    "CAVA provides nutrition information to help you choose"
+  ],
+
+  "body": [
+    {
+      "heading": "The healthy foundation",
+      "text": "CAVA's menu is rooted in Mediterranean-style eating, which is widely considered one of the healthier patterns. You can build a bowl with greens or grains, plenty of vegetables, a lean protein like grilled chicken, and items like hummus, which makes it easy to put together a balanced, nutritious meal."
+    },
+    {
+      "heading": "Where the calories add up",
+      "text": "The number can rise quickly depending on your choices. Multiple creamy dressings, several dips and spreads, cheese, extra toppings and a side of pita all add calories and sodium. A heavily loaded bowl can end up much richer than it looks, so the base ingredients being healthy does not guarantee a light meal."
+    },
+    {
+      "heading": "How to build a lighter bowl",
+      "text": "To keep it lighter, start with greens or a mix of greens and grains, add a lean protein, load up on vegetables, and go easier on the creamy dressings and multiple dips. Checking CAVA's nutrition information helps, and our menu and calorie tools can help you compare specific bowls."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is a CAVA bowl good for you?", "a": "It can be. Built on greens, grains, vegetables and lean protein it is balanced, but adding several dressings, dips, cheese and pita raises the calories and sodium." },
+    { "q": "What makes a CAVA bowl unhealthy?", "a": "Mainly the extras: multiple creamy dressings, lots of dips, cheese, extra toppings and pita can add up to a heavy, high-sodium meal." },
+    { "q": "Does CAVA have nutrition information?", "a": "Yes. CAVA provides nutrition details, which makes it easier to build a lighter bowl or track calories." }
+  ],
+
+  "internal_links": [
+    { "label": "CAVA Menu With Prices", "slug": "cava-menu" },
+    { "label": "Who Owns CAVA?", "slug": "who-owns-cava" },
+    { "label": "Calorie Calculator", "slug": "calorie-calculator" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "CAVA Mediterranean fast-casual; healthy base (greens/grains/veg/lean protein/hummus) but dressings/dips/cheese/pita raise calories+sodium; nutrition info published. No specific numbers invented; points to CAVA nutrition data and the site's calculator.",
+    "accuracy": "Balanced, non-prescriptive; no invented figures, no diet/medical claims. Not time-sensitive.",
+    "keyword_notes": "Volume ~1.9k 'is cava healthy' + PAA. Paired with the ownership guide, the CAVA menu page and the calorie calculator."
+  }
+}

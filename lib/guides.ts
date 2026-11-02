@@ -25,7 +25,7 @@ function validate(g: Guide, file: string): string[] {
   need(g.category, "category is required");
   need(g.brand, "brand is required");
   need(typeof g.brand_slug === "string", 'brand_slug is required ("" if the brand has no menu page)');
-  if (g.brand_slug) need(getBrand(g.brand_slug), `brand_slug "${g.brand_slug}" has no file in data/brands`);
+  if (g.brand_slug) need(SLUG_RE.test(g.brand_slug), "brand_slug must be lowercase-kebab-case");
   need(g.byline, "byline is required");
   need(DATE_RE.test(g.last_updated ?? ""), "last_updated must be YYYY-MM or YYYY-MM-DD");
   need(g.seo?.meta_title && g.seo.meta_title.length <= 60, `seo.meta_title must be 1-60 chars (is ${g.seo?.meta_title?.length ?? 0})`);

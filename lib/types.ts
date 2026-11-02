@@ -100,7 +100,10 @@ export interface Guide {
   /** Shown as the eyebrow label, e.g. "Restaurant Guides". */
   category: string;
   brand: string;
-  /** The brand's menu page slug, e.g. "krispy-kreme-menu", or "" when there is none. Its hero image is reused as the banner. */
+  /**
+   * The brand's menu page slug, e.g. "krispy-kreme-menu", or "" when there is none. Its hero image is reused as the banner.
+   * It may name a brand not added yet: the guide then has a plain header until data/brands/<slug>.json exists.
+   */
   brand_slug: string;
   /** Editorial note about the cover; never rendered. */
   cover_hint?: string;

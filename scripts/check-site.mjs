@@ -87,6 +87,7 @@ const GUIDES = path.join(process.cwd(), "data", "guides");
 const guideSlugs = new Set(fs.existsSync(GUIDES) ? fs.readdirSync(GUIDES).filter((f) => f.endsWith(".json")).map((f) => f.replace(/\.json$/, "")) : []);
 for (const slug of guideSlugs) {
   const data = JSON.parse(fs.readFileSync(path.join(GUIDES, `${slug}.json`), "utf8"));
+  if (data.brand_slug && !brandSlugs.has(data.brand_slug)) pending.set(data.brand_slug, [...(pending.get(data.brand_slug) ?? []), `guide:${slug} (brand_slug)`]);
   for (const { slug: link } of data.internal_links ?? [])
     if (!brandSlugs.has(link) && !guideSlugs.has(link) && link !== "calorie-calculator") pending.set(link, [...(pending.get(link) ?? []), `guide:${slug}`]);
 }

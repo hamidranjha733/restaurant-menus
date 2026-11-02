@@ -42,7 +42,7 @@ function guideJsonLd(g: Guide) {
       author: { "@type": "Organization", name: g.byline },
       publisher: { "@type": "Organization", name: SITE_NAME, url: `${DOMAIN}/` },
       about: { "@type": "Organization", name: g.brand },
-      ...(g.brand_slug ? { mentions: { "@type": "WebPage", url: absoluteUrl(brandPath(g.brand_slug)) } } : {}),
+      ...(g.brand_slug && getBrand(g.brand_slug) ? { mentions: { "@type": "WebPage", url: absoluteUrl(brandPath(g.brand_slug)) } } : {}),
     },
     { ...breadcrumbJsonLd(crumbsFor(g)), "@id": `${url}#breadcrumb` },
   ];
