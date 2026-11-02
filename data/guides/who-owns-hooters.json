@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-hooters",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Hooters",
+  "brand_slug": "hooters-menu",
+  "cover_hint": "Reuse the Hooters brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Hooters? (2026)",
+    "meta_description": "Hooters of America filed for bankruptcy in 2025 and agreed to hand its company-owned restaurants to a group led by some of the brand's original founders.",
+    "h1": "Who Owns Hooters?",
+    "primary_keyword": "who owns hooters",
+    "keyword_volume": 2900,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Hooters?",
+
+  "quick_answer": "Hooters' ownership changed in 2025. Hooters of America filed for Chapter 11 bankruptcy in March 2025 and agreed to hand its company-owned restaurants to a franchisee group that includes some of the brand's original founders. Before that, Hooters of America had been owned by investment firms Nord Bay Capital and TriArtisan Capital Advisors. Hooters was founded in 1983 in Clearwater, Florida.",
+
+  "key_facts": [
+    "Founded: 1983, Clearwater, Florida",
+    "Founded by a group known as the 'Hooters Six'",
+    "Hooters of America filed Chapter 11 bankruptcy in March 2025",
+    "Company restaurants to be taken over by a founder-led franchisee group",
+    "Previous owners: Nord Bay Capital and TriArtisan Capital Advisors"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Hooters now?",
+      "text": "In March 2025, Hooters of America filed for Chapter 11 bankruptcy protection to restructure its debts. As part of the plan, the company agreed to sell its company-owned restaurants to a franchisee group that includes some of Hooters' original founders, who already operate many of the brand's franchised locations. In effect, the brand is being handed back toward founder-led ownership."
+    },
+    {
+      "heading": "Who owned Hooters before?",
+      "text": "Before the 2025 bankruptcy, Hooters of America was owned by two investment firms, Nord Bay Capital and TriArtisan Capital Advisors, which had acquired it around 2019. The bankruptcy was driven by debt and tougher conditions for casual-dining chains, not by the brand disappearing."
+    },
+    {
+      "heading": "The brand's roots",
+      "text": "Hooters opened its first restaurant in 1983 in Clearwater, Florida, started by a group of six businessmen often called the 'Hooters Six.' The founders' group that is taking over company restaurants is tied to that original ownership lineage."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Did Hooters go bankrupt?", "a": "Yes. Hooters of America filed for Chapter 11 bankruptcy in March 2025 to restructure its debt. It is being reorganized, with company-owned restaurants moving to a founder-led franchisee group." },
+    { "q": "Who owned Hooters before the bankruptcy?", "a": "Before 2025, Hooters of America was owned by investment firms Nord Bay Capital and TriArtisan Capital Advisors, which had acquired it around 2019." },
+    { "q": "When was Hooters founded?", "a": "Hooters was founded in 1983 in Clearwater, Florida, by a group of six businessmen known as the 'Hooters Six.'" }
+  ],
+
+  "internal_links": [
+    { "label": "Hooters Menu With Prices", "slug": "hooters-menu" },
+    { "label": "Is Hooters Going Out of Business?", "slug": "is-hooters-going-out-of-business" },
+    { "label": "Buffalo Wild Wings Menu With Prices", "slug": "buffalo-wild-wings-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Hooters of America filed Chapter 11 March 31, 2025; plan to sell company-owned restaurants to a founder-led franchisee group; prior owners Nord Bay Capital & TriArtisan Capital Advisors (ABC News / KRDO). Founded 1983 Clearwater FL ('Hooters Six'). Verified via web Nov 2026.",
+    "accuracy": "TIME-SENSITIVE: bankruptcy and restructuring ongoing in 2025-26; phrased around the filing and the agreed plan rather than a finalized owner. Re-verify as the Chapter 11 process concludes.",
+    "keyword_notes": "Volume 2.9k, high interest due to the 2025 bankruptcy. Paired with the 'is Hooters going out of business' guide and the Hooters menu page."
+  }
+}

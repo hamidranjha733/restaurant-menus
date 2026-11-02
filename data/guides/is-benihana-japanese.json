@@ -1,0 +1,63 @@
+{
+  "slug": "is-benihana-japanese",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Benihana",
+  "brand_slug": "benihana-menu",
+  "cover_hint": "Reuse the Benihana brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Is Benihana Actually Japanese? (2026)",
+    "meta_description": "Benihana serves Japanese-style teppanyaki and was founded by a Japanese immigrant, but it is an American company. Here's the real story behind the brand.",
+    "h1": "Is Benihana Actually Japanese?",
+    "primary_keyword": "is benihana japanese",
+    "keyword_volume": 1600,
+    "keyword_kd": 1
+  },
+
+  "question": "Is Benihana Actually Japanese?",
+
+  "quick_answer": "Benihana serves Japanese-style teppanyaki and was founded by a Japanese immigrant, Rocky Aoki, so its food and the tableside cooking show are genuinely Japanese-inspired. But Benihana itself is an American company, founded and based in the US and today owned by the American firm The ONE Group Hospitality. So the style is Japanese; the chain is American.",
+
+  "key_facts": [
+    "Founded in 1964 in New York City by Japanese immigrant Rocky Aoki",
+    "Serves Japanese-style teppanyaki (hibachi) cooked tableside",
+    "An American company, based and grown in the US",
+    "Now owned by The ONE Group Hospitality (a US company)"
+  ],
+
+  "body": [
+    {
+      "heading": "The food and style are Japanese-inspired",
+      "text": "Benihana is built on teppanyaki, a Japanese style of cooking on a flat iron grill, which Americans often call hibachi. The knife tricks, the onion volcano and the tableside show all come from that tradition, and the menu leans on Japanese dishes like hibachi steak, yakisoba and a full sushi bar."
+    },
+    {
+      "heading": "But the company is American",
+      "text": "Benihana was founded in New York City in 1964 by Hiroaki 'Rocky' Aoki, a Japanese immigrant and former wrestler, who built it into a US chain. It grew as an American company, so while its roots and its founder are Japanese, Benihana is not a chain imported from Japan. It is an American take on Japanese teppanyaki dining."
+    },
+    {
+      "heading": "Who owns it today",
+      "text": "Benihana is now owned by The ONE Group Hospitality, a US restaurant company, which bought Benihana's parent in 2024. That reinforces the picture: Japanese-inspired food and experience, run by an American company."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Benihana a Japanese company?", "a": "No. Benihana is an American company, though it was founded by a Japanese immigrant (Rocky Aoki) and serves Japanese-style teppanyaki. It is now owned by the US firm The ONE Group Hospitality." },
+    { "q": "What kind of food does Benihana serve?", "a": "Benihana serves Japanese-style teppanyaki (often called hibachi), cooked at your table, plus a full sushi menu, soups, salads and appetizers." },
+    { "q": "Is hibachi the same as teppanyaki?", "a": "In the US the terms are used interchangeably. Benihana's tableside cooking on a flat iron grill is technically teppanyaki, which Americans commonly call hibachi." }
+  ],
+
+  "internal_links": [
+    { "label": "Benihana Menu With Prices", "slug": "benihana-menu" },
+    { "label": "Who Owns Benihana?", "slug": "who-owns-benihana" },
+    { "label": "Sakura Japanese Steakhouse Menu", "slug": "sakura-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Benihana = Japanese-style teppanyaki founded 1964 NYC by Japanese immigrant Rocky Aoki; American company, now owned by The ONE Group Hospitality (US). Consistent with the Benihana menu page.",
+    "accuracy": "Nuanced 'Japanese style, American company' framing; accurate and not time-sensitive beyond ownership.",
+    "keyword_notes": "Volume 1.6k curiosity question + PAA. Paired with the ownership guide and the Benihana menu page."
+  }
+}

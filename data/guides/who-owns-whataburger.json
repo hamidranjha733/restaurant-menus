@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-whataburger",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Whataburger",
+  "brand_slug": "whataburger-menu",
+  "cover_hint": "Reuse the Whataburger brand banner / menu hero. Orange accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Whataburger? (2026)",
+    "meta_description": "Whataburger is majority-owned by BDT & MSD Partners, which bought a controlling stake from the founding Dobson family in 2019. Here's the full story.",
+    "h1": "Who Owns Whataburger?",
+    "primary_keyword": "who owns whataburger",
+    "keyword_volume": 4400,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Whataburger?",
+
+  "quick_answer": "Whataburger is majority-owned by BDT & MSD Partners (formerly BDT Capital Partners), a Chicago-based merchant bank that bought a controlling stake from the founding Dobson family in 2019. The Dobson family kept a minority stake, and the headquarters stays in San Antonio, Texas. Whataburger was founded in 1950 in Corpus Christi, Texas.",
+
+  "key_facts": [
+    "Founded: 1950, Corpus Christi, Texas",
+    "Founders: Harmon Dobson and Paul Burton",
+    "Majority owner: BDT & MSD Partners (since 2019)",
+    "Founding Dobson family retains a minority stake",
+    "Headquarters: San Antonio, Texas"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Whataburger now?",
+      "text": "Whataburger is controlled by BDT & MSD Partners, a Chicago merchant bank (previously named BDT Capital Partners). In 2019 the founding Dobson family sold a majority stake to BDT, ending roughly seven decades of full family ownership. The family kept a minority stake and the brand stayed Texas-headquartered."
+    },
+    {
+      "heading": "From a Texas stand to a Southern icon",
+      "text": "Whataburger was founded in 1950 in Corpus Christi, Texas, by Harmon Dobson and Paul Burton. It grew into a beloved Southern chain known for its orange-and-white A-frame buildings, made-to-order burgers on a five-inch bun, and being open around the clock. The 2019 investment was aimed at funding faster growth."
+    },
+    {
+      "heading": "What the sale changed",
+      "text": "For customers, Whataburger's menu and its Texas identity stayed the same after the 2019 deal. The new majority owner brought capital to expand Whataburger beyond its traditional Texas-and-South base into new states, which is why you now see it opening in markets where it was never available before."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Whataburger still family-owned?", "a": "Only partly. The founding Dobson family sold a majority stake to BDT Capital Partners (now BDT & MSD Partners) in 2019 and kept a minority stake. The majority owner is now the investment firm." },
+    { "q": "Where is Whataburger headquartered?", "a": "Whataburger is headquartered in San Antonio, Texas, and it kept its Texas base after the 2019 majority-stake sale." },
+    { "q": "When was Whataburger founded?", "a": "Whataburger was founded in 1950 in Corpus Christi, Texas, by Harmon Dobson and Paul Burton." }
+  ],
+
+  "internal_links": [
+    { "label": "Whataburger Menu With Prices", "slug": "whataburger-menu" },
+    { "label": "Is Whataburger Only in Texas?", "slug": "is-whataburger-only-in-texas" },
+    { "label": "The Habit Burger Grill Menu With Prices", "slug": "habit-burger-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Dobson family sold majority stake to BDT Capital Partners in 2019 (Restaurant Business / Houston CultureMap / QSR); BDT now BDT & MSD Partners; HQ San Antonio. Founded 1950 Corpus Christi TX by Harmon Dobson & Paul Burton. Verified via web Nov 2026.",
+    "accuracy": "Majority-owner change verified. Family retains minority; re-verify if stakes change.",
+    "keyword_notes": "Volume 4.4k. Paired with the 'is Whataburger only in Texas' guide and the Whataburger menu page."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "bonefish-grill-bang-bang-shrimp",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Bonefish Grill",
+  "brand_slug": "bonefish-grill-menu",
+  "cover_hint": "Reuse the Bonefish Grill brand banner / menu hero. Shrimp appetizer close-up if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "What Is Bonefish Grill's Bang Bang Shrimp?",
+    "meta_description": "Bang Bang Shrimp is Bonefish Grill's signature appetizer: crispy shrimp tossed in a creamy, spicy sauce. Here's what's in it and what it costs.",
+    "h1": "What Is Bonefish Grill's Bang Bang Shrimp?",
+    "primary_keyword": "bang bang shrimp bonefish grill",
+    "keyword_volume": 4400,
+    "keyword_kd": 2
+  },
+
+  "question": "What Is Bonefish Grill's Bang Bang Shrimp?",
+
+  "quick_answer": "Bang Bang Shrimp is Bonefish Grill's most famous appetizer: crispy, lightly battered shrimp tossed in a creamy, spicy signature sauce and served over greens. It is a cult favorite, usually priced around $12 to $13, and it often shows up on happy-hour and promotional deals.",
+
+  "key_facts": [
+    "Bonefish Grill's signature appetizer",
+    "Crispy shrimp in a creamy, spicy sauce",
+    "Typically around $12 to $13 a plate",
+    "Frequently featured in happy-hour and promo deals"
+  ],
+
+  "body": [
+    {
+      "heading": "What it is",
+      "text": "Bang Bang Shrimp is a plate of small, crispy shrimp that are lightly battered, fried, and then tossed in a creamy, spicy sauce. The result is crunchy on the outside with a rich, slightly sweet-and-spicy coating, usually served over a bed of greens as a starter."
+    },
+    {
+      "heading": "Why it is so popular",
+      "text": "It has become Bonefish Grill's calling card. Many people visit specifically for the Bang Bang Shrimp, and the chain leans into that by featuring it in happy-hour menus and limited-time promotions. The flavor and the low-ish starter price make it easy to order on almost every visit."
+    },
+    {
+      "heading": "What it costs",
+      "text": "Prices vary by location, but Bang Bang Shrimp is typically around $12 to $13 as a regular appetizer, and sometimes less during happy hour or special offers. Check the Bonefish Grill menu page for the current pricing and portion options at your local restaurant."
+    }
+  ],
+
+  "faqs": [
+    { "q": "How much is Bang Bang Shrimp at Bonefish Grill?", "a": "It is usually around $12 to $13 as a starter, though it can be cheaper during happy hour or promotions. Prices vary by location." },
+    { "q": "Is Bang Bang Shrimp spicy?", "a": "It has a mild to moderate kick. The shrimp are tossed in a creamy, spicy sauce that is flavorful rather than very hot." },
+    { "q": "Is Bang Bang Shrimp fried?", "a": "Yes. The shrimp are lightly battered and fried until crispy, then tossed in the signature sauce." }
+  ],
+
+  "internal_links": [
+    { "label": "Bonefish Grill Menu With Prices", "slug": "bonefish-grill-menu" },
+    { "label": "Who Owns Bonefish Grill?", "slug": "who-owns-bonefish-grill" },
+    { "label": "Red Lobster Menu With Prices", "slug": "red-lobster-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Bang Bang Shrimp = Bonefish Grill signature crispy shrimp in creamy spicy sauce; cult-favorite appetizer, often in happy-hour/promos. Price ~$12-13 (varies by location). Consistent with the Bonefish Grill menu page.",
+    "accuracy": "Descriptive; price given as a representative range with a 'varies by location' note (no single published national price).",
+    "keyword_notes": "Volume ~4.4k, high-intent dish query + PAA. Paired with the ownership guide and the Bonefish Grill menu page."
+  }
+}

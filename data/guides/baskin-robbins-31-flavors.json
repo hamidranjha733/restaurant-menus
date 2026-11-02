@@ -1,0 +1,63 @@
+{
+  "slug": "baskin-robbins-31-flavors",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Baskin-Robbins",
+  "brand_slug": "baskin-robbins-menu",
+  "cover_hint": "Reuse the Baskin-Robbins brand banner / menu hero. Pink/blue accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Why Is Baskin-Robbins Called 31 Flavors? (2026)",
+    "meta_description": "Baskin-Robbins is known as '31 flavors' because the idea was one flavor for every day of the month. Here's the story behind the famous number.",
+    "h1": "Why Is Baskin-Robbins Called 31 Flavors?",
+    "primary_keyword": "baskin robbins 31 flavors",
+    "keyword_volume": 2400,
+    "keyword_kd": 1
+  },
+
+  "question": "Why Is Baskin-Robbins Called 31 Flavors?",
+
+  "quick_answer": "Baskin-Robbins is known as '31 flavors' because the idea was to offer one ice cream flavor for every day of the month, so a customer could have a different flavor every single day. The '31' became the brand's signature number and still appears in its logo, with the '31' hidden in the 'BR'.",
+
+  "key_facts": [
+    "The '31' means one flavor for each day of the month",
+    "Launched as a marketing idea in the 1950s",
+    "The number '31' is hidden inside the 'BR' in the logo",
+    "The real lineup rotates and has included far more than 31 flavors over time"
+  ],
+
+  "body": [
+    {
+      "heading": "One flavor for every day of the month",
+      "text": "The '31 flavors' idea came from the simple pitch that you could visit Baskin-Robbins and have a different ice cream flavor every day of the month. With 31 days in the longest months, 31 flavors meant there was always something new to try, which made choosing part of the fun."
+    },
+    {
+      "heading": "The 31 is in the logo",
+      "text": "The number is baked into the brand. Baskin-Robbins' logo cleverly hides the number '31' inside the pink 'BR' letters, a nod to the famous flavor count. Once you notice it, you can see the 3 and the 1 in the brand mark."
+    },
+    {
+      "heading": "Are there really only 31 flavors?",
+      "text": "Not exactly. The '31' is the idea, not a strict limit. Over the decades Baskin-Robbins has created hundreds of flavors, and the lineup rotates with classics and a Flavor of the Month. So at any time a shop offers many flavors, and the full history goes far beyond 31."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Does Baskin-Robbins only have 31 flavors?", "a": "No. The '31' is a marketing idea (one flavor per day of the month). In reality Baskin-Robbins has created hundreds of flavors over time, and the menu rotates with a Flavor of the Month." },
+    { "q": "Where is the 31 in the Baskin-Robbins logo?", "a": "The number '31' is hidden inside the pink 'BR' letters in the logo, a nod to the famous 31 flavors." },
+    { "q": "When did Baskin-Robbins start the 31 flavors idea?", "a": "The 31-flavors concept dates to the 1950s, built on the idea of a different flavor for every day of the month." }
+  ],
+
+  "internal_links": [
+    { "label": "Baskin-Robbins Menu With Prices", "slug": "baskin-robbins-menu" },
+    { "label": "Who Owns Baskin-Robbins?", "slug": "who-owns-baskin-robbins" },
+    { "label": "Dairy Queen Menu With Prices", "slug": "dairy-queen-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Baskin-Robbins '31 flavors' = one flavor for each day of the month; '31' hidden in the BR logo; hundreds of flavors created over time with rotating Flavor of the Month. Consistent with the Baskin-Robbins menu page.",
+    "accuracy": "Descriptive brand history; not time-sensitive.",
+    "keyword_notes": "Volume 2.4k + PAA. Paired with the ownership guide and the Baskin-Robbins menu page."
+  }
+}
