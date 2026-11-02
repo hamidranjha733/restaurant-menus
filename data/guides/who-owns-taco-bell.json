@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-taco-bell",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Taco Bell",
+  "brand_slug": "taco-bell-menu",
+  "cover_hint": "Reuse the Taco Bell brand banner / menu hero. Purple accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Taco Bell? (2026)",
+    "meta_description": "Taco Bell is owned by Yum! Brands, the same parent as KFC and Pizza Hut. Here's the full ownership story behind the chain.",
+    "h1": "Who Owns Taco Bell?",
+    "primary_keyword": "who owns taco bell",
+    "keyword_volume": 3600,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Taco Bell?",
+
+  "quick_answer": "Taco Bell is owned by Yum! Brands, a publicly traded company that is also the parent of KFC and Pizza Hut. Taco Bell was founded in 1962 by Glen Bell in Downey, California, and became part of the company that is now Yum! Brands, which was spun off from PepsiCo in 1997.",
+
+  "key_facts": [
+    "Owner: Yum! Brands (publicly traded)",
+    "Sister brands: KFC and Pizza Hut",
+    "Founded: 1962, Downey, California",
+    "Founder: Glen Bell",
+    "Yum! Brands was spun off from PepsiCo in 1997"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Taco Bell?",
+      "text": "Taco Bell is part of Yum! Brands, one of the world's largest restaurant companies. Yum! Brands is publicly traded and also owns KFC and Pizza Hut, so Taco Bell shares a parent with two other huge fast-food names."
+    },
+    {
+      "heading": "How it got there",
+      "text": "Taco Bell was founded in 1962 by Glen Bell in Downey, California. PepsiCo bought it in 1978 and ran it alongside KFC and Pizza Hut. In 1997, PepsiCo spun off its restaurant business, which became Tricon and was later renamed Yum! Brands, the company that still owns Taco Bell today."
+    },
+    {
+      "heading": "What that means for diners",
+      "text": "Because Taco Bell sits under Yum! Brands with KFC and Pizza Hut, you will sometimes see shared locations or combined restaurants with those brands. Taco Bell keeps its own Mexican-inspired menu and identity under that corporate umbrella."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Taco Bell owned by the same company as KFC?", "a": "Yes. Taco Bell, KFC and Pizza Hut are all owned by Yum! Brands." },
+    { "q": "Did PepsiCo own Taco Bell?", "a": "Yes, in the past. PepsiCo bought Taco Bell in 1978, then spun off its restaurants in 1997 into the company now called Yum! Brands." },
+    { "q": "Who founded Taco Bell?", "a": "Taco Bell was founded in 1962 by Glen Bell in Downey, California." }
+  ],
+
+  "internal_links": [
+    { "label": "Taco Bell Menu With Prices", "slug": "taco-bell-menu" },
+    { "label": "Is Taco Bell Real Mexican Food?", "slug": "is-taco-bell-real-mexican" },
+    { "label": "Chipotle Menu With Prices", "slug": "chipotle-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Taco Bell owned by Yum! Brands (also KFC, Pizza Hut); founded 1962 Downey CA by Glen Bell; PepsiCo bought 1978, spun off restaurants 1997 (Tricon -> Yum! Brands). Verified via web Nov 2026.",
+    "accuracy": "Ownership verified and stable.",
+    "keyword_notes": "Volume ~3.6k. Paired with the 'is Taco Bell real Mexican' guide and the Taco Bell menu page."
+  }
+}

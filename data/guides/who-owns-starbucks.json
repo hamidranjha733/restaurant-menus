@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-starbucks",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Starbucks",
+  "brand_slug": "starbucks-menu",
+  "cover_hint": "Reuse the Starbucks brand banner / menu hero. Green accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Starbucks? (2026)",
+    "meta_description": "Starbucks is an independent, publicly traded company (NASDAQ: SBUX), owned by its shareholders. Here's the full ownership story.",
+    "h1": "Who Owns Starbucks?",
+    "primary_keyword": "who owns starbucks",
+    "keyword_volume": 3600,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Starbucks?",
+
+  "quick_answer": "Starbucks is an independent, publicly traded company listed on the NASDAQ under the ticker SBUX, so it is owned by its shareholders rather than a parent company. It was founded in 1971 in Seattle, Washington, and grew into the world's largest coffeehouse chain. Howard Schultz, who built the modern Starbucks, is closely linked to the brand but is not its sole owner.",
+
+  "key_facts": [
+    "Publicly traded on the NASDAQ under ticker SBUX",
+    "Owned by its shareholders, no single parent company",
+    "Founded: 1971, Seattle, Washington",
+    "Howard Schultz drove its global growth but does not solely own it",
+    "The world's largest coffeehouse chain"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Starbucks?",
+      "text": "Starbucks is a public company, which means it is owned collectively by its shareholders. It trades on the NASDAQ stock exchange under the ticker SBUX and is run by its own management team and board of directors, not owned by a larger food conglomerate."
+    },
+    {
+      "heading": "The Howard Schultz connection",
+      "text": "Starbucks was founded in 1971 in Seattle, Washington. Howard Schultz joined later, bought the company in the late 1980s, and transformed it into the global coffeehouse brand it is today, serving multiple times as CEO. While his name is tied to Starbucks, as a public company it is owned by shareholders rather than by Schultz alone."
+    },
+    {
+      "heading": "A global public company",
+      "text": "Today Starbucks operates thousands of stores worldwide and remains an independent public company. Anyone can buy shares in it on the stock market, which is what 'owning' Starbucks means in practice."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Starbucks publicly traded?", "a": "Yes. Starbucks trades on the NASDAQ under the ticker SBUX, so it is owned by its shareholders." },
+    { "q": "Does Howard Schultz own Starbucks?", "a": "Not outright. Schultz bought and built the modern Starbucks and led it as CEO, but as a public company it is owned by its shareholders." },
+    { "q": "Where was Starbucks founded?", "a": "Starbucks was founded in 1971 in Seattle, Washington." }
+  ],
+
+  "internal_links": [
+    { "label": "Starbucks Menu With Prices", "slug": "starbucks-menu" },
+    { "label": "What Is a Frappuccino?", "slug": "what-is-a-frappuccino" },
+    { "label": "Dunkin' Menu With Prices", "slug": "dunkin-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Starbucks independent, public (NASDAQ: SBUX); founded 1971 Seattle; Howard Schultz bought/built modern Starbucks and served as CEO but does not solely own it. Verified via web Nov 2026.",
+    "accuracy": "Verified and stable; clarifies the common 'does Schultz own it' question without overstating.",
+    "keyword_notes": "Volume ~3.6k. Paired with the Frappuccino guide and the Starbucks menu page."
+  }
+}

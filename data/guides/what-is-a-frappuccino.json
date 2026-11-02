@@ -1,0 +1,64 @@
+{
+  "slug": "what-is-a-frappuccino",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Starbucks",
+  "brand_slug": "starbucks-menu",
+  "cover_hint": "Reuse the Starbucks brand banner / menu hero. Green accent. Blended drink close-up if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "What Is a Frappuccino at Starbucks?",
+    "meta_description": "A Frappuccino is Starbucks' blended iced drink, served in coffee and creme (coffee-free) versions. Here's what's in it and how it differs.",
+    "h1": "What Is a Frappuccino?",
+    "primary_keyword": "what is a frappuccino",
+    "keyword_volume": 2900,
+    "keyword_kd": 1
+  },
+
+  "question": "What Is a Frappuccino?",
+
+  "quick_answer": "A Frappuccino is Starbucks' line of blended, ice-cold drinks. It is made by blending ice with coffee or a flavor base, milk and syrups, then usually topped with whipped cream. It comes in two main families: coffee-based Frappuccinos and 'creme' Frappuccinos, which have no coffee, so there are options with or without caffeine.",
+
+  "key_facts": [
+    "A Starbucks blended iced drink, trademarked by Starbucks",
+    "Two main types: Coffee Frappuccino and Creme (coffee-free) Frappuccino",
+    "Blended with ice, milk and syrups, often topped with whipped cream",
+    "Popular flavors include Caramel, Mocha and Vanilla Bean",
+    "Different from a plain iced coffee, which is not blended"
+  ],
+
+  "body": [
+    {
+      "heading": "What a Frappuccino actually is",
+      "text": "A Frappuccino is a blended drink, not a simple iced coffee. Starbucks blends ice with a base, milk and flavored syrups until it is smooth and slushy, then usually finishes it with whipped cream. The Frappuccino name is trademarked by Starbucks, so it specifically refers to their blended drinks."
+    },
+    {
+      "heading": "Coffee vs Creme",
+      "text": "There are two main families. Coffee Frappuccinos are made with a coffee base and contain caffeine, like the Caramel or Mocha Frappuccino. Creme Frappuccinos skip the coffee and are built on milk and flavor instead, like the Vanilla Bean Creme, which makes them a good choice for people who want a blended treat without coffee."
+    },
+    {
+      "heading": "How it differs from iced coffee",
+      "text": "Iced coffee and cold brew are brewed coffee poured over ice, so they stay liquid and taste of coffee. A Frappuccino is blended with ice into a thick, dessert-like drink, and it is usually sweeter. So if you want something closer to a milkshake-style coffee treat, that is a Frappuccino."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Does a Frappuccino have coffee in it?", "a": "It depends on the type. Coffee Frappuccinos contain caffeine, while Creme Frappuccinos have no coffee. You can choose based on whether you want caffeine." },
+    { "q": "Is a Frappuccino the same as iced coffee?", "a": "No. Iced coffee is brewed coffee over ice. A Frappuccino is blended with ice into a thick, sweeter, dessert-style drink." },
+    { "q": "What are popular Frappuccino flavors?", "a": "Popular ones include Caramel, Mocha and Vanilla Bean Creme. Starbucks also runs seasonal and limited-time flavors." }
+  ],
+
+  "internal_links": [
+    { "label": "Starbucks Menu With Prices", "slug": "starbucks-menu" },
+    { "label": "Who Owns Starbucks?", "slug": "who-owns-starbucks" },
+    { "label": "Dunkin' Menu With Prices", "slug": "dunkin-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Frappuccino = Starbucks trademarked blended iced drink; coffee vs creme (coffee-free) families; blended with ice/milk/syrup, whipped cream; differs from brewed iced coffee. Consistent with the Starbucks menu page.",
+    "accuracy": "Descriptive; no specific calorie/price figures invented. Not time-sensitive.",
+    "keyword_notes": "Volume ~2.9k 'what is a frappuccino' + strong PAA. Paired with the ownership guide and the Starbucks menu page."
+  }
+}

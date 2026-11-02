@@ -1,0 +1,64 @@
+{
+  "slug": "who-owns-subway",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Subway",
+  "brand_slug": "subway-menu",
+  "cover_hint": "Reuse the Subway brand banner / menu hero. Green/yellow accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Who Owns Subway? (2026)",
+    "meta_description": "Subway is now owned by Roark Capital, which bought the sandwich chain for about $9.6 billion in a deal that closed in 2024. Full story.",
+    "h1": "Who Owns Subway?",
+    "primary_keyword": "who owns subway",
+    "keyword_volume": 3600,
+    "keyword_kd": 2
+  },
+
+  "question": "Who Owns Subway?",
+
+  "quick_answer": "Subway is owned by Roark Capital, an Atlanta-based private equity firm, which bought the sandwich chain for about $9.6 billion in a deal that completed in 2024. Before that, Subway had been privately owned by its founding families since 1965. Roark also backs restaurant groups like Inspire Brands.",
+
+  "key_facts": [
+    "Current owner: Roark Capital (deal closed in 2024)",
+    "Purchase price: about $9.6 billion",
+    "Founded: 1965, Bridgeport, Connecticut",
+    "Founders: Fred DeLuca and Peter Buck",
+    "Was family-owned and private before the Roark sale"
+  ],
+
+  "body": [
+    {
+      "heading": "Who owns Subway now?",
+      "text": "Subway is owned by Roark Capital, a private equity firm known for investing in restaurant and franchise brands. Roark agreed to buy Subway in 2023 and completed the purchase in 2024 for about $9.6 billion. That ended decades of ownership by Subway's founding families."
+    },
+    {
+      "heading": "Who owned it before",
+      "text": "Subway was founded in 1965 in Bridgeport, Connecticut, by Fred DeLuca and Peter Buck. For most of its history it stayed privately owned by those families rather than going public. The 2024 sale to Roark was the first time the company changed hands to an outside owner on this scale."
+    },
+    {
+      "heading": "What Roark ownership means",
+      "text": "Roark Capital owns or backs several large restaurant names, including the Inspire Brands group. For Subway, the new ownership is aimed at funding investment and growth. Day-to-day, most Subway restaurants are still run by independent franchisees around the world."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Did Subway get sold?", "a": "Yes. Subway was sold to private equity firm Roark Capital for about $9.6 billion, in a deal that completed in 2024, ending its long run of family ownership." },
+    { "q": "Who founded Subway?", "a": "Subway was founded in 1965 in Bridgeport, Connecticut, by Fred DeLuca and Peter Buck." },
+    { "q": "Is Subway publicly traded?", "a": "No. Subway is privately owned by Roark Capital. It does not trade on a stock exchange." }
+  ],
+
+  "internal_links": [
+    { "label": "Subway Menu With Prices", "slug": "subway-menu" },
+    { "label": "Who Owns Jimmy John's?", "slug": "who-owns-jimmy-johns" },
+    { "label": "Jersey Mike's Menu With Prices", "slug": "jersey-mikes-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Subway acquired by Roark Capital, ~$9.6B, deal completed 2024; founded 1965 Bridgeport CT by Fred DeLuca & Peter Buck; previously family-owned/private (NRN / Hartford Business / QSR Media). Verified via web Nov 2026.",
+    "accuracy": "Ownership verified; 2024 close confirmed. Stable as of verification.",
+    "keyword_notes": "Volume ~3.6k, recently high-interest due to the Roark sale. Paired with other sandwich-brand guides and the Subway menu page."
+  }
+}

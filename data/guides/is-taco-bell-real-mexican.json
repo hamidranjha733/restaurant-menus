@@ -1,0 +1,63 @@
+{
+  "slug": "is-taco-bell-real-mexican",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Taco Bell",
+  "brand_slug": "taco-bell-menu",
+  "cover_hint": "Reuse the Taco Bell brand banner / menu hero. Purple accent.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Is Taco Bell Real Mexican Food?",
+    "meta_description": "Taco Bell is American fast food inspired by Mexican flavors, not traditional Mexican cuisine. Here's the real story behind the menu.",
+    "h1": "Is Taco Bell Real Mexican Food?",
+    "primary_keyword": "is taco bell real mexican",
+    "keyword_volume": 1600,
+    "keyword_kd": 1
+  },
+
+  "question": "Is Taco Bell Real Mexican Food?",
+
+  "quick_answer": "Not really. Taco Bell is American fast food inspired by Mexican flavors, not traditional Mexican cuisine. It was founded in California by an American, Glen Bell, and its menu is a US-style, Tex-Mex-leaning invention. Many items, like the Crunchwrap or Doritos Locos Tacos, do not exist in traditional Mexican cooking at all.",
+
+  "key_facts": [
+    "Taco Bell is an American company, founded in California in 1962",
+    "The food is Mexican-inspired, closer to Tex-Mex and American fast food",
+    "Many signature items are US inventions, not traditional Mexican dishes",
+    "Traditional Mexican food varies by region and differs a lot from the menu"
+  ],
+
+  "body": [
+    {
+      "heading": "Inspired by Mexico, made in America",
+      "text": "Taco Bell borrows Mexican ingredients and names, tacos, burritos, beans, cheese and salsa, but it is an American creation. Founder Glen Bell built it in California, and the chain serves a fast, standardized, US-style version of those flavors rather than authentic regional Mexican food."
+    },
+    {
+      "heading": "Tex-Mex and pure invention",
+      "text": "A lot of the menu leans Tex-Mex, a Texan-Mexican style that developed in the US. Other items are pure Taco Bell inventions with no traditional Mexican equivalent, such as the Crunchwrap Supreme and Doritos Locos Tacos. These are fun fast-food creations, but you would not find them in a traditional Mexican kitchen."
+    },
+    {
+      "heading": "How it compares to traditional Mexican food",
+      "text": "Real Mexican cuisine is diverse and regional, with fresh ingredients and dishes that differ from state to state. Taco Bell is built for speed, consistency and American tastes, so it is best thought of as Mexican-inspired American fast food rather than authentic Mexican cooking."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Taco Bell authentic Mexican food?", "a": "No. Taco Bell is American fast food inspired by Mexican flavors, leaning Tex-Mex, with many items that are US inventions rather than traditional Mexican dishes." },
+    { "q": "Is Taco Bell Tex-Mex?", "a": "A lot of its menu leans Tex-Mex, a US style of Mexican-influenced food. Some items are entirely Taco Bell inventions." },
+    { "q": "Do they have Taco Bell in Mexico?", "a": "Taco Bell has made attempts to operate in Mexico over the years with limited success, partly because its Americanized menu differs from local Mexican food." }
+  ],
+
+  "internal_links": [
+    { "label": "Taco Bell Menu With Prices", "slug": "taco-bell-menu" },
+    { "label": "Who Owns Taco Bell?", "slug": "who-owns-taco-bell" },
+    { "label": "Is Chipotle Actually Mexican?", "slug": "is-chipotle-actually-mexican" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Taco Bell = American fast food (founded 1962 CA by Glen Bell), Mexican-inspired/Tex-Mex; signature items (Crunchwrap, Doritos Locos Tacos) are US inventions; limited history in Mexico. Consistent with the Taco Bell menu page.",
+    "accuracy": "Descriptive and balanced; not time-sensitive.",
+    "keyword_notes": "Volume ~1.6k curiosity question + PAA. Paired with the ownership guide and cross-linked to the Chipotle 'is it Mexican' guide."
+  }
+}
