@@ -24,7 +24,7 @@
   "key_facts": [
     "Founded: 1986, Arlington, Virginia",
     "Founded by Jerry Murrell and his family",
-    "The 'five guys' are Murrell's sons",
+    "The 'five guys' are Jerry Murrell's sons",
     "Privately owned by the Murrell family",
     "Not publicly traded"
   ],
@@ -36,7 +36,7 @@
     },
     {
       "heading": "Where the name comes from",
-      "text": "Jerry Murrell and his wife started Five Guys in 1986 in Arlington, Virginia. The 'five guys' originally referred to Jerry and his sons, who were part of the business. The family focused on a simple menu of fresh burgers, fries and free peanuts, cooked to order."
+      "text": "Jerry Murrell and his wife started Five Guys in 1986 in Arlington, Virginia. The 'five guys' were originally Jerry and his four sons who were part of the business. After a fifth son was born, Jerry said the 'five guys' were now his five sons. Either way, the name refers to the Murrell family, who focused on a simple menu of fresh burgers, fries and free peanuts, cooked to order."
     },
     {
       "heading": "Growth through franchising",
@@ -46,7 +46,7 @@
 
   "faqs": [
     { "q": "Is Five Guys publicly traded?", "a": "No. Five Guys is privately owned by the Murrell family and has never gone public, so you cannot buy shares in it." },
-    { "q": "Who are the 'five guys'?", "a": "The name originally referred to founder Jerry Murrell and his sons, who were part of the family business." },
+    { "q": "Who are the 'five guys'?", "a": "The name refers to the Murrell sons. It originally meant Jerry Murrell and his four sons, and after a fifth son was born, it came to mean his five sons." },
     { "q": "Where was Five Guys founded?", "a": "Five Guys was founded in 1986 in Arlington, Virginia, by the Murrell family." }
   ],
 
@@ -57,8 +57,8 @@
   ],
 
   "_data_notes": {
-    "fact_source": "Five Guys privately owned by the Murrell family; founded 1986 Arlington VA by Jerry Murrell & sons ('five guys'); grew via franchising; never public. Verified via web Nov 2026.",
-    "accuracy": "Ownership verified and stable.",
+    "fact_source": "Five Guys privately owned by the Murrell family; founded 1986 Arlington VA; 'five guys' = Murrell's sons (originally Jerry + 4 sons; after a 5th son was born, the five sons); grew via franchising; never public. Verified via web Nov 2026.",
+    "accuracy": "FIXED internal inconsistency: now explains the 'five guys' meaning consistently (Jerry + 4 sons originally, then 5 sons) in every section.",
     "keyword_notes": "Volume ~2.4k. Paired with the 'why so expensive' guide and the Five Guys menu page."
   }
 }

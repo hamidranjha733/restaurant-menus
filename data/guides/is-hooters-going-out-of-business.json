@@ -1,0 +1,64 @@
+{
+  "slug": "is-hooters-going-out-of-business",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Hooters",
+  "brand_slug": "hooters-menu",
+  "cover_hint": "Reuse the Hooters brand banner / menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11",
+
+  "seo": {
+    "meta_title": "Is Hooters Going Out of Business? (2026)",
+    "meta_description": "Hooters filed for bankruptcy in 2025 and later emerged, keeping the brand running under a founder-led group. Here's what actually happened.",
+    "h1": "Is Hooters Going Out of Business?",
+    "primary_keyword": "is hooters going out of business",
+    "keyword_volume": 3600,
+    "keyword_kd": 2
+  },
+
+  "question": "Is Hooters Going Out of Business?",
+
+  "quick_answer": "No, not entirely. Hooters of America filed for Chapter 11 bankruptcy in March 2025 and later emerged from it. Chapter 11 is a reorganization, not a shutdown. Some underperforming company-owned locations closed, but the brand kept operating, with a founder-led group taking over the company restaurants and many franchised locations staying open.",
+
+  "key_facts": [
+    "Hooters of America filed Chapter 11 (reorganization) in March 2025 and later emerged",
+    "Chapter 11 restructures debt; it is not an automatic closure",
+    "Some underperforming company-owned locations closed",
+    "A founder-led group took over the company restaurants",
+    "Many franchised Hooters locations continue operating"
+  ],
+
+  "body": [
+    {
+      "heading": "What the bankruptcy actually meant",
+      "text": "In March 2025, Hooters of America filed for Chapter 11 bankruptcy and later emerged from the process. Chapter 11 is a way for a company to reorganize and shed debt while continuing to operate, not a straight shutdown. So the filing was about fixing Hooters' finances, not closing the chain."
+    },
+    {
+      "heading": "Some locations closed, but the brand continues",
+      "text": "As part of the process, Hooters closed a number of underperforming company-owned restaurants. At the same time, a founder-led group, which includes some of Hooters' original founders, took over the company-owned stores, and many franchised locations kept serving customers throughout."
+    },
+    {
+      "heading": "Should you expect your local Hooters to close?",
+      "text": "It depends on the location. Some stores closed during the restructuring, but many remain open, especially franchised ones. If you want to be sure, check that specific restaurant's hours and status before you go, since the closures were targeted rather than across the board."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Hooters shutting down completely?", "a": "No. Hooters filed Chapter 11 bankruptcy in 2025 and later emerged. Some locations closed, but the brand continues, with a founder-led group running the company-owned restaurants." },
+    { "q": "Why did Hooters file for bankruptcy?", "a": "Hooters filed Chapter 11 in 2025 to restructure its debt amid tougher conditions for casual-dining chains. It was a financial reorganization, not a decision to close the brand." },
+    { "q": "Are Hooters locations still open?", "a": "Many are. Some underperforming company-owned locations closed during the restructuring, but numerous franchised and company restaurants remain open. Check your local store's status to be sure." }
+  ],
+
+  "internal_links": [
+    { "label": "Hooters Menu With Prices", "slug": "hooters-menu" },
+    { "label": "Who Owns Hooters?", "slug": "who-owns-hooters" },
+    { "label": "Buffalo Wild Wings Menu With Prices", "slug": "buffalo-wild-wings-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "UPDATED: Hooters filed Ch 11 March 2025 and later EMERGED; some company-owned closures; founder-led group took over company restaurants; franchised locations largely continuing (KRDO / geekspin 'emerges from bankruptcy' / techleap). Verified via web Nov 2026.",
+    "accuracy": "TIME-SENSITIVE and sensitive topic; updated to 'filed and emerged', worded as 'reorganization, not shutdown', advises checking local status. Re-verify if more closures occur.",
+    "keyword_notes": "Volume 3.6k, spike-driven. Paired with the ownership guide and the Hooters menu page."
+  }
+}

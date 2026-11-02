@@ -10,7 +10,7 @@
 
   "seo": {
     "meta_title": "Who Owns Chick-fil-A? (2026)",
-    "meta_description": "Chick-fil-A is privately owned by the Cathy family, who founded it in 1967. It has never gone public. Here's the full ownership story.",
+    "meta_description": "Chick-fil-A is privately owned by the Cathy family, who opened the first restaurant in 1967. It has never gone public. Full ownership story.",
     "h1": "Who Owns Chick-fil-A?",
     "primary_keyword": "who owns chick fil a",
     "keyword_volume": 5400,
@@ -19,10 +19,10 @@
 
   "question": "Who Owns Chick-fil-A?",
 
-  "quick_answer": "Chick-fil-A is privately owned by the Cathy family. It was founded in 1967 by S. Truett Cathy in Hapeville, Georgia, and the family has kept it private ever since, so it does not trade on any stock exchange. Leadership has stayed within the family, with Truett's son Dan Cathy serving as chairman.",
+  "quick_answer": "Chick-fil-A is privately owned by the Cathy family. The first Chick-fil-A restaurant opened in 1967 at the Greenbriar Mall in Atlanta, Georgia, started by S. Truett Cathy, and the family has kept it private ever since, so it does not trade on any stock exchange. Leadership has stayed within the family, with Truett's son Dan Cathy serving as chairman.",
 
   "key_facts": [
-    "Founded: 1967, Hapeville, Georgia",
+    "First Chick-fil-A restaurant opened in 1967 at Greenbriar Mall, Atlanta",
     "Founder: S. Truett Cathy",
     "Privately owned by the Cathy family",
     "Not publicly traded",
@@ -36,7 +36,7 @@
     },
     {
       "heading": "The founder and the roots",
-      "text": "S. Truett Cathy opened the first Chick-fil-A restaurant in 1967 in Hapeville, Georgia, after years running a small diner called the Dwarf Grill. He is credited with inventing the original chicken sandwich concept the brand is built on. After his passing, the family continued to lead the company, with his son Dan Cathy as chairman."
+      "text": "S. Truett Cathy opened the first Chick-fil-A restaurant in 1967 at the Greenbriar Mall in Atlanta, Georgia. Years earlier he had run a small diner called the Dwarf Grill (later the Dwarf House) in Hapeville, just outside Atlanta, where he developed the chicken sandwich the brand is built on. After his passing, the family continued to lead the company, with his son Dan Cathy as chairman."
     },
     {
       "heading": "How the restaurants are run",
@@ -46,7 +46,7 @@
 
   "faqs": [
     { "q": "Is Chick-fil-A publicly traded?", "a": "No. Chick-fil-A is privately owned by the Cathy family and has never gone public, so you cannot buy shares in it." },
-    { "q": "Who founded Chick-fil-A?", "a": "Chick-fil-A was founded by S. Truett Cathy, who opened the first restaurant in 1967 in Hapeville, Georgia." },
+    { "q": "Who founded Chick-fil-A?", "a": "Chick-fil-A was founded by S. Truett Cathy, who opened the first restaurant in 1967 at Greenbriar Mall in Atlanta, Georgia." },
     { "q": "Is Chick-fil-A still family owned?", "a": "Yes. The Cathy family still owns and leads Chick-fil-A, keeping it private rather than selling to outside investors." }
   ],
 
@@ -57,8 +57,8 @@
   ],
 
   "_data_notes": {
-    "fact_source": "Chick-fil-A privately owned by the Cathy family; founded 1967 Hapeville GA by S. Truett Cathy; never public; Dan Cathy chairman; franchised via independent operators. Verified via web Nov 2026.",
-    "accuracy": "Ownership verified and stable.",
+    "fact_source": "CORRECTED: First Chick-fil-A opened 1967 at Greenbriar Mall, ATLANTA (not Hapeville). Hapeville was the earlier Dwarf Grill/Dwarf House diner (1946). Cathy family, private, never public; Dan Cathy chairman; independent operators (Wikipedia Greenbriar Mall / AJC / Fox). Verified via web Nov 2026.",
+    "accuracy": "Corrected the founding-location error flagged in build review.",
     "keyword_notes": "Volume ~5.4k. Paired with the Sunday-closure guide and the Chick-fil-A menu page."
   }
 }
