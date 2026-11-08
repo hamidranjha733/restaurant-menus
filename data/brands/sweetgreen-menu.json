@@ -1,0 +1,195 @@
+{
+  "slug": "sweetgreen-menu",
+  "brand": "Sweetgreen",
+  "site_category": "Healthy & Fast Casual",
+  "url_path": "/menu/sweetgreen-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Fresh salad bowl with greens, grains, avocado, roasted vegetables and grilled chicken in the Sweetgreen style",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-1640777"
+  },
+
+  "seo": {
+    "meta_title": "Sweetgreen Menu With Prices & Calories (2026)",
+    "meta_description": "Full Sweetgreen menu with prices for 2026: signature salads and warm bowls, protein plates, seasonal menu, create-your-own, sides, shareables and drinks.",
+    "h1": "Sweetgreen Menu With Prices (2026)",
+    "primary_keyword": "sweetgreen menu prices",
+    "keyword_volume": 9000,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-11",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, season and your build. The menu rotates seasonally. Last updated November 2026.",
+
+  "intro": "Sweetgreen is a fast-casual chain built around salads, warm grain bowls and protein plates made with fresh, seasonal ingredients. You can order a signature salad or bowl, build your own, or pick a protein plate. The menu changes with the seasons, so some items come and go. Below is the Sweetgreen menu with prices for 2026.",
+
+  "quick_answer": "Most Sweetgreen signature salads and warm bowls run about $9.75 to $12.75, with protein plates around $11 to $13 and seasonal items in the same range. A build-your-own salad or bowl is priced by what you add. Sides are about $2 to $5, and shareable family-size bowls are around $29 to $39.",
+
+  "highlights": [
+    { "strong": "$9.75+", "label": "signature salads" },
+    { "strong": "$10.25+", "label": "warm grain bowls" },
+    { "strong": "$11.25+", "label": "protein plates" },
+    { "strong": "Seasonal", "label": "menu rotates all year" }
+  ],
+
+  "hot_deal": "Sweetgreen Rewards and seasonal menus: Sweetgreen runs an app rewards program and launches new seasonal salads and bowls through the year. It also posts full nutrition for every item. Offers and menu items vary by season and location, so check the Sweetgreen app.",
+
+  "menu": [
+    {
+      "category": "Warm Bowls",
+      "intro": "Warm grain and protein bowls. Items and prices rotate seasonally.",
+      "items": [
+        { "name": "Harvest Bowl", "size": "", "price": "$10.75", "calories": "", "desc": "Chicken, wild rice, sweet potatoes, apples, goat cheese and almonds" },
+        { "name": "Chicken Pesto Parm", "size": "", "price": "$11.25", "calories": "", "desc": "Chicken, warm grains, tomatoes and parmesan with pesto" },
+        { "name": "Shroomami", "size": "", "price": "$10.95", "calories": "", "desc": "Roasted mushrooms, warm grains, tofu and miso sesame ginger dressing" },
+        { "name": "Crispy Rice Bowl", "size": "", "price": "$11.25", "calories": "", "desc": "Crispy rice with vegetables and protein" },
+        { "name": "Pesto Protein Bowl", "size": "", "price": "$10.25", "calories": "", "desc": "Protein-forward warm bowl with pesto" },
+        { "name": "Chicken Tostada", "size": "", "price": "$10.50", "calories": "", "desc": "Warm bowl with chicken and tostada-style toppings" },
+        { "name": "Fish Taco Bowl", "size": "", "price": "$12.25", "calories": "", "desc": "Warm bowl with fish and taco-style toppings" }
+      ]
+    },
+    {
+      "category": "Salads",
+      "intro": "Signature cold salads. Items and prices rotate seasonally.",
+      "items": [
+        { "name": "Kale Caesar", "size": "", "price": "$9.95", "calories": "", "desc": "Kale and romaine, parmesan crisps, tomatoes and Caesar dressing" },
+        { "name": "Guacamole Greens", "size": "", "price": "$10.75", "calories": "", "desc": "Chicken, greens, avocado, tomatoes and lime cilantro jalapeno vinaigrette" },
+        { "name": "Green Goddess Avocado Salad", "size": "", "price": "$10.25", "calories": "", "desc": "Greens, avocado and herbs with green goddess dressing" },
+        { "name": "Garden Cobb", "size": "", "price": "$10.95", "calories": "", "desc": "Greens, chicken, egg, tomatoes and cheese, cobb-style" },
+        { "name": "Buffalo Chicken Bowl", "size": "", "price": "$11.75", "calories": "", "desc": "Chicken with buffalo flavor over greens and grains" },
+        { "name": "Veggie Caesar", "size": "", "price": "$9.75", "calories": "", "desc": "Meat-free Caesar with greens and parmesan crisps" }
+      ]
+    },
+    {
+      "category": "Protein Plates",
+      "intro": "Plates centered on a protein with sides. Items and prices rotate seasonally.",
+      "items": [
+        { "name": "Chicken Chimichurri", "size": "", "price": "$12.25", "calories": "", "desc": "Chicken with chimichurri and sides" },
+        { "name": "Hot Honey Chicken", "size": "", "price": "$12.25", "calories": "", "desc": "Chicken with hot honey and sides" },
+        { "name": "Miso Chicken + Cauli Rice", "size": "", "price": "$11.95", "calories": "", "desc": "Miso chicken with cauliflower rice" },
+        { "name": "Tofu Steak + Sweet Potatoes", "size": "", "price": "$12.25", "calories": "", "desc": "Tofu steak with sweet potatoes (plant-based)" },
+        { "name": "Herby Fish + Rice", "size": "", "price": "$12.75", "calories": "", "desc": "Herb fish fillet with rice" },
+        { "name": "Shroomy Asada", "size": "", "price": "$11.25", "calories": "", "desc": "Mushroom asada plate" }
+      ]
+    },
+    {
+      "category": "Seasonal Menu",
+      "intro": "Limited-time salads and bowls that change through the year.",
+      "items": [
+        { "name": "Cranberry Maple Chicken", "size": "", "price": "$12.50", "calories": "", "desc": "Seasonal chicken bowl with cranberry and maple" },
+        { "name": "Chicken Curry Cauli", "size": "", "price": "$12.75", "calories": "", "desc": "Seasonal curry chicken with cauliflower" },
+        { "name": "Sweet Balsamic Brussels", "size": "", "price": "$11.50", "calories": "", "desc": "Seasonal Brussels sprouts bowl" },
+        { "name": "Autumn Caesar", "size": "", "price": "$11.75", "calories": "", "desc": "Seasonal Caesar variation" }
+      ]
+    },
+    {
+      "category": "Create Your Own",
+      "intro": "Build your own salad or warm bowl from greens, grains, toppings, a protein and dressing. Priced by what you add.",
+      "items": [
+        { "name": "Create Your Own Salad or Warm Bowl", "size": "", "price": "Varies", "calories": "", "desc": "Pick a base, toppings, a premium protein and dressing; price depends on your build" }
+      ]
+    },
+    {
+      "category": "Sides",
+      "intro": "Add a side to any order.",
+      "items": [
+        { "name": "Rosemary Focaccia", "size": "", "price": "$1.95", "calories": "", "desc": "Warm rosemary focaccia bread" },
+        { "name": "Whole Chicken Thigh", "size": "", "price": "$3.75", "calories": "", "desc": "An extra roasted chicken thigh" },
+        { "name": "Spicy Pesto Sweet Potatoes", "size": "", "price": "$3.95", "calories": "", "desc": "Roasted sweet potatoes with spicy pesto" },
+        { "name": "Cauli Rice + Beans", "size": "", "price": "$3.95", "calories": "", "desc": "Cauliflower rice with beans" },
+        { "name": "Brussels Slaw", "size": "", "price": "$3.95", "calories": "", "desc": "Shredded Brussels sprouts slaw" },
+        { "name": "Curry Roasted Cauli", "size": "", "price": "$4.95", "calories": "", "desc": "Curry-roasted cauliflower" }
+      ]
+    },
+    {
+      "category": "Shareables",
+      "intro": "Family-size bowls built to share.",
+      "items": [
+        { "name": "Green Team", "size": "", "price": "$29.00", "calories": "", "desc": "Shareable family-size bowl" },
+        { "name": "Family Meal", "size": "", "price": "$39.00", "calories": "", "desc": "Larger shareable family meal" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Teas, sparkling and still water.",
+      "items": [
+        { "name": "Jasmine Green Iced Tea", "size": "", "price": "$2.50", "calories": "", "desc": "House-brewed jasmine green iced tea" },
+        { "name": "Hibiscus Clover Tea", "size": "", "price": "$3.50", "calories": "", "desc": "Hibiscus herbal tea" },
+        { "name": "Cranberry Ginger Fresca", "size": "", "price": "$2.50", "calories": "", "desc": "Cranberry ginger refresher" },
+        { "name": "Spindrift Sparkling (Grapefruit, Lemon or Raspberry Lime)", "size": "", "price": "$3.00", "calories": "", "desc": "Sparkling water with real fruit" },
+        { "name": "Still Water", "size": "", "price": "$2.50", "calories": "0", "desc": "Bottled still water" },
+        { "name": "Sparkling Water", "size": "", "price": "$2.75", "calories": "0", "desc": "Bottled sparkling water" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Sweetgreen at Home",
+    "intro": "Want restaurant-style salads and grain bowls at home? These picks help with greens, grains and dressings.",
+    "cards": [
+      { "icon": "🥗", "name": "Salad Spinner", "blurb": "Crisp, dry greens like the shops use.", "amazon_search": "salad spinner large" },
+      { "icon": "🍚", "name": "Wild Rice & Grains", "blurb": "The base of warm grain bowls.", "amazon_search": "wild rice blend" },
+      { "icon": "🫙", "name": "Dressing Shaker Bottles", "blurb": "Mix and store house dressings.", "amazon_search": "salad dressing shaker bottle" },
+      { "icon": "📖", "name": "Grain Bowl Cookbook", "blurb": "Build healthy bowls and salads at home.", "amazon_search": "grain bowl salad cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Harvest Bowl",
+    "Kale Caesar",
+    "Guacamole Greens",
+    "Chicken Pesto Parm",
+    "Shroomami"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a salad at Sweetgreen?",
+      "a": "Most Sweetgreen signature salads run about $9.75 to $12, with warm bowls and protein plates around $10 to $13. Build-your-own salads are priced by what you add. Prices vary by location and season."
+    },
+    {
+      "q": "What is the Harvest Bowl at Sweetgreen?",
+      "a": "The Harvest Bowl is one of Sweetgreen's most popular warm bowls, made with chicken, wild rice, roasted sweet potatoes, apples, goat cheese and almonds, usually around $10.75."
+    },
+    {
+      "q": "Does Sweetgreen change its menu?",
+      "a": "Yes. Sweetgreen rotates its menu with the seasons, adding limited-time salads and bowls and retiring others, so some items come and go through the year."
+    },
+    {
+      "q": "Can you build your own salad at Sweetgreen?",
+      "a": "Yes. You can create your own salad or warm bowl by choosing a base, toppings, a protein and a dressing. The price depends on what you add, especially premium proteins."
+    },
+    {
+      "q": "Does Sweetgreen have calorie information?",
+      "a": "Yes. Sweetgreen posts full nutrition for its menu, including calories. Because many bowls are seasonal or built to order, the exact calories depend on the item and your build."
+    },
+    {
+      "q": "What are the most popular items at Sweetgreen?",
+      "a": "Fan favorites include the Harvest Bowl, Kale Caesar, Guacamole Greens, Chicken Pesto Parm and the Shroomami bowl."
+    }
+  ],
+
+  "internal_links": [
+    "cava-menu",
+    "chipotle-menu",
+    "qdoba-menu",
+    "jasons-deli-menu",
+    "panera-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Healthy & Fast Casual > Sweetgreen."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (fastfoodmenuprices). Sweetgreen's menu rotates seasonally, so specific items shown are representative of a recent menu and some will change. Typical US pricing; varies by market.",
+    "calories": "Calories left blank because Sweetgreen items are seasonal and often built to order; the page points to Sweetgreen's published nutrition. Only zero-calorie waters carry a figure. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location and season. Always display the disclaimer. The seasonal note is important since the lineup changes through the year.",
+    "hero_image": "TENTATIVE Pexels salad-bowl image (pexels-1640777), hotlinked CDN URL. _verify_note: confirm the image loads and looks right before publishing; swap if needed.",
+    "category_note": "site_category set to 'Healthy & Fast Casual' (same as CAVA). Confirm this category exists in data/categories.json; add it if missing, or remap to an existing category.",
+    "keyword_notes": "Sections and FAQ shaped by real Sweetgreen search demand: salad price, Harvest Bowl, seasonal menu, build your own, nutrition."
+  }
+}

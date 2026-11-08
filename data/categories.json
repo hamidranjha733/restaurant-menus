@@ -23,5 +23,10 @@
     "name": "Coffee & Drinks",
     "slug": "coffee-drinks",
     "description": "Coffee chains and drive-thru drink stands: lattes, cold brew, Frappuccinos, refreshers and teas, with prices by size."
+  },
+  {
+    "name": "Healthy & Fast Casual",
+    "slug": "healthy-fast-casual",
+    "description": "Fast-casual chains built around bowls, salads and pitas: build-your-own prices, proteins, sides and drinks."
   }
 ]

@@ -1,0 +1,179 @@
+{
+  "slug": "cava-menu",
+  "brand": "CAVA",
+  "site_category": "Healthy & Fast Casual",
+  "url_path": "/menu/cava-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/1211887/pexels-photo-1211887.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Mediterranean grain bowl with greens, rice, chickpeas, grilled chicken, hummus, feta and vegetables in the CAVA style",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-1211887"
+  },
+
+  "seo": {
+    "meta_title": "CAVA Menu With Prices & Calories (2026)",
+    "meta_description": "Full CAVA menu with prices for 2026: build-your-own bowls and pitas, every protein, dips and spreads like hummus and crazy feta, sides and drinks.",
+    "h1": "CAVA Menu With Prices (2026)",
+    "primary_keyword": "cava menu prices",
+    "keyword_volume": 14000,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-11",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and your build. Last updated November 2026.",
+
+  "intro": "CAVA is a Mediterranean fast-casual chain where you build your own bowl or pita down the line, much like Chipotle but with Mediterranean flavors. You pick a base of greens or grains, a protein, then dips, spreads, toppings and dressings. One price covers your base and most toppings, with premium proteins like braised lamb or beef costing a little more. Below is the full CAVA menu with prices for 2026.",
+
+  "quick_answer": "A build-your-own CAVA bowl starts around $10.78 and a pita around $10.06 with chicken, falafel, grilled meatballs or roasted vegetables. Braised lamb or beef adds about $2.30, and spicy lamb meatballs add about $2.00. A side of pita chips is about $1.81 and a pick-three dips plus chips is about $8.63.",
+
+  "highlights": [
+    { "strong": "$10.78+", "label": "build-your-own bowl" },
+    { "strong": "$10.06+", "label": "build-your-own pita" },
+    { "strong": "Included", "label": "base, dips and toppings" },
+    { "strong": "+$2.30", "label": "braised lamb or beef" }
+  ],
+
+  "hot_deal": "CAVA Rewards and app offers: CAVA runs app and loyalty promos through the year, plus seasonal proteins and dressings for a limited time. CAVA also posts full nutrition, so you can check calories for every ingredient. Offers vary, so check the CAVA app.",
+
+  "menu": [
+    {
+      "category": "Build Your Own (Bowls & Pitas)",
+      "intro": "Pick a bowl (greens, grains or both) or a pita, then your protein. The base price includes your base, dips, spreads, toppings and dressing. Price shown is by protein; calories depend on your build.",
+      "items": [
+        { "name": "Build-Your-Own Bowl (Chicken, Falafel, Grilled Meatballs or Roasted Vegetables)", "size": "", "price": "$10.78", "calories": "", "desc": "Greens and/or grains with a regular protein, dips, spreads, toppings and dressing" },
+        { "name": "Build-Your-Own Pita (same proteins)", "size": "", "price": "$10.06", "calories": "", "desc": "Warm pita wrap with a regular protein, dips, spreads and toppings" },
+        { "name": "Build-Your-Own Bowl (Spicy Lamb Meatballs)", "size": "", "price": "$12.79", "calories": "", "desc": "Bowl with spicy lamb meatballs" },
+        { "name": "Build-Your-Own Pita (Spicy Lamb Meatballs)", "size": "", "price": "$12.08", "calories": "", "desc": "Pita with spicy lamb meatballs" },
+        { "name": "Build-Your-Own Bowl (Braised Lamb or Braised Beef)", "size": "", "price": "$13.08", "calories": "", "desc": "Bowl with slow-braised lamb or beef" },
+        { "name": "Build-Your-Own Pita (Braised Lamb or Braised Beef)", "size": "", "price": "$12.36", "calories": "", "desc": "Pita with slow-braised lamb or beef" }
+      ]
+    },
+    {
+      "category": "Proteins (Choose One)",
+      "intro": "Chicken, falafel, grilled meatballs and roasted vegetables are the base-price proteins. Premium proteins cost a little more.",
+      "items": [
+        { "name": "Grilled Chicken", "size": "", "price": "Included", "calories": "", "desc": "Marinated grilled chicken" },
+        { "name": "Harissa Honey Chicken", "size": "", "price": "Included", "calories": "", "desc": "Chicken with spicy-sweet harissa honey (when offered)" },
+        { "name": "Falafel", "size": "", "price": "Included", "calories": "", "desc": "Crispy chickpea falafel (plant-based)" },
+        { "name": "Grilled Meatballs", "size": "", "price": "Included", "calories": "", "desc": "Grilled beef and lamb meatballs" },
+        { "name": "Roasted Vegetables", "size": "", "price": "Included", "calories": "", "desc": "Seasonal roasted vegetables (plant-based)" },
+        { "name": "Spicy Lamb Meatballs", "size": "", "price": "+$2.01", "calories": "", "desc": "Spicy lamb meatballs" },
+        { "name": "Braised Lamb", "size": "", "price": "+$2.30", "calories": "", "desc": "Slow-braised lamb" },
+        { "name": "Braised Beef", "size": "", "price": "+$2.30", "calories": "", "desc": "Slow-braised beef" }
+      ]
+    },
+    {
+      "category": "Bases, Dips, Spreads & Toppings",
+      "intro": "Your build includes a base plus dips, spreads, toppings and dressing at no extra charge. These are the signature choices.",
+      "items": [
+        { "name": "Bases: SuperGreens, Arugula, Saffron Basmati Rice, Brown Rice, RightRice", "size": "", "price": "Included", "calories": "", "desc": "Pick one or split greens and grains" },
+        { "name": "Hummus", "size": "", "price": "Included", "calories": "", "desc": "Classic creamy hummus" },
+        { "name": "Roasted Red Pepper Hummus", "size": "", "price": "Included", "calories": "", "desc": "Hummus with roasted red pepper" },
+        { "name": "Crazy Feta", "size": "", "price": "Included", "calories": "", "desc": "Whipped spicy feta dip" },
+        { "name": "Tzatziki", "size": "", "price": "Included", "calories": "", "desc": "Cucumber yogurt dip" },
+        { "name": "Harissa", "size": "", "price": "Included", "calories": "", "desc": "Spicy North African pepper paste" },
+        { "name": "Toppings & Dressings", "size": "", "price": "Included", "calories": "", "desc": "Fresh veggies, pickles, olives, feta and dressings like Greek vinaigrette, tahini Caesar and lemon herb tahini" }
+      ]
+    },
+    {
+      "category": "Sides & Soup",
+      "intro": "Add pita chips, a dips plate or soup.",
+      "items": [
+        { "name": "Pita Chips", "size": "", "price": "$1.81", "calories": "", "desc": "Crispy pita chips" },
+        { "name": "Side Pita", "size": "", "price": "$1.81", "calories": "", "desc": "An extra warm pita" },
+        { "name": "Pick Three Dips + Chips", "size": "", "price": "$8.63", "calories": "", "desc": "Three dips or spreads with pita chips" },
+        { "name": "Spicy Lentil Soup", "size": "", "price": "$4.57", "calories": "", "desc": "Hearty spiced lentil soup" },
+        { "name": "Chocolate Chip Cookie", "size": "", "price": "$3.16", "calories": "", "desc": "Soft-baked chocolate chip cookie" }
+      ]
+    },
+    {
+      "category": "Kids",
+      "intro": "A smaller mini pita for kids, priced by protein.",
+      "items": [
+        { "name": "Kid's Mini Pita (Chicken, Falafel, Grilled Meatballs or Veg)", "size": "", "price": "$7.19", "calories": "", "desc": "Mini pita with a regular protein" },
+        { "name": "Kid's Mini Pita (Spicy Lamb Meatballs)", "size": "", "price": "$9.20", "calories": "", "desc": "Mini pita with spicy lamb meatballs" },
+        { "name": "Kid's Mini Pita (Braised Lamb or Beef)", "size": "", "price": "$9.49", "calories": "", "desc": "Mini pita with braised lamb or beef" },
+        { "name": "Kid's Milk (Milk or Chocolate)", "size": "", "price": "$2.47", "calories": "", "desc": "Milk or chocolate milk" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Juices, teas, sparkling water and fountain drinks.",
+      "items": [
+        { "name": "Seasonal Juices & Teas", "size": "small", "price": "$2.88", "calories": "", "desc": "Rotating house juices and teas (large $3.39)" },
+        { "name": "Fountain Soda", "size": "small", "price": "$2.88", "calories": "", "desc": "Fountain drinks (large $3.39)" },
+        { "name": "Sparkling San Pellegrino", "size": "", "price": "$2.88", "calories": "0", "desc": "Sparkling mineral water" },
+        { "name": "Panna Bottled Water", "size": "", "price": "$2.88", "calories": "0", "desc": "Still bottled water" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make CAVA at Home",
+    "intro": "Want to build Mediterranean bowls at home? These picks help with the pita, hummus and grains.",
+    "cards": [
+      { "icon": "🥙", "name": "Warm Pita Bread", "blurb": "Soft pita for wraps and dipping.", "amazon_search": "greek pita bread" },
+      { "icon": "🧆", "name": "Falafel Mix", "blurb": "Make crispy falafel at home.", "amazon_search": "falafel mix" },
+      { "icon": "🫓", "name": "Hummus & Tahini", "blurb": "The base of every Mediterranean plate.", "amazon_search": "tahini for hummus" },
+      { "icon": "📖", "name": "Mediterranean Cookbook", "blurb": "Recreate bowls, dips and grain salads.", "amazon_search": "mediterranean diet cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Harissa Honey Chicken Bowl",
+    "Spicy Lamb Meatballs Bowl",
+    "Falafel Pita",
+    "Crazy Feta Dip",
+    "Pick Three Dips + Chips"
+  ],
+
+  "faqs": [
+    {
+      "q": "How much is a bowl at CAVA?",
+      "a": "A build-your-own CAVA bowl starts around $10.78 with chicken, falafel, grilled meatballs or roasted vegetables. Braised lamb or beef adds about $2.30 and spicy lamb meatballs add about $2.00. Prices vary by location."
+    },
+    {
+      "q": "What is the difference between a CAVA bowl and a pita?",
+      "a": "A bowl is served over greens, grains or both, while a pita is wrapped in warm pita bread. The pita is usually a little cheaper, starting around $10.06 versus $10.78 for a bowl."
+    },
+    {
+      "q": "What proteins does CAVA have?",
+      "a": "CAVA offers grilled chicken, harissa honey chicken, falafel, grilled meatballs and roasted vegetables at the base price, plus premium spicy lamb meatballs, braised lamb and braised beef for a little more."
+    },
+    {
+      "q": "What are CAVA's dips and spreads?",
+      "a": "Signature dips and spreads include hummus, roasted red pepper hummus, crazy feta (whipped spicy feta), tzatziki and harissa. They are included in a build, and you can also get a pick-three dips plus chips for about $8.63."
+    },
+    {
+      "q": "Does CAVA have calorie information?",
+      "a": "Yes. CAVA posts full nutrition for every ingredient, so you can add up the calories for your exact build. Because bowls and pitas are built to order, the total depends on your base, protein, dips and toppings."
+    },
+    {
+      "q": "Is CAVA like Chipotle?",
+      "a": "The format is similar: you build your own bowl or pita down the line. The difference is the cuisine, with CAVA focused on Mediterranean flavors like hummus, feta, harissa and pita instead of Mexican ingredients."
+    }
+  ],
+
+  "internal_links": [
+    "sweetgreen-menu",
+    "qdoba-menu",
+    "chipotle-menu",
+    "jasons-deli-menu",
+    "panera-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Healthy & Fast Casual > CAVA."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (thepricer.org, table dated Feb 2026; CAVA is priced by protein with no separate base price). Typical US pricing; varies notably by market.",
+    "calories": "Build-your-own bowls and pitas have no fixed calorie total because it depends on the build, so calories are left blank and the page points to CAVA's published nutrition. Only zero-calorie waters carry a figure. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate and vary by location and build. Always display the disclaimer. Protein add-on amounts ($2.30 braised, about $2.00 spicy lamb) are derived from the price table.",
+    "hero_image": "TENTATIVE Pexels Mediterranean-bowl image (pexels-1211887), hotlinked CDN URL. _verify_note: confirm the image loads and looks right before publishing; swap if needed.",
+    "category_note": "site_category set to 'Healthy & Fast Casual'. Confirm this category exists in data/categories.json; add it if missing (same way 'Mexican & Fast Casual' exists for Chipotle), or remap to an existing category.",
+    "keyword_notes": "Sections and FAQ shaped by real CAVA search demand: bowl price, bowl vs pita, protein options, dips and spreads, CAVA vs Chipotle."
+  }
+}
