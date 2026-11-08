@@ -1,0 +1,200 @@
+{
+  "slug": "qdoba-menu",
+  "brand": "Qdoba",
+  "site_category": "Chicken & Fast Food",
+  "url_path": "/menu/qdoba-menu/",
+
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/4958792/pexels-photo-4958792.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Mexican burrito bowl with rice, beans, grilled chicken, cheese, guacamole and queso in the Qdoba style",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-4958792"
+  },
+
+  "seo": {
+    "meta_title": "Qdoba Menu With Prices & Calories (2026)",
+    "meta_description": "Full Qdoba menu with prices for 2026: burritos, bowls, tacos, quesadillas, nachos and salads by protein, free queso and guac, sides, kids and drinks.",
+    "h1": "Qdoba Menu With Prices (2026)",
+    "primary_keyword": "qdoba menu prices",
+    "keyword_volume": 14000,
+    "keyword_kd": 2
+  },
+
+  "last_updated": "2026-11",
+  "price_disclaimer": "Prices and calories are approximate, are provided as a guide only, and may vary by location, portion and your build. Last updated November 2026.",
+
+  "intro": "Qdoba is a Mexican fast-casual chain and one of the closest competitors to Chipotle, where you build your own burrito, bowl, tacos, salad, nachos or quesadilla down the line. Qdoba's big draw is that queso and guacamole are included free on entrees, which usually cost extra elsewhere. You pick a format and a protein, and the price is set by the protein. Below is the full Qdoba menu with prices for 2026.",
+
+  "quick_answer": "At Qdoba, a build-your-own entree (burrito, bowl, salad, 3 tacos, nachos) is priced by protein: grilled adobo chicken is about $8.40, steak about $9.15, and Impossible plant-based about $9.95, with queso and guacamole included free. A kids meal is about $4.00 and family meals run about $29 to $40.",
+
+  "highlights": [
+    { "strong": "$8.40", "label": "chicken entree, your way" },
+    { "strong": "FREE", "label": "queso and guacamole" },
+    { "strong": "$9.15", "label": "steak entree" },
+    { "strong": "$4.00", "label": "kids meal" }
+  ],
+
+  "hot_deal": "Free queso and guac, plus Qdoba Rewards: Qdoba's signature perk is that queso and guacamole come free on entrees, unlike most rivals. Qdoba also runs app and loyalty deals and value burrito meal deals through the year. Offers vary, so check the Qdoba app.",
+
+  "menu": [
+    {
+      "category": "Create Your Own Entree",
+      "intro": "Pick a format (burrito, bowl, salad, 3-cheese nachos, 3 tacos or loaded tortilla soup), then a protein. The price is set by the protein, and queso and guacamole are included free. Calories depend on your build.",
+      "items": [
+        { "name": "Grilled Adobo Chicken", "size": "", "price": "$8.40", "calories": "", "desc": "Marinated grilled chicken; free queso and guac included" },
+        { "name": "Grilled Adobo Steak", "size": "", "price": "$9.15", "calories": "", "desc": "Marinated grilled steak" },
+        { "name": "Seasoned Ground Beef", "size": "", "price": "$8.40", "calories": "", "desc": "Seasoned ground beef (not offered in tortilla soup)" },
+        { "name": "Slow-Braised Pulled Pork", "size": "", "price": "$9.15", "calories": "", "desc": "Slow-braised pulled pork" },
+        { "name": "Slow-Smoked Beef Brisket", "size": "", "price": "$9.15", "calories": "", "desc": "Smoked beef brisket" },
+        { "name": "Plant-Based Impossible (Vegan)", "size": "", "price": "$9.95", "calories": "", "desc": "Plant-based Impossible protein" },
+        { "name": "Veggie", "size": "", "price": "$7.90", "calories": "", "desc": "Meat-free build with beans and veggies" },
+        { "name": "Cholula Hot & Sweet Chicken", "size": "", "price": "$8.95", "calories": "", "desc": "Chicken with Cholula hot and sweet sauce" }
+      ]
+    },
+    {
+      "category": "Signature Eats",
+      "intro": "Chef-built burritos, bowls and specials. Prices shown for chicken; steak, brisket or pork may cost a little more.",
+      "items": [
+        { "name": "Chicken Queso Burrito or Bowl", "size": "", "price": "$8.10", "calories": "", "desc": "Burrito or bowl loaded with 3-cheese queso" },
+        { "name": "Chicken Protein Bowl", "size": "", "price": "$9.95", "calories": "", "desc": "Protein-forward bowl with double chicken" },
+        { "name": "Smoked Brisket Keto Bowl", "size": "", "price": "$9.15", "calories": "", "desc": "Low-carb keto bowl with brisket" },
+        { "name": "Cauli-Mash Low-Carb Chicken Bowl", "size": "", "price": "$9.40", "calories": "", "desc": "Chicken over cauliflower mash, low-carb" },
+        { "name": "Impossible Fajita Burrito or Bowl", "size": "", "price": "$9.65", "calories": "", "desc": "Plant-based Impossible with fajita veggies" },
+        { "name": "Street Style Chicken Tacos", "size": "", "price": "$8.90", "calories": "", "desc": "Street-style tacos with grilled chicken" },
+        { "name": "Street Style Pulled Pork Tacos", "size": "", "price": "$9.15", "calories": "", "desc": "Street-style tacos with pulled pork" },
+        { "name": "Steak Fajita Quesadilla", "size": "", "price": "$9.05", "calories": "", "desc": "Grilled quesadilla with steak and fajita veggies" }
+      ]
+    },
+    {
+      "category": "Burritos, Bowls, Tacos, Nachos & Quesadillas",
+      "intro": "Classic formats priced by protein. Prices below are for chicken or vegetarian; steak, shredded beef and pork are a little more (about $8.40).",
+      "items": [
+        { "name": "Burrito (Chicken or Vegetarian)", "size": "", "price": "$7.80", "calories": "", "desc": "Flour tortilla with rice, beans, protein and toppings" },
+        { "name": "Burrito (Steak, Shredded Beef or Pork)", "size": "", "price": "$8.40", "calories": "", "desc": "Burrito with a premium protein" },
+        { "name": "Three Taco Combo", "size": "3 tacos", "price": "$7.80", "calories": "", "desc": "Three tacos with your protein and toppings" },
+        { "name": "3-Cheese Nachos (Chicken or Vegetarian)", "size": "", "price": "$7.80", "calories": "", "desc": "Tortilla chips loaded with 3-cheese queso and protein" },
+        { "name": "Grilled Quesadilla (Cheese)", "size": "", "price": "$7.80", "calories": "", "desc": "Cheddar and Monterey Jack quesadilla (add protein for more)" },
+        { "name": "Taco Salad (Chicken or Vegetarian)", "size": "", "price": "$7.80", "calories": "", "desc": "Crisp salad bowl with protein and toppings" },
+        { "name": "Queso Burrito", "size": "", "price": "$7.80", "calories": "", "desc": "Burrito smothered or filled with 3-cheese queso (chicken/veg; premium proteins $8.40)" },
+        { "name": "Smothered Burrito", "size": "", "price": "$7.80", "calories": "", "desc": "Burrito smothered in sauce and cheese (chicken/veg; premium $8.40)" },
+        { "name": "Mexican Gumbo", "size": "", "price": "$7.80", "calories": "", "desc": "Signature gumbo-style dish (chicken/veg; premium $8.40)" }
+      ]
+    },
+    {
+      "category": "Value & Family Meals",
+      "intro": "Meal deals and family-size options.",
+      "items": [
+        { "name": "Chicken Burrito Meal Deal", "size": "", "price": "$9.95", "calories": "", "desc": "Burrito with chips and a drink" },
+        { "name": "Steak Burrito Meal Deal", "size": "", "price": "$10.55", "calories": "", "desc": "Steak burrito with chips and a drink" },
+        { "name": "Impossible Burrito Meal Deal", "size": "", "price": "$10.95", "calories": "", "desc": "Plant-based burrito meal deal" },
+        { "name": "Nacho Family Meal (Chicken)", "size": "", "price": "$29.25", "calories": "", "desc": "Family-size loaded nachos (steak $34.95)" },
+        { "name": "Taco & Bowl Family Meal (Chicken)", "size": "", "price": "$34.95", "calories": "", "desc": "Family tacos and bowls (steak $39.95)" }
+      ]
+    },
+    {
+      "category": "Kids & Small Bites",
+      "intro": "Smaller meals and snacks.",
+      "items": [
+        { "name": "Kids Burrito Bowl", "size": "", "price": "$4.00", "calories": "", "desc": "Kid-size burrito bowl" },
+        { "name": "Kids Quesadilla", "size": "", "price": "$4.00", "calories": "", "desc": "Kid-size cheese quesadilla" },
+        { "name": "Kids Taco", "size": "", "price": "$4.00", "calories": "", "desc": "Kid-size taco" },
+        { "name": "Mini Bowl", "size": "", "price": "$5.80", "calories": "", "desc": "Smaller build-your-own bowl" },
+        { "name": "Create-Your-Own Taco", "size": "1 taco", "price": "$3.70", "calories": "", "desc": "A single build-your-own taco" },
+        { "name": "Tortilla Soup Cup", "size": "", "price": "$3.45", "calories": "", "desc": "Cup of loaded tortilla soup (where available)" }
+      ]
+    },
+    {
+      "category": "Chips, Dips & Sides",
+      "intro": "The free-on-entree queso and guac, plus chips and add-ons to go.",
+      "items": [
+        { "name": "Chips and Salsa (Regular)", "size": "", "price": "$2.00", "calories": "", "desc": "Tortilla chips with salsa (small $1.00)" },
+        { "name": "Chips and 3-Cheese Queso", "size": "", "price": "$4.00", "calories": "", "desc": "Chips with warm 3-cheese queso" },
+        { "name": "Chips and Guacamole", "size": "", "price": "$3.00", "calories": "", "desc": "Chips with hand-smashed guacamole" },
+        { "name": "Side of 3-Cheese Queso", "size": "4 oz", "price": "$2.00", "calories": "", "desc": "A side of queso" },
+        { "name": "Side of Guacamole", "size": "4 oz", "price": "$2.00", "calories": "", "desc": "A side of hand-smashed guac" },
+        { "name": "Tortilla Soup", "size": "", "price": "$3.00", "calories": "", "desc": "Loaded tortilla soup (where available)" },
+        { "name": "Chocolate Chunk Cookie", "size": "", "price": "$1.25", "calories": "", "desc": "Chocolate chunk cookie" },
+        { "name": "Chocolate Brownie", "size": "", "price": "$1.75", "calories": "", "desc": "Fudge brownie" }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "intro": "Fountain drinks, bottles and tea.",
+      "items": [
+        { "name": "Fountain Drink (Regular)", "size": "", "price": "$1.80", "calories": "", "desc": "Fountain soft drink (large $2.20)" },
+        { "name": "Coca-Cola / Diet Coke 20 oz", "size": "20 oz", "price": "$2.80", "calories": "", "desc": "Bottled Coca-Cola products" },
+        { "name": "Jarritos (Mandarin, Lime or Pineapple)", "size": "", "price": "$2.80", "calories": "", "desc": "Mexican fruit soda" },
+        { "name": "Tazo Organic Black Tea", "size": "", "price": "$2.80", "calories": "", "desc": "Bottled organic black tea" },
+        { "name": "Dasani Bottled Water", "size": "", "price": "$2.45", "calories": "0", "desc": "Bottled water" }
+      ]
+    }
+  ],
+
+  "make_at_home": {
+    "title": "Make Qdoba at Home",
+    "intro": "Want burritos and loaded bowls at home? These picks help with the queso, guac and tortillas.",
+    "cards": [
+      { "icon": "🧀", "name": "Queso Cheese Dip", "blurb": "Warm 3-cheese queso for bowls and chips.", "amazon_search": "queso cheese dip" },
+      { "icon": "🥑", "name": "Guacamole Maker & Molcajete", "blurb": "Hand-smash fresh guac at home.", "amazon_search": "molcajete guacamole bowl" },
+      { "icon": "🌯", "name": "Large Burrito Tortillas", "blurb": "Burrito-size flour tortillas.", "amazon_search": "large burrito flour tortillas" },
+      { "icon": "📖", "name": "Copycat Recipes Cookbook", "blurb": "Recreate famous chain Mexican dishes at home.", "amazon_search": "copycat restaurant recipes cookbook" }
+    ]
+  },
+
+  "popular_items": [
+    "Chicken Burrito Bowl",
+    "Queso Burrito",
+    "Street Style Chicken Tacos",
+    "3-Cheese Nachos",
+    "Impossible Fajita Bowl"
+  ],
+
+  "faqs": [
+    {
+      "q": "Is queso and guacamole free at Qdoba?",
+      "a": "Yes. Qdoba's signature perk is that 3-cheese queso and hand-smashed guacamole are included free on entrees like burritos, bowls, tacos and salads, which usually cost extra at other Mexican chains."
+    },
+    {
+      "q": "How much is a burrito bowl at Qdoba?",
+      "a": "A build-your-own bowl is priced by protein: about $8.40 with grilled chicken, $9.15 with steak, brisket or pork, and about $9.95 with plant-based Impossible, with queso and guac included. Prices vary by location."
+    },
+    {
+      "q": "What proteins does Qdoba have?",
+      "a": "Qdoba offers grilled adobo chicken, grilled adobo steak, seasoned ground beef, slow-braised pulled pork, smoked beef brisket, plant-based Impossible and veggie, plus seasonal options like Cholula hot and sweet chicken."
+    },
+    {
+      "q": "Is Qdoba cheaper than Chipotle?",
+      "a": "Base entree prices are similar, but Qdoba includes queso and guacamole free, while those are paid add-ons at Chipotle. So a loaded order with queso and guac can work out cheaper at Qdoba."
+    },
+    {
+      "q": "Does Qdoba have a kids menu?",
+      "a": "Yes. Kids options like a burrito bowl, quesadilla, nachos or taco are about $4.00 each."
+    },
+    {
+      "q": "What are the most popular items at Qdoba?",
+      "a": "Favorites include the chicken burrito bowl, the queso burrito, street style chicken tacos, 3-cheese nachos and the Impossible fajita bowl."
+    }
+  ],
+
+  "internal_links": [
+    "chipotle-menu",
+    "cava-menu",
+    "sweetgreen-menu",
+    "taco-bell-menu",
+    "del-taco-menu"
+  ],
+
+  "schema": {
+    "types": ["Menu", "FAQPage", "BreadcrumbList"],
+    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Chicken & Fast Food > Qdoba."
+  },
+
+  "_data_notes": {
+    "price_source": "Prices from an established menu-prices publication (mobile-cuisine, a 2024 snapshot; local prices differ). Qdoba is priced by protein; queso and guac are included free on entrees, which is a verified brand differentiator. Typical US pricing.",
+    "calories": "Build-your-own entrees have no fixed calorie total because it depends on the build, so calories are left blank and the page points to Qdoba's published nutrition. Only zero-calorie water carries a figure. Never invent a calorie number.",
+    "accuracy": "Prices are typical/approximate (2024 snapshot) and vary by location and build; refresh against a current source before heavy promotion. Always display the disclaimer. Tortilla soup availability varies, noted as 'where available'.",
+    "hero_image": "TENTATIVE Pexels burrito-bowl image (pexels-4958792), hotlinked CDN URL. _verify_note: confirm the image loads and looks right before publishing; swap if needed.",
+    "category_note": "site_category set to 'Chicken & Fast Food', the category Chipotle, Taco Bell and Del Taco use ('Mexican & Fast Casual' does not exist in data/categories.json).",
+    "keyword_notes": "Sections and FAQ shaped by real Qdoba search demand: free queso and guac, bowl price, protein options, Qdoba vs Chipotle, kids menu."
+  }
+}
