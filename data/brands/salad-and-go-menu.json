@@ -1,7 +1,7 @@
 {
   "slug": "salad-and-go-menu",
   "brand": "Salad and Go",
-  "site_category": "Pizza Coffee & Subs",
+  "site_category": "Healthy & Fast Casual",
   "url_path": "/menu/salad-and-go-menu/",
 
   "hero_image": {
@@ -133,7 +133,7 @@
 
   "schema": {
     "types": ["Menu", "FAQPage", "BreadcrumbList"],
-    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > Salad and Go."
+    "note": "Generate Menu schema from the menu array (no per-item calories reproduced), FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Healthy & Fast Casual > Salad and Go."
   },
 
   "_data_notes": {
@@ -141,7 +141,7 @@
     "calories": "Deliberately left blank. Salad and Go publishes nutrition, but no reliable item calories were pulled this session, and salads are build-your-own, so none are reproduced rather than guessed. Disclaimer and FAQ note this. Never invent a calorie number.",
     "accuracy": "Prices are typical/approximate and vary by location. Always display the disclaimer.",
     "hero_image": "Tentative Pexels fresh vegetable salad bowl (pexels-4198015). NOT visually verified this session; confirm it is appetizing and unbranded before publishing, and swap if needed.",
-    "category_note": "Uses the existing 'Pizza Coffee & Subs' category as the quick-serve lunch catch-all (drive-thru salads/wraps/breakfast). Internal link chipotle-menu may not exist yet; drop any missing-page link. #89 of the expansion list.",
+    "category_note": "Moved from 'Pizza Coffee & Subs' to 'Healthy & Fast Casual' alongside CAVA and Sweetgreen. Internal link chipotle-menu may not exist yet; drop any missing-page link. #89 of the expansion list.",
     "keyword_notes": "High-volume brand (5.4k). Sections and FAQ shaped by real Salad and Go search demand: salad price, what it is known for, breakfast, calories question, popular items. Flat ~$6.79 salad/wrap pricing is the brand's whole model."
   }
 }
