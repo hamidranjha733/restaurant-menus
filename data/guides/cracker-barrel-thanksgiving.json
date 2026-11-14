@@ -1,0 +1,74 @@
+{
+  "slug": "cracker-barrel-thanksgiving",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Cracker Barrel",
+  "brand_slug": "cracker-barrel-menu",
+  "cover_hint": "Reuse the Cracker Barrel menu hero. Turkey dinner plate if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Is Cracker Barrel Open on Thanksgiving 2026? Meals & Prices",
+    "meta_description": "Yes. Cracker Barrel is open Thanksgiving Day, Nov. 26, 2026, serving turkey dinner. Heat & Serve prices, pickup dates and what each meal includes.",
+    "h1": "Is Cracker Barrel Open on Thanksgiving 2026?",
+    "primary_keyword": "cracker barrel thanksgiving",
+    "keyword_volume": 8900,
+    "keyword_kd": 15
+  },
+
+  "question": "Is Cracker Barrel Open on Thanksgiving 2026?",
+
+  "quick_answer": "Yes. Cracker Barrel plans to be open on Thanksgiving Day, Thursday, November 26, 2026, serving a turkey dinner in its restaurants, though hours may vary by location. If you'd rather eat at home, its Thanksgiving Heat & Serve meals start around $119.99 for 4 to 6 people and can be picked up November 21 to 29. Note that Cracker Barrel is closed on Christmas Day.",
+
+  "key_facts": [
+    "Open Thanksgiving Day, Nov. 26, 2026; hours vary by location",
+    "Dine-in Thanksgiving plate: turkey, dressing, gravy, sides and cranberry relish",
+    "Heat & Serve Family Dinner: about $119.99, feeds 4 to 6",
+    "Heat & Serve Feast: about $189.99, feeds 8 to 10, with two pies",
+    "Heat & Serve pickup Nov. 21 to 29; order at least 12 hours ahead"
+  ],
+
+  "body": [
+    {
+      "heading": "Cracker Barrel Thanksgiving hours",
+      "text": "Cracker Barrel plans to serve Thanksgiving dinner in its restaurants on Thursday, November 26, 2026. The company says Thanksgiving hours may vary by location, so check your local store's hours in the Cracker Barrel app or on its website before you go."
+    },
+    {
+      "heading": "The dine-in Thanksgiving meal",
+      "text": "On Thanksgiving Day, the restaurants serve a holiday plate of roasted turkey breast with cornbread dressing and gravy, green beans, sweet potato casserole and cranberry relish. Prices vary by location."
+    },
+    {
+      "heading": "Thanksgiving Heat & Serve meals for home",
+      "text": "If you'd rather host at home, Cracker Barrel's Heat & Serve meals come fully cooked and chilled, and take about two hours to heat. The Turkey Family Dinner, around $119.99, feeds 4 to 6 and includes one oven-roasted turkey breast, sweet potato casserole, green beans, cornbread dressing, gravy, cranberry relish and sweet rolls. The Turkey Feast, around $189.99, feeds 8 to 10 and adds a second turkey breast, mashed potatoes and both a pumpkin and a pecan pie. Extra holiday pies are about $14.49 each."
+    },
+    {
+      "heading": "How to order and pick up",
+      "text": "Pre-order Heat & Serve meals on Cracker Barrel's website or app, or in a restaurant. Pickup runs from November 21 to November 29, 2026, and orders need at least 12 hours' notice. Meals are available while supplies last, so ordering early is safer. Customers who pick up on November 23 or 24 get a bonus card, and the food should be served within 72 hours of pickup."
+    },
+    {
+      "heading": "What about Christmas?",
+      "text": "Unlike Thanksgiving, Cracker Barrel restaurants are closed on Christmas Day. For Christmas, the chain sells separate Heat & Serve meals for home, with pickup from December 21 to 28, 2026."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Cracker Barrel open on Thanksgiving Day 2026?", "a": "Yes. Cracker Barrel plans to be open on Thursday, November 26, 2026, though hours may vary by location." },
+    { "q": "How much is Cracker Barrel's Thanksgiving dinner to go?", "a": "The Heat & Serve Turkey Family Dinner is about $119.99 and feeds 4 to 6. The Turkey Feast is about $189.99 and feeds 8 to 10." },
+    { "q": "When can I pick up a Cracker Barrel Heat & Serve meal?", "a": "From November 21 to November 29, 2026. Order at least 12 hours ahead." },
+    { "q": "Is Cracker Barrel open on Christmas Day?", "a": "No. Cracker Barrel restaurants are closed on Christmas Day, but you can pre-order Christmas Heat & Serve meals for pickup December 21 to 28." }
+  ],
+
+  "internal_links": [
+    { "label": "Cracker Barrel Menu With Prices", "slug": "cracker-barrel-menu" },
+    { "label": "Is IHOP Open on Christmas?", "slug": "is-ihop-open-on-christmas" },
+    { "label": "Bob Evans Menu With Prices", "slug": "bob-evans-menu" },
+    { "label": "Denny's Menu With Prices", "slug": "dennys-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Open Thursday Nov 26, 2026 serving Thanksgiving dinner, 'hours may vary by location', dine-in plate contents, closed Christmas Day, Heat & Serve pickup Nov 21-29, 12-hour notice, Nov 23/24 bonus card, while supplies last, Christmas pickup Dec 21-28: MoneyTalksNews (2026 holiday menu). Prices ~$119.99 / ~$189.99, contents, servings, pies ~$14.49, pre-order on website/app: NRN (Oct 20, 2026) and Cracker Barrel release via Finviz. About two hours to heat: Cracker Barrel release. Serve within 72 hours, $5/$10 bonus cards: Vegas4Locals event listing (Nov 2026). Checked Nov 14, 2026.",
+    "accuracy": "Time-sensitive: update after Nov 29, 2026 for 2027. Bob Evans link is skipped until that brand page exists.",
+    "keyword_notes": "'cracker barrel thanksgiving' 8.9k KD 15, 'cracker barrel thanksgiving dinner' 5.5k, 'is cracker barrel open on thanksgiving' 4.1k, 'is cracker barrel open on christmas day' 3.6k."
+  }
+}

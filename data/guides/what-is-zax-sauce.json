@@ -1,0 +1,75 @@
+{
+  "slug": "what-is-zax-sauce",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Zaxby's",
+  "brand_slug": "zaxbys-menu",
+  "cover_hint": "Reuse the Zaxby's menu hero. Chicken fingers with dipping sauce if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "What Is Zax Sauce? Zaxby's Sauces Explained",
+    "meta_description": "Zax Sauce is Zaxby's creamy, tangy signature dip for Chicken Fingerz. What it tastes like, what's in it, every Zaxby's sauce and where to buy a bottle.",
+    "h1": "What Is Zax Sauce?",
+    "primary_keyword": "zaxbys sauce",
+    "keyword_volume": 1400,
+    "keyword_kd": 0
+  },
+
+  "question": "What Is Zax Sauce?",
+
+  "quick_answer": "Zax Sauce is Zaxby's signature dipping sauce, made for its Chicken Fingerz. It is a creamy, tangy sauce with hints of garlic and Worcestershire, often compared to a cross between fry sauce and ranch. The exact recipe is secret, but since 2024 you can buy bottles of Zax Sauce, Spicy Zax Sauce and Tongue Torch at some Southern grocery stores and online.",
+
+  "key_facts": [
+    "Zaxby's signature dip, made for Chicken Fingerz",
+    "Creamy and tangy with garlic and Worcestershire notes",
+    "The recipe is secret; Zaxby's jokes it is kept in a vault",
+    "Spicy Zax Sauce is the hotter version",
+    "Bottled Zax Sauce has been sold in stores since July 2024"
+  ],
+
+  "body": [
+    {
+      "heading": "What Zax Sauce is",
+      "text": "Zax Sauce is the house dip that Zaxby's serves with its chicken fingers, and it has been on the menu since the first restaurant. Zaxby's started as ZAX in Georgia around 1990, founded by childhood friends Zach McLeroy and Tony Townley, and the sauce still carries the original name. Zaxby's says it was made to be the perfect sauce for Chicken Fingerz, but people use it on fries, sandwiches and wings too."
+    },
+    {
+      "heading": "What it tastes like",
+      "text": "Zax Sauce is creamy and tangy, with a blend of seasonings but no real heat. Reviewers often say it smells a lot like ranch, and some compare it to fry sauce, the mayo-and-ketchup mix found in the West. Food writers who have tasted the bottled version also picked up garlic and Worcestershire."
+    },
+    {
+      "heading": "What's in it",
+      "text": "Zaxby's has never shared the full recipe and says it is so secret that it is locked in a vault. The bottled version's label lists egg, soy and wheat as allergens, which points to a mayonnaise base with seasonings. Copycat recipes online usually combine mayonnaise, ketchup, Worcestershire sauce, garlic powder and black pepper."
+    },
+    {
+      "heading": "Every Zaxby's sauce",
+      "text": "Zaxby's has around a dozen sauces, and the lineup changes from time to time. Dips include Zax Sauce, Spicy Zax Sauce, Ranch and Honey Mustard. Wing sauces include BBQ, Teriyaki, Sweet & Spicy, Hot Honey Mustard and the hot ones: Wimpy, Tongue Torch, Buffalo Garlic Blaze, Nuclear and Insane. Spicy Zax Sauce is a favorite in many rankings because it keeps the creamy Zax flavor and adds real heat."
+    },
+    {
+      "heading": "Can you buy Zax Sauce in stores?",
+      "text": "Yes. In July 2024, Zaxby's started selling 16-ounce bottles of Zax Sauce, Spicy Zax Sauce and Tongue Torch at Walmart, Kroger and Winn-Dixie stores in the South and Southeast, and on Amazon. Refrigerate the bottle after opening."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What does Zax Sauce taste like?", "a": "Creamy and tangy, with hints of garlic and Worcestershire. Many people compare it to ranch or fry sauce." },
+    { "q": "Is Zax Sauce spicy?", "a": "No. Regular Zax Sauce is mild. Spicy Zax Sauce is the hotter version." },
+    { "q": "What is Zax Sauce made of?", "a": "The recipe is secret. The bottled version lists egg, soy and wheat allergens, and it tastes like a seasoned mayo-based sauce." },
+    { "q": "Can I buy Zax Sauce at the store?", "a": "Yes. Bottles of Zax Sauce, Spicy Zax Sauce and Tongue Torch are sold at Walmart, Kroger and Winn-Dixie in the South and on Amazon." },
+    { "q": "How many sauces does Zaxby's have?", "a": "Around a dozen, from Zax Sauce and Ranch to hot wing sauces like Nuclear and Insane. The lineup can change." }
+  ],
+
+  "internal_links": [
+    { "label": "Zaxby's Menu With Prices", "slug": "zaxbys-menu" },
+    { "label": "Why Does Raising Cane's Only Sell Chicken Fingers?", "slug": "why-raising-canes-only-chicken-fingers" },
+    { "label": "Chick-fil-A Menu With Prices", "slug": "chick-fil-a-menu" },
+    { "label": "Bojangles Menu With Prices", "slug": "bojangles-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Founded as ZAX around 1990 in Georgia by Zach McLeroy and Tony Townley; sauce secret: The Daily Meal ('Zaxby's Sauce Is Fast Food's Greatest Mystery'). Made for Chicken Fingerz: Zaxby's quoted by Mashed and ShopFood. Zax Sauce on menu from day one: Tasting Table (Zaxby's vs Chick-fil-A). Ranch-like smell, allergens egg/soy/wheat on bottle, three retail sauces, refrigerate after opening: The Daily Meal retail review (2024). 'Locked in a vault', creamy tangy, garlic and Worcestershire hints, 16 oz bottles at Walmart/Kroger/Winn-Dixie in South/Southeast: Sporked. Amazon and July 17, 2024: NRN. Fry-sauce comparison: Mashed. Sauce list: juliescafebakery and WeWantTheSauce (13 sauces incl. Insane); counts differ by source (12-15), so page says 'around a dozen'. Spicy Zax favorite: Tasting Table. Copycat recipe ingredients and 'extra sauce charge at some locations' are general/unofficial; hedged. Checked Nov 14, 2026.",
+    "accuracy": "Lineup hedged ('changes from time to time'). zaxbys.com not fetched from this session.",
+    "keyword_notes": "'zaxbys sauce' 1.4k + 'zax sauce' 1.4k + 'zaxbys sauces' 900 + 'what is zax sauce' 250, all KD 0-1."
+  }
+}
