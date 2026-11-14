@@ -1,0 +1,74 @@
+{
+  "slug": "tazikis-catering",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Taziki's Mediterranean Cafe",
+  "brand_slug": "tazikis-menu",
+  "cover_hint": "Reuse the Taziki's menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Taziki's Catering: Feasts, Boxed Lunches and Prices",
+    "meta_description": "Taziki's catering offers Mediterranean buffet feasts from about $14 per person, boxed lunches, Signature Pasta trays and party dips. What it costs.",
+    "h1": "Taziki's Catering Menu and Prices",
+    "primary_keyword": "taziki's catering",
+    "keyword_volume": 200,
+    "keyword_kd": 3
+  },
+
+  "question": "How Much Does Taziki's Catering Cost?",
+
+  "quick_answer": "Taziki's Mediterranean Cafe caters buffet-style feasts, boxed lunches, pasta trays and party dips. Buffet feasts with a protein, salad and side cost about $14 to $15 per person with a 10-person minimum, and full catering packages run about $17 to $20 per person. Boxed lunches cost about $9 to $14, a Signature Pasta tray for 10 is about $60 to $65, and dips like hummus are about $10 to $17 per pint. Prices vary by location.",
+
+  "key_facts": [
+    "Buffet feasts about $14-$15 per person (min. 10)",
+    "Catering packages about $17-$20 per person",
+    "Boxed lunches about $9-$14",
+    "Signature Pasta for 10 about $60-$65",
+    "Many items can be made gluten-free or vegetarian"
+  ],
+
+  "body": [
+    {
+      "heading": "Buffet feasts and packages",
+      "text": "Taziki's buffet feasts are priced per person and include a protein with your choice of salad and a side, with a minimum order of 10 per protein. At one location, grilled chicken is $14 per person and spicy harissa chicken is $15, and other proteins include chicken kebobs and salmon. Some locations sell bundled catering packages, such as a protein, salad, side and cookies for about $17 per person, or about $20 with two sides."
+    },
+    {
+      "heading": "Boxed lunches",
+      "text": "For individual meals, Taziki's boxed lunches include a gyro, pita, sandwich or salad, and every box comes with a cookie. Pitas and gyros also include chips and a side. Prices run about $9 for a Mediterranean salad box to $13 or $14 for sandwich and gyro boxes, depending on the location. Buffet feasts can also be boxed individually for an extra charge."
+    },
+    {
+      "heading": "Pasta, salads and sides",
+      "text": "Taziki's Signature Pasta, penne with grilled chicken, feta, tomatoes and basil, comes with lettuce, balsamic vinaigrette and baked pita. A tray for 10 costs about $60 to $65, with medium and large sizes for 15 and 20 people. Salads like the Mediterranean, Greek and Caesar serve 10 for about $28 to $46, and sides like grilled veggies or roasted new potatoes cost about $25 to $35 per pan."
+    },
+    {
+      "heading": "Party dips and extras",
+      "text": "Party dips come by the pint, each serving about 10 people with baked pita chips: hummus, spicy harissa hummus, Taziki Dip and whipped feta. Expect about $10 to $17 per pint. Extras include gallons of tea or lemonade, disposable chafing setups (about one per 10 guests) and dessert trays with baklava and cookies."
+    },
+    {
+      "heading": "How to order",
+      "text": "Order through Taziki's catering page or a catering platform like ezCater. Many items can be prepared gluten-free, vegetarian or vegan on request. Minimum orders and delivery fees vary by location, and some stores need a day's notice. For regular menu prices, see our Taziki's menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "How much is Taziki's catering per person?", "a": "Buffet feasts run about $14 to $15 per person, and full packages about $17 to $20, with a 10-person minimum." },
+    { "q": "Do Taziki's boxed lunches come with dessert?", "a": "Yes. All Taziki's boxed lunches come with a cookie." },
+    { "q": "Can Taziki's catering be gluten-free?", "a": "Many items can be prepared gluten-free, vegetarian or vegan on request." },
+    { "q": "How many people does a pint of Taziki's hummus serve?", "a": "About 10, served with baked pita chips." }
+  ],
+
+  "internal_links": [
+    { "label": "Taziki's Menu With Prices", "slug": "tazikis-menu" },
+    { "label": "Newk's Catering", "slug": "newks-catering" },
+    { "label": "Is El Pollo Loco Healthy?", "slug": "is-el-pollo-loco-healthy" },
+    { "label": "Jason's Deli Salad Bar", "slug": "jasons-deli-salad-bar" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Buffet feasts per person with salad and side, min 10 per protein, grilled chicken $14, harissa $15, Signature Pasta $65/$100/$130 (serves 10/15/20), dips per pint serves 10 (hummus $14, harissa hummus $17), chafing setup $15 per 10 guests, gluten-free/vegetarian/vegan on request, boxable for extra charge: Taziki's Knoxville catering menu PDF (tazikis.com). Boxed lunches all served with a cookie, pitas/gyros include chips and one side; dips in pints with 30 baked pita chips; hummus, spicy harissa hummus, Taziki Dip, whipped feta; chicken kebobs, salmon: Taziki's catering brochure (tazikis.com, Sept 2023). Premium $19.99 and Deluxe $16.99 packages: ezCater listing. Signature Pasta description and $59.99: ezCater Indianapolis. Salads $27.99-$45.99, sides $24.99-$34.99, hummus $9.99-$15.99: ezCater listings. Boxed lunch $8.99-$14.00: ezCater Fayetteville, Rochester Hills. Dessert bundle with baklava and cookies: ezCater. Day-before lead time: ezCater Tulsa. Checked Nov 14, 2026.",
+    "accuracy": "Prices vary widely by location; ranges given.",
+    "keyword_notes": "'taziki's catering' 200 KD 3 + 'tazikis catering' 200 KD 3. Taziki's has few question keywords."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "lazy-dog-happy-hour",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Lazy Dog Restaurant & Bar",
+  "brand_slug": "lazy-dog-menu",
+  "cover_hint": "Reuse the Lazy Dog menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Lazy Dog Happy Hour: Times, Late Night and Menu Prices",
+    "meta_description": "Lazy Dog happy hour runs 3 to 6 p.m. weekdays, with a late-night happy hour Sunday to Thursday. Eats and drinks start at $3. Times and menu examples.",
+    "h1": "Lazy Dog Happy Hour, Explained",
+    "primary_keyword": "lazy dog happy hour",
+    "keyword_volume": 2100,
+    "keyword_kd": 2
+  },
+
+  "question": "When Is Lazy Dog Happy Hour?",
+
+  "quick_answer": "At most Lazy Dog restaurants, happy hour runs Monday through Friday from 3 to 6 p.m., with a late-night happy hour Sunday through Thursday from 9 p.m. to close (often midnight). Select eats and drinks start at $3, including small plates like Chef's Chips and House Bread, plus discounted margaritas, draft beers and sangria pitchers. Times and prices vary by location, so check your local Lazy Dog page.",
+
+  "key_facts": [
+    "Mon-Fri, 3 to 6 p.m. at most locations",
+    "Late night: Sun-Thu, 9 p.m. to close",
+    "Eats and drinks from $3",
+    "Margaritas, draft beer, wine and sangria pitchers",
+    "Times and prices vary by location"
+  ],
+
+  "body": [
+    {
+      "heading": "Happy hour times",
+      "text": "Most Lazy Dog locations run happy hour from 3 to 6 p.m., Monday through Friday. Many also have a late-night happy hour from 9 p.m. until close, Sunday through Thursday. For example, the Orange, California, location lists weekday happy hour from 3 to 6 p.m. and late night from 9 p.m. to midnight. Lazy Dog says hours and selections vary by location, so check your local restaurant's page before you go."
+    },
+    {
+      "heading": "Happy hour food",
+      "text": "Lazy Dog says its happy hour eats start at just $3. Recent menus have included Chef's Chips and House Bread for $3 each, Roasted Red Pepper Hummus for $3, Tikka Masala Meatballs for $6 and a Hot Honey Feta Dip for $7. Longtime favorites like Buffalo Chicken Nuggets, Brussels sprouts, crispy deviled eggs and sweet potato tots also show up. Many seasonal small plates are added to the happy hour and late-night menus too."
+    },
+    {
+      "heading": "Happy hour drinks",
+      "text": "Drink specials include margaritas, draft beers, well drinks, wine and sangria pitchers. Lazy Dog often puts its seasonal margaritas on happy hour, such as a Hibiscus Margarita for $7 instead of about $13, and some margaritas come as shareable pitchers. House drafts and domestic beers are discounted at many locations."
+    },
+    {
+      "heading": "Tips for Lazy Dog happy hour",
+      "text": "At many locations happy hour pricing is for the bar and lounge area, so ask where it applies. Weekday afternoons between 3 and 6 p.m. tend to be less crowded than late night. If you bring your dog, many Lazy Dog patios are dog-friendly and even offer a small dog menu."
+    },
+    {
+      "heading": "Regular menu prices",
+      "text": "Outside happy hour, Lazy Dog's regular menu runs higher, with entrees like the Campfire Pot Roast around $24 and burgers around $15. For full prices, see our Lazy Dog menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What time is Lazy Dog happy hour?", "a": "Usually Monday to Friday, 3 to 6 p.m., plus late night Sunday to Thursday from 9 p.m. to close. Times vary by location." },
+    { "q": "Does Lazy Dog have late-night happy hour?", "a": "Yes. Most locations run late-night happy hour Sunday through Thursday from 9 p.m. to close." },
+    { "q": "How much is happy hour at Lazy Dog?", "a": "Select eats and drinks start at $3, with many small plates $3 to $7 and margaritas around $7." },
+    { "q": "Is Lazy Dog happy hour on weekends?", "a": "The regular happy hour is weekdays. Late-night happy hour includes Sunday at many locations." }
+  ],
+
+  "internal_links": [
+    { "label": "Lazy Dog Menu With Prices", "slug": "lazy-dog-menu" },
+    { "label": "Applebee's Happy Hour", "slug": "applebees-happy-hour" },
+    { "label": "Cheesecake Factory Happy Hour", "slug": "cheesecake-factory-happy-hour" },
+    { "label": "Twin Peaks vs. Hooters", "slug": "is-twin-peaks-like-hooters" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Happy Hour + Late Night hours and selections vary by location: lazydogrestaurants.com happy-hour page. Orange, CA: Mon-Fri 3-6pm, Sun-Thu 9pm-midnight, items from $3: lazydogrestaurants.com Orange page. Eats and sips from $3; Buffalo Chicken Nuggets, Brussels Sprouts, Crispy Deviled Eggs, margaritas, sangria pitchers, draft beers, sweet potato tater tots: Lazy Dog 'Happiest of Hours' blog. Chef's Chips $3, House Bread $3, Hummus $3, Tikka Masala Meatballs $6, Hot Honey Feta Dip $7, Hibiscus Margarita $7 (regular $13.25), pitchers: Lazy Dog fall menu press release. Mon-Fri 3-6, Sun-Thu 9-close: EatDrinkDeals, Franki. Well drinks, house drafts: happy hour listings. Bar/lounge area: Franki review. Dog menu on patio: Franki. Regular prices: site's Lazy Dog menu page. Checked Nov 14, 2026.",
+    "accuracy": "Item prices from a seasonal press release; they rotate.",
+    "keyword_notes": "'lazy dog happy hour' 2.1k KD 2. 'lazy dog dog menu' 150 KD 23 is a smaller option."
+  }
+}

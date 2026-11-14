@@ -1,0 +1,74 @@
+{
+  "slug": "scooters-caramelicious",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Scooter's Coffee",
+  "brand_slug": "scooters-coffee-menu",
+  "cover_hint": "Reuse the Scooter's Coffee menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Scooter's Caramelicious: What It Is, Calories & Price",
+    "meta_description": "The Caramelicious is Scooter's Coffee's signature caramel latte, made with espresso, caramel, milk and whipped cream. Hot, iced and blended versions.",
+    "h1": "What Is a Scooter's Caramelicious?",
+    "primary_keyword": "scooters caramelicious",
+    "keyword_volume": 200,
+    "keyword_kd": 0
+  },
+
+  "question": "What Is a Scooter's Caramelicious?",
+
+  "quick_answer": "The Caramelicious is Scooter's Coffee's signature drink: a caramel latte made with espresso, caramel sauce and steamed milk, topped with whipped cream and a caramel drizzle. It debuted in 1998 after a barista suggested it, and it comes hot, iced or blended. The Blended Caramelicious, made with an ice cream base, is Scooter's most popular drink. A small costs about $3.75 at many stores.",
+
+  "key_facts": [
+    "Espresso, caramel sauce, milk, whipped cream",
+    "Debuted in fall 1998",
+    "Hot, iced or blended",
+    "Blended Caramelicious is the most popular drink",
+    "Sugar-free version available"
+  ],
+
+  "body": [
+    {
+      "heading": "What's in a Caramelicious",
+      "text": "Scooter's describes the Caramelicious as its world-class espresso with rich caramel sauce and frothy milk, finished with whipped cream and a caramel drizzle. It's sweet and creamy, more like a caramel latte than a plain coffee. You can choose your milk, including skim, whole, oat, almond or coconut, which changes the calories."
+    },
+    {
+      "heading": "Hot, iced and blended",
+      "text": "The Caramelicious comes three ways. The hot version is a classic caramel latte. The iced version is poured over ice. The Blended Caramelicious, which Scooter's calls its most popular drink, blends espresso and caramel sauce into an ice cream base, then tops it with whipped cream and caramel. Scooter's also runs seasonal versions, such as Sea Salt Caramelicious, and has used the flavor in a muffin and cold foam."
+    },
+    {
+      "heading": "Calories",
+      "text": "Calories depend on size, milk and style. Nutrition listings put a 16 oz Blended Caramelicious at about 370 calories and a 24 oz large at about 600, while a 20 oz hot Caramelicious is about 500 calories. Choosing skim milk or the sugar-free version lowers the count; Scooter's sugar-free caramel sauce is sweetened with maltitol and sucralose."
+    },
+    {
+      "heading": "Price and sizes",
+      "text": "At many Scooter's locations, a small Caramelicious is about $3.75, a large about $5.00 and an extra large about $5.50. Blended versions cost a little more. Prices vary by store, so check the Scooter's app. See our Scooter's Coffee menu page for more prices."
+    },
+    {
+      "heading": "Where it came from",
+      "text": "Scooter's Coffee, based in Omaha, Nebraska, introduced the Caramelicious in the fall of 1998 at the suggestion of one of its baristas. It quickly became the drink the chain is best known for, and Scooter's even sells Caramelicious-flavored ground coffee for home."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What is in a Caramelicious at Scooter's?", "a": "Espresso, caramel sauce and milk, topped with whipped cream and a caramel drizzle." },
+    { "q": "What is the most popular drink at Scooter's?", "a": "The Blended Caramelicious, according to Scooter's." },
+    { "q": "How many calories are in a Caramelicious?", "a": "About 370 for a small blended and about 500 for a large hot, depending on milk and size." },
+    { "q": "Is there a sugar-free Caramelicious?", "a": "Yes. Scooter's makes a sugar-free version with a caramel sauce sweetened with maltitol and sucralose." }
+  ],
+
+  "internal_links": [
+    { "label": "Scooter's Coffee Menu With Prices", "slug": "scooters-coffee-menu" },
+    { "label": "What Is Dutch Bros Soft Top?", "slug": "what-is-dutch-bros-soft-top" },
+    { "label": "Peet's Major Dickason's Blend", "slug": "peets-major-dickasons-blend" },
+    { "label": "Who Owns Dunkin'?", "slug": "who-owns-dunkin" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Debuted fall 1998 at a barista's suggestion; most known drink; hot, iced, blended; espresso, frothy hot milk, whipped cream, caramel drizzle; Sea Salt Caramelicious; Blended Caramelicious most popular, ice cream base; Caramelicious muffin and cold foam: scooterscoffee.com blog. Sugar-free caramel sauce with maltitol syrup and sucralose: Scooter's social response cited by ntro.it.com. Calories: FatSecret (Blended small 16 oz 370, Blended large 24 oz 600, Hot large 20 oz 500). Milk options: MyFoodDiary listings (skim, whole, oat, almond, coconut). Caramelicious ground coffee: Walmart listing. Omaha HQ, prices $3.75/$5.00/$5.50: site's Scooter's menu page. Checked Nov 14, 2026.",
+    "accuracy": "Nutrition from third-party databases; varies by milk.",
+    "keyword_notes": "'scooters caramelicious' 200 KD 0. Scooter's brand queries are dominated by 'scooters coffee' 48k (homepage intent)."
+  }
+}

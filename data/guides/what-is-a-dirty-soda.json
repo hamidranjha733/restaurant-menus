@@ -1,0 +1,75 @@
+{
+  "slug": "what-is-a-dirty-soda",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Swig",
+  "brand_slug": "swig-menu",
+  "cover_hint": "Reuse the Swig menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "What Is a Dirty Soda? Swig's Original, Explained",
+    "meta_description": "A dirty soda is a fountain soda mixed with flavored syrups, cream or fruit, like a Dirty Dr Pepper with coconut and lime. Where it started and what to order.",
+    "h1": "What Is a Dirty Soda?",
+    "primary_keyword": "what is a dirty soda",
+    "keyword_volume": 23000,
+    "keyword_kd": 0
+  },
+
+  "question": "What Is a Dirty Soda?",
+
+  "quick_answer": "A dirty soda is a regular fountain soda with extra flavors mixed in, such as flavored syrups, coconut cream or creamer, fresh lime or fruit purees. The best-known example is the Dirty Dr Pepper: Dr Pepper with coconut syrup and lime, often topped with cream. The drink took off in Utah around 2010, and Swig, the drive-thru chain that started in St. George, Utah, claims to have coined the name and trademarked it.",
+
+  "key_facts": [
+    "Soda plus syrups, cream or fruit",
+    "Classic example: Dirty Dr Pepper (coconut + lime)",
+    "Started in Utah around 2010",
+    "Swig trademarked the term 'dirty soda'",
+    "Swig has about 165 locations in 16 states (2026)"
+  ],
+
+  "body": [
+    {
+      "heading": "What makes a soda 'dirty'",
+      "text": "A dirty soda starts with a fountain soda, usually Dr Pepper, Diet Coke or another cola, poured over pebble ice. It's then 'dirtied' with add-ins such as coconut or other flavored syrups, heavy cream or coconut creamer, fresh lime, fruit purees or even candy pieces. The result is sweeter and creamier than plain soda, and there's no alcohol in it despite the name."
+    },
+    {
+      "heading": "Where dirty soda came from",
+      "text": "Dirty soda is a Utah creation. Swig's founder opened a drive-thru soda shop in St. George, Utah, in 2010, and one of its early drinks was Dr Pepper with coconut. Customers from a nearby orthodontist's office started calling it a 'dirty Dr Pepper,' and the name stuck. Swig later trademarked 'dirty soda.' The trend went national after singer Olivia Rodrigo was pictured with a Swig drink in December 2021."
+    },
+    {
+      "heading": "The most popular dirty sodas",
+      "text": "The Dirty Dr Pepper, made with Dr Pepper, coconut syrup and lime, often with a splash of cream, is the most famous. Swig's menu also has 'The Founder,' the founder's own go-to: Diet Coke with sugar-free coconut syrup, fresh lime and coconut cream. Other drinks mix sodas like Fresca with fruit syrups, purees and coconut cream. Most dirty soda shops let you build your own combination too."
+    },
+    {
+      "heading": "Where to get a dirty soda",
+      "text": "Swig is the largest dirty soda chain, with about 165 locations across 16 states in 2026, including many in Texas and plans for Colorado. Utah has many other soda shops, such as Sodalicious and FiiZ, and big chains have joined the trend, with McDonald's adding dirty-soda-style drinks in 2025 and 2026. Many Swig drinks still cost under $3. See our Swig menu page for prices."
+    },
+    {
+      "heading": "How to make one at home",
+      "text": "To make a simple Dirty Dr Pepper at home, pour Dr Pepper over crushed ice, add a tablespoon or so of coconut syrup and a squeeze of fresh lime, then top with a splash of half-and-half or coconut creamer. Swap in Diet Coke or another soda to change it up."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What is in a dirty soda?", "a": "Soda mixed with add-ins like flavored syrups, coconut cream or creamer, and fresh lime or fruit." },
+    { "q": "Does dirty soda have alcohol?", "a": "No. 'Dirty' refers to the added flavors and cream, not alcohol." },
+    { "q": "What is a Dirty Dr Pepper?", "a": "Dr Pepper with coconut syrup and lime, often with a splash of cream." },
+    { "q": "Who invented dirty soda?", "a": "Swig, which opened in St. George, Utah, in 2010, claims to have coined the name and trademarked 'dirty soda.'" },
+    { "q": "Why is dirty soda popular in Utah?", "a": "Utah's soda shops took off around 2010 and the state still has the most dirty soda shops in the country." }
+  ],
+
+  "internal_links": [
+    { "label": "Swig Menu With Prices", "slug": "swig-menu" },
+    { "label": "What Is Dutch Bros Soft Top?", "slug": "what-is-dutch-bros-soft-top" },
+    { "label": "Sonic Menu With Prices", "slug": "sonic-menu" },
+    { "label": "Who Owns Sonic?", "slug": "who-owns-sonic" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Definition (fountain soda + heavy cream, flavored syrups, candy, fruit juice), craze began in Utah around 2010: Visit Utah. Founded 2010 St. George; 164 locations (April 2026), 16 states (Feb 2026): Wikipedia. 168 locations including 40 in Texas; McDonald's rollout: KSL. 160 locations in 16 states: Utah Business (June 2026). Colorado as 17th state: KOSI 101 / Chain Store Age. Dr Pepper + coconut early drink, coworkers' nickname: Columbia Gorge News. Orthodontist office customers coined it: Nation's Restaurant News. Trademarked 2013: Tasting Table, AOL; NRN says 2014 (guide avoids year). 'The Founder' = Diet Coke, SF coconut syrup, lime, coconut cream; many drinks under $3; Sodalicious/FiiZ rivals: Chowhound, NRN. Olivia Rodrigo Dec 2021: Tasting Table, NewsNation. Home recipe with half-and-half: Favorite Family Recipes. Pebble ice: site's Swig menu page. Checked Nov 14, 2026.",
+    "accuracy": "Location count varies 160-168 by source; guide says 'about 165'.",
+    "keyword_notes": "'what is a dirty soda' 23k KD 0; 'dirty soda' 61k KD 1; 'swig dirty soda' 1.5k KD 12."
+  }
+}

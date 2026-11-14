@@ -1,0 +1,74 @@
+{
+  "slug": "newks-catering",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Newk's Eatery",
+  "brand_slug": "newks-eatery-menu",
+  "cover_hint": "Reuse the Newk's Eatery menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Newk's Catering: Boxed Lunches, Trays and Prices",
+    "meta_description": "Newk's Eatery catering includes boxed lunches from about $12.50, sandwich and wrap bundles for groups, Q sliders, dips and whole cakes. What it costs.",
+    "h1": "Newk's Catering Menu and Prices",
+    "primary_keyword": "newks catering",
+    "keyword_volume": 700,
+    "keyword_kd": 0
+  },
+
+  "question": "How Much Does Newk's Catering Cost?",
+
+  "quick_answer": "Newk's Eatery catering is built around boxed lunches and party bundles. Boxed lunches with a sandwich, side and dessert start around $12.50 to $14.50 per person, and salad boxes run about $9 to $15. Sandwich or wrap bundles that feed about 8 to 10 people cost roughly $156 to $220. Newk's also caters its Q Sliders, Southern Duo dip, soups, dessert trays and whole cakes. Prices and minimums vary by location.",
+
+  "key_facts": [
+    "Boxed lunches from about $12.50 per person",
+    "Bundles for 8 to 10 people about $156 to $220",
+    "Whole cakes about $45 (12 slices)",
+    "Order minimums often around $100",
+    "Prices vary by location"
+  ],
+
+  "body": [
+    {
+      "heading": "Boxed lunches",
+      "text": "Newk's boxed lunches are the most popular catering choice for offices. A Classic boxed lunch includes your choice of sandwich, a side and a dessert, for about $12.50 at some locations, and the Classic Plus adds a second side for about $14.50. Popular sandwiches include the Newk's Club, Chicken Bacon Club, Chicken Salad on a croissant and Ham & Cheese, usually on wheatberry bread. Salad boxes, like the Newk's Favorite or Ultimate Salad, cost about $9 to $15 and come with dessert."
+    },
+    {
+      "heading": "Bundles and trays for groups",
+      "text": "For buffets, Newk's sells bundles that pair a sandwich or wrap tray with sides or salad. One listing shows a small sandwich bundle of 16 halves, serving 8 to 10, for about $220, while other locations offer an assorted sandwich bundle with Caesar salad and a dessert tray for about $156 serving 8. Newk's Q Sliders, made with chicken, Swiss, bacon and Newk's white BBQ sauce, run about $78 to $108 per tray."
+    },
+    {
+      "heading": "Appetizers, soups and desserts",
+      "text": "Starters include a charcuterie tray, the Newk's Southern Duo of chicken salad and pimiento cheese dip, chicken or shrimp pasta salad, and a pimiento cheese ball rolled in pecans. Soups like loaded potato come by the container for 8 to 10 people. For dessert, Newk's offers trays of cookies, crispy treats and brownies, plus whole cakes with 12 slices for about $45."
+    },
+    {
+      "heading": "Drinks and minimums",
+      "text": "You can add gallons of sweet or unsweet tea or lemonade, usually about $10 per gallon, along with cups and ice. Many Newk's locations have a $100 minimum for delivery and need a few hours' notice, while larger orders may need a day's notice. Delivery fees vary."
+    },
+    {
+      "heading": "How to order",
+      "text": "You can order Newk's catering through its website or through catering platforms like ezCater. Newk's was founded in 2004 and has more than 100 locations across the South. For regular menu prices, see our Newk's Eatery menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "How much are Newk's boxed lunches?", "a": "About $12.50 to $16.50 per person, depending on the sandwich, number of sides and location." },
+    { "q": "Does Newk's cater?", "a": "Yes. Newk's caters boxed lunches, sandwich and wrap bundles, sliders, dips, soups, desserts and drinks." },
+    { "q": "How far ahead should I order Newk's catering?", "a": "Many locations need about 3 to 4 hours for smaller orders; larger orders may need a day's notice." },
+    { "q": "Is there a minimum for Newk's catering delivery?", "a": "Often about $100, but it varies by location." }
+  ],
+
+  "internal_links": [
+    { "label": "Newk's Eatery Menu With Prices", "slug": "newks-eatery-menu" },
+    { "label": "Taziki's Catering", "slug": "tazikis-catering" },
+    { "label": "Jason's Deli Salad Bar", "slug": "jasons-deli-salad-bar" },
+    { "label": "How to Order at Which Wich", "slug": "how-to-order-at-which-wich" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Classic Boxed Lunch $12.50, Classic Plus $14.50, Newk's Favorite Salad box $14.00, assorted sandwiches + Caesar + dessert tray $156 (serves 8), Q Sliders $78 (serves 12), gallon tea $10: ezCater Huntsville. Boxed lunches $14.00-$16.50, Club/Chicken Bacon Club/chicken salad on croissant on wheatberry, 3 hr lead time, $100 min: ezCater Frisco. Small Sandwich Bundle 16 halves serves 8-10 $220, Q Sliders (12) $108, whole cake 12 slices $44.99, dessert tray items, loaded potato soup serves 8-10: Foodja (Austin). Charcuterie, Southern Duo, chicken/shrimp pasta salad, pimiento cheese ball: ezCater Rockwall/Wichita. Ultimate Salad box $13, Greek salad box $9: ezCater Mobile/Memphis. Day-before lead time: ezCater Rockwall. Founded 2004, 100+ locations: ezCater Lunch Rush. Checked Nov 14, 2026.",
+    "accuracy": "Prices are from individual location listings on ezCater/Foodja and vary.",
+    "keyword_notes": "'newks catering' 700 KD 0 + 'newk's catering' 450 KD 0. 'newks chicken salad recipe' 500 KD 0 is another option."
+  }
+}

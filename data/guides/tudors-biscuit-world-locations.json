@@ -1,0 +1,74 @@
+{
+  "slug": "tudors-biscuit-world-locations",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Tudor's Biscuit World",
+  "brand_slug": "tudors-biscuit-world-menu",
+  "cover_hint": "Reuse the Tudor's Biscuit World menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Tudor's Biscuit World Locations: How Many and Where",
+    "meta_description": "Tudor's Biscuit World has about 74 locations, mostly in West Virginia, plus Ohio, Kentucky and one in Florida. Where to find one and the chain's history.",
+    "h1": "Tudor's Biscuit World Locations",
+    "primary_keyword": "tudor's biscuit world locations",
+    "keyword_volume": 150,
+    "keyword_kd": 4
+  },
+
+  "question": "Where Are Tudor's Biscuit World Locations?",
+
+  "quick_answer": "Tudor's Biscuit World has about 74 restaurants in four states. Most are in West Virginia, with about seven in Ohio, five in Kentucky and one in Panama City, Florida. The chain started with one restaurant in Charleston, West Virginia, in 1980, and many West Virginia locations share a building with Gino's Pizza and Spaghetti. Each restaurant is owner-operated.",
+
+  "key_facts": [
+    "About 74 locations in 4 states",
+    "Mostly West Virginia",
+    "About 7 in Ohio, 5 in Kentucky, 1 in Florida",
+    "First opened in Charleston, W.Va., in 1980",
+    "Many share a building with Gino's Pizza"
+  ],
+
+  "body": [
+    {
+      "heading": "Where Tudor's is",
+      "text": "Tudor's Biscuit World is a West Virginia chain at heart. Most of its roughly 74 restaurants are in the Mountain State, from the Northern Panhandle to the southern coalfields. Outside West Virginia, Tudor's has about seven locations in southern Ohio and five in eastern Kentucky, plus a single, popular location in Panama City, Florida."
+    },
+    {
+      "heading": "Why many share a building with Gino's",
+      "text": "In much of West Virginia, you'll find Tudor's Biscuit World and Gino's Pizza and Spaghetti under one roof. Gino's wasn't founded by the Tudor family, but the two brands grew together through a partnership with businessman Oshel Craigo, who became a key franchise partner and CEO. Gino's is found only in West Virginia, while Tudor's has spread to neighboring states."
+    },
+    {
+      "heading": "How Tudor's started",
+      "text": "Bill and Mae Tudor opened the first Tudor's Biscuit World on Washington Street in Charleston, near the West Virginia State Capitol, in 1980, with their son John joining soon after. The restaurant caught on quickly, and about 18 more locations opened across the state over the next five years. Bill Tudor died in 1986, and the chain kept growing through franchising."
+    },
+    {
+      "heading": "The famous named biscuits",
+      "text": "Tudor's is known for big made-from-scratch biscuits stuffed with breakfast fillings, each with its own name. Many are named after regular customers, such as the Ron, the Dottie and the Tootie, while others are named for local sports teams, like the Thundering Herd for Marshall University and the Mountaineer for West Virginia University. In 2024 a national magazine named Tudor's the best biscuit in the South."
+    },
+    {
+      "heading": "Finding the nearest Tudor's",
+      "text": "Use the locations page on Tudor's Biscuit World's website to find the closest restaurant and its hours, since each location is independently owned and hours can differ. For biscuit prices, see our Tudor's Biscuit World menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "How many Tudor's Biscuit World locations are there?", "a": "About 74, in West Virginia, Ohio, Kentucky and Florida." },
+    { "q": "What states have Tudor's Biscuit World?", "a": "West Virginia, Ohio, Kentucky and Florida (one location in Panama City)." },
+    { "q": "Where was the first Tudor's Biscuit World?", "a": "On Washington Street in Charleston, West Virginia, opened in 1980." },
+    { "q": "Why are Tudor's and Gino's together?", "a": "The two West Virginia brands grew together through a business partnership, so many locations share a building." }
+  ],
+
+  "internal_links": [
+    { "label": "Tudor's Biscuit World Menu With Prices", "slug": "tudors-biscuit-world-menu" },
+    { "label": "Are Hardee's Biscuits Made From Scratch?", "slug": "hardees-made-from-scratch-biscuits" },
+    { "label": "Bojangles Bo-Berry Biscuit", "slug": "bojangles-bo-berry-biscuit" },
+    { "label": "Skyline Chili Ways, Explained", "slug": "skyline-chili-ways-explained" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "74 locations, 75th coming in Inwood, WV; Northern Panhandle: West Virginia Explorer (marketing director Elizabeth Epling). Seven in Ohio, five in Kentucky, one in Panama City (opened 2016), each owner-operated: West Virginia Explorer. 74 locations in four states, founded 1980 in Charleston, 18 more in next five years, Oshel Craigo partner, best biscuit in the South (2024): Huntington Quarterly. Gino's partnership with Kenney Grant and CEO Oshel Craigo; first location on East Washington Street near the State Capitol: West Virginia Explorer. Bill and Mae Tudor with son John; Gino's exclusive to WV; shares buildings: Wikipedia. Biscuits named for customers (Ron, Dottie, Tootie) and teams (Marshall, WVU): Wikipedia, OysterLink. Thundering Herd, Mountaineer: Only In Your State. Bill Tudor died 1986: Wikipedia (Bill Tudor), NC Rabbit Hole. Checked Nov 14, 2026.",
+    "accuracy": "Florida opening year differs (2016 vs 2018 by source); guide avoids year.",
+    "keyword_notes": "'tudor's biscuit world locations' 150 KD 4 + 'how many tudor's biscuit world locations' 50; brand term 'tudor's biscuit world' 1.8k KD 2."
+  }
+}
