@@ -1,0 +1,70 @@
+{
+  "slug": "is-el-pollo-loco-healthy",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "El Pollo Loco",
+  "brand_slug": "el-pollo-loco-menu",
+  "cover_hint": "Reuse the El Pollo Loco menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Is El Pollo Loco Healthy? Best and Heaviest Picks",
+    "meta_description": "El Pollo Loco's fire-grilled chicken is one of the leaner fast-food proteins, but burritos, sides and sauces add up fast. How to build a lighter meal.",
+    "h1": "Is El Pollo Loco Healthy?",
+    "primary_keyword": "is el pollo loco healthy",
+    "keyword_volume": 800,
+    "keyword_kd": 2
+  },
+
+  "question": "Is El Pollo Loco Healthy?",
+
+  "quick_answer": "El Pollo Loco can be one of the healthier fast-food choices, because its signature chicken is citrus-marinated and fire-grilled rather than breaded and fried. A grilled chicken leg is only about 90 calories. But how healthy your meal is depends on what you add: big burritos, tortillas, cheese, creamy sauces and sides like rice and beans can push calories and sodium up quickly.",
+
+  "key_facts": [
+    "Signature chicken is fire-grilled, not breaded or fried",
+    "A grilled chicken leg is about 90 calories with 12 g of protein",
+    "Burritos, tortillas, cheese and creamy sauces add the most calories",
+    "Rice, beans and combo sides add carbs and sodium",
+    "El Pollo Loco publishes a full nutrition guide"
+  ],
+
+  "body": [
+    {
+      "heading": "Why El Pollo Loco can be a healthy pick",
+      "text": "El Pollo Loco is built around one thing: chicken marinated in citrus and spices, then grilled over an open flame. Because it isn't breaded or deep-fried, it is much leaner than fried chicken. Plain grilled pieces are high in protein and have almost no carbs. A fire-grilled chicken leg, for example, is about 90 calories with 12 grams of protein, and breast pieces are bigger but still lean."
+    },
+    {
+      "heading": "Where the calories add up",
+      "text": "The less healthy part of El Pollo Loco is usually everything around the chicken. Large burritos wrapped in flour tortillas and filled with rice, cheese and creamy sauce can be very high in calories and sodium. Combo meals with tortillas, rice, beans and chips also add a lot of carbs. Creamy dressings, queso and sour cream add fat, so a meal that started healthy can end up heavy."
+    },
+    {
+      "heading": "How to build a lighter meal",
+      "text": "Start with fire-grilled chicken, and if you want, take off the skin. Pair it with vegetables or a side salad instead of rice and tortillas, and choose salsa over creamy sauces or dressings. Bowls and salads with grilled chicken can be good options if you go easy on cheese, chips and dressing. Smaller portions, like a leg and thigh meal, keep calories in check."
+    },
+    {
+      "heading": "Check the numbers",
+      "text": "El Pollo Loco publishes a nutrition guide on its website and in its restaurants, so you can compare calories, sodium and protein before you order. For prices on the whole menu, see our El Pollo Loco menu page, and our calorie calculator can help you add up a meal."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is El Pollo Loco healthier than other fast food?", "a": "It can be, because its chicken is fire-grilled instead of fried. Your choice of sides, tortillas and sauces matters a lot." },
+    { "q": "How many calories are in El Pollo Loco chicken?", "a": "A fire-grilled chicken leg is about 90 calories. Larger pieces like breasts have more. Check El Pollo Loco's nutrition guide for each piece." },
+    { "q": "What is the healthiest thing at El Pollo Loco?", "a": "Plain fire-grilled chicken with vegetables or a side salad, topped with salsa instead of creamy sauce, is one of the lightest meals." },
+    { "q": "What are the least healthy items at El Pollo Loco?", "a": "Large burritos, nachos and combo meals with tortillas, rice, beans, cheese and creamy sauces tend to be highest in calories and sodium." }
+  ],
+
+  "internal_links": [
+    { "label": "El Pollo Loco Menu With Prices", "slug": "el-pollo-loco-menu" },
+    { "label": "Is CAVA Actually Healthy?", "slug": "is-cava-healthy" },
+    { "label": "Is Panera Bread Healthy?", "slug": "is-panera-bread-healthy" },
+    { "label": "Calorie Calculator", "slug": "calorie-calculator" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Citrus-marinated, flame-grilled chicken: site's El Pollo Loco menu page FAQ; free from breading or deep-frying: nutrition reviews (monitor.lpc). Fire-grilled chicken leg 90 cal, 12 g protein, 0 g carbs (US menu): Nutrola (RDN-reviewed). Sides (rice, beans, tortillas) add carbs and calories; sodium ranges higher in combos with sauces: nutrition reviews. Sauces and condiments matter (dietitian Lisa Young quote, via secondary page). El Pollo Loco publishes nutrition guide: site's menu page FAQ. Started in Sinaloa, Mexico in mid-1970s: Eat This (not used on page). Checked Nov 14, 2026.",
+    "accuracy": "Deliberately non-prescriptive: no diet or medical claims, only one specific nutrition number (leg).",
+    "keyword_notes": "'is el pollo loco healthy' 800 KD 2."
+  }
+}

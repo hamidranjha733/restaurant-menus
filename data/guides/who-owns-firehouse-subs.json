@@ -1,0 +1,71 @@
+{
+  "slug": "who-owns-firehouse-subs",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Firehouse Subs",
+  "brand_slug": "firehouse-subs-menu",
+  "cover_hint": "Reuse the Firehouse Subs menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Who Owns Firehouse Subs? RBI and the Founders' Story",
+    "meta_description": "Firehouse Subs is owned by Restaurant Brands International, which bought it for about $1 billion in 2021. Who founded it and what changed after the sale.",
+    "h1": "Who Owns Firehouse Subs?",
+    "primary_keyword": "who owns firehouse subs",
+    "keyword_volume": 500,
+    "keyword_kd": 17
+  },
+
+  "question": "Who Owns Firehouse Subs?",
+
+  "quick_answer": "Firehouse Subs is owned by Restaurant Brands International (RBI), the Canadian company that also owns Burger King, Popeyes and Tim Hortons. RBI bought Firehouse Subs for about $1 billion, announcing the deal in November 2021 and closing it on December 15, 2021. The chain was founded in 1994 in Jacksonville, Florida, by brothers and former firefighters Chris and Robin Sorensen, and it is still based there.",
+
+  "key_facts": [
+    "Owned by Restaurant Brands International (RBI) since December 2021",
+    "Bought for about $1 billion",
+    "RBI also owns Burger King, Popeyes and Tim Hortons",
+    "Founded in 1994 in Jacksonville by firefighter brothers Chris and Robin Sorensen",
+    "Still headquartered in Jacksonville and run as its own brand"
+  ],
+
+  "body": [
+    {
+      "heading": "Restaurant Brands International owns Firehouse Subs",
+      "text": "Firehouse Subs belongs to Restaurant Brands International, or RBI, a Toronto-based company that owns some of the biggest fast-food brands in the world, including Burger King, Popeyes and Tim Hortons. RBI announced it would buy Firehouse Subs on November 15, 2021, and completed the deal on December 15, 2021. RBI's filings put the total price at about $1.03 billion."
+    },
+    {
+      "heading": "Who founded Firehouse Subs",
+      "text": "Brothers Chris and Robin Sorensen, both former firefighters, opened the first Firehouse Subs in Jacksonville, Florida, on October 10, 1994. The firehouse theme, the décor and many of the sub names, like the Hook & Ladder and the Engineer, come from their firefighting background. The chain is known for hot subs with meats and cheese steamed before they go on a toasted roll."
+    },
+    {
+      "heading": "Why the founders sold",
+      "text": "By 2021, Firehouse Subs had about 1,200 restaurants in 46 states, Canada and Puerto Rico, and nearly all of them were run by franchisees. The Sorensens wanted a partner that could help the brand grow faster, especially overseas. RBI said it saw room to expand Firehouse Subs in the U.S. and internationally using its franchise network and digital tools."
+    },
+    {
+      "heading": "What changed after the sale",
+      "text": "RBI said it would keep Firehouse Subs headquartered in Jacksonville and run by its existing management, and it manages Firehouse as a separate brand. Since the sale, the chain has started opening restaurants outside North America. The Firehouse Subs Public Safety Foundation, which buys equipment for first responders, continues, and the founders asked RBI to keep its mission going."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Who owns Firehouse Subs?", "a": "Restaurant Brands International, the parent company of Burger King, Popeyes and Tim Hortons." },
+    { "q": "When was Firehouse Subs sold?", "a": "RBI announced the deal on November 15, 2021, and completed it on December 15, 2021." },
+    { "q": "How much did RBI pay for Firehouse Subs?", "a": "About $1 billion." },
+    { "q": "Who founded Firehouse Subs?", "a": "Brothers and former firefighters Chris and Robin Sorensen, in Jacksonville, Florida, in 1994." },
+    { "q": "Is Firehouse Subs owned by Burger King?", "a": "Not by Burger King itself, but by Burger King's parent company, Restaurant Brands International." }
+  ],
+
+  "internal_links": [
+    { "label": "Firehouse Subs Menu With Prices", "slug": "firehouse-subs-menu" },
+    { "label": "Who Owns Popeyes?", "slug": "who-owns-popeyes" },
+    { "label": "Who Owns Burger King?", "slug": "who-owns-burger-king" },
+    { "label": "Who Owns Jersey Mike's?", "slug": "who-owns-jersey-mikes" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Completed Dec 15, 2021, total consideration $1,033M, managed independently: RBI FY2021 10-K (SEC). Announced Nov 15, 2021, $1B cash, RBI owns Tim Hortons/Burger King/Popeyes, founders' statement on Public Safety Foundation: News4Jax. Toronto-based RBI, HQ stays in Jacksonville with current management, 1,200+ locations in 46 states, Canada, Puerto Rico: Jacksonville Daily Record. 97% franchised, international growth plans: Canadian Press via iNFOnews. First restaurant Oct 10, 1994, Jacksonville; first location outside North America June 2023: Wikipedia. Steamed meats on toasted roll: Jax Daily Record and site's Firehouse menu page. Checked Nov 14, 2026.",
+    "accuracy": "Ownership stable since 2021; re-check yearly.",
+    "keyword_notes": "'who owns firehouse subs' 500 KD 17, traffic potential 7.2k."
+  }
+}

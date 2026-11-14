@@ -1,0 +1,74 @@
+{
+  "slug": "is-tgi-fridays-closing",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "TGI Fridays",
+  "brand_slug": "tgi-fridays-menu",
+  "cover_hint": "Reuse the TGI Fridays menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Is TGI Fridays Closing? Bankruptcy, Owner & 2026 Status",
+    "meta_description": "TGI Fridays isn't going out of business, but it has shrunk to roughly 70 to 80 U.S. restaurants after its 2024 bankruptcy. Who owns it now and what's next.",
+    "h1": "Is TGI Fridays Closing?",
+    "primary_keyword": "tgi fridays closing",
+    "keyword_volume": 900,
+    "keyword_kd": 7
+  },
+
+  "question": "Is TGI Fridays Closing?",
+
+  "quick_answer": "TGI Fridays is not shutting down, but it is much smaller than it used to be. The company that ran its own restaurants filed for Chapter 11 bankruptcy in November 2024, and the U.S. chain has shrunk to roughly 70 to 80 restaurants in 2026, down from more than 600 at its 2008 peak. The brand is now owned by Sugarloaf Holdings, led by former CEO Ray Blanchette, which plans to grow it again. Some individual locations are still closing, so check that yours is open before you go.",
+
+  "key_facts": [
+    "Not going out of business, but many U.S. locations have closed",
+    "Roughly 70 to 80 U.S. restaurants in 2026, down from 600+ at its peak",
+    "Company-owned arm filed for Chapter 11 in November 2024",
+    "Now owned by Sugarloaf Holdings, led by former CEO Ray Blanchette",
+    "Bankruptcy court approved the liquidation plan in July 2026"
+  ],
+
+  "body": [
+    {
+      "heading": "What happened to TGI Fridays",
+      "text": "TGI Fridays was one of America's biggest casual-dining chains, with more than 600 U.S. restaurants in 2008. Like other sit-down chains, it lost customers to fast-casual brands and was hit by the pandemic and rising costs. It closed dozens of locations, then in November 2024 the company that owned and ran its own restaurants, TGI Fridays Inc., filed for Chapter 11 bankruptcy, citing about $37 million in debt."
+    },
+    {
+      "heading": "What the bankruptcy covered",
+      "text": "The bankruptcy only applied to the roughly 39 restaurants the company owned itself, not to the franchised locations run by independent owners in the U.S. and other countries. Restaurants stayed open during the process. As part of it, the company sold some locations, including nine to another operator, and moved others to franchisees."
+    },
+    {
+      "heading": "Who owns TGI Fridays now?",
+      "text": "TGI Fridays is now owned and franchised by Sugarloaf Holdings, which has owned the brand since 2025. It is led by Ray Blanchette, who was TGI Fridays' CEO from 2018 to 2023 and came back to steer the brand through bankruptcy. In July 2026, the bankruptcy court approved the old company's liquidation plan, formally ending those proceedings."
+    },
+    {
+      "heading": "How many TGI Fridays are left?",
+      "text": "TGI Fridays had about 270 U.S. restaurants at the start of 2024. By the end of 2025 it was down to about 80, and more locations closed in 2026, leaving roughly 70 to 80. Closures have been scattered across many states rather than all at once. There are still hundreds of TGI Fridays restaurants outside the U.S., run by franchisees."
+    },
+    {
+      "heading": "What's next",
+      "text": "The new owners say they want to rebuild the brand and grow it again, including opening many new restaurants over the next few years. Whether that happens remains to be seen, so if you're planning a visit, check TGI Fridays' website or call your local restaurant to confirm it's still open. For current menu prices, see our TGI Fridays menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is TGI Fridays going out of business?", "a": "No. The brand is still operating under new owners, though many U.S. locations have closed." },
+    { "q": "Did TGI Fridays file for bankruptcy?", "a": "Yes. The company that owned its own restaurants filed for Chapter 11 in November 2024. Franchised locations were not part of the filing." },
+    { "q": "Who owns TGI Fridays now?", "a": "Sugarloaf Holdings, led by former TGI Fridays CEO Ray Blanchette, has owned the brand since 2025." },
+    { "q": "How many TGI Fridays are left in the U.S.?", "a": "Roughly 70 to 80 in 2026, down from more than 600 in 2008." }
+  ],
+
+  "internal_links": [
+    { "label": "TGI Fridays Menu With Prices", "slug": "tgi-fridays-menu" },
+    { "label": "Is Hooters Going Out of Business?", "slug": "is-hooters-going-out-of-business" },
+    { "label": "Does Red Lobster Still Have Endless Shrimp?", "slug": "red-lobster-endless-shrimp" },
+    { "label": "Applebee's Happy Hour Guide", "slug": "applebees-happy-hour" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "600+ U.S. locations in 2008: Yahoo/MassLive citing CNN, CRE Daily. Chapter 11 Nov 2024 (Nov 2), ~$37M debt, 39 company-owned, franchisees not in filing, stayed open via DIP financing: GMA, Fortune, Yahoo Finance, Bisnow. Nine stores sold for $34.5M to Mera Global: CRE Daily/Bisnow. Sugarloaf Holdings owner and franchisor since 2025; liquidation plan approved (NRN, July 28, 2026); aims to open 600 more stores over four years (NRN caption). Blanchette CEO 2018-2023, returned Jan 2025: Fortune, NJBIZ. ~270 at start of 2024, ~80 by end of FY2025, ~71 after 2026 closures, 28 franchised + 11 company closures in 2025, scattered closures: Coconut Mama (citing 2026 FDD), WhatNow. Checked Nov 14, 2026.",
+    "accuracy": "Location count given as a range (70-80) because sources differ (71, ~80, ~85). Growth target kept vague ('many new restaurants').",
+    "keyword_notes": "'tgi fridays closing' 900 KD 7; 'who owns tgi fridays' 200 KD 5."
+  }
+}
