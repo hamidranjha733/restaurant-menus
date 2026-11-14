@@ -1,0 +1,71 @@
+{
+  "slug": "who-owns-habit-burger",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "The Habit Burger Grill",
+  "brand_slug": "habit-burger-menu",
+  "cover_hint": "Reuse the Habit Burger Grill menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Who Owns Habit Burger? Yum! Brands, Taco Bell's Parent",
+    "meta_description": "Habit Burger & Grill is owned by Yum! Brands, the parent of Taco Bell, KFC and Pizza Hut, which bought it for about $375 million in 2020.",
+    "h1": "Who Owns Habit Burger & Grill?",
+    "primary_keyword": "who owns habit burger",
+    "keyword_volume": 150,
+    "keyword_kd": 9
+  },
+
+  "question": "Who Owns Habit Burger & Grill?",
+
+  "quick_answer": "Habit Burger & Grill is owned by Yum! Brands, the company behind Taco Bell, KFC and Pizza Hut. Yum! bought The Habit Restaurants for about $375 million, or $14 a share, in a deal that closed in March 2020. Habit runs as its own brand within Yum! and is still based in Irvine, California. The chain was founded in Santa Barbara, California, in 1969.",
+
+  "key_facts": [
+    "Owned by Yum! Brands since March 2020",
+    "Bought for about $375 million ($14 per share)",
+    "Sister brands: Taco Bell, KFC, Pizza Hut",
+    "Headquartered in Irvine, California",
+    "Founded in Santa Barbara, California, in 1969"
+  ],
+
+  "body": [
+    {
+      "heading": "Yum! Brands bought Habit in 2020",
+      "text": "Yum! Brands announced in January 2020 that it would buy The Habit Restaurants, Inc. for $14 a share in cash, about $375 million in total. Habit's shareholders approved the deal and it closed in March 2020. It was Yum!'s first fast-casual brand and its return to the burger business after selling A&W Restaurants in 2011."
+    },
+    {
+      "heading": "How Habit fits inside Yum!",
+      "text": "Habit operates as a separate brand and subsidiary of Yum! and kept its headquarters in Irvine, California, the same city as Taco Bell. Since the deal, some changes have followed Yum!'s lead: in 2024 Habit switched from Coca-Cola to Pepsi drinks and renamed itself Habit Burger & Grill, dropping 'The' from its name."
+    },
+    {
+      "heading": "Habit's history",
+      "text": "The first Habit opened in Santa Barbara, California, in 1969. The chain became known for its Charburger, a made-to-order burger cooked over an open flame. Habit went public on the Nasdaq before the Yum! deal, and at the time of the sale it had nearly 300 restaurants in the U.S. and China."
+    },
+    {
+      "heading": "How big Habit is now",
+      "text": "Habit ended 2025 with nearly 385 locations, and its system sales rose about 7% in the first half of 2026. Most restaurants are company-owned, but Yum! has been adding franchised locations as Habit expands into new states. For prices, see our Habit Burger menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Who owns Habit Burger?", "a": "Yum! Brands, the parent company of Taco Bell, KFC and Pizza Hut." },
+    { "q": "When did Yum! Brands buy Habit Burger?", "a": "The deal closed in March 2020." },
+    { "q": "How much did Yum! pay for Habit Burger?", "a": "About $375 million, or $14 per share in cash." },
+    { "q": "Is Habit Burger owned by Taco Bell?", "a": "Not directly. Both are owned by the same parent company, Yum! Brands." },
+    { "q": "Where was Habit Burger founded?", "a": "In Santa Barbara, California, in 1969." }
+  ],
+
+  "internal_links": [
+    { "label": "Habit Burger Menu With Prices", "slug": "habit-burger-menu" },
+    { "label": "Who Owns Shake Shack?", "slug": "who-owns-shake-shack" },
+    { "label": "Who Owns Whataburger?", "slug": "who-owns-whataburger" },
+    { "label": "Who Owns Firehouse Subs?", "slug": "who-owns-firehouse-subs" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Deal announced Jan 6, 2020, $14/share, ~$375M, nearly 300 restaurants in U.S. and China, stays in Irvine, independent: Business Wire / Yum! press release, Fox LA. Shareholders approved and deal closed March 18, 2020; first fast-casual; return to burgers after selling A&W in 2011; founded Santa Barbara 1969: Nation's Restaurant News. Independent subsidiary: PYMNTS, Inside Retail. Switched Coca-Cola to Pepsi July 2024; renamed Habit Burger & Grill Aug 28, 2024; formerly Nasdaq HABT: Wikipedia (2026 snapshot). Nearly 385 locations end of 2025, H1 2026 system sales +7%: Nation's Restaurant News (Sept 29, 2026). Franchised openings (Eureka, CA): GlobeNewswire May 2026. Charburger chargrilled over open flame: site's Habit menu page. Checked Nov 14, 2026.",
+    "accuracy": "Yum! moved its own HQ to Plano, Texas; Habit remains in Irvine (NRN Sept 2026). Location counts vary by source (385-400).",
+    "keyword_notes": "'who owns habit burger' 150 KD 9, TP 1k. 'habit burger nutrition' 600 KD 0 is another option."
+  }
+}

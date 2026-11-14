@@ -1,0 +1,74 @@
+{
+  "slug": "marcos-pizza-bowl",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Marco's Pizza",
+  "brand_slug": "marcos-pizza-menu",
+  "cover_hint": "Reuse the Marco's Pizza menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Marco's Pizza Bowl: Crustless Pizza, Flavors & Calories",
+    "meta_description": "Marco's Pizza Bowls are crustless pizzas baked in a bowl, a low-carb option. Flavors, build-your-own toppings, calories and what they cost.",
+    "h1": "What Is a Marco's Pizza Bowl?",
+    "primary_keyword": "marco's pizza bowl",
+    "keyword_volume": 600,
+    "keyword_kd": 0
+  },
+
+  "question": "What Is a Marco's Pizza Bowl?",
+
+  "quick_answer": "A Marco's Pizza Bowl is a crustless pizza: sauce, Marco's three-cheese blend and toppings baked in a bowl without any dough. Marco's sells specialty versions such as All Meat, Deluxe and Garden, and a Build Your Own bowl with up to four toppings. Because there's no crust, it's popular with people cutting carbs. When they launched, Specialty Pizza Bowls started at a suggested $8.49 and Build Your Own at $7.99, though prices vary by location.",
+
+  "key_facts": [
+    "Crustless pizza baked in a bowl",
+    "Specialty flavors: All Meat, Deluxe, Garden",
+    "Build Your Own: up to four toppings",
+    "Lower in carbs than regular pizza",
+    "Launched at a suggested $7.99 to $8.49; prices vary"
+  ],
+
+  "body": [
+    {
+      "heading": "What's in a Pizza Bowl",
+      "text": "Marco's makes its Pizza Bowls with the same original sauce and three-cheese blend it uses on its pizzas, then adds the toppings and bakes everything in a bowl. There's no crust at all, so you eat it with a fork. Marco's said its Specialty Pizza Bowls match the portions of a medium specialty pizza."
+    },
+    {
+      "heading": "Specialty Pizza Bowl flavors",
+      "text": "The three main specialty bowls are All Meat, with pepperoni, ham, Italian sausage and bacon; Deluxe, with pepperoni, sausage, mushrooms, green peppers and onions; and Garden, a meatless bowl with vegetables. Specialty bowls are topped with Marco's Romesan seasoning, a Parmesan-based blend of Italian herbs. Some locations offer other flavors too."
+    },
+    {
+      "heading": "Build Your Own Pizza Bowl",
+      "text": "In 2021, Marco's added a Build Your Own Pizza Bowl. You start with the sauce and three cheeses and pick up to four toppings, such as pepperoni, sausage, salami, bacon, ham, steak or vegetables. Extra toppings beyond four cost more."
+    },
+    {
+      "heading": "Calories and carbs",
+      "text": "Pizza Bowls are lower in carbs than pizza because there's no dough, but they're still rich in cheese and meat. One launch listing put a Deluxe bowl at about 510 calories, 14 grams of carbs and 29 grams of protein, while the Garden bowl was about 380 calories and the All Meat bowl about 640. Toppings and portion size change the numbers, so check Marco's nutrition guide for your order."
+    },
+    {
+      "heading": "How much a Pizza Bowl costs",
+      "text": "When they launched, Specialty Pizza Bowls had a suggested price of $8.49 and Build Your Own bowls $7.99, with prices varying by location. Expect to pay a little more today. Marco's coupons and app deals sometimes include bowls. For pizza prices, see our Marco's Pizza menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Does Marco's have crustless pizza?", "a": "Yes. Marco's Pizza Bowls are crustless pizzas baked in a bowl." },
+    { "q": "Is the Marco's Pizza Bowl keto-friendly?", "a": "It's much lower in carbs than regular pizza because it has no crust, so many low-carb dieters order it. Check the nutrition guide for exact carbs." },
+    { "q": "What Pizza Bowl flavors does Marco's have?", "a": "All Meat, Deluxe and Garden, plus a Build Your Own bowl with up to four toppings." },
+    { "q": "How much is a Marco's Pizza Bowl?", "a": "They launched at a suggested $7.99 to $8.49. Prices vary by location and have likely risen." }
+  ],
+
+  "internal_links": [
+    { "label": "Marco's Pizza Menu With Prices", "slug": "marcos-pizza-menu" },
+    { "label": "Little Caesars Hot-N-Ready Price", "slug": "little-caesars-hot-n-ready-price" },
+    { "label": "Papa John's Garlic Sauce", "slug": "papa-johns-garlic-sauce" },
+    { "label": "Little Caesars Crazy Bread", "slug": "little-caesars-crazy-bread" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Specialty bowls Deluxe, All Meat, Garden at suggested $8.49, portions of a medium specialty pizza: PMQ, PR Newswire (Marco's press release). Permanent menu item, Deluxe 510 cal/14 g carbs/29 g protein, Garden 380 cal, All Meat 640 cal: Fast Food Post. All Meat toppings (pepperoni, ham, Italian sausage, bacon), Romesan seasoning description: Hip2Keto. Deluxe-style bowl with pepperoni, sausage, mushrooms, green peppers, onions: Marco's description quoted on nutrition listings. Build Your Own launched Jan 18, 2021, up to four toppings for suggested $7.99, $1.50 per extra topping, toppings incl. salami, bacon, steak, ham: Fast Food Post. Original sauce and three-cheese blend: Marco's press release. Checked Nov 14, 2026.",
+    "accuracy": "Prices are launch suggested prices (2019/2021), hedged. Deluxe topping lists differ between sources (Hip2Keto lists veggies + feta); guide uses Marco's own description.",
+    "keyword_notes": "'marco's pizza bowl' 600 KD 0. 'marco's pizza deals' 2.8k KD 0 and coupons 7k are bigger but change constantly."
+  }
+}

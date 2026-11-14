@@ -1,0 +1,74 @@
+{
+  "slug": "cheddars-honey-butter-croissants",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Cheddar's Scratch Kitchen",
+  "brand_slug": "cheddars-menu",
+  "cover_hint": "Reuse the Cheddar's menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Are Cheddar's Honey Butter Croissants Free? What to Know",
+    "meta_description": "Cheddar's gives every guest a free Honey Butter Croissant each visit at company-owned locations. How it works, where it's not offered and what extras cost.",
+    "h1": "Are Cheddar's Honey Butter Croissants Free?",
+    "primary_keyword": "cheddars honey butter croissant",
+    "keyword_volume": 250,
+    "keyword_kd": 1
+  },
+
+  "question": "Are Cheddar's Honey Butter Croissants Free?",
+
+  "quick_answer": "Yes, at most locations. Cheddar's Scratch Kitchen gives every guest a free Honey Butter Croissant on every visit. The croissants are baked in-house and drizzled with house-whipped honey butter. The free croissant offer isn't available at Cheddar's locations in Colorado or at franchise locations, and if you want more than your free one, extra orders cost about $2.",
+
+  "key_facts": [
+    "One free croissant per guest, every visit",
+    "Baked in-house and drizzled with honey butter",
+    "Not free at Colorado and franchise locations",
+    "Extra croissants cost about $2",
+    "Free croissants started in 2019"
+  ],
+
+  "body": [
+    {
+      "heading": "How the free croissants work",
+      "text": "Cheddar's says it welcomes every guest with a free round of its fresh-baked Honey Butter Croissants, one for each person, every visit. Cheddar's lists the croissant as free with every visit, so you don't need a coupon or app."
+    },
+    {
+      "heading": "Where they're not free",
+      "text": "Cheddar's notes that the free croissant offer is not available at its Colorado locations or at franchise-owned restaurants. If you're not sure whether your local Cheddar's is company-owned, ask your server."
+    },
+    {
+      "heading": "What's in them",
+      "text": "The croissants are soft, flaky pastries baked in-house until golden brown, then drizzled with Cheddar's house-whipped honey butter while warm. Cheddar's has said they're baked fresh throughout the day. The honey butter is what makes them sweet and is the reason many fans ask for extra."
+    },
+    {
+      "heading": "How much extra croissants cost",
+      "text": "If one isn't enough, you can order more. On our Cheddar's menu page, an order of Honey Butter Croissants is listed at about $1.99, and other listings show slightly different prices by location. Family bundles also come with croissants."
+    },
+    {
+      "heading": "When Cheddar's started giving them away",
+      "text": "Honey Butter Croissants were on Cheddar's menu for years as a paid item. Cheddar's began offering them free to every guest in late 2019 as a way to welcome diners and bring them back. Cheddar's is owned by Darden Restaurants, the parent company of Olive Garden and LongHorn Steakhouse. For other prices, see our Cheddar's menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Are Cheddar's croissants free?", "a": "Yes. Every guest gets one free Honey Butter Croissant per visit at company-owned locations outside Colorado." },
+    { "q": "Are Cheddar's croissants unlimited?", "a": "No. The free offer is one croissant per guest. You can order more for about $2." },
+    { "q": "Why aren't croissants free at my Cheddar's?", "a": "The free croissant offer isn't available at Colorado locations or franchise-owned restaurants." },
+    { "q": "Who owns Cheddar's?", "a": "Darden Restaurants, which also owns Olive Garden and LongHorn Steakhouse." }
+  ],
+
+  "internal_links": [
+    { "label": "Cheddar's Menu With Prices", "slug": "cheddars-menu" },
+    { "label": "Olive Garden Never Ending Pasta", "slug": "olive-garden-never-ending-pasta" },
+    { "label": "LongHorn Parmesan Crusted Chicken", "slug": "longhorn-parmesan-crusted-chicken" },
+    { "label": "Does Texas Roadhouse Take Reservations?", "slug": "does-texas-roadhouse-take-reservations" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Free round every visit, one for every guest, baked in-house, house-whipped honey butter drizzle, not available at Colorado & franchise locations: cheddars.com/croissants and cheddars.com homepage ('One for every guest'). Baked throughout the day: Mashed (every 20 minutes per brand). Free since October 2019, previously paid: Mashed, Trend Hunter (Nov 2019). Darden ownership: Menupedia; Darden also owns Olive Garden and LongHorn (site's existing guides). Extra order $1.99: site's Cheddar's menu page; other listings $1.99-$3.59. Family bundles include croissants: EatDrinkDeals. Checked Nov 14, 2026.",
+    "accuracy": "Menupedia claims 'unlimited'; Cheddar's own site says one per guest per visit. Guide follows the official site. Cheddar's menu page updated in same commit to reflect free croissant.",
+    "keyword_notes": "'cheddars honey butter croissant' 250 KD 1 + 'cheddars croissant' 1.3k KD 2. Next Cheddar's topic: 'new orleans pasta cheddars' 1.3k KD 0, 'cheddars family meals' 2.3k KD 3."
+  }
+}

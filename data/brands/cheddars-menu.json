@@ -26,7 +26,7 @@
 
   "intro": "Cheddar's Scratch Kitchen is the casual-dining chain that makes most of its menu from scratch in house, known for big portions at low prices: hand-breaded chicken tenders, country fried steak, baby back ribs, the deep-fried Monte Cristo sandwich, and the warm Honey Butter Croissants that come with every meal. The Legendary Monster Cookie is the dessert everyone shares. Below is the full Cheddar's Scratch Kitchen menu with prices for 2026.",
 
-  "quick_answer": "A chicken tender basket at Cheddar's is about $14.39, country fried steak is $13.79, and a 6 oz top sirloin is $14.49. The Monte Cristo sandwich is $11.79, a classic cheeseburger is $9.49, and Honey Butter Croissants are $1.99. The scratch-made comfort food and low prices are the draw. Portions are large.",
+  "quick_answer": "A chicken tender basket at Cheddar's is about $14.39, country fried steak is $13.79, and a 6 oz top sirloin is $14.49. The Monte Cristo sandwich is $11.79, a classic cheeseburger is $9.49, and every guest gets a free Honey Butter Croissant (extra orders about $1.99). The scratch-made comfort food and low prices are the draw. Portions are large.",
 
   "highlights": [
     { "strong": "Made from scratch", "label": "most of the menu, in house" },
@@ -35,7 +35,7 @@
     { "strong": "Monster Cookie", "label": "the shareable dessert" }
   ],
 
-  "hot_deal": "Cheddar's value: it is one of the best-value sit-down chains, with comfort-food plates and a weekday lunch that run cheaper (chicken pot pie from about $9.99 at lunch). The Honey Butter Croissants are $1.99, and the combination plates feed a big appetite. The Monster Cookie is made to share. Prices vary by location.",
+  "hot_deal": "Cheddar's value: it is one of the best-value sit-down chains, with comfort-food plates and a weekday lunch that run cheaper (chicken pot pie from about $9.99 at lunch). Every guest gets a free Honey Butter Croissant each visit (not at Colorado or franchise locations), and the combination plates feed a big appetite. The Monster Cookie is made to share. Prices vary by location.",
 
   "menu": [
     {
@@ -73,7 +73,7 @@
       "category": "Starters, Sides & Dessert",
       "intro": "The croissants, starters and the Monster Cookie.",
       "items": [
-        { "name": "Honey Butter Croissants", "size": "", "price": "$1.99", "calories": "", "desc": "Warm, sweet croissants with honey butter, a signature" },
+        { "name": "Honey Butter Croissants", "size": "", "price": "$1.99", "calories": "", "desc": "One free per guest each visit at company-owned locations (not Colorado or franchise); extra orders about $1.99" },
         { "name": "Santa Fe Spinach Dip", "size": "", "price": "$9.29", "calories": "", "desc": "Creamy spinach dip with chips" },
         { "name": "Wisconsin Cheese Bites", "size": "", "price": "$8.49", "calories": "", "desc": "Fried white cheddar cheese bites" },
         { "name": "Broccoli Cheese Casserole", "size": "", "price": "$2.79", "calories": "", "desc": "A cheesy baked broccoli side" },
@@ -116,7 +116,7 @@
     },
     {
       "q": "Are the Honey Butter Croissants free at Cheddar's?",
-      "a": "Honey Butter Croissants come warm with most meals and can also be ordered for about $1.99. They are a soft, slightly sweet croissant brushed with honey butter and are one of the most popular things on the menu."
+      "a": "Every guest gets one free Honey Butter Croissant each visit at company-owned locations (not in Colorado or at franchises), and extra orders are about $1.99. They are a soft, slightly sweet croissant brushed with honey butter and are one of the most popular things on the menu."
     },
     {
       "q": "What are the most popular items at Cheddar's?",

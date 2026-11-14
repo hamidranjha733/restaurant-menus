@@ -1,0 +1,75 @@
+{
+  "slug": "first-watch-hours",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "First Watch",
+  "brand_slug": "first-watch-menu",
+  "cover_hint": "Reuse the First Watch menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "First Watch Hours: When It Opens, Closes & Holiday Hours",
+    "meta_description": "First Watch is open 7 a.m. to 2:30 p.m. daily and closed Thanksgiving and Christmas. Why it closes early, and how the online waitlist works.",
+    "h1": "First Watch Hours and Waitlist, Explained",
+    "primary_keyword": "first watch hours",
+    "keyword_volume": 5200,
+    "keyword_kd": 0
+  },
+
+  "question": "What Are First Watch's Hours?",
+
+  "quick_answer": "First Watch is open from 7 a.m. to 2:30 p.m. every day. It serves breakfast, brunch and lunch only, so it does not open for dinner. First Watch closes on Thanksgiving and Christmas Day. It doesn't take traditional reservations, but you can check wait times and join the waitlist through its app or website before you arrive.",
+
+  "key_facts": [
+    "Open daily 7 a.m. to 2:30 p.m.",
+    "Breakfast, brunch and lunch only; no dinner",
+    "Closed Thanksgiving and Christmas Day",
+    "No traditional reservations",
+    "Join the waitlist in the app or on the website"
+  ],
+
+  "body": [
+    {
+      "heading": "Daily hours",
+      "text": "First Watch restaurants are open from 7 a.m. to 2:30 p.m. seven days a week, including weekends. The whole menu, from pancakes and omelets to lunch salads and sandwiches, is served during those hours, so you can order breakfast right up until closing. Hours can differ at a few locations, so check your local restaurant's page before going late in the day."
+    },
+    {
+      "heading": "Why First Watch closes at 2:30",
+      "text": "First Watch is a daytime-only cafe built around breakfast, brunch and lunch. It does not serve dinner at all, which is why the restaurants close in the early afternoon. Many locations also serve brunch cocktails, but alcohol is not offered everywhere."
+    },
+    {
+      "heading": "Holiday hours",
+      "text": "First Watch says it is closed on Thanksgiving and Christmas Day. On other holidays, most locations keep their normal 7 a.m. to 2:30 p.m. hours, but it's worth checking your local restaurant's page or the app for any changes."
+    },
+    {
+      "heading": "Does First Watch take reservations?",
+      "text": "Not in the traditional sense. Instead, most First Watch restaurants let you check wait times and add your name to the waitlist before you arrive, through the First Watch app or the company's website. You can join as a guest, but logging in to an account lets you see your exact place in line. Weekend mornings are the busiest, so joining the waitlist early helps."
+    },
+    {
+      "heading": "Ordering ahead",
+      "text": "If you'd rather skip the wait entirely, First Watch offers online ordering for pickup at most locations, and some offer delivery. For menu prices, see our First Watch menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What time does First Watch open?", "a": "7 a.m. every day." },
+    { "q": "What time does First Watch close?", "a": "2:30 p.m. every day." },
+    { "q": "Is First Watch open on Thanksgiving or Christmas?", "a": "No. First Watch is closed on Thanksgiving and Christmas Day." },
+    { "q": "Does First Watch serve dinner?", "a": "No. It serves breakfast, brunch and lunch only." },
+    { "q": "Does First Watch take reservations?", "a": "No traditional reservations, but you can join the waitlist online or in the First Watch app before you arrive." }
+  ],
+
+  "internal_links": [
+    { "label": "First Watch Menu With Prices", "slug": "first-watch-menu" },
+    { "label": "Denny's Grand Slam", "slug": "dennys-grand-slam" },
+    { "label": "Is IHOP Open on Christmas?", "slug": "is-ihop-open-on-christmas" },
+    { "label": "Does Texas Roadhouse Take Reservations?", "slug": "does-texas-roadhouse-take-reservations" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "7 a.m.-2:30 p.m. daily, closed Thanksgiving and Christmas Day, no traditional reservations, waitlist via homepage/app, guest vs logged-in account shows exact place in line: firstwatch.com/contact FAQ. 'Open daily 7am to 2:30pm', join waitlist online, order ahead, alcohol at some locations: firstwatch.com location pages (Reston, Tucker, College Station). Daytime-only, no dinner: site's First Watch menu page. Checked Nov 14, 2026.",
+    "accuracy": "Hours can vary at airport or non-traditional locations; guide tells readers to check local page.",
+    "keyword_notes": "'first watch hours' 5.2k KD 0 + 'first watch reservations' 1.7k KD 1 + 'does first watch take reservations' 400 KD 0. Next First Watch topic: 'first watch gluten free menu' 2k KD 0."
+  }
+}

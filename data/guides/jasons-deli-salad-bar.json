@@ -1,0 +1,74 @@
+{
+  "slug": "jasons-deli-salad-bar",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Jason's Deli",
+  "brand_slug": "jasons-deli-menu",
+  "cover_hint": "Reuse the Jason's Deli menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Jason's Deli Salad Bar: Price, What's on It & Free Ice Cream",
+    "meta_description": "The Jason's Deli Garden Fresh Salad Bar costs about $10, and dine-in guests also get free soft-serve ice cream. What's on the bar and how to order it.",
+    "h1": "Jason's Deli Salad Bar, Explained",
+    "primary_keyword": "jason's deli salad bar",
+    "keyword_volume": 500,
+    "keyword_kd": 1
+  },
+
+  "question": "How Does the Jason's Deli Salad Bar Work?",
+
+  "quick_answer": "The Garden Fresh Salad Bar at Jason's Deli is a build-your-own salad bar with greens, fresh vegetables, prepared salads, toppings and dressings. It costs about $10 at many locations, and you can add a cup or bowl of soup. If you dine in, you also get free soft-serve ice cream with your meal. For takeout, many locations offer a full-service salad bar, where staff build the salad for you.",
+
+  "key_facts": [
+    "About $10 at many locations (prices vary)",
+    "Greens, veggies, prepared salads, toppings and dressings",
+    "Soup can be added for an extra charge",
+    "Free soft-serve ice cream for dine-in guests",
+    "Full-service salad bar available for takeout at many stores"
+  ],
+
+  "body": [
+    {
+      "heading": "What's on the salad bar",
+      "text": "Jason's Deli's Garden Fresh Salad Bar starts with salad greens and organic spinach, plus vegetables such as grape tomatoes, broccoli, mushrooms, organic baby carrots, bell peppers and red onion. It also has prepared salads, like potato salad, pasta salad and black bean and roasted corn salad, along with toppings, fresh fruit and several dressings. Items vary by location and season, and some stores add regional recipes."
+    },
+    {
+      "heading": "How much it costs",
+      "text": "On our Jason's Deli menu page, the Garden Fresh Salad Bar is listed at about $10.29, and other locations charge a bit less or more. Adding a cup or bowl of soup turns it into a soup and salad bar meal for a few dollars extra. Kids can get a smaller salad bar portion from the kids menu at many locations."
+    },
+    {
+      "heading": "Full-service salad bar for takeout",
+      "text": "If you're ordering ahead or getting delivery, many Jason's Deli locations offer a full-service salad bar. You choose your greens, toppings and dressing, and staff build the salad for you. You can also add a protein, avocado or soup for an extra charge. The Jason's Deli app also lets you order a dine-in salad bar and earn rewards."
+    },
+    {
+      "heading": "Free ice cream with dine-in meals",
+      "text": "One of Jason's Deli's best-known perks is free soft-serve ice cream for dine-in guests, usually in vanilla, chocolate or twist, with chocolate syrup on the side. It's self-serve near the salad bar or drink station at most locations. A plain serving is about 210 calories, according to Jason's Deli's menu. Takeout orders don't include it."
+    },
+    {
+      "heading": "Vegetarian and vegan options",
+      "text": "Most of the salad bar is meat-free, which makes it a go-to for vegetarians. Jason's Deli has noted a few exceptions, such as bacon and some prepared salads, so vegetarians should skip those. For other prices, see our Jason's Deli menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "How much is the Jason's Deli salad bar?", "a": "About $10 at many locations. Prices vary." },
+    { "q": "Is the Jason's Deli salad bar all you can eat?", "a": "The dine-in salad bar lets you build your own salad from the bar. Rules on refills can vary by location, so ask your server." },
+    { "q": "Does Jason's Deli still give free ice cream?", "a": "Yes. Dine-in guests get free soft-serve ice cream with their meal." },
+    { "q": "Can you get the Jason's Deli salad bar to go?", "a": "Yes. Many locations offer a full-service salad bar for takeout, built by staff to your order." }
+  ],
+
+  "internal_links": [
+    { "label": "Jason's Deli Menu With Prices", "slug": "jasons-deli-menu" },
+    { "label": "Olive Garden Never Ending Pasta", "slug": "olive-garden-never-ending-pasta" },
+    { "label": "IHOP Kids Eat Free", "slug": "ihop-kids-eat-free" },
+    { "label": "Is El Pollo Loco Healthy?", "slug": "is-el-pollo-loco-healthy" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Salad bar items (salad greens, organic spinach, grape tomatoes, broccoli, mushrooms, organic baby carrots, bell peppers, red onion), prepared salads (American potato, Italian pasta, black bean & roasted corn), exceptions bacon/tuna pasta/green chile potato salad/regional recipes, kids salad bar: Jason's Deli vegetarian menu PDF (jasonsdeli.com). Full-service salad bar: choose greens, toppings, dressing, add protein/avocado/soup: Jason's Deli delivery menu text (Foodboss). App dine-in salad bar + Deli Dollars: Jason's Deli catering PDF. Free soft serve for dine-in, vanilla/chocolate/twist, free chocolate syrup: Dayton Daily News, Mobile Cuisine, reviews. Ice cream 210 cal, syrup 100 cal: Jason's Deli menu PDF (Apr 2024). Salad bar $10.29: site's Jason's Deli menu page; other listings $9.56-$9.99. Soup & salad bar combo: Menupedia. Checked Nov 14, 2026.",
+    "accuracy": "Refill policy not confirmed by Jason's Deli; FAQ hedges. Item list from older official PDF, hedged with 'varies'.",
+    "keyword_notes": "'jason's deli salad bar' 500 KD 1, TP 6.1k. 'jason's deli kids eat free' 250 KD 0 is the next Jason's topic."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "is-twin-peaks-like-hooters",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Twin Peaks",
+  "brand_slug": "twin-peaks-menu",
+  "cover_hint": "Reuse the Twin Peaks menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Is Twin Peaks Like Hooters? Differences & Who Owns It",
+    "meta_description": "Twin Peaks and Hooters are both sports bars with all-female servers, but Twin Peaks has a mountain-lodge theme and a comfort-food menu. Who owns it now.",
+    "h1": "Is Twin Peaks Like Hooters?",
+    "primary_keyword": "is twin peaks like hooters",
+    "keyword_volume": 700,
+    "keyword_kd": 1
+  },
+
+  "question": "Is Twin Peaks Like Hooters?",
+
+  "quick_answer": "In many ways, yes. Twin Peaks and Hooters are both sports bars with all-female wait staff in revealing uniforms. The main differences are the theme and the menu: Twin Peaks calls itself a sports lodge, with a mountain-lodge look, servers in plaid and boots, and a menu that includes comfort food like pot roast and meatloaf. Twin Peaks was founded in Texas in 2005, much later than Hooters, and several of its early franchise leaders were former Hooters executives.",
+
+  "key_facts": [
+    "Both are sports bars with all-female servers",
+    "Twin Peaks uses a mountain-lodge 'sports lodge' theme",
+    "Twin Peaks' menu adds comfort food like pot roast and meatloaf",
+    "Founded in Lewisville, Texas, in 2005",
+    "About 114 locations in the U.S. and Mexico as of early 2026"
+  ],
+
+  "body": [
+    {
+      "heading": "What Twin Peaks and Hooters have in common",
+      "text": "Both chains are sports bars built around big TVs, beer and an all-female wait staff in revealing uniforms, a format often nicknamed 'breastaurants.' Both mostly attract men; Twin Peaks has said about three-quarters of its guests are men. Because the formats are so close, Twin Peaks is often described as a Hooters-style sports bar."
+    },
+    {
+      "heading": "How Twin Peaks is different",
+      "text": "Twin Peaks leans into a mountain-lodge theme, with fireplaces, antler decor and servers in plaid tops and boots, and it calls its restaurants 'sports lodges.' Its menu goes beyond wings and burgers to include hearty comfort food such as pot roast and green chile meatloaf, and it's known for serving draft beer very cold. Industry analysts have pointed to Twin Peaks' larger restaurants, outdoor spaces and food-and-beer focus as reasons it gained ground on Hooters."
+    },
+    {
+      "heading": "The Hooters connection",
+      "text": "Twin Peaks was founded in Lewisville, Texas, in 2005. A few years later, former Hooters executives signed on as Twin Peaks franchisees, and Hooters sued one of them over trade secrets. That case was settled out of court in 2012. Today the two chains are separate companies and direct competitors."
+    },
+    {
+      "heading": "Who owns Twin Peaks now",
+      "text": "FAT Brands bought Twin Peaks in 2021 and spun it off as Twin Hospitality Group in early 2025. In January 2026, both companies filed for Chapter 11 bankruptcy, and Twin Peaks restaurants stayed open during the process. In May 2026, a bankruptcy judge approved the sale of Twin Peaks to a group of its bondholders through a $359.5 million credit bid, and the chain returned to private ownership."
+    },
+    {
+      "heading": "How many Twin Peaks locations are there?",
+      "text": "Twin Peaks had about 114 locations in the U.S. and Mexico at the time of the bankruptcy filing in early 2026, and some former Smokey Bones restaurants have been converted into Twin Peaks lodges. For menu prices, see our Twin Peaks menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Twin Peaks the same as Hooters?", "a": "No. They're separate companies, but both are sports bars with all-female wait staff. Twin Peaks has a mountain-lodge theme and a bigger comfort-food menu." },
+    { "q": "Who owns Twin Peaks?", "a": "A group of its former bondholders bought Twin Peaks out of bankruptcy in 2026, and it is now privately held." },
+    { "q": "Did Twin Peaks file for bankruptcy?", "a": "Yes. Its parent companies, FAT Brands and Twin Hospitality Group, filed for Chapter 11 in January 2026. The restaurants stayed open and the brand was sold to bondholders." },
+    { "q": "How many Twin Peaks restaurants are there?", "a": "About 114 in the U.S. and Mexico as of early 2026." },
+    { "q": "When was Twin Peaks founded?", "a": "2005, in Lewisville, Texas." }
+  ],
+
+  "internal_links": [
+    { "label": "Twin Peaks Menu With Prices", "slug": "twin-peaks-menu" },
+    { "label": "Buffalo Wild Wings Sauces", "slug": "buffalo-wild-wings-sauces" },
+    { "label": "Is TGI Fridays Closing?", "slug": "is-tgi-fridays-closing" },
+    { "label": "What Is Chili's Triple Dipper?", "slug": "what-is-chilis-triple-dipper" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Founded Lewisville TX 2005, 'sports lodge', fireplaces, plaid and boots, ex-Hooters execs as franchisees, Hooters suit settled 2012: Business Insider (2017). All-female wait staff + mountain lodge theme: Chain Store Guide (Feb 2025). 74% of guests men; outdoor spaces, food and cold beer differentiators per analyst Tristano: FSR Magazine. Pot roast and green chile meatloaf vs Hooters burgers/sandwiches: D Magazine. Antler fans, 'breastaurant' term: Arkansas Democrat-Gazette. FAT Brands acquired Twin Peaks in 2021, spun off as Twin Hospitality ~Jan 2025: Houston Chronicle, Bev Info Group. Chapter 11 Jan 26, 2026; restaurants remain open: Fox 4, Financier Worldwide. 114 locations US and Mexico: NTD, AOL/USA Today. Sale to bondholders, $359.5M credit bid, approved May 2026, private (Summit Twin Hospitality I, LLC): Restaurant Business, Entrepreneur, Twin Hospitality 8-K (May 19, 2026). Smokey Bones conversions: QSR Magazine. 29-degree beer: site's Twin Peaks menu page. Checked Nov 14, 2026.",
+    "accuracy": "Neutral tone kept. Location count is as of early 2026; re-check.",
+    "keyword_notes": "'is twin peaks like hooters' 700 KD 1 + 'who owns twin peaks' 350 KD 2 + 'how many twin peaks restaurants are there' 200 KD 0."
+  }
+}
