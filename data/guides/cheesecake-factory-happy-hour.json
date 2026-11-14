@@ -1,0 +1,75 @@
+{
+  "slug": "cheesecake-factory-happy-hour",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "The Cheesecake Factory",
+  "brand_slug": "cheesecake-factory-menu",
+  "cover_hint": "Reuse the Cheesecake Factory menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Cheesecake Factory Happy Hour: Times, Menu & Prices",
+    "meta_description": "Cheesecake Factory happy hour runs Monday to Friday, 4 to 6 p.m., in the bar. What's on the menu, typical prices and the rules before you go.",
+    "h1": "When Is Cheesecake Factory Happy Hour?",
+    "primary_keyword": "cheesecake factory happy hour",
+    "keyword_volume": 7800,
+    "keyword_kd": 10
+  },
+
+  "question": "When Is Cheesecake Factory Happy Hour?",
+
+  "quick_answer": "The Cheesecake Factory's happy hour runs Monday through Friday from 4 to 6 p.m. at most locations, and it is served in the bar area only, not the main dining room. The happy hour menu has discounted appetizers, small plates, a special Happy Hour Burger and, where state law allows, drink specials. There is no weekend happy hour.",
+
+  "key_facts": [
+    "Monday to Friday, 4 to 6 p.m. at most locations",
+    "Bar area only, not the main dining room",
+    "Appetizers about $10.95 each at many locations (often $13 to $18 on the regular menu)",
+    "Includes a Happy Hour Burger you can't get at other times",
+    "No weekend happy hour; cheesecake is not discounted"
+  ],
+
+  "body": [
+    {
+      "heading": "Happy hour times",
+      "text": "Most Cheesecake Factory restaurants run happy hour Monday through Friday from 4 p.m. to 6 p.m. There is no happy hour on Saturday or Sunday. A few restaurants can set their own times, so it is worth checking your local location page before you go."
+    },
+    {
+      "heading": "Bar seating only",
+      "text": "Happy hour prices are only for guests seated in the bar area. If you are seated in the main dining room, you will get the regular menu and prices."
+    },
+    {
+      "heading": "What's on the happy hour menu",
+      "text": "The menu changes a little by location, but it usually has around a dozen appetizers, a few smaller plates and the Happy Hour Burger, a double cheeseburger that is only sold during happy hour. Typical picks include fried calamari, Avocado Eggrolls, sliders and crispy Brussels sprouts. At many locations the appetizers are about $10.95 each, compared with roughly $13 to $18 on the regular menu, and small plates are a little less."
+    },
+    {
+      "heading": "Drinks and what's not included",
+      "text": "Where state law allows, happy hour also includes lower prices on some cocktails, wine and beer, and in some places alcohol must be ordered with food. Cheesecake is not part of happy hour, so slices stay at their regular price. Happy hour prices are for dine-in at the bar, not takeout or delivery."
+    },
+    {
+      "heading": "How to see your local happy hour menu",
+      "text": "On The Cheesecake Factory's website, choose your location and open its details. If the restaurant has a happy hour menu, it is listed there. If it isn't, that location may not offer happy hour. For regular prices, including slices and entrees, see our Cheesecake Factory menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What time is happy hour at the Cheesecake Factory?", "a": "Monday through Friday, 4 to 6 p.m., at most locations." },
+    { "q": "Is Cheesecake Factory happy hour on weekends?", "a": "No. Happy hour is a weekday deal only." },
+    { "q": "Can you get happy hour at a regular table?", "a": "No. Happy hour prices are for the bar area only." },
+    { "q": "How much are appetizers during happy hour?", "a": "About $10.95 each at many locations, versus roughly $13 to $18 on the regular menu. Prices vary by restaurant." },
+    { "q": "Is cheesecake discounted during happy hour?", "a": "No. Cheesecake stays at its regular price during happy hour." }
+  ],
+
+  "internal_links": [
+    { "label": "Cheesecake Factory Menu With Prices", "slug": "cheesecake-factory-menu" },
+    { "label": "Applebee's Happy Hour Guide", "slug": "applebees-happy-hour" },
+    { "label": "Olive Garden Never-Ending Pasta Guide", "slug": "olive-garden-never-ending-pasta" },
+    { "label": "Calorie Calculator", "slug": "calorie-calculator" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Mon-Fri 4-6 p.m., bar only, no weekend, $10.95 appetizers vs $13.95-$17.95 regular, $9.95 small plates, cheesecake not included: MenuXP (from a Cheesecake Factory store menu read Oct 27, 2026; 214 US stores checked, none list weekend). 4-6 p.m. weekdays at all locations, about 14 starters, drinks list: The Takeout (March 2025). Bar only, not main dining; drink specials where allowed by law; how to find the location's happy hour menu; sample items (Happy Hour Burger, sliders, calamari, Avocado Eggrolls, Brussels sprouts): EatDrinkDeals (May 2026). Happy Hour Burger is a double cheeseburger only at happy hour: FSR Magazine. Some locations require alcohol with food: itsyummi. Checked Nov 14, 2026.",
+    "accuracy": "Prices hedged with 'about' and 'at many locations'.",
+    "keyword_notes": "'cheesecake factory happy hour' 7.8k KD 10; also 'does cheesecake factory have happy hour' 600."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "applebees-happy-hour",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Applebee's",
+  "brand_slug": "applebees-menu",
+  "cover_hint": "Reuse the Applebee's menu hero. Appetizers and drinks at a bar if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Applebee's Happy Hour: Times, Half-Price Apps & Rules",
+    "meta_description": "When is Applebee's happy hour? Most locations run afternoon deals and late-night half-price appetizers. Typical times, what's included and the rules.",
+    "h1": "When Is Applebee's Happy Hour?",
+    "primary_keyword": "applebees happy hour",
+    "keyword_volume": 13000,
+    "keyword_kd": 3
+  },
+
+  "question": "When Is Applebee's Happy Hour?",
+
+  "quick_answer": "Applebee's happy hour is set by each restaurant, so times differ by location. Many run an afternoon happy hour around 3 to 6 p.m. on weekdays, and many also offer Late Night half-price appetizers later in the evening, often from about 9 p.m. to close. The deals are for dine-in guests only. Call or check your local Applebee's page for its exact hours.",
+
+  "key_facts": [
+    "Times are set locally; there is no single national schedule",
+    "Afternoon happy hour is often around 3 to 6 p.m. on weekdays",
+    "Late Night half-price appetizers run at participating restaurants, often after about 9 p.m.",
+    "Happy hour and Late Night deals are dine-in only",
+    "Some states don't allow drink specials, so those locations discount food only"
+  ],
+
+  "body": [
+    {
+      "heading": "Why Applebee's happy hour times vary",
+      "text": "Almost every Applebee's is run by a franchise owner, and each restaurant sets its own happy hour and late-night hours. State liquor laws also play a part: some states limit or ban drink discounts, so Applebee's in those places run food-only specials. That is why two Applebee's in the same city can have different times and prices."
+    },
+    {
+      "heading": "Afternoon happy hour",
+      "text": "At many locations, the afternoon happy hour runs from about 3 p.m. to 6 p.m. on weekdays, with some stretching a little later. The usual deals are lower prices on appetizers and, where the law allows, on draft beer, well drinks and featured cocktails. The exact menu changes by restaurant, and some limit happy hour pricing to the bar area."
+    },
+    {
+      "heading": "Late Night half-price appetizers",
+      "text": "Applebee's has promoted Late Night half-price appetizers nationally for dine-in guests at participating restaurants, seven nights a week during set late-night hours. Past Late Night lineups have included boneless wings, mozzarella sticks, chicken wonton tacos, spinach artichoke dip, a chicken quesadilla and pretzels with beer cheese dip. Late-night start times vary, but after about 9 p.m. is common."
+    },
+    {
+      "heading": "Rules to know before you go",
+      "text": "Happy hour and Late Night prices are for dine-in only, so takeout, delivery and app orders don't get them. Not every Applebee's takes part, and the list of discounted appetizers can differ from one restaurant to the next. Drink specials are only for guests 21 and over and depend on local law."
+    },
+    {
+      "heading": "How to check your local Applebee's",
+      "text": "The quickest way is to open your restaurant's page on Applebee's website or app and look for happy hour or Late Night details, or simply call and ask. For regular prices on the full menu, including appetizers and the 2 for $25 deal, see our Applebee's menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What time is Applebee's happy hour?", "a": "It depends on the restaurant. Many run happy hour around 3 to 6 p.m. on weekdays, plus Late Night half-price appetizers from about 9 p.m. to close." },
+    { "q": "Does Applebee's still have half-price appetizers?", "a": "Yes, at participating restaurants. Applebee's offers Late Night half-price appetizers for dine-in guests, and many locations also discount appetizers during afternoon happy hour." },
+    { "q": "Is Applebee's happy hour on weekends?", "a": "Afternoon happy hour is mostly a weekday deal, but Late Night half-price appetizers have been offered seven nights a week at participating restaurants. Check your local Applebee's." },
+    { "q": "Can I get happy hour prices to go?", "a": "No. Happy hour and Late Night deals are for dine-in guests only." }
+  ],
+
+  "internal_links": [
+    { "label": "Applebee's Menu With Prices", "slug": "applebees-menu" },
+    { "label": "What Is Chili's Triple Dipper?", "slug": "what-is-chilis-triple-dipper" },
+    { "label": "TGI Fridays Menu With Prices", "slug": "tgi-fridays-menu" },
+    { "label": "Chili's Menu With Prices", "slug": "chilis-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Late Night half-price appetizers, dine-in only, participating restaurants, late-night hours vary, mostly franchised, past lineup: Applebee's release on Business Wire and NRN/Restaurant Business (June 13, 2022). Seven nights a week at participating restaurants: FSR Magazine (back-to-campus promotion). 3-6 p.m. and after 9 p.m. typical windows: CouponCabin Applebee's page. Some states food-only specials: Chowhound '19 Chain Restaurants With Amazing Happy Hour Deals'. Times vary by city, franchise and state liquor rules: CouponCabin (April 29, 2026). Applebee's does not publish one national happy hour menu; applebees.com not fetchable from this session. Checked Nov 14, 2026.",
+    "accuracy": "Deliberately hedged ('many', 'often', 'participating'). No happy hour prices given because they vary by restaurant. Note: the Applebee's menu page FAQ mentions Dollaritas; re-check that line when the menu page is next updated.",
+    "keyword_notes": "'applebees happy hour' 13k KD 3; also 'when is applebees happy hour', 'what time is applebees happy hour', 'applebees half price apps', 'does applebees still have half price apps'."
+  }
+}
