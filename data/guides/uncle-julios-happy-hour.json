@@ -1,0 +1,94 @@
+{
+  "slug": "uncle-julios-happy-hour",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Uncle Julio's",
+  "brand_slug": "uncle-julios-menu",
+  "cover_hint": "Reuse the Uncle Julio's menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+  "seo": {
+    "meta_title": "Uncle Julio's Happy Hour: Times, $5 Margaritas and Deals",
+    "meta_description": "Uncle Julio's happy hour runs Monday to Friday, 3 to 6 p.m., with $5 Swirls, $5 Julio's Gold margaritas and $1 off beer and wine. Full deal guide.",
+    "h1": "Uncle Julio's Happy Hour",
+    "primary_keyword": "uncle julio's happy hour",
+    "keyword_volume": 400,
+    "keyword_kd": 0
+  },
+  "question": "When Is Uncle Julio's Happy Hour?",
+  "quick_answer": "Uncle Julio's happy hour runs Monday through Friday from 3 to 6 p.m. The drink deals are $5 for The Swirl (frozen margarita swirled with frozen sangria), $5 for Julio's Gold, the house special margarita, $5 for a frozen margarita, and $1 off draft beer and wine. Uncle Julio's has also run Happytizers, discounted appetizers like queso, guacamole and quesadillas, during happy hour. Deals can vary by location, so check your restaurant.",
+  "key_facts": [
+    "Monday–Friday, 3–6 p.m.",
+    "$5 The Swirl",
+    "$5 Julio's Gold margarita",
+    "$5 frozen margarita",
+    "$1 off draft beer and wine"
+  ],
+  "body": [
+    {
+      "heading": "Happy hour times",
+      "text": "Uncle Julio's happy hour runs on weekdays only, Monday through Friday, from 3 p.m. to 6 p.m. There is no weekend happy hour listed on the company's specials menu. Times and deals can differ at some restaurants, so it's worth calling or checking your location's menu before you go."
+    },
+    {
+      "heading": "Happy hour drinks",
+      "text": "The headline deal is The Swirl for $5, Uncle Julio's signature frozen margarita swirled with frozen sangria. Julio's Gold, the house special margarita, and a regular frozen margarita are also $5. Draft beer and wine are $1 off. Those prices are well below the regular menu, where margaritas and the Swirl usually cost several dollars more."
+    },
+    {
+      "heading": "Happy hour food",
+      "text": "In 2023, Uncle Julio's introduced Happytizers, a happy hour menu with discounted versions of popular starters such as Queso Blanco, Chile Con Queso, guacamole and quesadillas. One deal roundup listed guacamole with chips for $7 and queso for $5 to $6. Food deals change more often than the drink specials, so confirm what your restaurant is offering."
+    },
+    {
+      "heading": "Other Uncle Julio's deals",
+      "text": "Uncle Julio's also runs Taco Bar Tuesday, a build-your-own taco bar for about $12 per person with a two-person minimum; steak and chicken fajita meat costs extra. There's a Fresh Margarita of the Month made with muddled seasonal fruit, and the Amigo Especial rewards program earns points toward future visits."
+    },
+    {
+      "heading": "Save room for the chocolate piñata",
+      "text": "Uncle Julio's most famous dessert is the chocolate piñata: a hanging dark chocolate shell filled with mini churros and fresh fruit that you crack open at the table, served with chocolate sauce and whipped cream. It's priced around $33 on one current menu and is meant for sharing. It isn't a happy hour item. See our Uncle Julio's menu for full prices."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What time is Uncle Julio's happy hour?",
+      "a": "Monday through Friday from 3 p.m. to 6 p.m."
+    },
+    {
+      "q": "Does Uncle Julio's have happy hour on weekends?",
+      "a": "No weekend happy hour is listed. It runs on weekdays only."
+    },
+    {
+      "q": "How much are margaritas at Uncle Julio's happy hour?",
+      "a": "The Swirl, Julio's Gold and frozen margaritas are $5 each during happy hour."
+    },
+    {
+      "q": "What is The Swirl at Uncle Julio's?",
+      "a": "It's a frozen margarita swirled with frozen sangria, Uncle Julio's signature drink."
+    },
+    {
+      "q": "Does Uncle Julio's have Taco Tuesday?",
+      "a": "Yes. Taco Bar Tuesday is about $12 per person with a two-person minimum."
+    }
+  ],
+  "internal_links": [
+    {
+      "label": "Uncle Julio's Menu",
+      "slug": "uncle-julios-menu"
+    },
+    {
+      "label": "Applebee's Happy Hour",
+      "slug": "applebees-happy-hour"
+    },
+    {
+      "label": "Cheesecake Factory Happy Hour",
+      "slug": "cheesecake-factory-happy-hour"
+    },
+    {
+      "label": "Lazy Dog Happy Hour",
+      "slug": "lazy-dog-happy-hour"
+    }
+  ],
+  "_data_notes": {
+    "fact_source": "unclejulios.com dine-in specials page (M-F 3-6pm; $5 Swirl, $5 Julio's Gold, $5 frozen margarita, $1 off draft beer and wine; Taco Bar Tuesday $12 pp min 2, fajita meat extra; Fresh Margarita of the Month; chocolate pinata description, $33 on Grapevine-Allen test menu); unclejulios.com Happytizers post May 2023; eatdrinkdeals (guac $7, queso $5/$6, Amigo Especial rewards); Rio Lakefront listing confirms M-F 3-6.",
+    "accuracy": "Specials page is labeled a Grapevine-Allen test menu; deals may vary. Happytizer prices from a third-party roundup, hedged.",
+    "keyword_notes": "uncle julio's happy hour 400 KD0; chocolate pinata 350 KD0 covered in a section."
+  }
+}
