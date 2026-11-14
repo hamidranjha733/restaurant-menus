@@ -1,0 +1,75 @@
+{
+  "slug": "what-is-a-bloomin-onion",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Outback Steakhouse",
+  "brand_slug": "outback-steakhouse-menu",
+  "cover_hint": "Reuse the Outback Steakhouse menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "What Is Outback's Bloomin' Onion? Price, Calories & Sauce",
+    "meta_description": "The Bloomin' Onion is Outback's giant battered, fried onion cut to open like a flower, served with spicy Bloomin' sauce. Price, calories and how it started.",
+    "h1": "What Is Outback's Bloomin' Onion?",
+    "primary_keyword": "outback bloomin onion",
+    "keyword_volume": 1100,
+    "keyword_kd": 10
+  },
+
+  "question": "What Is Outback's Bloomin' Onion?",
+
+  "quick_answer": "The Bloomin' Onion is Outback Steakhouse's signature appetizer: a whole large onion cut so it opens like a flower, then battered, seasoned, deep-fried and served with Outback's spicy Bloomin' dipping sauce. It has been on the menu since Outback opened in 1988. It is meant for sharing, costs roughly $10 to $13 depending on location, and Outback lists it at around 1,900 calories.",
+
+  "key_facts": [
+    "A whole onion cut into petals, battered and fried",
+    "Served with Outback's creamy, spicy Bloomin' sauce",
+    "On the menu since Outback opened in 1988",
+    "Roughly $10 to $13; price set by location",
+    "About 1,900 calories, so it's best shared"
+  ],
+
+  "body": [
+    {
+      "heading": "What the Bloomin' Onion is",
+      "text": "The Bloomin' Onion is a whole large onion that is cut from the top into dozens of wedges, but not all the way through, so it opens up like a flower. It is then coated in seasoned batter and deep-fried until the petals are crispy. It comes to the table whole, with a cup of dipping sauce in the center, and everyone pulls off petals to dip."
+    },
+    {
+      "heading": "What the bloom sauce is",
+      "text": "The dipping sauce is a creamy, spicy sauce that Outback calls its Bloomin' sauce. Outback has not shared the recipe, and copycat versions usually build it from mayonnaise, ketchup or chili sauce, horseradish and cayenne. Outback uses the same sauce on other Bloomin' items, like its Bloomin' Fried Chicken and the Bloomin' Burger."
+    },
+    {
+      "heading": "How much it costs",
+      "text": "Outback sets prices by location, so the Bloomin' Onion usually costs somewhere around $10 to $13 before tax, and more on delivery apps. Back in 1994, an Outback menu listed it at $4.95. Even after inflation, the price has gone up a bit faster than you might expect."
+    },
+    {
+      "heading": "Bloomin' Onion calories",
+      "text": "Outback's own menu lists the Bloomin' Onion at around 1,900 calories, which is close to a full day's worth for many adults. That is why most people treat it as a starter for three or four people rather than a snack for one. For the calories of other Outback dishes, see our Outback menu page or try our calorie calculator."
+    },
+    {
+      "heading": "A bit of history",
+      "text": "Outback Steakhouse opened in 1988 with an Australian theme, and the Bloomin' Onion was on the menu from the start. It quickly became the chain's best-known dish, and many restaurants now serve their own blooming onions. Outback has also spun it into limited-time items over the years, such as a Loaded Bloomin' Onion topped with cheese fries."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What is a Bloomin' Onion made of?", "a": "A whole large onion cut into petals, coated in seasoned batter and deep-fried, served with a spicy dipping sauce." },
+    { "q": "How much is a Bloomin' Onion at Outback?", "a": "Roughly $10 to $13 depending on location, and more on delivery apps." },
+    { "q": "How many calories are in a Bloomin' Onion?", "a": "Outback lists it at around 1,900 calories, so it is usually shared." },
+    { "q": "What sauce comes with the Bloomin' Onion?", "a": "Outback's Bloomin' sauce, a creamy, spicy dip. The recipe is secret." },
+    { "q": "How many people does a Bloomin' Onion feed?", "a": "It is built for sharing and works well as a starter for three or four people." }
+  ],
+
+  "internal_links": [
+    { "label": "Outback Steakhouse Menu With Prices", "slug": "outback-steakhouse-menu" },
+    { "label": "Does Texas Roadhouse Take Reservations?", "slug": "does-texas-roadhouse-take-reservations" },
+    { "label": "LongHorn Steakhouse Menu With Prices", "slug": "longhorn-steakhouse-menu" },
+    { "label": "Calorie Calculator", "slug": "calorie-calculator" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Whole onion cut into petals, breaded, fried, served with bloom sauce, built for sharing, ~$11-$13 location-set price, Outback menu page lists 1,900 calories: Kitchprep (citing Outback's menu listing). Site's own Outback menu page has $9.99 / 1,920 cal, hence the $10-$13 range. On the menu since Outback opened in 1988, Loaded Bloomin' Onion limited item: The Daily Meal. 1994 price $4.95 and price rising ~18% above inflation: Tasting Table. 1,954-calorie figure in 2016: Business Insider. Sauce recipe not official; only copycat ingredients mentioned, labeled as copycat. Checked Nov 14, 2026.",
+    "accuracy": "Calorie count varies by source/year (1,900-1,954); page uses 'around 1,900'. 'Dozens of wedges' instead of a specific cut count, since the 52-cut claim is unverified.",
+    "keyword_notes": "'outback bloomin onion' 1.1k KD 10, traffic potential 2.7k."
+  }
+}
