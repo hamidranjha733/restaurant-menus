@@ -1,0 +1,75 @@
+{
+  "slug": "what-is-chilis-triple-dipper",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Chili's",
+  "brand_slug": "chilis-menu",
+  "cover_hint": "Reuse the Chili's menu hero. Triple Dipper platter if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "What Is Chili's Triple Dipper? Options, Price & Tips",
+    "meta_description": "Chili's Triple Dipper lets you pick any three appetizers and three dipping sauces for one price, about $15.99. Every option, upcharges and best combos.",
+    "h1": "What Is Chili's Triple Dipper?",
+    "primary_keyword": "chilis triple dipper",
+    "keyword_volume": 27000,
+    "keyword_kd": 9
+  },
+
+  "question": "What Is Chili's Triple Dipper?",
+
+  "quick_answer": "The Triple Dipper is Chili's build-your-own appetizer platter: you pick any three appetizers and three dipping sauces for one price, about $15.99 at many locations, though it varies by restaurant. Choices include Big Mouth Bites, Fried Mozzarella, Chicken Crispers, boneless or bone-in wings and Southwestern Eggrolls. It went viral on TikTok in 2024 and is now one of Chili's best sellers.",
+
+  "key_facts": [
+    "Pick any 3 appetizers and 3 dipping sauces",
+    "About $15.99 at many locations; price varies by restaurant",
+    "Some choices or customizations cost extra",
+    "You can double up on one appetizer",
+    "A Party Platter size feeds up to 8 for to-go orders"
+  ],
+
+  "body": [
+    {
+      "heading": "How the Triple Dipper works",
+      "text": "You choose three appetizers from the Triple Dipper list and three dipping sauces to go with them, and they come out together on one platter. Each pick is a smaller portion than ordering that appetizer on its own, which is why the platter costs less than three full appetizers. You can also double or triple up on one favorite instead of choosing three different items."
+    },
+    {
+      "heading": "Triple Dipper options",
+      "text": "The main choices are Big Mouth Bites (Chili's mini burgers), Fried Mozzarella, Chicken Crispers, boneless wings, bone-in wings and Southwestern Eggrolls. The wings come in several sauces, and the Crispers and Fried Mozzarella can also be ordered in Nashville Hot or Honey-Chipotle style. Big Mouth Bites and Fried Mozzarella are the two most popular picks. Options can differ a little by location, and some picks or changes add a small upcharge."
+    },
+    {
+      "heading": "How much is the Triple Dipper?",
+      "text": "Many Chili's restaurants charge about $15.99 for the Triple Dipper, but the price is set locally, so it can be higher in some areas and on delivery apps. Bone-in wings and certain customizations can add to the price. For the full appetizer list with prices, see our Chili's menu page."
+    },
+    {
+      "heading": "Why it got so popular",
+      "text": "Triple Dipper videos took off on TikTok in 2024, with diners filming cheese pulls and custom combos. Chili's leaned in with Nashville Hot and Honey-Chipotle Mozzarella, first as secret-menu items and later as regular choices. Triple Dipper sales jumped about 70% in a year, and by late 2024 the platter made up around 11% of Chili's sales."
+    },
+    {
+      "heading": "Popular combos and tips",
+      "text": "A common order is Big Mouth Bites, Fried Mozzarella and Honey-Chipotle Chicken Crispers, which gives you a burger, cheese and chicken on one plate. Fans also like pairing Nashville Hot Mozzarella with ranch. It is a lot of food for one person and very high in calories, so many people share it as a starter. Feeding a crowd at home? The Triple Dipper Party Platter serves up to eight and is meant for to-go orders."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What comes in a Chili's Triple Dipper?", "a": "Any three appetizers from the Triple Dipper list, such as Big Mouth Bites, Fried Mozzarella, Chicken Crispers, wings or Southwestern Eggrolls, plus three dipping sauces." },
+    { "q": "How much is a Triple Dipper at Chili's?", "a": "About $15.99 at many locations, but prices vary by restaurant and some choices cost extra." },
+    { "q": "Can you get two of the same thing in a Triple Dipper?", "a": "Yes. You can double up or even pick the same appetizer three times." },
+    { "q": "Is the Triple Dipper enough for one person?", "a": "It is a full meal for most people and is often shared as a starter by two or three." },
+    { "q": "Is there a bigger Triple Dipper for parties?", "a": "Yes. The Triple Dipper Party Platter serves up to eight people and is ordered to go." }
+  ],
+
+  "internal_links": [
+    { "label": "Chili's Menu With Prices", "slug": "chilis-menu" },
+    { "label": "Applebee's Menu With Prices", "slug": "applebees-menu" },
+    { "label": "TGI Fridays Menu With Prices", "slug": "tgi-fridays-menu" },
+    { "label": "Calorie Calculator", "slug": "calorie-calculator" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Pick 3 apps + 3 sauces: Restaurant Business. Options (Big Mouth Bites, Southwestern Eggrolls, bone-in/boneless wings, Crispers, Fried Mozzarella; Nashville Hot and Honey-Chipotle Crispers/Mozz; mozz flavors started as secret menu): The Takeout. Big Mouth Bites + Fried Mozzarella in more than half of orders: The Daily Meal citing NRN. Double/triple up, some choices cost extra, Party Platter feeds up to 8: Hip2Save. Party Platters are to-go: Chowhound. 70% sales growth and 11% of sales (late 2024): Restaurant Business / CNN via RetailWire. Popular combos: Chowhound, Tasting Table. $15.99 price matches the site's Chili's menu page and several 2026 menu trackers; delivery-app prices are higher. chilis.com not fetchable from this session. Checked Nov 14, 2026.",
+    "accuracy": "Prices hedged as 'about' and 'varies'. No calorie figures given beyond 'very high'; the menu page carries the range.",
+    "keyword_notes": "'chilis triple dipper' 27k + 'chili's triple dipper' 21k, KD 9; also 'how much is chilis triple dipper', 'what are big mouth bites chilis'."
+  }
+}
