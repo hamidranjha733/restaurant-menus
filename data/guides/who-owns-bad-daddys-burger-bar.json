@@ -1,0 +1,70 @@
+{
+  "slug": "who-owns-bad-daddys-burger-bar",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Bad Daddy's Burger Bar",
+  "brand_slug": "bad-daddys-menu",
+  "cover_hint": "Reuse the Bad Daddy's menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Who Owns Bad Daddy's Burger Bar? History and Locations",
+    "meta_description": "Bad Daddy's Burger Bar is owned by Good Times Restaurants, which bought it in 2015. How the Charlotte burger bar started and where it operates today.",
+    "h1": "Who Owns Bad Daddy's Burger Bar?",
+    "primary_keyword": "bad daddy's burger bar",
+    "keyword_volume": 3100,
+    "keyword_kd": 3
+  },
+
+  "question": "Who Owns Bad Daddy's Burger Bar?",
+
+  "quick_answer": "Bad Daddy's Burger Bar is owned by Good Times Restaurants Inc., a Colorado-based public company that also runs Good Times Burgers & Frozen Custard. Good Times bought a 48% stake in 2013 and the rest in 2015, for about $21 million. Bad Daddy's was founded in Charlotte, North Carolina, in 2007 by Frank Scibelli and Dennis Thompson, and today Good Times owns, operates and licenses about 38 Bad Daddy's restaurants.",
+
+  "key_facts": [
+    "Owned by Good Times Restaurants Inc. (Nasdaq: GTIM)",
+    "Good Times bought 48% in 2013 and full control in 2015",
+    "Founded in Charlotte, N.C., in 2007",
+    "Originally named Big Daddy's",
+    "About 38 restaurants"
+  ],
+
+  "body": [
+    {
+      "heading": "How Bad Daddy's started",
+      "text": "Bad Daddy's opened in Charlotte, North Carolina, in 2007, founded by restaurateurs Frank Scibelli and Dennis Thompson; Thompson had also co-founded Lone Star Steakhouse and Firebirds. The restaurant was first called Big Daddy's, but trademark issues forced a name change. It was a full-service, chef-driven burger bar with gourmet burgers, chopped salads and a full bar, and it opened a handful of Charlotte-area locations plus one at the Charlotte airport."
+    },
+    {
+      "heading": "Good Times Restaurants takes over",
+      "text": "In April 2013, Colorado's Good Times Restaurants bought a 48% stake in Bad Daddy's and the rights to expand it in Colorado and other states, opening its first Denver location in Cherry Creek in early 2014. In May 2015, Good Times bought the remaining stake for about $21 million, making Bad Daddy's a wholly owned subsidiary."
+    },
+    {
+      "heading": "Where Bad Daddy's is today",
+      "text": "Good Times owns, operates and licenses about 38 Bad Daddy's Burger Bar restaurants, mostly in North Carolina and Colorado, with others in South Carolina, Tennessee, Georgia, Alabama and Oklahoma. The Charlotte Douglas International Airport location is run by a licensee. Bad Daddy's is now the bigger of Good Times' two brands, with about $101 million in restaurant sales in fiscal 2025."
+    },
+    {
+      "heading": "What Bad Daddy's is known for",
+      "text": "Bad Daddy's serves big, chef-driven burgers like the Bad Ass Burger, a build-your-own burger option, chicken sandwiches, salads and bowls, tater tots and hand-spun shakes, along with craft beer and cocktails. Prices are higher than fast food; most signature burgers run about $11 to $15. See our Bad Daddy's menu page for prices."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Who owns Bad Daddy's?", "a": "Good Times Restaurants Inc., a Colorado-based public company." },
+    { "q": "When did Good Times buy Bad Daddy's?", "a": "It bought 48% in 2013 and the remaining stake in 2015 for about $21 million." },
+    { "q": "Where was Bad Daddy's founded?", "a": "In Charlotte, North Carolina, in 2007." },
+    { "q": "How many Bad Daddy's locations are there?", "a": "About 38, mostly in North Carolina and Colorado." }
+  ],
+
+  "internal_links": [
+    { "label": "Bad Daddy's Menu With Prices", "slug": "bad-daddys-menu" },
+    { "label": "Who Owns Habit Burger?", "slug": "who-owns-habit-burger" },
+    { "label": "Who Owns Shake Shack?", "slug": "who-owns-shake-shack" },
+    { "label": "Is Twin Peaks Like Hooters?", "slug": "is-twin-peaks-like-hooters" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Good Times owns, operates and licenses 38 Bad Daddy's; FY2025 Bad Daddy's restaurant sales $101.4M: Good Times FY2025 results (Barchart/Business Wire). Airport location run by licensee: GTIM 10-K FY2025. Founded 2007 as Big Daddy's, trademark forced change; 48% stake April 2013: Nation's Restaurant News. 2015 buyout of remaining 52% for $21M, wholly owned subsidiary: QSR Web (May 2015). Founders Frank Scibelli and Dennis Thompson; first Denver location Cherry Creek early 2014: Westword. Thompson founded Lone Star Steakhouse and Firebirds; chef-driven menu, chopped salads, full bar: Franchising.com. Charlotte locations and airport license: FES Magazine. Locations in Tennessee: Handshake; Georgia (Decatur): FSR; Alabama (Madison): Business Wire 2023; Oklahoma: Franchising.com 2017. Menu items and prices: site's Bad Daddy's menu page. Checked Nov 14, 2026.",
+    "accuracy": "State list compiled from several dated sources; some locations may have closed.",
+    "keyword_notes": "'bad daddy's burger bar' 3.1k KD 3 (brand/info intent). 'who owns bad daddy's' has no measurable volume; guide targets brand info queries."
+  }
+}

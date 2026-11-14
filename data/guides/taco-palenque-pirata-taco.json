@@ -1,0 +1,75 @@
+{
+  "slug": "taco-palenque-pirata-taco",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Taco Palenque",
+  "brand_slug": "taco-palenque-menu",
+  "cover_hint": "Reuse the Taco Palenque menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Taco Palenque: The Pirata Taco, History and Locations",
+    "meta_description": "Taco Palenque is a Laredo-born Mexican chain famous for the Pirata taco. What a Pirata is, who founded Taco Palenque and where its 40-plus locations are.",
+    "h1": "Taco Palenque and the Pirata Taco, Explained",
+    "primary_keyword": "taco palenque",
+    "keyword_volume": 15000,
+    "keyword_kd": 0
+  },
+
+  "question": "What Is Taco Palenque Known For?",
+
+  "quick_answer": "Taco Palenque is a Mexican fast-casual chain founded in Laredo, Texas, on July 1, 1987, by Juan Francisco 'Pancho' Ochoa, the same restaurateur who started El Pollo Loco. It's best known for the Pirata taco, a big flour tortilla filled with grilled fajita meat and refried beans, plus mesquite-grilled fajitas and a salsa bar with more than seven homemade salsas. It has about 42 locations: 39 in Texas and three in Monterrey, Mexico.",
+
+  "key_facts": [
+    "Founded in Laredo, Texas, July 1, 1987",
+    "Founder Pancho Ochoa also started El Pollo Loco",
+    "Signature item: the Pirata taco",
+    "Salsa bar with 7+ homemade salsas",
+    "About 42 locations (39 in Texas, 3 in Mexico)"
+  ],
+
+  "body": [
+    {
+      "heading": "What is a Pirata taco?",
+      "text": "The Pirata is Taco Palenque's signature taco and the item most fans order first. It's a large, handmade flour tortilla filled with grilled fajita meat and creamy refried beans, making it closer to a hearty folded meal than a small street taco. On our Taco Palenque menu page it's listed at about $4.89."
+    },
+    {
+      "heading": "Other menu favorites",
+      "text": "Besides the Pirata, Taco Palenque is known for flame-grilled beef and chicken fajita plates, parrilladas (mixed grill platters), Panchos (tortilla chips loaded with beans, cheese and toppings), breakfast tacos and homemade desserts. Every location has a salsa bar with more than seven homemade salsas."
+    },
+    {
+      "heading": "Who founded Taco Palenque",
+      "text": "Juan Francisco 'Pancho' Ochoa, originally from Sinaloa, Mexico, created the El Pollo Loco grilled-chicken concept before opening Taco Palenque in Laredo on July 1, 1987. His idea was a drive-thru Mexican fast-food chain serving authentic food. In 2005 the Ochoa family also opened Palenque Grill, a sit-down, full-service sister restaurant with margaritas and parrilladas."
+    },
+    {
+      "heading": "Where Taco Palenque is",
+      "text": "Taco Palenque started in Laredo and spread across South Texas, reaching McAllen in 1998, Brownsville in 2001, San Antonio in 2007 and Houston in 2010, and later central Texas cities like Round Rock. Today it has about 42 locations, 39 in Texas and three in Monterrey, Nuevo León. Use the store finder on Taco Palenque's website for hours, since many locations serve breakfast."
+    },
+    {
+      "heading": "Prices",
+      "text": "Taco Palenque is affordable: breakfast tacos start around $1.99, fajita tacos run about $2.79 to $4.19, and fajita plates about $11 to $13. See our Taco Palenque menu page for full prices."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What is a Pirata at Taco Palenque?", "a": "A large handmade flour tortilla filled with grilled fajita meat and refried beans." },
+    { "q": "Who founded Taco Palenque?", "a": "Juan Francisco 'Pancho' Ochoa, who also founded El Pollo Loco." },
+    { "q": "Where is Taco Palenque from?", "a": "Laredo, Texas, where it opened on July 1, 1987." },
+    { "q": "How many Taco Palenque locations are there?", "a": "About 42: 39 in Texas and three in Monterrey, Mexico." },
+    { "q": "Is Taco Palenque related to El Pollo Loco?", "a": "They share a founder, Pancho Ochoa, but are separate companies today." }
+  ],
+
+  "internal_links": [
+    { "label": "Taco Palenque Menu With Prices", "slug": "taco-palenque-menu" },
+    { "label": "Is El Pollo Loco Healthy?", "slug": "is-el-pollo-loco-healthy" },
+    { "label": "Torchy's Tacos Secret Menu", "slug": "torchys-secret-menu" },
+    { "label": "Qdoba vs. Chipotle", "slug": "qdoba-vs-chipotle" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Founded 1987 in Laredo by Juan Francisco 'Pancho' Ochoa from Sinaloa; 42 locations (39 TX, 3 Mexico); fajita plate, parrillada, pirata taco, panchos, desserts; salsa bar 7+ salsas; drive-thru authentic Mexican idea; Palenque Grill 2005: Wikipedia. July 1, 1987 opening; Pirata with handmade tortillas, refried beans, grilled carne asada: Texas Happens. Ochoa created El Pollo Loco recipe/concept: Wikipedia mirror, Goldbelly, Visit Laredo. 42 locations, 39 TX + 3 Nuevo León: Texas Border Business. Expansion McAllen 1998, Brownsville 2001, San Antonio 2007, Houston 2010: Palenque Group profile. Round Rock location: Go Round Rock. Breakfast tacos (Mariachis): Wikipedia mirror. Monterrey: Wikipedia (2026). Prices: site's Taco Palenque menu page. Checked Nov 14, 2026.",
+    "accuracy": "Pirata fillings from Texas Happens (cheese omitted as unconfirmed). El Pollo Loco U.S. brand was sold, so the companies are separate.",
+    "keyword_notes": "'taco palenque' 15k KD 0 (brand/info intent); question keywords are tiny."
+  }
+}

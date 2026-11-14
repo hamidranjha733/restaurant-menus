@@ -21,42 +21,42 @@
     "keyword_kd": 1
   },
 
-  "last_updated": "2026-10",
-  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary by day and season. Shady Maple is an all-you-can-eat smorgasbord priced per person, so individual items do not have prices and calories vary with what you choose. Senior and kids discounts apply but were not fully published; confirm at the restaurant. Last updated October 2026.",
+  "last_updated": "2026-11",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and vary by day and season. Shady Maple is an all-you-can-eat smorgasbord priced per person, so individual items do not have prices and calories vary with what you choose. Prices are from Shady Maple's posted price list, before a 12% service fee and tax. Last updated November 2026.",
 
   "intro": "Shady Maple Smorgasbord in East Earl, Pennsylvania, is often called the largest buffet in America, a Lancaster County institution with over 200 feet of Pennsylvania Dutch comfort food. It is priced per person by meal, with themed dinner nights (steak, seafood, prime rib and more), and is famous for its scrapple, fried chicken, carved prime rib and pies. Below are the full Shady Maple buffet prices for 2026.",
 
-  "quick_answer": "Shady Maple is an all-you-can-eat smorgasbord priced per person: weekday breakfast is about $13.99, weekday lunch $18.99, and dinner $25.99 (with themed nights like Steak, Seafood and Prime Rib). Saturday breakfast is $15.99 and Saturday lunch $25.99. It is famous as America's largest buffet, with Pennsylvania Dutch comfort food. Senior and kids discounts apply.",
+  "quick_answer": "Shady Maple is an all-you-can-eat smorgasbord priced per person: weekday breakfast is $14.99, weekday lunch $20.99, and weeknight dinner $27.99 to $30.99 depending on the themed night (Steak, Seafood, Prime Rib and more). Saturday breakfast is $17.99, the Saturday Early Bird $29.99 and the Saturday Grand Menu $32.99. A 12% service fee is added. It is famous as America's largest buffet, with Pennsylvania Dutch comfort food. Senior and kids discounts apply.",
 
   "highlights": [
     { "strong": "America's largest", "label": "200+ feet of buffet" },
-    { "strong": "$25.99 dinner", "label": "themed nights all week" },
+    { "strong": "$27.99+ dinner", "label": "themed nights all week" },
     { "strong": "Pennsylvania Dutch", "label": "scrapple, pies, comfort food" },
     { "strong": "Per person", "label": "all you can eat" }
   ],
 
-  "hot_deal": "Shady Maple value: weekday breakfast (about $13.99) is the cheapest way in, and the Saturday Early Bird ($21.99, before the $25.99 regular Saturday lunch) saves a few dollars. The whole concept is all-you-can-eat value, with themed dinner nights (steak, seafood, prime rib) all at one price. Senior and kids discounts apply, so ask at the register.",
+  "hot_deal": "Shady Maple value: weekday breakfast ($14.99) is the cheapest way in, and kids 3 and under eat free while kids 4 to 10 get 50% off. Seniors 60 and up get 10% off. The whole concept is all-you-can-eat value, with themed dinner nights (steak, seafood, prime rib) all at one price. Senior and kids discounts apply, so ask at the register.",
 
   "menu": [
     {
       "category": "Buffet Prices (Per Person)",
       "intro": "One price per person, all you can eat. Varies by meal and day.",
       "items": [
-        { "name": "Weekday Breakfast", "size": "per person", "price": "$13.99", "calories": "", "desc": "Mon to Fri until 10:45 AM (Saturday breakfast $15.99)" },
-        { "name": "Weekday Lunch", "size": "per person", "price": "$18.99", "calories": "", "desc": "Mon to Fri, 10:45 AM to 3:15 PM" },
-        { "name": "Saturday Lunch", "size": "per person", "price": "$25.99", "calories": "", "desc": "Saturday lunch (Early Bird before 3 PM $21.99)" },
-        { "name": "Dinner (Mon to Sat)", "size": "per person", "price": "$25.99", "calories": "", "desc": "4:00 to 7:30 PM, themed nights all week" }
+        { "name": "Weekday Breakfast", "size": "per person", "price": "$14.99", "calories": "", "desc": "Mon to Fri, 7 to 10 AM (Saturday breakfast $17.99)" },
+        { "name": "Weekday Lunch", "size": "per person", "price": "$20.99", "calories": "", "desc": "Mon to Fri, 10:45 AM to 3:15 PM" },
+        { "name": "Saturday Early Bird", "size": "per person", "price": "$29.99", "calories": "", "desc": "Saturday 11 AM to 1 PM (Grand Menu from 1 PM $32.99)" },
+        { "name": "Weeknight Dinner (Mon to Fri)", "size": "per person", "price": "$27.99 - $30.99", "calories": "", "desc": "4:00 to 7:30 PM last seating; price depends on the themed night" }
       ]
     },
     {
       "category": "Themed Dinner Nights",
-      "intro": "The dinner buffet rotates a theme each night, all at the $25.99 price.",
+      "intro": "The dinner buffet rotates a theme each night, each with its own price.",
       "items": [
-        { "name": "Monday: Steak Night", "size": "", "price": "Included", "calories": "", "desc": "Steak featured on the dinner buffet" },
-        { "name": "Tuesday: Seafood Night", "size": "", "price": "Included", "calories": "", "desc": "Seafood featured, including fried shrimp" },
-        { "name": "Wednesday: Prime Rib Night", "size": "", "price": "Included", "calories": "", "desc": "Carved prime rib featured" },
-        { "name": "Thursday: Wing & Rib Night", "size": "", "price": "Included", "calories": "", "desc": "Wings and ribs featured" },
-        { "name": "Fri & Sat: Grand Buffet", "size": "", "price": "Included", "calories": "", "desc": "The full grand buffet spread" }
+        { "name": "Monday: Steak Night", "size": "", "price": "$27.99", "calories": "", "desc": "Steak featured on the dinner buffet" },
+        { "name": "Tuesday: Seafood Night", "size": "", "price": "$30.99", "calories": "", "desc": "Seafood featured, including fried shrimp" },
+        { "name": "Wednesday: Prime Rib Night", "size": "", "price": "$27.99", "calories": "", "desc": "Carved prime rib featured" },
+        { "name": "Thursday: Wing & Rib Night", "size": "", "price": "$27.99", "calories": "", "desc": "Wings and ribs featured" },
+        { "name": "Fri & Sat: Grand Menu", "size": "", "price": "$29.99 - $32.99", "calories": "", "desc": "Friday $29.99; Saturday Grand Menu $32.99" }
       ]
     },
     {
@@ -94,7 +94,7 @@
   "faqs": [
     {
       "q": "How much is the Shady Maple buffet?",
-      "a": "It is priced per person: weekday breakfast about $13.99, weekday lunch $18.99, and dinner $25.99. Saturday breakfast is $15.99 and Saturday lunch $25.99 (Early Bird $21.99). Senior and kids discounts apply. Prices vary by day and season."
+      "a": "It is priced per person: weekday breakfast $14.99, weekday lunch $20.99, and weeknight dinner $27.99 to $30.99. Saturday breakfast is $17.99, the Saturday Early Bird $29.99 and the Saturday Grand Menu $32.99. A 12% service fee is added. Kids 3 and under eat free, kids 4 to 10 get 50% off, and seniors 60+ get 10% off."
     },
     {
       "q": "Is Shady Maple the largest buffet in America?",
@@ -102,7 +102,7 @@
     },
     {
       "q": "What are the themed dinner nights at Shady Maple?",
-      "a": "The dinner buffet rotates a theme each night, all at the $25.99 price: Monday is Steak Night, Tuesday Seafood, Wednesday Prime Rib, Thursday Wing & Rib, and Friday and Saturday the Grand Buffet. The lineup can change, so check before you go."
+      "a": "The dinner buffet rotates a theme each night: Monday Steak Night ($27.99), Tuesday Seafood ($30.99), Wednesday Prime Rib ($27.99), Thursday Rib & Wing ($27.99), and Friday Grand Menu ($29.99). The lineup can change, so check before you go."
     },
     {
       "q": "What food is on the Shady Maple buffet?",

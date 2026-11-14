@@ -21,12 +21,12 @@
     "keyword_kd": 1
   },
 
-  "last_updated": "2026-10",
+  "last_updated": "2026-11",
   "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Beef-A-Roo does not prominently publish calorie information, so calories are left blank rather than guessed. Last updated October 2026.",
 
-  "intro": "Beef-A-Roo is the Midwest fast-food chain, born in Rockford, Illinois, best known for its roast beef sandwiches and its famous cheddar fries. Around them sits a full menu of burgers, crispy chicken, loaded potatoes, big salads and hand-dipped shakes. It is a regional favorite with a loyal following. Below is the full Beef-A-Roo menu with prices for 2026.",
+  "intro": "Note: Beef-A-Roo had a turbulent 2026, with company-owned Rockford-area restaurants and several others closing and the chain changing hands; new operators are working to reopen locations. Check that your local Beef-A-Roo is open before visiting. Beef-A-Roo is the Midwest fast-food chain, born in Rockford, Illinois, best known for its roast beef sandwiches and its famous cheddar fries. Around them sits a full menu of burgers, crispy chicken, loaded potatoes, big salads and hand-dipped shakes. It is a regional favorite with a loyal following. Below is the full Beef-A-Roo menu with prices for 2026.",
 
-  "quick_answer": "At Beef-A-Roo, a Roast Beef sandwich is about $6.70, a cheeseburger is $7.06, and a double cheeseburger is $10.11. Crispy chicken sandwiches are about $6.94, loaded potatoes run $5.36 to $6.33, and a medium shake is $5.60. The roast beef and the cheddar fries are the icons. Prices vary by location.",
+  "quick_answer": "Many Beef-A-Roo locations closed in 2026, so check that yours is open. At Beef-A-Roo, a Roast Beef sandwich is about $6.70, a cheeseburger is $7.06, and a double cheeseburger is $10.11. Crispy chicken sandwiches are about $6.94, loaded potatoes run $5.36 to $6.33, and a medium shake is $5.60. The roast beef and the cheddar fries are the icons. Prices vary by location.",
 
   "highlights": [
     { "strong": "Roast beef", "label": "the chain's signature" },
@@ -105,6 +105,10 @@
   ],
 
   "faqs": [
+    {
+      "q": "Is Beef-A-Roo closed?",
+      "a": "Many locations closed in 2026 after payroll problems and layoffs, including all company-owned Rockford-area restaurants. New operators have been working to reopen some, and a few independently owned locations stayed open. Check before you go."
+    },
     {
       "q": "How much is a roast beef at Beef-A-Roo?",
       "a": "A classic Roast Beef sandwich is about $6.70, the Jr Beef is $3.65, and the extra-large Big Beef is $8.77. Loaded versions like the Wild West Beef ($7.80) and Mushroom Swiss Beef ($8.04) cost a little more. Prices vary by location."

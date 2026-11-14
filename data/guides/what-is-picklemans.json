@@ -1,0 +1,70 @@
+{
+  "slug": "what-is-picklemans",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Pickleman's Gourmet Cafe",
+  "brand_slug": "picklemans-menu",
+  "cover_hint": "Reuse the Pickleman's menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "What Is Pickleman's? The Missouri Toasted Sandwich Chain",
+    "meta_description": "Pickleman's Gourmet Cafe is a Missouri chain known for toasted sandwiches, pizza and late-night delivery. Its history, locations and what to order.",
+    "h1": "What Is Pickleman's Gourmet Cafe?",
+    "primary_keyword": "picklemans",
+    "keyword_volume": 3300,
+    "keyword_kd": 0
+  },
+
+  "question": "What Is Pickleman's Gourmet Cafe?",
+
+  "quick_answer": "Pickleman's Gourmet Cafe is a fast-casual chain from Columbia, Missouri, known for hot toasted sandwiches, plus pizzas, soups and salads. It was founded in 2005 by Doug Stritzel, a former Jimmy John's executive, and has grown to more than 30 locations in Missouri, Kansas, Arkansas, Oklahoma, Indiana, Nebraska and Texas. Sandwiches run about $8 to $12, and many locations offer delivery and late-night hours.",
+
+  "key_facts": [
+    "Founded in Columbia, Missouri, in 2005",
+    "Founder Doug Stritzel is a former Jimmy John's COO",
+    "30-plus locations in 7 states",
+    "Known for toasted sandwiches, pizza, soups and salads",
+    "Uses No Antibiotics Ever chicken and pork"
+  ],
+
+  "body": [
+    {
+      "heading": "How Pickleman's started",
+      "text": "Doug Stritzel, a former chief operating officer at Jimmy John's, opened the first Pickleman's in Columbia, Missouri, in 2005. Unlike Jimmy John's cold subs, Pickleman's focused on hot, toasted sandwiches on gourmet bread. It quickly became a favorite with University of Missouri students, and it began franchising, with its first St. Louis location opening near Saint Louis University in 2010."
+    },
+    {
+      "heading": "Where Pickleman's is",
+      "text": "Pickleman's now has more than 30 locations, and one 2026 report counted 35, across Missouri, Kansas, Arkansas, Oklahoma, Indiana, Nebraska and Texas. Most are franchised, and many franchisees run several locations. The chain is expanding in the Dallas-Fort Worth area, starting with a cafe in Plano, and has added its first drive-thru in the Kansas City suburb of Olathe."
+    },
+    {
+      "heading": "What to order",
+      "text": "Pickleman's menu centers on toasted sandwiches like the #1 Turkey and Italian Beef, along with 12-inch pizzas, soups such as Tomato Basil Bisque, and salads. Many items are made from scratch, and Pickleman's says it was the first national sandwich chain to commit to No Antibiotics Ever chicken and pork. Sandwiches run about $8 to $12 and pizzas about $12 to $19, depending on location."
+    },
+    {
+      "heading": "Delivery and late-night hours",
+      "text": "From its early days, Pickleman's has offered late-night hours, fast delivery and catering, which helped make it a college-town staple. Hours and delivery areas vary by location. See our Pickleman's menu page for prices."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Where is Pickleman's from?", "a": "Columbia, Missouri, where it opened in 2005." },
+    { "q": "Who founded Pickleman's?", "a": "Doug Stritzel, a former Jimmy John's chief operating officer." },
+    { "q": "How many Pickleman's locations are there?", "a": "More than 30, in Missouri, Kansas, Arkansas, Oklahoma, Indiana, Nebraska and Texas." },
+    { "q": "Is Pickleman's like Jimmy John's?", "a": "Its founder came from Jimmy John's, but Pickleman's focuses on hot toasted sandwiches, plus pizza, soups and salads." }
+  ],
+
+  "internal_links": [
+    { "label": "Pickleman's Menu With Prices", "slug": "picklemans-menu" },
+    { "label": "How to Order at Which Wich", "slug": "how-to-order-at-which-wich" },
+    { "label": "What Happened to Quiznos?", "slug": "what-happened-to-quiznos" },
+    { "label": "Jason's Deli Salad Bar", "slug": "jasons-deli-salad-bar" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Founded 2005 in Columbia, MO; 30+ locations in MO, KS, AR, OK, IN, NE, TX; sandwiches, soups, salads, pizzas: Pickleman's press release (PR Newswire, Sept 3, 2026) and picklemans.com. 35 locations, founder Doug Stritzel former Jimmy John's COO, sandwiches $8-$11, pizzas $12-$19, Plano DFW expansion: CultureMap Dallas (Apr 2026). Toasted sandwiches vs Jimmy John's cold cuts, gourmet bread: COMO Magazine (2006). Late-night hours, delivery, catering; St. Louis Midtown near SLU 2010 as fourth location: PR.com (2010). First drive-thru in Olathe; made from scratch; first national sandwich chain with No Antibiotics Ever chicken and pork; multi-unit franchisees: QSR Magazine. Mizzou fans: Riverfront Times, Current. Menu item names and prices: site's Pickleman's menu page. Checked Nov 14, 2026.",
+    "accuracy": "Location count 30-35 depending on source.",
+    "keyword_notes": "'picklemans' 3.3k KD 0 + 'pickleman's' 2k KD 0 (brand/info intent); Pickleman's has almost no question keywords."
+  }
+}
