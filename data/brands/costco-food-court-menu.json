@@ -64,7 +64,7 @@
         { "name": "Ice Cream Sundae", "size": "", "price": "$2.49", "calories": "670", "desc": "Vanilla soft serve with strawberry or chocolate (about 650 to 690 cal)" },
         { "name": "Double Chocolate Chunk Cookie", "size": "", "price": "$2.49", "calories": "", "desc": "A large double chocolate chunk cookie" },
         { "name": "Cold Brew Mocha Freeze", "size": "", "price": "$2.99", "calories": "", "desc": "A frozen cold-brew coffee drink" },
-        { "name": "Fountain Soda (20 oz)", "size": "20 oz", "price": "$0.69", "calories": "", "desc": "Soda with free refills (included free in the hot dog combo)" }
+        { "name": "Fountain Soda (20 oz)", "size": "20 oz", "price": "$0.79", "calories": "", "desc": "Soda with free refills (included free in the hot dog combo)" }
       ]
     }
   ],

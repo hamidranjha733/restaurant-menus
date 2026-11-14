@@ -1,0 +1,70 @@
+{
+  "slug": "little-caesars-hot-n-ready-price",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Little Caesars",
+  "brand_slug": "little-caesars-menu",
+  "cover_hint": "Reuse the Little Caesars menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Little Caesars Hot-N-Ready Price 2026: Is It Still $5?",
+    "meta_description": "The Little Caesars Hot-N-Ready is no longer $5. It now costs about $5.99 to $6.99 depending on location. What you get and when it changed.",
+    "h1": "Is the Little Caesars Hot-N-Ready Still $5?",
+    "primary_keyword": "little caesars hot and ready price",
+    "keyword_volume": 2100,
+    "keyword_kd": 4
+  },
+
+  "question": "Is the Little Caesars Hot-N-Ready Still $5?",
+
+  "quick_answer": "No. The famous $5 Hot-N-Ready ended in early 2022, when Little Caesars raised the price to $5.55 and added 33% more pepperoni. In 2026, a large Classic pepperoni or cheese Hot-N-Ready usually costs about $5.99 to $6.99, depending on the store. Prices are set by market, so check the Little Caesars app for your exact price.",
+
+  "key_facts": [
+    "The $5 price ended in January 2022",
+    "Raised to $5.55, with 33% more pepperoni on the Classic",
+    "Now about $5.99 to $6.99 for a large Classic pepperoni or cheese",
+    "Prices vary by market",
+    "No pre-ordering needed; pizzas are ready for walk-in pickup"
+  ],
+
+  "body": [
+    {
+      "heading": "What a Hot-N-Ready is",
+      "text": "Hot-N-Ready is Little Caesars' ready-made carryout pizza. Stores keep large Classic pizzas, usually pepperoni and cheese, baked and waiting, so you can walk in and leave with a hot pizza without calling ahead. Little Caesars says it was the first national chain to regularly offer pizzas on demand like this. The idea started in 1997 and went nationwide in 2004."
+    },
+    {
+      "heading": "When it stopped being $5",
+      "text": "For years the Hot-N-Ready was simply known as the $5 pizza. In January 2022, Little Caesars raised the price to $5.55, about 11% more, and added 33% more pepperoni to the Classic pepperoni pizza at the same time. The company said the pizza was still sold at the country's most affordable price for a large pepperoni."
+    },
+    {
+      "heading": "How much it costs in 2026",
+      "text": "In 2026, a large Classic pepperoni or cheese Hot-N-Ready typically costs between about $5.99 and $6.99, and the Classic sausage a little more. Little Caesars has always let prices vary by market, so the same pizza can cost more in a big city than in a small town. The Little Caesars app shows the price at your store before you order."
+    },
+    {
+      "heading": "Ways to save at Little Caesars",
+      "text": "Combos stretch the Hot-N-Ready further: the Hot-N-Ready Classic Combo adds Crazy Bread and a 2-liter drink for about $9.99 at many stores. The app also runs coupons and offers. For every Little Caesars price, including Crazy Bread and specialty pizzas, see our Little Caesars menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Little Caesars still $5?", "a": "No. The $5 Hot-N-Ready ended in January 2022. It now costs about $5.99 to $6.99 at most stores." },
+    { "q": "How much is a Hot-N-Ready pizza in 2026?", "a": "About $5.99 to $6.99 for a large Classic pepperoni or cheese, depending on location." },
+    { "q": "Why did Little Caesars raise the price?", "a": "Rising costs. When it moved to $5.55 in 2022, it also added 33% more pepperoni to the Classic." },
+    { "q": "Do I need to order a Hot-N-Ready ahead?", "a": "No. Hot-N-Ready pizzas are made ahead, so you can walk in and pick one up." }
+  ],
+
+  "internal_links": [
+    { "label": "Little Caesars Menu With Prices", "slug": "little-caesars-menu" },
+    { "label": "Is the Costco Hot Dog Still $1.50?", "slug": "costco-hot-dog-price" },
+    { "label": "Domino's Menu With Prices", "slug": "dominos-menu" },
+    { "label": "Pizza Hut Menu With Prices", "slug": "pizza-hut-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Price raised to $5.55 with 33% more pepperoni, prices have always varied by market (spokeswoman Annie McGraw), debut 1997, nationwide 2004: Detroit Free Press via AOL (Jan 2022). 11% increase: CBS/CNN. 'Country's most affordable price' and first national chain to regularly offer on-demand carryout pizzas: Little Caesars release via Nerdbot (Jan 4, 2022). 2026 prices ~$5.99-$6.99: Menupedia (May 2026, $5.99), SixStoreys (Aug 2026, $5.99-$6.99), Tasting Table (2026, $6.99), and the site's Little Caesars menu page ($6.99, combo $9.99). Checked Nov 14, 2026.",
+    "accuracy": "Price given as a range; re-check yearly.",
+    "keyword_notes": "'little caesars hot and ready price' 2.1k KD 4, 'little caesars hot n ready' 600. 'little caesars crazy bread' 4.3k KD 0 is a good next topic."
+  }
+}

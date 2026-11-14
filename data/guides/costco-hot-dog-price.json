@@ -1,0 +1,74 @@
+{
+  "slug": "costco-hot-dog-price",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Costco Food Court",
+  "brand_slug": "costco-food-court-menu",
+  "cover_hint": "Reuse the Costco Food Court menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Costco Hot Dog Price 2026: Is It Still $1.50?",
+    "meta_description": "Yes. Costco's hot dog combo is still $1.50, the same price since 1985. What you get, the new water option, and why Costco won't raise the price.",
+    "h1": "Is the Costco Hot Dog Still $1.50?",
+    "primary_keyword": "costco hot dog price",
+    "keyword_volume": 13000,
+    "keyword_kd": 10
+  },
+
+  "question": "Is the Costco Hot Dog Still $1.50?",
+
+  "quick_answer": "Yes. Costco's hot dog combo still costs $1.50 in 2026, the same price it has been since 1985. You get a quarter-pound all-beef hot dog and a drink: a 20-ounce fountain soda with refills or, since April 2026, a bottled water instead. Costco's CEO said in March 2026 that the price will not change as long as he is in charge.",
+
+  "key_facts": [
+    "$1.50 for a hot dog and a drink, unchanged since 1985",
+    "Quarter-pound all-beef hot dog",
+    "Choose a 20 oz fountain soda with refills or a bottled water",
+    "CEO Ron Vachris (March 2026): the price won't change while he's around",
+    "Most U.S. food courts require a Costco membership"
+  ],
+
+  "body": [
+    {
+      "heading": "Still $1.50 after 40 years",
+      "text": "Costco's hot dog and soda combo has cost $1.50 since 1985. If the price had kept up with inflation, it would cost around $4.65 today. The deal is so central to Costco that its food court was once called Cafe 150 after the combo's price, and it is still the most popular item at the food court."
+    },
+    {
+      "heading": "What you get for $1.50",
+      "text": "The combo is a quarter-pound all-beef hot dog on a bun with a drink. You top it yourself at the condiment station. For the drink, you can pick a 20-ounce fountain soda with free refills, or, since April 2026, a bottled water. That change was the first update to the combo since it launched. Costco also switched its fountain drinks from Pepsi to Coca-Cola a few years ago."
+    },
+    {
+      "heading": "Will the price go up?",
+      "text": "Costco says no. In a March 2026 video on Costco's Instagram, CEO Ron Vachris ordered the combo and said the hot dog price will not change as long as he is around. Past Costco leaders made similar promises, and the company treats the $1.50 hot dog as a symbol of the value members expect."
+    },
+    {
+      "heading": "Other Costco food court prices have gone up",
+      "text": "The rest of the food court has not been as lucky. A soda on its own rose from 59 cents to 69 cents in 2022 and to 79 cents in 2025, and the Chicken Bake went from $2.99 to $3.99 in 2025. For the full list of prices, see our Costco Food Court menu page."
+    },
+    {
+      "heading": "Do you need a membership?",
+      "text": "At most U.S. warehouses, you need an active Costco membership to order from the food court, and many locations have tightened checks in recent years. Plan on showing your card."
+    }
+  ],
+
+  "faqs": [
+    { "q": "How much is a hot dog at Costco?", "a": "$1.50 for a hot dog and a drink, the same price since 1985." },
+    { "q": "Is the Costco hot dog price going up in 2026?", "a": "No. Costco's CEO said in March 2026 that the price will not change as long as he is around." },
+    { "q": "What comes with the Costco hot dog combo?", "a": "A quarter-pound all-beef hot dog and a 20-ounce fountain soda with refills, or a bottled water instead of the soda." },
+    { "q": "Can you buy a Costco hot dog without a membership?", "a": "At most U.S. locations, no. You need an active membership to order from the food court." },
+    { "q": "How much would the Costco hot dog cost with inflation?", "a": "Around $4.65, if the 1985 price had kept up with inflation." }
+  ],
+
+  "internal_links": [
+    { "label": "Costco Food Court Menu With Prices", "slug": "costco-food-court-menu" },
+    { "label": "Is the Little Caesars Hot-N-Ready Still $5?", "slug": "little-caesars-hot-n-ready-price" },
+    { "label": "Calorie Calculator", "slug": "calorie-calculator" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "$1.50 since 1985: NPR via 10News/Scripps. Most popular item, 'Cafe 150' name: Spokesman-Review (Mar 19, 2026). Vachris quote, March 2026 Instagram video: Fox 13/Scripps and Mashed. Inflation-adjusted $4.65 and switch from Pepsi to Coca-Cola: WPTV/Scripps. Soda 59c to 69c (2022) to 79c (2025), Chicken Bake $2.99 to $3.99 (2025): Scripps News. Bottled water option April 2026, first change since 1985: Fox 10 Phoenix, Axios (May 2, 2026), WebProNews. Quarter-pound all-beef, 20 oz refillable: CostcoGuides. Membership required at most US locations: Cox Media Group (Hits 96.5). Tighter non-member restrictions: Mashed. Checked Nov 14, 2026.",
+    "accuracy": "Evergreen; re-check price yearly. Site's Costco menu page soda price updated to $0.79 in the same commit.",
+    "keyword_notes": "'costco hot dog price' 13k KD 10. 'costco chicken bake' (32k, KD 0) is a strong next Costco topic."
+  }
+}

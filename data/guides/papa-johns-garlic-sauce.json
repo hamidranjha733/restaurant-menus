@@ -1,0 +1,74 @@
+{
+  "slug": "papa-johns-garlic-sauce",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Papa John's",
+  "brand_slug": "papa-johns-menu",
+  "cover_hint": "Reuse the Papa John's menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "What Is Papa John's Garlic Sauce? (It's Not Butter)",
+    "meta_description": "Papa John's Special Garlic sauce isn't butter. It's a soybean-oil spread with garlic, closer to margarine, and it's dairy-free. Ingredients and FAQs.",
+    "h1": "What Is Papa John's Garlic Sauce?",
+    "primary_keyword": "papa johns garlic sauce",
+    "keyword_volume": 1500,
+    "keyword_kd": 0
+  },
+
+  "question": "What Is Papa John's Garlic Sauce?",
+
+  "quick_answer": "Papa John's Special Garlic Dipping Sauce looks and tastes like garlic butter, but it isn't butter. Its base is soybean oil, which makes it closer to a garlic-flavored margarine. It contains no dairy or eggs, so in the U.S. it is dairy-free and vegan-friendly, though it does contain soy.",
+
+  "key_facts": [
+    "Not butter: the base is soybean oil",
+    "Closer to a garlic margarine than garlic butter",
+    "No dairy or eggs, so it's vegan-friendly in the U.S.",
+    "Contains soy",
+    "There is also a Spicy Garlic dipping sauce"
+  ],
+
+  "body": [
+    {
+      "heading": "It isn't actually butter",
+      "text": "The yellow garlic sauce Papa John's is famous for is buttery, salty and garlicky, so most people assume it's melted garlic butter. It isn't. Based on the ingredients Papa John's lists, the main ingredient is soybean oil, not butter or any dairy product. That makes it much closer to a garlic-flavored margarine."
+    },
+    {
+      "heading": "What's in it",
+      "text": "Papa John's ingredient list for the Special Garlic sauce starts with soybean oil, with garlic and seasonings for flavor. Because it is oil-based, it stays creamy and pourable instead of hardening like butter. Check Papa John's own nutrition and allergen guide for the full, current list."
+    },
+    {
+      "heading": "Is Papa John's garlic sauce vegan and dairy-free?",
+      "text": "In the U.S., yes. The Special Garlic sauce has no milk or eggs, so vegan and dairy-free groups list it as safe. It does contain soy, so it isn't suitable for a soy allergy. Not every Papa John's dip is vegan: ranch, blue cheese and honey mustard contain milk or eggs. The Spicy Garlic sauce is also dairy-free."
+    },
+    {
+      "heading": "How people use it",
+      "text": "The garlic sauce is meant for dipping pizza crusts, but fans also dip breadsticks, wings and even fries in it. Most stores let you add extra cups to your order, usually for a small charge."
+    },
+    {
+      "heading": "How to make it at home",
+      "text": "Copycat recipes are simple because the sauce is mostly fat and garlic. A common version melts a buttery vegan spread or margarine with garlic powder and a pinch of salt, then stirs until smooth. Refrigerate any leftovers."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Papa John's garlic sauce butter?", "a": "No. Its main ingredient is soybean oil, so it is closer to a garlic margarine than butter." },
+    { "q": "Is Papa John's garlic sauce vegan?", "a": "Yes, in the U.S. It contains no dairy or eggs. It does contain soy." },
+    { "q": "Is Papa John's garlic sauce dairy-free?", "a": "Yes. It is made with soybean oil and has no milk ingredients." },
+    { "q": "Can you buy extra garlic sauce at Papa John's?", "a": "Yes. Most stores let you add extra dipping sauce cups, usually for a small charge." }
+  ],
+
+  "internal_links": [
+    { "label": "Papa John's Menu With Prices", "slug": "papa-johns-menu" },
+    { "label": "Is the Little Caesars Hot-N-Ready Still $5?", "slug": "little-caesars-hot-n-ready-price" },
+    { "label": "What Is Zax Sauce?", "slug": "what-is-zax-sauce" },
+    { "label": "Domino's Menu With Prices", "slug": "dominos-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Soybean oil base, closer to margarine, from ingredients on Papa John's website: Mashed ('Why Papa John's Beloved Garlic Sauce Isn't Butter At All') and Parade via AOL. Vegan, no dairy, while ranch/blue cheese/honey mustard contain milk/egg: Mashed via Yahoo. Confirmed vegan, main ingredient soybean oil: I Am Going Vegan. Special Garlic contains soy; Spicy Garlic vegan/contains soy: Go Dairy Free. Dairy-free copycat with two ingredients: Wide Open Country. Extra cups for a small charge is standard ordering; hedged. Exact ingredient order beyond soybean oil not verified from papajohns.com in this session; page points readers to the official guide. Checked Nov 14, 2026.",
+    "accuracy": "UK Papa John's has a different menu; page specifies U.S.",
+    "keyword_notes": "'papa johns garlic sauce' 1.5k KD 0. 'papa johns deals' (9.2k, KD 4) needs frequent updates."
+  }
+}
