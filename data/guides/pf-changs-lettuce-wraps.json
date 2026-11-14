@@ -1,0 +1,74 @@
+{
+  "slug": "pf-changs-lettuce-wraps",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "P.F. Chang's",
+  "brand_slug": "pf-changs-menu",
+  "cover_hint": "Reuse the P.F. Chang's menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "P.F. Chang's Lettuce Wraps: What's In Them, Price & Calories",
+    "meta_description": "Chang's Chicken Lettuce Wraps are P.F. Chang's signature appetizer: wok-seared chicken, water chestnuts and mushrooms in cool lettuce cups. Price and calories.",
+    "h1": "What's in P.F. Chang's Chicken Lettuce Wraps?",
+    "primary_keyword": "pf changs lettuce wraps",
+    "keyword_volume": 1700,
+    "keyword_kd": 7
+  },
+
+  "question": "What's in P.F. Chang's Chicken Lettuce Wraps?",
+
+  "quick_answer": "Chang's Chicken Lettuce Wraps are P.F. Chang's signature appetizer and have been on the menu since the first restaurant opened in 1993. Finely chopped chicken is wok-seared with mushrooms, water chestnuts and green onions in a savory sauce, served over crispy rice sticks with cool lettuce cups to wrap it in. They cost about $12 to $15 depending on location, and a full order is roughly 730 calories.",
+
+  "key_facts": [
+    "P.F. Chang's best-known appetizer, on the menu since 1993",
+    "Wok-seared chicken with mushrooms, water chestnuts and green onions",
+    "Served over crispy rice sticks with lettuce cups",
+    "About $12 to $15; price varies by location",
+    "Roughly 730 calories for a full order; a vegetarian version is available"
+  ],
+
+  "body": [
+    {
+      "heading": "What's in the lettuce wraps",
+      "text": "The filling is finely chopped chicken stir-fried in a wok with mushrooms, crunchy water chestnuts and green onions, then tossed in a savory, slightly sweet sauce. It comes on a bed of crispy fried rice sticks, with a stack of cool, crisp lettuce leaves on the side. You spoon the filling into a lettuce cup, add sauce and eat it like a small taco. P.F. Chang's calls the recipe a secret, so it doesn't list every ingredient."
+    },
+    {
+      "heading": "How much they cost",
+      "text": "Chang's Chicken Lettuce Wraps usually cost about $12 to $15 in the restaurant, and more on delivery apps. The vegetarian version is made with wok-seared tofu, green onion, mint and water chestnuts, and many locations also offer a gluten-free version of the chicken wraps. For the rest of P.F. Chang's prices, see our P.F. Chang's menu page."
+    },
+    {
+      "heading": "Calories and nutrition",
+      "text": "Lettuce makes them sound light, but the sauce and fried rice sticks add up. P.F. Chang's nutrition information puts a full order of chicken lettuce wraps at about 730 calories, with a fair amount of sugar and sodium. Shared as a starter, it is much more reasonable. The vegetarian lettuce wraps are a bit lower, at about 640 calories."
+    },
+    {
+      "heading": "Why they're so popular",
+      "text": "The lettuce wraps have been P.F. Chang's most famous dish since the first restaurant opened in 1993. They are easy to share, fun to build yourself and a mix of hot, crunchy and cool. They are also one of the most copied restaurant dishes online."
+    },
+    {
+      "heading": "How to make them at home",
+      "text": "Copycat recipes usually brown ground chicken with garlic, onion and ginger, then add chopped water chestnuts and mushrooms and a sauce of hoisin, soy sauce and rice vinegar. Serve it in butter or iceberg lettuce cups. Frying a few rice sticks on top gets you closer to the restaurant version."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What is in P.F. Chang's lettuce wraps?", "a": "Wok-seared chopped chicken with mushrooms, water chestnuts and green onions in a savory sauce, served over crispy rice sticks with lettuce cups." },
+    { "q": "How much are P.F. Chang's lettuce wraps?", "a": "About $12 to $15 depending on location." },
+    { "q": "How many calories are in P.F. Chang's chicken lettuce wraps?", "a": "About 730 for a full order. The vegetarian version is about 640." },
+    { "q": "Does P.F. Chang's have vegetarian lettuce wraps?", "a": "Yes. The vegetarian lettuce wraps use wok-seared tofu with green onion, mint and water chestnuts." }
+  ],
+
+  "internal_links": [
+    { "label": "P.F. Chang's Menu With Prices", "slug": "pf-changs-menu" },
+    { "label": "Is Panda Express Real Chinese Food?", "slug": "is-panda-express-real-chinese" },
+    { "label": "Noodles & Company Menu With Prices", "slug": "noodles-company-menu" },
+    { "label": "Calorie Calculator", "slug": "calorie-calculator" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Signature dish, secret family recipe, ingredients not fully listed, 730 cal chicken / 640 cal vegetarian, high sugar/sodium: Livestrong (citing P.F. Chang's nutrition). Most popular appetizer since 1993 opening; ~$14.50 at one location: copycat-spices blog. Site's P.F. Chang's menu page: $11.50 chicken / $9.50 vegetarian, 'wok-seared chicken with cool lettuce cups'. Water chestnuts, mushrooms, maifun rice sticks: copycat recipes (Dinner then Dessert, Taste of Home). Copycat sauce (hoisin, soy, rice vinegar, ginger): Damn Delicious, The Cozy Cook. Official menu wording (wok-seared chicken, mushrooms, green onions, water chestnuts, crispy rice sticks, lettuce cups) and vegetarian version (tofu, green onion, mint, water chestnuts): P.F. Chang's menu copies on Foursquare, AllMenus, MenuWithPrice. Gluten-free version and delivery prices up to ~$19.49: AllMenus (Grubhub). Since 1993: Taste of Home. Checked Nov 14, 2026.",
+    "accuracy": "Calories may have changed since the cited nutrition data; page says 'about'. Re-check against pfchangs.com nutrition when possible.",
+    "keyword_notes": "'pf changs lettuce wraps' 1.7k KD 7 + 'pf changs chicken lettuce wraps' 350."
+  }
+}

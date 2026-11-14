@@ -1,0 +1,75 @@
+{
+  "slug": "hardees-made-from-scratch-biscuits",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Hardee's",
+  "brand_slug": "hardees-menu",
+  "cover_hint": "Reuse the Hardee's menu hero. Biscuit sandwich if available.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Are Hardee's Biscuits Made From Scratch? How They're Made",
+    "meta_description": "Yes. Hardee's biscuit bakers start at 4 a.m. and make Made from Scratch biscuits by hand with buttermilk, baking a fresh batch about every 15 minutes.",
+    "h1": "Are Hardee's Biscuits Really Made From Scratch?",
+    "primary_keyword": "hardees biscuits",
+    "keyword_volume": 300,
+    "keyword_kd": 3
+  },
+
+  "question": "Are Hardee's Biscuits Really Made From Scratch?",
+
+  "quick_answer": "Yes. Hardee's Made from Scratch biscuits are mixed, rolled and cut by hand in each restaurant every morning. Biscuit bakers arrive around 4 a.m., make the dough with real buttermilk, and bake a fresh batch about every 15 minutes during breakfast. A plain biscuit costs about $1.75, and biscuit breakfasts are a big part of Hardee's business.",
+
+  "key_facts": [
+    "Made by hand in each restaurant every morning",
+    "Biscuit bakers start around 4 a.m.",
+    "Made with real buttermilk, rolled and cut by hand",
+    "A fresh batch about every 15 minutes during breakfast",
+    "On the menu since the late 1970s"
+  ],
+
+  "body": [
+    {
+      "heading": "How Hardee's makes its biscuits",
+      "text": "Every Hardee's has trained biscuit bakers who come in before the restaurant opens, around 4 a.m. They mix the dough with real buttermilk, then roll it out and cut each biscuit by hand. Biscuits go into the oven in batches about every 15 minutes, so there are warm ones throughout the breakfast rush. A busy baker can make eight to twelve batches of dough in a morning."
+    },
+    {
+      "heading": "Why they're different from most fast-food biscuits",
+      "text": "Many fast-food chains use frozen or premade biscuit dough. Hardee's is one of the few big chains, along with places like Bojangles and Chick-fil-A, that still makes biscuits by hand in each restaurant. The result is a taller, flakier biscuit, and it is the base of Hardee's whole breakfast menu."
+    },
+    {
+      "heading": "A little history",
+      "text": "Hardee's added Made from Scratch biscuits in the 1970s, and they went nationwide around 1977. The company has said its biscuits helped start the push for better-quality fast-food breakfasts. Biscuits became so important that, around 2020, they made up roughly a third of Hardee's sales. Every year, Hardee's holds a National Biscuit Baker Competition to crown its best baker."
+    },
+    {
+      "heading": "Popular Hardee's biscuit orders",
+      "text": "The biscuit comes plain or as a sandwich with sausage, bacon, ham, chicken or eggs and cheese. Fans also like biscuits and gravy, the Loaded Omelet Biscuit with sausage, bacon, ham and cheese, and seasonal versions, like heart-shaped biscuits around Valentine's Day. A plain Made from Scratch biscuit costs about $1.75 at many locations. See our Hardee's menu page for full breakfast prices."
+    },
+    {
+      "heading": "Can you get them at Carl's Jr.?",
+      "text": "Sometimes. Carl's Jr., Hardee's sister chain, started serving Hardee's Made from Scratch biscuits at hundreds of Southern California restaurants in 2011. They are still much more central to the menu at Hardee's."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Are Hardee's biscuits really made from scratch?", "a": "Yes. They are mixed with buttermilk, rolled and cut by hand in each restaurant every morning." },
+    { "q": "What time do Hardee's biscuit bakers start?", "a": "Around 4 a.m., before the restaurant opens." },
+    { "q": "How often does Hardee's bake biscuits?", "a": "About every 15 minutes during breakfast." },
+    { "q": "How much is a biscuit at Hardee's?", "a": "About $1.75 for a plain Made from Scratch biscuit at many locations." },
+    { "q": "When did Hardee's start making biscuits?", "a": "In the 1970s. The Made from Scratch biscuit went nationwide around 1977." }
+  ],
+
+  "internal_links": [
+    { "label": "Hardee's Menu With Prices", "slug": "hardees-menu" },
+    { "label": "Are Carl's Jr. and Hardee's the Same?", "slug": "are-carls-jr-and-hardees-the-same" },
+    { "label": "What Is the Bojangles Bo-Berry Biscuit?", "slug": "bojangles-bo-berry-biscuit" },
+    { "label": "What Is Denny's Grand Slam?", "slug": "dennys-grand-slam" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Bakers start at 4 a.m., hand-formed every morning: Hardee's release (Feb 2, 2026, heart-shaped biscuits) and Hardee's competition release (2024). Real buttermilk, rolled and cut by hand, baked every 15 minutes: Hardee's sponsored content (Taste of Home) and Hardee's quote via Eat This, Not That. 8-9 batches on weekdays, 10-12 on weekends: Mashed (champion baker interview). Few chains still make scratch biscuits (Bojangles, Chick-fil-A): Eat This. Added in the 1970s; nationwide 1977: Mashed, Southern Living via Yahoo. 'Began the quality trend... late 1970s': Hardee's exec via 2007 release. About a third of sales in 2020: Mashed citing QSR. National Biscuit Baker Competition: Hardee's releases (2024, 2025). Loaded Omelet Biscuit: Eat This. Carl's Jr. SoCal 2011: QSR Web. $1.75 plain biscuit: site's Hardee's menu page. Checked Nov 14, 2026.",
+    "accuracy": "Hours of breakfast not stated (vary by location).",
+    "keyword_notes": "'hardees biscuits' 300 KD 3. 'hardees breakfast hours' 1.5k but KD 45."
+  }
+}

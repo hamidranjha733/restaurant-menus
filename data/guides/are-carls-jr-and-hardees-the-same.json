@@ -1,0 +1,74 @@
+{
+  "slug": "are-carls-jr-and-hardees-the-same",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Carl's Jr.",
+  "brand_slug": "carls-jr-menu",
+  "cover_hint": "Reuse the Carl's Jr. menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Are Carl's Jr. and Hardee's the Same? What's Different",
+    "meta_description": "Carl's Jr. and Hardee's share an owner, a star logo and many burgers, but they started as separate chains. Why there are two names and how they differ.",
+    "h1": "Are Carl's Jr. and Hardee's the Same?",
+    "primary_keyword": "is carl's jr and hardee's the same",
+    "keyword_volume": 200,
+    "keyword_kd": 3
+  },
+
+  "question": "Are Carl's Jr. and Hardee's the Same?",
+
+  "quick_answer": "Mostly, but not completely. Carl's Jr. and Hardee's have the same owner, CKE Restaurants, the same smiling star logo and many of the same charbroiled burgers, like the Famous Star. But they started as separate chains on opposite sides of the country, and they still use different names in different regions: Carl's Jr. in the West and Southwest, Hardee's in the Midwest and Southeast. Their menus differ a little too.",
+
+  "key_facts": [
+    "Both owned by CKE Restaurants, based in Franklin, Tennessee",
+    "Carl's Jr. began in Los Angeles in 1941; Hardee's in North Carolina in 1960",
+    "CKE bought Hardee's in 1997 for $327 million",
+    "Same star logo and many shared burgers",
+    "Carl's Jr. is mainly in the West; Hardee's in the Midwest and Southeast"
+  ],
+
+  "body": [
+    {
+      "heading": "Two chains, one owner",
+      "text": "Carl's Jr. and Hardee's are owned by the same company, CKE Restaurants, which is based in Franklin, Tennessee. CKE stands for Carl Karcher Enterprises, after the founder of Carl's Jr. That shared ownership is why the two chains use the same smiling star logo, similar restaurant designs and many of the same menu items. Their websites even look almost identical."
+    },
+    {
+      "heading": "How Carl's Jr. started",
+      "text": "Carl Karcher started with a hot dog stand in Los Angeles in 1941. His business grew into Carl's Drive-In Barbecue, and in 1956 he opened the first smaller restaurants called Carl's Jr., where the star logo first appeared. In 1964 he incorporated the business as Carl Karcher Enterprises, and Carl's Jr. grew across California and the West."
+    },
+    {
+      "heading": "How Hardee's started",
+      "text": "Wilber Hardee opened the first Hardee's in Greenville, North Carolina, in 1960. The chain grew fast by opening in smaller towns that McDonald's and Burger King hadn't reached, and by the early 1990s it had more than 2,500 restaurants, making it one of the biggest burger chains in the country. By the late 1990s, though, it was struggling."
+    },
+    {
+      "heading": "Why there are still two names",
+      "text": "In 1997, CKE bought Hardee's for $327 million to expand east. Instead of renaming Hardee's, CKE kept both brands, because Hardee's had strong loyalty in its home regions. Over the next years, Hardee's adopted the Carl's Jr. star logo and many Carl's Jr. burgers. Today the two rarely overlap: Carl's Jr. is mostly in the West and Southwest, and Hardee's is mostly in the Midwest and Southeast."
+    },
+    {
+      "heading": "What's actually different",
+      "text": "The core burgers are largely the same, including the Famous Star and Super Star, and the two chains often launch the same new items. The biggest difference is breakfast: Hardee's is known for its Made from Scratch biscuits, baked by hand every morning, and while Carl's Jr. later added them in some markets, they are much more central at Hardee's. Prices, limited-time items and some names also vary between the two."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Are Carl's Jr. and Hardee's the same company?", "a": "Yes. Both are owned by CKE Restaurants." },
+    { "q": "Why do Carl's Jr. and Hardee's have different names?", "a": "They started as separate chains. When CKE bought Hardee's in 1997, it kept the Hardee's name because of its strong regional following." },
+    { "q": "Do Carl's Jr. and Hardee's have the same menu?", "a": "Mostly. They share many burgers, like the Famous Star, but Hardee's is better known for its scratch-made breakfast biscuits, and prices and some items differ." },
+    { "q": "Which came first, Carl's Jr. or Hardee's?", "a": "Carl's Jr. Carl Karcher started his business in Los Angeles in 1941. The first Hardee's opened in North Carolina in 1960." }
+  ],
+
+  "internal_links": [
+    { "label": "Carl's Jr. Menu With Prices", "slug": "carls-jr-menu" },
+    { "label": "Hardee's Menu With Prices", "slug": "hardees-menu" },
+    { "label": "Are Hardee's Biscuits Made From Scratch?", "slug": "hardees-made-from-scratch-biscuits" },
+    { "label": "Who Owns Jack in the Box?", "slug": "who-owns-jack-in-the-box" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Both owned by CKE, HQ Franklin, Tennessee: Hardee's press release (Nov 3, 2025). CKE = Carl Karcher Enterprises; Hardee's adopted Happy Star logo used since first Carl's Jr. in 1956; CKE bought Hardee's in 1997 for $327 million: Tasting Table. Hot dog stand LA 1941: Tasting Table, Bustle. 1956 first two Carl's Jr., incorporated 1964: Consumerist (CKE history). Wilber Hardee, Greenville NC, 1960: Hardee's sponsored content (Taste of Home). Small-town strategy, 2,500+ by early 1990s, fourth-largest: Mental Floss, Consumerist. Struggling by late 1990s: Bustle. Regions (Carl's Jr. West/Southwest urban; Hardee's rural Midwest/Southeast): Tasting Table, Consumerist. Famous Star and Super Star at both, identical websites: The Takeout. Routinely launch same items: Tasting Table. Carl's Jr. added Hardee's biscuits in SoCal in 2011: QSR Web. Checked Nov 14, 2026.",
+    "accuracy": "Store counts left out (sources from different years conflict).",
+    "keyword_notes": "'is carl's jr and hardee's the same' 200 KD 3, traffic potential 900; 'carls jr and hardees' traffic potential 77k (brand SERP)."
+  }
+}
