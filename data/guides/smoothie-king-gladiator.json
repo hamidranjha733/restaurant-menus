@@ -1,0 +1,74 @@
+{
+  "slug": "smoothie-king-gladiator",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Smoothie King",
+  "brand_slug": "smoothie-king-menu",
+  "cover_hint": "Reuse the Smoothie King menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Smoothie King Gladiator: Protein, Calories, Flavors & Price",
+    "meta_description": "The Smoothie King Gladiator packs about 45 g of protein for around 220 calories with no added sugar. Flavors, sizes, price and what's in it.",
+    "h1": "What Is the Smoothie King Gladiator?",
+    "primary_keyword": "smoothie king gladiator",
+    "keyword_volume": 900,
+    "keyword_kd": 0
+  },
+
+  "question": "What Is the Smoothie King Gladiator?",
+
+  "quick_answer": "The Gladiator is Smoothie King's high-protein, low-carb smoothie. Made mostly from its Gladiator protein blend, a 20 oz Gladiator Vanilla has about 45 grams of protein and 220 calories, with no added sugar. It comes in Vanilla, Chocolate and Strawberry, and you can add fruit or other enhancers. A 20 oz costs about $5.49 at many stores, with 32 oz and larger sizes too.",
+
+  "key_facts": [
+    "About 45 g of protein and around 220 calories (20 oz)",
+    "0 g added sugar in the base Vanilla, Chocolate and Strawberry versions",
+    "Made with Smoothie King's Gladiator protein blend",
+    "Comes in 20 oz, 32 oz and a large size",
+    "Contains milk and egg; not vegan"
+  ],
+
+  "body": [
+    {
+      "heading": "What the Gladiator is",
+      "text": "The Gladiator is part of Smoothie King's Get Fit lineup, built for people who want a lot of protein without much sugar or carbs. Its main ingredient is Smoothie King's own Gladiator protein blend, and the plain versions come in Vanilla, Chocolate and Strawberry flavors. Many people drink it after a workout or as a quick high-protein snack."
+    },
+    {
+      "heading": "Protein and calories",
+      "text": "According to Smoothie King, a 20 oz Gladiator Vanilla has 45 grams of protein, 220 calories and 0 grams of added sugar. The Strawberry version is similar, with about 1 gram of sugar. Because most of the calories come from the protein blend rather than fruit, the numbers stay close to 220 calories even in bigger sizes, unless you add fruit or other ingredients."
+    },
+    {
+      "heading": "Flavors and add-ons",
+      "text": "Besides Vanilla, Chocolate and Strawberry, Smoothie King has made versions like Gladiator Chocolate Espresso, which adds banana and espresso and comes to about 310 calories and 46 grams of protein. You can add fruit, peanut butter or enhancers like a multivitamin or extra protein, but each addition raises calories and sugar. Smoothie King's online menu updates the nutrition label as you customize."
+    },
+    {
+      "heading": "Sizes and price",
+      "text": "The Gladiator comes in 20 oz and 32 oz cups plus a large, listed as 40 oz on many menus and 44 oz on some nutrition sites. At many stores a 20 oz costs about $5.49, with larger sizes a few dollars more. Prices vary by location; see our Smoothie King menu page for typical prices."
+    },
+    {
+      "heading": "Allergens",
+      "text": "Smoothie King lists egg and milk as allergens in its Gladiator protein, so the Gladiator isn't vegan or dairy-free. If you have an allergy, check Smoothie King's ingredient list for your exact order."
+    }
+  ],
+
+  "faqs": [
+    { "q": "How much protein is in a Smoothie King Gladiator?", "a": "About 45 grams in a 20 oz Gladiator Vanilla, according to Smoothie King." },
+    { "q": "How many calories are in a Gladiator smoothie?", "a": "About 220 calories for a 20 oz Gladiator Vanilla, before any add-ins." },
+    { "q": "Does the Gladiator have sugar?", "a": "The base Vanilla, Chocolate and Strawberry versions have 0 grams of added sugar." },
+    { "q": "Is the Smoothie King Gladiator vegan?", "a": "No. The Gladiator protein contains egg and milk." },
+    { "q": "What sizes does the Gladiator come in?", "a": "20 oz, 32 oz and a large (listed as 40 or 44 oz depending on the source)." }
+  ],
+
+  "internal_links": [
+    { "label": "Smoothie King Menu With Prices", "slug": "smoothie-king-menu" },
+    { "label": "What Is the Most Popular Smoothie at Tropical Smoothie Cafe?", "slug": "most-popular-smoothie-tropical-smoothie-cafe" },
+    { "label": "What Is Dutch Bros Soft Top?", "slug": "what-is-dutch-bros-soft-top" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Gladiator Vanilla 220 cal, 45 g protein, 0 g added sugar, ingredient Gladiator Protein Vanilla, add-ons: smoothieking.com Gladiator Vanilla page. Strawberry 1 g sugar, 0 added, 45 g protein, Get Fit category with proprietary Gladiator protein blend: smoothieking.com Gladiator Strawberry page. Chocolate Espresso 310 cal, 46 g protein, bananas + espresso: smoothieking.com. Real-time nutrition label as you customize: smoothieking.com Gladiator Chocolate page. Allergens egg & milk: smoothieking.com Gladiator Complete Protein page. Sizes 20/32/44 oz and calories ~220 across sizes: BowlMacros; FatSecret 32 oz and 44 oz listings at 220 cal. Price $5.49 (20 oz): site's Smoothie King menu page. Checked Nov 14, 2026.",
+    "accuracy": "Large size conflicts: site menu page says 40 oz, BowlMacros/FatSecret say 44 oz. Guide hedges; menu page left as is until confirmed in-store.",
+    "keyword_notes": "'smoothie king gladiator' 900 KD 0. 'healthiest smoothie at smoothie king' 450 KD 7 is a good next topic."
+  }
+}

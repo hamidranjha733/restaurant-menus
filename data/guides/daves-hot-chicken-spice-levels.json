@@ -1,0 +1,75 @@
+{
+  "slug": "daves-hot-chicken-spice-levels",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Dave's Hot Chicken",
+  "brand_slug": "daves-hot-chicken-menu",
+  "cover_hint": "Reuse the Dave's Hot Chicken menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Dave's Hot Chicken Spice Levels: All 7, Ranked by Heat",
+    "meta_description": "Dave's Hot Chicken has 7 spice levels, from No Spice to the Reaper, which needs a signed waiver. What each level is like and which one to order first.",
+    "h1": "Dave's Hot Chicken Spice Levels, Explained",
+    "primary_keyword": "daves hot chicken spice levels",
+    "keyword_volume": 800,
+    "keyword_kd": 0
+  },
+
+  "question": "What Are Dave's Hot Chicken Spice Levels?",
+
+  "quick_answer": "Dave's Hot Chicken has seven spice levels: No Spice, Lite Mild, Mild, Medium, Hot, Extra Hot and Reaper. Medium is the most popular and a good first order for most people. The Reaper is made with Carolina Reaper pepper, is rated at roughly 1.6 to 2 million Scoville units, and you have to sign a waiver to order it.",
+
+  "key_facts": [
+    "7 levels: No Spice, Lite Mild, Mild, Medium, Hot, Extra Hot, Reaper",
+    "Medium is the most popular level",
+    "Reaper uses Carolina Reaper pepper, about 1.6 to 2 million Scoville units",
+    "You must sign a waiver to order the Reaper",
+    "A two-item combo lets you try two different levels"
+  ],
+
+  "body": [
+    {
+      "heading": "All seven spice levels",
+      "text": "Every tender and slider at Dave's Hot Chicken comes in your choice of seven heat levels. From mildest to hottest they are No Spice, Lite Mild, Mild, Medium, Hot, Extra Hot and Reaper. Each level uses its own spice blend, and the jump between them is real, so a level that sounds tame can still surprise you."
+    },
+    {
+      "heading": "No Spice, Lite Mild and Mild",
+      "text": "No Spice is plain crispy fried chicken with no heat, a safe pick for kids or anyone who doesn't like spice. Lite Mild adds savory seasoning but barely any burn. Mild brings a gentle warmth that most people can handle easily. These lower levels let you taste the brined chicken and seasoning without much heat."
+    },
+    {
+      "heading": "Medium and Hot",
+      "text": "Medium is the most popular level and where most first-timers should start. It has a real kick but you can still taste the chicken. Hot is the classic Nashville hot chicken level and a clear step up: many people find it makes them sweat, so order it only if you like properly spicy food."
+    },
+    {
+      "heading": "Extra Hot and Reaper",
+      "text": "Extra Hot is for serious spice fans. The Reaper is the top level, made with Carolina Reaper pepper and rated at roughly 1.6 to 2 million Scoville units. Dave's asks customers to sign a waiver before ordering it, and more than 100,000 people have signed one. Reviewers often say the Reaper tastes slightly sweet before the heat builds, and the burn can last for a long time."
+    },
+    {
+      "heading": "Tips for choosing your level",
+      "text": "If you're new, start with Medium, or go with Mild if you don't eat much spicy food. The two-tender or two-slider combos let you pick a different level for each piece, which is an easy way to test two heats at once. Dave's Sauce, the fries and the kale slaw can help cool things down. For prices, see our Dave's Hot Chicken menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "How many spice levels does Dave's Hot Chicken have?", "a": "Seven: No Spice, Lite Mild, Mild, Medium, Hot, Extra Hot and Reaper." },
+    { "q": "What is the most popular spice level at Dave's?", "a": "Medium." },
+    { "q": "Do you have to sign a waiver for the Reaper at Dave's Hot Chicken?", "a": "Yes. You must sign a waiver before ordering the Reaper level." },
+    { "q": "How hot is the Dave's Hot Chicken Reaper?", "a": "It uses Carolina Reaper pepper and is rated at roughly 1.6 to 2 million Scoville units." },
+    { "q": "Can I get two different spice levels in one order?", "a": "Yes. Two-piece combos let you choose a different spice level for each tender or slider." }
+  ],
+
+  "internal_links": [
+    { "label": "Dave's Hot Chicken Menu With Prices", "slug": "daves-hot-chicken-menu" },
+    { "label": "Buffalo Wild Wings Sauces Guide", "slug": "buffalo-wild-wings-sauces" },
+    { "label": "Why Does Raising Cane's Only Sell Chicken Fingers?", "slug": "why-raising-canes-only-chicken-fingers" },
+    { "label": "Best Wingstop Flavors", "slug": "best-wingstop-flavors" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Seven levels in order: Uproxx, Restaurant Online (UK), The Banner, Mobile Cuisine, Food Republic. Reaper 1.6-2 million Scoville: Food Republic. Waiver required: Restaurant Online (UK), WSVN, Mobile Cuisine, Seattle review (Carolina Reaper powder). Medium most popular; two-item combo lets you pick two levels; 100,000+ signed Reaper waiver; originally just mild and hot: Business Insider (Nancy Luna). Reaper tastes sweeter: Uproxx. Each level uses a different blend; Medium right for most: Seeing Washington review. Lite Mild barely spicy: Uproxx, Dallas Observer. Kale slaw and Dave's Sauce on menu: site's Dave's menu page. Checked Nov 14, 2026.",
+    "accuracy": "Heat descriptions are from reviews; no Scoville numbers given for levels other than Reaper.",
+    "keyword_notes": "'dave's hot chicken reaper' 2.4k + 'daves hot chicken spice levels' 800 + heat levels 150, all KD 0. 'who owns daves hot chicken' 1.6k KD 9 is a strong next topic."
+  }
+}

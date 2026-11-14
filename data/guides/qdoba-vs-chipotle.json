@@ -1,0 +1,74 @@
+{
+  "slug": "qdoba-vs-chipotle",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Qdoba",
+  "brand_slug": "qdoba-menu",
+  "cover_hint": "Reuse the Qdoba menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Qdoba vs. Chipotle: Price, Free Queso & Guac, Menu",
+    "meta_description": "Qdoba includes queso and guacamole free on entrees; Chipotle charges extra. How the two burrito chains compare on price, menu and portions in 2026.",
+    "h1": "Qdoba vs. Chipotle: What's the Difference?",
+    "primary_keyword": "qdoba vs chipotle",
+    "keyword_volume": 1500,
+    "keyword_kd": 0
+  },
+
+  "question": "Qdoba vs. Chipotle: What's the Difference?",
+
+  "quick_answer": "Qdoba and Chipotle serve very similar burritos, bowls, tacos and salads, built on an assembly line. The biggest difference is price: Qdoba includes queso and guacamole on its entrees at no extra charge, while Chipotle charges extra for both, usually a couple of dollars each. Qdoba also has a slightly bigger menu, including nachos and more sauces, while Chipotle keeps its menu short.",
+
+  "key_facts": [
+    "Qdoba includes queso and guac free on entrees",
+    "Chipotle charges extra for guacamole and queso",
+    "Qdoba offers nachos and more sauces and proteins",
+    "Chipotle's menu is shorter and simpler",
+    "Food quality is similar; most comparisons call it close"
+  ],
+
+  "body": [
+    {
+      "heading": "Free queso and guac at Qdoba",
+      "text": "Qdoba's best-known selling point is that its 3-Cheese Queso and guacamole are included on entrees at no extra cost. At Chipotle, adding guacamole costs extra, usually around $2 to $3, and queso costs extra too. If you always add guac or queso, Qdoba is usually the better deal. One food site's 2026 comparison found Qdoba's free guac portion is smaller than a paid Chipotle scoop, so Chipotle gives you more guac when you do pay for it."
+    },
+    {
+      "heading": "How prices compare",
+      "text": "Base prices for a chicken burrito or bowl are close, and both vary by location. In one recent side-by-side, a reviewer paid $11.55 for a Qdoba burrito and $13.85 for a similar Chipotle burrito, mostly because of guacamole. If you skip guac and queso, the gap shrinks or disappears. Check each chain's app for your local prices."
+    },
+    {
+      "heading": "Menu differences",
+      "text": "Both chains build burritos, bowls, tacos and salads to order with rice, beans, protein, salsas and toppings. Qdoba adds a few extras: nachos, more sauces and salsas, queso-smothered burritos and some different proteins, like a plant-based Impossible option. Chipotle keeps a tighter menu of proteins, salsas and classic toppings, which some fans say helps it focus on fresh ingredients."
+    },
+    {
+      "heading": "Taste and portions",
+      "text": "Most head-to-head tests call it close. Several reviewers found the burritos very similar in size and flavor, with Chipotle's steak pieces larger and its salsas a bit bolder, and Qdoba winning on value once guac and queso are added. Calories are similar too, and both can top 1,000 calories for a fully loaded burrito."
+    },
+    {
+      "heading": "Which should you choose?",
+      "text": "Pick Qdoba if you love queso and guacamole or want nachos. Pick Chipotle if you prefer a simpler menu or bigger guac portions and don't mind paying for them. For full prices, see our Qdoba menu and Chipotle menu pages."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is guacamole free at Qdoba?", "a": "Yes. Qdoba includes guacamole and 3-Cheese Queso on entrees at no extra charge." },
+    { "q": "Is Qdoba cheaper than Chipotle?", "a": "Usually, if you add guac or queso, because Chipotle charges extra for both. Base prices are similar." },
+    { "q": "Does Chipotle have nachos?", "a": "No. Nachos are one menu item Qdoba offers that Chipotle doesn't." },
+    { "q": "Is Qdoba or Chipotle better?", "a": "It depends on taste. Reviewers often call the food close, with Qdoba winning on value for guac and queso fans and Chipotle preferred for a simpler, bolder menu." }
+  ],
+
+  "internal_links": [
+    { "label": "Qdoba Menu With Prices", "slug": "qdoba-menu" },
+    { "label": "Chipotle Menu With Prices", "slug": "chipotle-menu" },
+    { "label": "Is Chipotle Actually Mexican?", "slug": "is-chipotle-actually-mexican" },
+    { "label": "Who Owns Chipotle?", "slug": "who-owns-chipotle" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Qdoba includes queso and guac free on any entrée; Chipotle guac $2-3, queso $1-2; Qdoba 2 oz guac 80 cal vs Chipotle scoop 230 cal (2026 PDFs): BowlMacros. $11.55 Qdoba vs $13.85 Chipotle, nachos/alt proteins/extra sauces, Chipotle steak chunks larger, near-identical burritos: The Takeout. Qdoba nachos Chipotle doesn't have: The Takeout. Comparable price/quality, Qdoba slightly ahead in Insider taste test: The Daily Meal. Chipotle's tighter menu, Qdoba included add-on policy: Menupedia (May 2026). Calories over 1,000 loaded burritos (1,285 Chipotle vs 1,405 Qdoba): Dakota Student. Impossible option: site's Qdoba menu page. Checked Nov 14, 2026.",
+    "accuracy": "Prices are examples; both chains vary by location.",
+    "keyword_notes": "'qdoba vs chipotle' 1.5k KD 0. 'is qdoba healthy' 1.6k KD 0 is the next Qdoba topic."
+  }
+}
