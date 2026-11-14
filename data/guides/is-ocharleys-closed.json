@@ -1,0 +1,75 @@
+{
+  "slug": "is-ocharleys-closed",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "O'Charley's",
+  "brand_slug": "ocharleys-menu",
+  "cover_hint": "Reuse the O'Charley's menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Is O'Charley's Closed? What Happened to the Chain in 2026",
+    "meta_description": "O'Charley's abruptly closed all of its company-owned restaurants on September 9, 2026, after 55 years. What happened, who owned it and what's left.",
+    "h1": "Is O'Charley's Closed?",
+    "primary_keyword": "ocharleys closing",
+    "keyword_volume": 1100,
+    "keyword_kd": 12
+  },
+
+  "question": "Is O'Charley's Closed?",
+
+  "quick_answer": "Yes. O'Charley's abruptly closed all of its company-owned restaurants on September 9, 2026, ending a 55-year run. The Nashville-based chain had about 52 locations in 13 states at the start of 2026, down from nearly 250 at its peak. A few franchised locations in Ohio stayed open briefly after the corporate closures, but the brand is all but defunct. Its website and social media accounts were taken down.",
+
+  "key_facts": [
+    "All company-owned restaurants closed September 9, 2026",
+    "Founded in Nashville in 1971",
+    "About 52 locations in 13 states at the start of 2026",
+    "Nearly 250 restaurants at its peak",
+    "Owned by Cannae Holdings"
+  ],
+
+  "body": [
+    {
+      "heading": "What happened",
+      "text": "On September 8 and 9, 2026, O'Charley's told employees that its company-owned restaurants would close, many of them at 8 p.m. on Wednesday, September 9. Workers and customers got almost no warning. By that night, O'Charley's website showed a 'site not found' message and its Facebook and Instagram pages had been removed. The company did not make a public statement."
+    },
+    {
+      "heading": "Why O'Charley's closed",
+      "text": "O'Charley's had been shrinking for years. It closed 51 restaurants in 2023 and four more in the first half of 2026 while its owner, Cannae Holdings, tried to turn sales around with menu changes and better service. That plan didn't work: Cannae's restaurant group, which includes O'Charley's, reported an operating loss of $81.9 million from July 2025 to June 2026, and O'Charley's sales fell by double digits. The closures came during a broader review of Cannae's restaurant holdings."
+    },
+    {
+      "heading": "Are any O'Charley's still open?",
+      "text": "At the time of the shutdown, a franchise company in Ohio ran three O'Charley's restaurants that were not part of the corporate closures. Reports said at least one would stay open only until late September or early October 2026. Restaurant Business described the brand as all but defunct. If you're near one of the former franchised locations, call ahead before visiting."
+    },
+    {
+      "heading": "O'Charley's history",
+      "text": "Charles 'Sonny' Watkins opened the first O'Charley's in 1971 near Vanderbilt University in Nashville. He sold the business in 1984 to David Wachtel, a former Shoney's executive, who grew it into a regional chain. At its peak in the 2000s, O'Charley's had nearly 250 restaurants. It was later bought by Fidelity National Financial's restaurant group and came under Cannae Holdings in 2018. It was known for its free hot yeast rolls, Famous Chicken Tenders and Famous Pies."
+    },
+    {
+      "heading": "Where to go instead",
+      "text": "Fans looking for similar Southern comfort food at a sit-down chain often turn to Cheddar's Scratch Kitchen, Cracker Barrel or Texas Roadhouse. Our O'Charley's menu page still shows the last known menu prices before the closure, for reference."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is O'Charley's going out of business?", "a": "Yes. It closed all of its company-owned restaurants on September 9, 2026. Only a few franchised locations stayed open briefly afterward." },
+    { "q": "When did O'Charley's close?", "a": "September 9, 2026, for its company-owned restaurants." },
+    { "q": "Why did O'Charley's close?", "a": "Years of falling sales and traffic. Its owner's restaurant group lost $81.9 million in the year to June 2026, and O'Charley's sales fell by double digits." },
+    { "q": "How many O'Charley's were there?", "a": "About 52 in 13 states at the start of 2026, down from nearly 250 at its peak." },
+    { "q": "Who owned O'Charley's?", "a": "Cannae Holdings." }
+  ],
+
+  "internal_links": [
+    { "label": "O'Charley's Menu (Last Known Prices)", "slug": "ocharleys-menu" },
+    { "label": "Are Cheddar's Croissants Free?", "slug": "cheddars-honey-butter-croissants" },
+    { "label": "Is TGI Fridays Closing?", "slug": "is-tgi-fridays-closing" },
+    { "label": "Is Noodles & Company Closing?", "slug": "is-noodles-and-company-closing" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Abrupt closure of all company-owned locations Sept 9, 2026; nearly 250 at peak; closing since 2016; down to 47 after July closures; Niles, Ohio franchise to close Sept 27-Oct 4; social accounts discontinued: Nation's Restaurant News (Sept 9, 2026). 49 company + 3 franchised in 13 states at end of Q2; closed 50+ in 2023; Covelli Enterprises owns 3 franchised: Restaurant Dive. 52 restaurants in 13 states at start of 2026; division operating loss $81.9M July 2025-June 2026; sales down ~13%; four closures H1 2026: Merca2.0, WSMV. Closed 51 in 2023: WSMV/WLOX citing Restaurant Business. 8 p.m. Wednesday closures, 'Site not found', social pages down: WSB-TV. Founded 1971 by Charles Watkins near Vanderbilt; sold 1984 to David Wachtel (ex-Shoney's): Fox Business. Fidelity National (2012) and Cannae (2018): Merca2.0. Cannae 65.4% stake: Fox Business. 'All but defunct': Restaurant Business. Free rolls, tenders, pies: site's O'Charley's menu page. Checked Nov 14, 2026.",
+    "accuracy": "Status of the 3 Covelli franchised locations after early October 2026 not confirmed; guide hedges. O'Charley's menu page updated in same commit with closure notice.",
+    "keyword_notes": "'ocharleys closing' 1.1k KD 12 + 'is o'charley's closing' 400 KD 1."
+  }
+}

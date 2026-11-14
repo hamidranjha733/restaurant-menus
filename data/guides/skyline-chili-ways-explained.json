@@ -1,0 +1,75 @@
+{
+  "slug": "skyline-chili-ways-explained",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Skyline Chili",
+  "brand_slug": "skyline-chili-menu",
+  "cover_hint": "Reuse the Skyline Chili menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Skyline Chili 3-Way, 4-Way, 5-Way: What Each Means",
+    "meta_description": "At Skyline Chili, a 3-Way is spaghetti, chili and cheese; a 4-Way adds onions or beans; a 5-Way adds both. How to order and what's in the chili.",
+    "h1": "Skyline Chili Ways, Explained",
+    "primary_keyword": "skyline chili 5 way",
+    "keyword_volume": 300,
+    "keyword_kd": 3
+  },
+
+  "question": "What Is a 3-Way, 4-Way and 5-Way at Skyline Chili?",
+
+  "quick_answer": "At Skyline Chili, the 'way' tells you how many layers are in your bowl. A 3-Way is spaghetti topped with Skyline's chili and a big mound of shredded cheddar. A 4-Way adds either diced onions or beans, so you order a '4-Way onion' or '4-Way bean.' A 5-Way has both onions and beans. Skyline's Cincinnati-style chili is a thin, finely ground meat sauce with warm spices, not a thick Texas-style chili, and it's mild rather than hot.",
+
+  "key_facts": [
+    "3-Way: spaghetti, chili, shredded cheddar",
+    "4-Way: a 3-Way plus onions or beans",
+    "5-Way: a 3-Way plus onions and beans",
+    "Cincinnati-style chili: thin, mild, warmly spiced",
+    "Usually served with oyster crackers"
+  ],
+
+  "body": [
+    {
+      "heading": "The ways, one by one",
+      "text": "Cincinnati chili is ordered by layers. A 2-Way is just spaghetti and chili, though few people order it. A 3-Way adds a heap of finely shredded cheddar cheese on top and is the most popular order. A 4-Way adds one more topping, either diced onions or kidney beans, so you say '4-Way onion' or '4-Way bean.' A 5-Way includes both onions and beans under the cheese."
+    },
+    {
+      "heading": "What's in Skyline's chili",
+      "text": "Skyline's chili is a Cincinnati-style chili: a thin, saucy meat sauce made with very finely ground beef and a blend of warm spices. Skyline keeps its recipe secret, but cooks who make copycat versions use spices such as cinnamon, allspice and cloves, sometimes with a little cocoa. It has no beans in the sauce itself (beans are a topping) and is mild, not spicy hot."
+    },
+    {
+      "heading": "Coneys and other ways to eat it",
+      "text": "Besides spaghetti ways, Skyline's other classic is the Cheese Coney: a small hot dog in a bun topped with Skyline chili and shredded cheese. You can also order the chili in a bowl on its own. Most orders come with oyster crackers, and many regulars add hot sauce."
+    },
+    {
+      "heading": "How much a way costs",
+      "text": "On our Skyline Chili menu page, a classic 3-Way runs about $3.75 to $6.00 depending on size, and a Cheese Coney is about $1.85. 4-Ways and 5-Ways cost a little more than a 3-Way of the same size. Prices vary by location."
+    },
+    {
+      "heading": "Where the name comes from",
+      "text": "Skyline Chili dates back to 1949 in Cincinnati, and the name comes from the view of the city skyline from the founder's first restaurant. For full prices, see our Skyline Chili menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What is a 3-Way at Skyline?", "a": "Spaghetti topped with Skyline chili and shredded cheddar cheese." },
+    { "q": "What is a 5-Way at Skyline?", "a": "Spaghetti, chili, onions, beans and shredded cheddar cheese." },
+    { "q": "What is the difference between a 4-Way and a 5-Way?", "a": "A 4-Way adds either onions or beans to a 3-Way. A 5-Way adds both." },
+    { "q": "Is Skyline Chili spicy?", "a": "No. It's warmly spiced but mild, not spicy hot." },
+    { "q": "Does Skyline chili have beans in it?", "a": "Not in the sauce. Beans are added as a topping on 4-Ways and 5-Ways." }
+  ],
+
+  "internal_links": [
+    { "label": "Skyline Chili Menu With Prices", "slug": "skyline-chili-menu" },
+    { "label": "Costco Hot Dog Price", "slug": "costco-hot-dog-price" },
+    { "label": "Olive Garden Never Ending Pasta", "slug": "olive-garden-never-ending-pasta" },
+    { "label": "Is Whataburger Only in Texas?", "slug": "is-whataburger-only-in-texas" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "2-Way, 3-Way, 4-Way (beans or onions), 5-Way (both): WVXU (Cincinnati public radio). 4-Way beans vs 4-Way onions ordering, beans not standard in 3-Way: Cincinnati chili explainer citing Cincinnati Enquirer. Cincinnati chili ingredient series with cheddar and kidney beans, served with oyster crackers; spices cinnamon, allspice, clove: Cincinnati chili encyclopedia entry. Spices cinnamon, allspice, cocoa in copycat recipes; mild heat; originated 1949: Alibaba spice explainers, CopyKat. Name from view of Cincinnati skyline: An Affair From The Heart. Cheese Coney, prices $1.85, 3-Way $3.75-$6.00: site's Skyline Chili menu page. Coney toppings: Cincinnati chili explainer (chili dog). Checked Nov 14, 2026.",
+    "accuracy": "Recipe is secret; spice list attributed to copycat recipes. Location states from general knowledge of Skyline footprint, hedged with 'most'.",
+    "keyword_notes": "'skyline chili 5 way' 300 KD 3 + 'skyline chili spaghetti' 300 KD 0 + 'what is in skyline chili' 150 KD 0. 'skyline chili dip' 1.6k KD 1 is the next Skyline topic."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "sonnys-bbq-sauces",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Sonny's BBQ",
+  "brand_slug": "sonnys-bbq-menu",
+  "cover_hint": "Reuse the Sonny's BBQ menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Sonny's BBQ Sauces: All 5 Flavors and What to Pair Them With",
+    "meta_description": "Sonny's BBQ has five sauces: Sweet, Original, Smokin', Sizzlin' and Mustard. How each tastes, which meats they suit and where to buy bottles.",
+    "h1": "Sonny's BBQ Sauces, Explained",
+    "primary_keyword": "sonny's bbq sauce",
+    "keyword_volume": 350,
+    "keyword_kd": 0
+  },
+
+  "question": "What Sauces Does Sonny's BBQ Have?",
+
+  "quick_answer": "Sonny's BBQ has five barbecue sauces: Sweet, Original, Smokin', Sizzlin' and Mustard. Sweet is made with brown sugar and is the sweetest. Original, the sauce Sonny's started with in 1968, adds honey and a little tang. Smokin' is smoky with a touch of heat, Sizzlin' brings a cayenne kick, and Mustard is a thin, tangy Carolina-style sauce. You can also buy Sonny's sauces by the bottle at many grocery stores.",
+
+  "key_facts": [
+    "Five sauces: Sweet, Original, Smokin', Sizzlin', Mustard",
+    "Original is based on the 1968 recipe",
+    "Sizzlin' is the spiciest",
+    "Mustard is a tangy Carolina-style sauce",
+    "Bottles are sold in grocery stores"
+  ],
+
+  "body": [
+    {
+      "heading": "Sweet",
+      "text": "Sweet is Sonny's sweetest sauce, a thick tomato-based sauce made with real brown sugar and no high-fructose corn syrup. It has no heat, which makes it the safest pick for kids and anyone who likes a classic sweet barbecue sauce. Sonny's suggests it with chicken and ribs."
+    },
+    {
+      "heading": "Original",
+      "text": "Original is based on the sauce that started Sonny's in 1968. It's made with brown sugar and honey but is less sweet than Sweet, with a hint of tang and no heat. Sonny's recommends it with pulled pork and turkey, and it works on almost anything."
+    },
+    {
+      "heading": "Smokin'",
+      "text": "Smokin' sits between Sweet and Sizzlin'. It's smoky and sweet with a subtle hint of heat from cayenne and chipotle peppers. Sonny's pitmasters pair it with brisket, ribs and smoked sausage, where the smoky flavor adds depth without too much sugar."
+    },
+    {
+      "heading": "Sizzlin'",
+      "text": "Sizzlin' is the hottest of the five, with cayenne and peppers for a fiery kick on top of a sweet base. On sauce packets it's sometimes labeled Sizzlin' Sweet. Sonny's suggests it on chicken and sausage, and a pitmaster tip is to mix Sweet and Sizzlin' for a little more heat without going overboard."
+    },
+    {
+      "heading": "Mustard, and where to buy bottles",
+      "text": "Mustard BBQ Sauce is based on the tangy mustard sauces popular in the Carolinas. It's thinner and tangier than Original, and you may not always find it on the table, so ask for it. Sonny's uses it on its Sweet Carolina sandwich. To take the flavors home, Sonny's sells its sauces in bottles at grocery stores and big retailers. For menu prices, see our Sonny's BBQ menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What are Sonny's BBQ sauce flavors?", "a": "Sweet, Original, Smokin', Sizzlin' and Mustard." },
+    { "q": "What is the spiciest sauce at Sonny's?", "a": "Sizzlin', which uses cayenne and peppers for a fiery kick." },
+    { "q": "What is Sonny's Original BBQ sauce?", "a": "The sauce based on Sonny's 1968 recipe, made with brown sugar and honey, with a hint of tang and no heat." },
+    { "q": "Can you buy Sonny's BBQ sauce in stores?", "a": "Yes. Sonny's sells bottled sauces at many grocery stores and retailers." },
+    { "q": "Does Sonny's have mustard sauce?", "a": "Yes. Its Mustard BBQ Sauce is a tangy Carolina-style sauce; ask for it if it's not on the table." }
+  ],
+
+  "internal_links": [
+    { "label": "Sonny's BBQ Menu With Prices", "slug": "sonnys-bbq-menu" },
+    { "label": "Buffalo Wild Wings Sauces", "slug": "buffalo-wild-wings-sauces" },
+    { "label": "What Is Zax Sauce?", "slug": "what-is-zax-sauce" },
+    { "label": "Dave's Hot Chicken Spice Levels", "slug": "daves-hot-chicken-spice-levels" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Five sauces with official one-line descriptions (Sweet: sweet, tangy, brown sugar; Original: the sauce that started it all; Sizzlin': cayenne & peppers, fiery kick; Smokin': smokey & sweet, subtle heat; Mustard: tangy fan-favorite): sonnysbbq.com menu page. Sweet: real brown sugar, no HFCS; Original: tangy, medium sweetness, no heat, best with pork/turkey; Smokin' between Sweet and Sizzlin'; Mustard thinner and tangier than Original, may not be on table: sonnysbbq.com sauce blog. Smokin': cayenne and chipotle, best with brisket: sonnysbbq.com sauce blog. Original based on '68 sauce, brown sugar and honey; Sizzlin' Sweet on packets; Mustard on Sweet Carolina: sonnysbbq.com National Sauce Month post. Pairings and Sweet+Sizzlin' mix tip: sonnysbbq.com pairing guide (Mar 2026). Sold in grocery stores: sonnysbbq.com find-sauce page, Walmart listings. Founded 1968 Gainesville by Floyd 'Sonny' Tillman: Smoked BBQ Source. Checked Nov 14, 2026.",
+    "accuracy": "All flavor details from Sonny's own site.",
+    "keyword_notes": "'sonny's bbq sauce' 350 KD 0. Sonny's searches are mostly local ('near me', city menus)."
+  }
+}

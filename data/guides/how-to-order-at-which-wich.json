@@ -1,0 +1,74 @@
+{
+  "slug": "how-to-order-at-which-wich",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Which Wich",
+  "brand_slug": "which-wich-menu",
+  "cover_hint": "Reuse the Which Wich menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "How to Order at Which Wich: The Bag and Sharpie, Explained",
+    "meta_description": "At Which Wich you pick a paper bag, mark your sandwich with a red Sharpie and hand it in. Step-by-step ordering, sizes and what the Wicked is.",
+    "h1": "How to Order at Which Wich",
+    "primary_keyword": "which wich sandwich",
+    "keyword_volume": 300,
+    "keyword_kd": 0
+  },
+
+  "question": "How Do You Order at Which Wich?",
+
+  "quick_answer": "At Which Wich, you order by filling out a paper bag. Grab the bag for the type of sandwich you want (turkey, beef, chicken, vegetarian and so on), then use a red Sharpie to mark your sandwich, bread, size, cheese, spreads, veggies and toppings on the bag. Hand the bag to the cashier, and your sandwich is made to order and served in the same bag. You can also order online or in the Which Wich app.",
+
+  "key_facts": [
+    "Order by marking up a paper bag with a red Sharpie",
+    "Bags are sorted by sandwich category",
+    "More than 50 sandwiches and 60-plus toppings",
+    "Your sandwich comes back in the bag you filled out",
+    "Online and app ordering are also available"
+  ],
+
+  "body": [
+    {
+      "heading": "Step 1: Pick your bag",
+      "text": "Which Wich's sandwiches are grouped into categories like turkey, ham and pork, beef, chicken, seafood and vegetarian. Each category has its own pre-printed paper bag, usually hung on a wall near the menu board. Find the category you want and take that bag. Not sure? The menu board lists every sandwich by category."
+    },
+    {
+      "heading": "Step 2: Mark it up with a Sharpie",
+      "text": "Use one of the red Sharpies by the bags to fill in your choices. You'll mark the specific sandwich, the bread, the size, hot or cold, and your cheese, spreads, veggies, toppings and seasonings. Which Wich says it has more than 50 sandwiches and over 60 toppings, so there's a lot to choose from. Write your name on the bag too."
+    },
+    {
+      "heading": "Step 3: Hand it in and wait",
+      "text": "Give your bag to the cashier and pay. Staff hang the bags along the line and build each sandwich exactly as marked, then put it in your bag, which doubles as a souvenir. After you eat, many locations let you draw on the bag and hang it on a community wall."
+    },
+    {
+      "heading": "Sizes and the Wicked",
+      "text": "Most sandwiches come in a smaller 7-inch size and a larger size, and you can get a Bowlwich (no bread) or a wrap instead. Which Wich's signature sandwich is the Wicked, loaded with five meats and three cheeses. For current prices, see our Which Wich menu page."
+    },
+    {
+      "heading": "Ordering online or in the app",
+      "text": "If you don't want to fill out a bag in person, Which Wich has offered online and app ordering since 2015, with the same choices as the paper bag. You pay ahead and pick up at the restaurant, and some locations also deliver. Which Wich was founded in Dallas in 2003 by Jeff Sinelli, and the bag-and-Sharpie system has been part of the brand since the start."
+    }
+  ],
+
+  "faqs": [
+    { "q": "How does ordering at Which Wich work?", "a": "Pick the bag for your sandwich category, mark your choices on it with a red Sharpie, and hand it to the cashier." },
+    { "q": "What is the Wicked at Which Wich?", "a": "Which Wich's signature sandwich, loaded with five meats and three cheeses." },
+    { "q": "Can you order Which Wich online?", "a": "Yes. Which Wich has online and app ordering for pickup, and some locations offer delivery." },
+    { "q": "Why does Which Wich use bags?", "a": "The bag is the order form: you mark exactly what you want, and the sandwich is served in the same bag." }
+  ],
+
+  "internal_links": [
+    { "label": "Which Wich Menu With Prices", "slug": "which-wich-menu" },
+    { "label": "What Happened to Quiznos?", "slug": "what-happened-to-quiznos" },
+    { "label": "Who Owns Firehouse Subs?", "slug": "who-owns-firehouse-subs" },
+    { "label": "Jason's Deli Salad Bar", "slug": "jasons-deli-salad-bar" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Bag by category, red Sharpie, select sandwich, bread, cheese, spreads, veggies; 50+ sandwiches; Wicked with five meats and three cheeses; doodle on bag and hang on community wall: Which Wich member listing (Summit Chamber). Pick bag number by meat, mark bread, size, hot/cold, sauces, veggies, toppings, seasonings, cheese: Lancer Feed. Bags for faves vs create-your-own, write name, app and online ordering: Mashed. 50+ sandwiches, 60+ toppings: Which Wich listing (SinglePlatform). Bags hung on wire, sandwich in your bag: The Doctor's Channel, Goodreads blog. Categories (turkey, ham & pork, beef, chicken, seafood) and 7-inch small: Which Wich menu PDF. Olo app/online launch June 2015: FastCasual, QSR. Founded Dallas 2003 by Jeff Sinelli, bag-and-Sharpie since the start: Made Good Designs (quoting Sinelli). Bowl/wrap option and delivery: site's Which Wich menu page. Checked Nov 14, 2026.",
+    "accuracy": "Bag categories vary slightly by location.",
+    "keyword_notes": "'which wich sandwich' 300 KD 0. Which Wich has low question volume; 'which wich nutrition' 200 KD 1 is another option."
+  }
+}

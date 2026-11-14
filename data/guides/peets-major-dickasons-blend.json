@@ -1,0 +1,75 @@
+{
+  "slug": "peets-major-dickasons-blend",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Peet's Coffee",
+  "brand_slug": "peets-coffee-menu",
+  "cover_hint": "Reuse the Peet's Coffee menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Peet's Major Dickason's Blend: Taste, Story & How to Brew",
+    "meta_description": "Major Dickason's Blend is Peet's best-selling coffee, a dark roast created with a customer in 1969. How it tastes, the story behind it and how to brew it.",
+    "h1": "What Is Peet's Major Dickason's Blend?",
+    "primary_keyword": "peet's coffee major dickason's blend",
+    "keyword_volume": 700,
+    "keyword_kd": 1
+  },
+
+  "question": "What Is Peet's Major Dickason's Blend?",
+
+  "quick_answer": "Major Dickason's Blend is Peet's Coffee's all-time best-selling coffee: a dark roast blend of beans from the Americas and the Indo-Pacific with a rich, full-bodied, earthy flavor. It was created in 1969 with Key Dickason, a regular customer and retired army sergeant, and Alfred Peet named it after him, 'promoting' him to major. You can buy it as whole beans, ground coffee, K-Cup pods and decaf, and order it brewed at Peet's cafes.",
+
+  "key_facts": [
+    "Peet's all-time best-selling coffee",
+    "Dark roast; rich, full-bodied, earthy",
+    "Beans from the Americas and Indo-Pacific",
+    "Created in 1969 with customer Key Dickason",
+    "Sold as whole bean, ground, K-Cups and decaf"
+  ],
+
+  "body": [
+    {
+      "heading": "The story behind the name",
+      "text": "Alfred Peet opened his first coffee shop in Berkeley, California, in 1966. In 1969, a loyal customer named Key Dickason, a retired army sergeant, brought him an idea for a new blend. The two tasted many combinations before settling on the final recipe. Peet decided that naming the coffee after his friend wasn't enough, so he gave him a promotion from sergeant to major, and Major Dickason's Blend was born."
+    },
+    {
+      "heading": "How it tastes",
+      "text": "Major Dickason's is a dark roast, in Peet's signature deep roast style. Peet's describes it as rich, complex and full-bodied with earthy notes, and some bags mention notes of earth and spice. It blends beans from the Americas and the Indo-Pacific, including washed and wet-hulled coffees. If you like bold, low-acid coffee, it's a classic pick."
+    },
+    {
+      "heading": "Where to buy it",
+      "text": "You can order Major Dickason's brewed at Peet's cafes when it's the featured coffee, or buy beans to take home. It's sold whole bean and ground in bags, as K-Cup pods and in a decaf version, both on Peet's website and in many grocery stores. On Peet's site, a one-pound bag is listed around $19.95, and grocery prices vary."
+    },
+    {
+      "heading": "How to brew it",
+      "text": "Peet's suggests a French press for a full-bodied cup, and the blend also works as espresso. A common starting ratio on Peet's bags is about 4 tablespoons of ground coffee per 12 fluid ounces of water. Use a coarser grind for French press and a fine grind for espresso."
+    },
+    {
+      "heading": "Other Peet's blends",
+      "text": "If you like Major Dickason's, Peet's also makes Big Bang, a medium roast created for its 50th anniversary,. For drink prices at Peet's cafes, see our Peet's Coffee menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Major Dickason's a dark roast?", "a": "Yes. It's a dark roast, Peet's signature style." },
+    { "q": "Who was Major Dickason?", "a": "Key Dickason, a regular Peet's customer and retired army sergeant who helped create the blend in 1969. Alfred Peet 'promoted' him to major in the name." },
+    { "q": "What does Major Dickason's taste like?", "a": "Rich, complex and full-bodied, with earthy, slightly spicy notes." },
+    { "q": "Is there a decaf Major Dickason's?", "a": "Yes. Peet's sells a decaf version." },
+    { "q": "Does Major Dickason's come in K-Cups?", "a": "Yes. It's sold as K-Cup pods as well as whole bean and ground coffee." }
+  ],
+
+  "internal_links": [
+    { "label": "Peet's Coffee Menu With Prices", "slug": "peets-coffee-menu" },
+    { "label": "What Is Dutch Bros Soft Top?", "slug": "what-is-dutch-bros-soft-top" },
+    { "label": "Smoothie King Gladiator", "slug": "smoothie-king-gladiator" },
+    { "label": "Scooter's Coffee Menu", "slug": "scooters-coffee-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "1969, Key Dickason retired army sergeant, sampled many combinations, all-time bestseller, promotion to Major: peets.com history page. First store Berkeley; 50th anniversary 2016 (-> founded 1966); Big Bang blend for 50th: peets.com 50 years page. Dark roast, earth flavor profile, origin Americas and Indo-Pacific, washed and wet-hulled, $19.95/lb 16 oz: peets.com Major Dickason's product page. Rich, complex, full-bodied: grocery listings quoting Peet's. 'Deep notes of earth and spice', 4 tbsp per 12 fl oz: H-E-B listing (Peet's packaging copy). French press or espresso: Peet's description on Google Shopping. Decaf version: Randalls listing. K-Cup and Nespresso pod keywords: Ahrefs. Checked Nov 14, 2026.",
+    "accuracy": "Cafe availability of brewed Major Dickason's varies (rotating brewed coffee); hedged.",
+    "keyword_notes": "'peet's coffee major dickason's blend' 700 KD 1 + 'k-cup' 300 KD 0. Next Peet's topic: 'is peet's coffee going out of business' 250 KD 1."
+  }
+}

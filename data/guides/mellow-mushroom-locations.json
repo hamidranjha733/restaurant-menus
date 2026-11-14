@@ -1,0 +1,74 @@
+{
+  "slug": "mellow-mushroom-locations",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Mellow Mushroom",
+  "brand_slug": "mellow-mushroom-menu",
+  "cover_hint": "Reuse the Mellow Mushroom menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "How Many Mellow Mushroom Locations Are There? (2026)",
+    "meta_description": "Mellow Mushroom has about 160 restaurants, mostly in the Southeast, led by Georgia, Florida and North Carolina. Where it is, its history and who owns it.",
+    "h1": "Mellow Mushroom Locations: How Many and Where",
+    "primary_keyword": "mellow mushroom locations",
+    "keyword_volume": 2500,
+    "keyword_kd": 0
+  },
+
+  "question": "How Many Mellow Mushroom Locations Are There?",
+
+  "quick_answer": "Mellow Mushroom has about 160 restaurants across roughly 16 to 18 states, mostly in the Southeast. Georgia has the most, about 45 locations, followed by Florida and North Carolina. The pizza chain was founded in Atlanta in 1974, is still based there, and every restaurant is a locally owned franchise. Use the location finder on Mellow Mushroom's website to find the closest one.",
+
+  "key_facts": [
+    "About 160 locations in the U.S.",
+    "Roughly 16 to 18 states, mostly in the Southeast",
+    "Georgia has the most (about 45)",
+    "Founded in Atlanta in 1974",
+    "Locations are locally owned franchises"
+  ],
+
+  "body": [
+    {
+      "heading": "Where Mellow Mushroom is",
+      "text": "Mellow Mushroom is a Southern pizza chain at heart. A November 2025 count found 163 U.S. locations in 16 states, with the biggest clusters in Georgia, Florida and North Carolina. Those three states hold more than half of all locations, and Virginia, Alabama, Tennessee and South Carolina also have a good number. Coverage is thin in the West and Midwest, with only a few restaurants in states like Colorado, Indiana and Texas."
+    },
+    {
+      "heading": "How many locations it has",
+      "text": "Counts vary a little by source and date, but most recent figures put Mellow Mushroom at about 160 restaurants. The company itself describes 160-plus locally owned franchise locations across 18-plus states. That's down slightly from about 170 in 2021, as some restaurants have closed while new ones open."
+    },
+    {
+      "heading": "Mellow Mushroom's history",
+      "text": "Three recent college graduates opened the first Mellow Mushroom near Georgia Tech in Atlanta in 1974. The chain started franchising in 1987. It's known for its stone-baked pizzas, psychedelic artwork and laid-back, counterculture vibe, and many locations host trivia nights or live music. Popular pizzas include the Holy Shiitake Pie and Kosmic Karma."
+    },
+    {
+      "heading": "Who owns Mellow Mushroom",
+      "text": "Mellow Mushroom is a private company. Its parent is Home Grown Industries of Georgia, based in Atlanta, and each restaurant is owned and run by a local franchisee, which is why decor and some menu items vary between locations. In late 2024 the chain opened its first counter-service location, a newer format it plans to grow."
+    },
+    {
+      "heading": "Finding one near you",
+      "text": "The easiest way to find the closest restaurant is the location finder on Mellow Mushroom's website or app, which shows hours and online ordering. For menu prices, see our Mellow Mushroom menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "How many Mellow Mushroom locations are there?", "a": "About 160 in the U.S. as of late 2025 and 2026." },
+    { "q": "What state has the most Mellow Mushrooms?", "a": "Georgia, with about 45 locations." },
+    { "q": "Where did Mellow Mushroom start?", "a": "In Atlanta, Georgia, near Georgia Tech, in 1974." },
+    { "q": "Is Mellow Mushroom a franchise?", "a": "Yes. Its restaurants are locally owned franchises under parent company Home Grown Industries of Georgia." }
+  ],
+
+  "internal_links": [
+    { "label": "Mellow Mushroom Menu With Prices", "slug": "mellow-mushroom-menu" },
+    { "label": "Marco's Pizza Bowl", "slug": "marcos-pizza-bowl" },
+    { "label": "Papa John's Garlic Sauce", "slug": "papa-johns-garlic-sauce" },
+    { "label": "Little Caesars Hot-N-Ready Price", "slug": "little-caesars-hot-n-ready-price" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "163 locations in 16 states (Nov 17, 2025), Georgia 45 (27.6%), top three Georgia/Florida/North Carolina 54%, Virginia 13, Alabama 13, Tennessee 11, thin in Colorado/Indiana/Nebraska, Texas 5: XMap. '160+ locally owned franchise locations across 18+ states', founded 1974 Atlanta near Georgia Tech, franchising since 1987, parent Home Grown Industries of Georgia, stone-baked, psychedelic art, Holy Shiitake, Kosmic Karma: mellowmushroom.com llms.txt. 160 locations in 16 states: Restaurant Informer. 170 (2021): Wikipedia. Three graduates opened near Georgia Tech in 1974: PMQ. Trivia and live music: Wikipedia. First counter-service 'fast-fine' location late 2024: Food On Demand (Jan 2026). Checked Nov 14, 2026.",
+    "accuracy": "State count differs by source (15-20); guide uses 'roughly 16 to 18'.",
+    "keyword_notes": "'mellow mushroom locations' 2.5k KD 0. Most other Mellow searches are city-specific. 'mellow mushroom promo code' 1.4k KD 1 is another option."
+  }
+}

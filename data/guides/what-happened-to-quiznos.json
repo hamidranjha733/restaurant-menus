@@ -1,0 +1,75 @@
+{
+  "slug": "what-happened-to-quiznos",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Quiznos",
+  "brand_slug": "quiznos-menu",
+  "cover_hint": "Reuse the Quiznos menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "What Happened to Quiznos? How Many Are Left in 2026",
+    "meta_description": "Quiznos went from about 4,700 U.S. shops in 2007 to roughly 150 today. Why it collapsed, who owns it now and whether it's still in business.",
+    "h1": "What Happened to Quiznos?",
+    "primary_keyword": "what happened to quiznos",
+    "keyword_volume": 1200,
+    "keyword_kd": 3
+  },
+
+  "question": "What Happened to Quiznos?",
+
+  "quick_answer": "Quiznos is still in business, but it's a fraction of its old size. The toasted-sub chain had about 4,700 U.S. locations around 2007, fell below 400 by 2017, and has roughly 150 left in 2026. It shrank because it opened too many stores too close together, its franchisees struggled with high costs and low sales, and it faced tough competition from Subway, along with heavy debt and a bankruptcy filing.",
+
+  "key_facts": [
+    "Founded in Denver in 1981",
+    "About 4,700 U.S. locations at its 2007 peak",
+    "Fewer than 400 by 2017",
+    "Roughly 150 U.S. locations in 2026",
+    "Owned by REGO Restaurant Group"
+  ],
+
+  "body": [
+    {
+      "heading": "Quiznos at its peak",
+      "text": "Quiznos started as a single toasted-sub shop in Denver in 1981 and grew fast after going public in 1994. By the mid-2000s it had roughly 4,700 to 5,000 locations and was one of Subway's biggest rivals. Many people still remember its quirky ads, including the singing 'Spongmonkeys' creatures."
+    },
+    {
+      "heading": "Why Quiznos collapsed",
+      "text": "Several problems added up. Quiznos opened so many shops that they competed with each other, and franchisees complained that stores were too close together. Average sales per store were low, about $400,000 a year at the peak, while franchisees paid high fees and costs. The Great Recession hit in 2008 and 2009, Subway proved a tougher competitor, and the company carried heavy debt and went through bankruptcy. Thousands of franchised shops closed."
+    },
+    {
+      "heading": "How many Quiznos are left",
+      "text": "Quiznos fell from about 4,700 U.S. locations in 2007 to fewer than 400 by 2017. Estimates for 2026 put the number at roughly 150 U.S. restaurants, with one report counting 162. Some states now have only a handful of stores, so use the store locator on the Quiznos website to find the nearest one."
+    },
+    {
+      "heading": "Who owns Quiznos now",
+      "text": "A private equity firm bought Quiznos in 2018, and it is now owned by REGO Restaurant Group. The company has said its comeback plan focuses on making sure franchisees turn a profit and on smaller formats, such as Quiznos shops inside convenience stores. One deal is adding locations inside Pump & Pantry stores in Nebraska."
+    },
+    {
+      "heading": "Is Quiznos still worth trying?",
+      "text": "If there's one near you, the menu is still built around toasted subs like the Classic Italian and Mesquite Chicken. For current prices, see our Quiznos menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Is Quiznos still in business?", "a": "Yes. Quiznos still operates roughly 150 U.S. restaurants in 2026." },
+    { "q": "How many Quiznos are left?", "a": "About 150 in the U.S. as of 2026, down from roughly 4,700 in 2007." },
+    { "q": "Why did Quiznos close so many locations?", "a": "Overexpansion, low sales per store, high franchise costs, competition from Subway, the 2008 recession and heavy debt." },
+    { "q": "Who owns Quiznos?", "a": "REGO Restaurant Group, a private company." },
+    { "q": "When was Quiznos founded?", "a": "1981, in Denver, Colorado." }
+  ],
+
+  "internal_links": [
+    { "label": "Quiznos Menu With Prices", "slug": "quiznos-menu" },
+    { "label": "Who Owns Firehouse Subs?", "slug": "who-owns-firehouse-subs" },
+    { "label": "Is Noodles & Company Closing?", "slug": "is-noodles-and-company-closing" },
+    { "label": "Is O'Charley's Closed?", "slug": "is-ocharleys-closed" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "~4,700 locations by 2007, below 400 by 2017, under 150 in 2026, REGO Restaurant Group owner appointed Neel Patel CEO, revival focused on franchisee profit: Mashed (2026). 162 locations: Chowhound (2026). 4,700 to fewer than 400, ~150 now, private equity acquisition 2018, Pump & Pantry Nebraska deal: RetailWire. Peak ~5,000 around 2006, went public 1994, stores too close together, $400K average revenue per store: Chowhound (citing Restaurant Business). High fees, debt, Great Recession, competitor, bankruptcy filings: The Takeout. Founded Denver 1981, overexpansion: The Takeout, Alibaba history. Subway competition: Foodie. Spongmonkeys ad: Ahrefs keyword data + Tasting Table. Subs: site's Quiznos menu page. Checked Nov 14, 2026.",
+    "accuracy": "Location count varies by source (148-162); guide says 'roughly 150'.",
+    "keyword_notes": "'what happened to quiznos' 1.2k KD 3 + 'is quiznos still in business' 1.2k KD 8 + 'how many quiznos are left' 1.2k KD 8 + 'did quiznos go out of business' 300."
+  }
+}
