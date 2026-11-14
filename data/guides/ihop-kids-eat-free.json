@@ -1,0 +1,71 @@
+{
+  "slug": "ihop-kids-eat-free",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "IHOP",
+  "brand_slug": "ihop-menu",
+  "cover_hint": "Reuse the IHOP menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "IHOP Kids Eat Free: When It Runs, Times & Rules (2026)",
+    "meta_description": "IHOP runs Kids Eat Free as a limited-time deal: one free kids meal per adult entree, dine-in only. When it usually runs, the hours and the fine print.",
+    "h1": "When Do Kids Eat Free at IHOP?",
+    "primary_keyword": "ihop kids eat free",
+    "keyword_volume": 9500,
+    "keyword_kd": 28
+  },
+
+  "question": "When Do Kids Eat Free at IHOP?",
+
+  "quick_answer": "IHOP's Kids Eat Free is a limited-time promotion, not an everyday deal. When it runs, kids 12 and under get one free meal from the kids menu with each full-price adult entree, for dine-in only at participating restaurants. The last national run was December 1 to 21, 2025, from 2 to 10 p.m. daily. As of mid-November 2026, IHOP has not announced dates for its next one, though some local IHOPs run their own kids-eat-free nights.",
+
+  "key_facts": [
+    "One free kids meal per paid adult entree",
+    "Kids 12 and under",
+    "Dine-in only at participating restaurants",
+    "Last national run: Dec. 1 to 21, 2025, 2 to 10 p.m.",
+    "Value Menu entrees don't count, and it can't be combined with other offers"
+  ],
+
+  "body": [
+    {
+      "heading": "How IHOP Kids Eat Free works",
+      "text": "During a Kids Eat Free promotion, each adult who orders a regular-price entree can get one free meal from the kids menu for a child 12 or under. The deal is for dine-in guests at participating restaurants, so it doesn't apply to online, carryout or delivery orders. Entrees from IHOP's Value Menu don't qualify, and the offer can't be combined with other discounts or IHOP Rewards offers."
+    },
+    {
+      "heading": "When it runs",
+      "text": "IHOP brings Kids Eat Free back from time to time rather than offering it year-round. The most recent national promotion ran from December 1 to 21, 2025, daily from 2 p.m. to 10 p.m. IHOP has run the deal before too, including at the 2011 launch of its kids menu program, during the 2024 back-to-school season, and in past years from 4 to 10 p.m. Because December has been a recent pattern, keep an eye on IHOP's website, app and social pages as the holidays approach."
+    },
+    {
+      "heading": "Not every IHOP takes part",
+      "text": "Almost all IHOP restaurants are owned by franchisees, and participation can vary. During the December promotion, some franchise owners did not join, so it is worth calling ahead. On the other hand, some local IHOPs run their own kids-eat-free nights at other times of the year, often after 4 p.m. on certain weeknights. Ask your nearest restaurant what it offers."
+    },
+    {
+      "heading": "What kids can order",
+      "text": "The free meal comes from IHOP's kids menu, which includes pancake plates, scrambled eggs, chicken strips, mac and cheese and similar options, with choices that change over time. For regular kids menu and adult prices, see our IHOP menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Do kids eat free at IHOP right now?", "a": "Not nationally as of mid-November 2026. IHOP's last national Kids Eat Free ran December 1 to 21, 2025. Some local IHOPs run their own deals, so ask your nearest restaurant." },
+    { "q": "What time do kids eat free at IHOP?", "a": "During the December 2025 promotion, it ran from 2 p.m. to 10 p.m. daily. Earlier promotions ran from 4 to 10 p.m." },
+    { "q": "What age is IHOP Kids Eat Free for?", "a": "Kids 12 and under." },
+    { "q": "Does IHOP Kids Eat Free work for takeout?", "a": "No. It is dine-in only." },
+    { "q": "Can I use Kids Eat Free with a Value Menu entree?", "a": "No. The adult entree must be a regular-price item, and the deal can't be combined with other offers." }
+  ],
+
+  "internal_links": [
+    { "label": "IHOP Menu With Prices", "slug": "ihop-menu" },
+    { "label": "Is IHOP Open on Christmas Day?", "slug": "is-ihop-open-on-christmas" },
+    { "label": "Denny's Menu With Prices", "slug": "dennys-menu" },
+    { "label": "Cracker Barrel Thanksgiving Guide", "slug": "cracker-barrel-thanksgiving" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Dec 1-21, 2025, 2-10 p.m., kids 12 and under, adult entree, dine-in, participating restaurants: Chicago on the Cheap, Hip2Save, Money Saving Mom, Macaroni Kid (Dec 6, 2025). Not valid with Value Menu or other offers: Chicago on the Cheap. Not valid for online orders; no IHOPPY Hour or Rewards discounts; select franchised IHOPs run their own deals: Krazy Coupon Lady. Past runs (2011 Kids LiveWell launch, 2024 back-to-school): USA Today via AOL. 4-10 p.m. in 2016: IHOP release via Trentonian. Some franchisees pushed back and didn't participate in the December deal: Wichita on the Cheap. Local IHOP (Grand Chute, WI) kids eat free daily after 4 p.m.: The Takeout (2026). Kids menu item examples are general; hedged 'similar options... change over time'. 'Almost all IHOPs franchised' is widely reported (Dine Brands). No 2026 national announcement found as of Nov 14, 2026.",
+    "accuracy": "Time-sensitive: if IHOP announces a December 2026 Kids Eat Free, update quick answer, key facts and FAQ immediately.",
+    "keyword_notes": "'ihop kids eat free' 9.5k KD 28; 'do kids eat free at ihop' 1.6k, 'when do kids eat free at ihop' 1.6k."
+  }
+}

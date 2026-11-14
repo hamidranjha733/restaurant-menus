@@ -1,0 +1,74 @@
+{
+  "slug": "costco-chicken-bake",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Costco Food Court",
+  "brand_slug": "costco-food-court-menu",
+  "cover_hint": "Reuse the Costco Food Court menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Costco Chicken Bake: Price, What's Inside & Calories",
+    "meta_description": "The Costco Chicken Bake is $3.99 at the food court: chicken, bacon, cheese and Caesar dressing baked in a rolled crust. What's in it and how big it is.",
+    "h1": "What Is the Costco Chicken Bake?",
+    "primary_keyword": "costco chicken bake",
+    "keyword_volume": 32000,
+    "keyword_kd": 0
+  },
+
+  "question": "What Is the Costco Chicken Bake?",
+
+  "quick_answer": "The Chicken Bake is a Costco food court favorite: strips of chicken breast, bacon, mozzarella, provolone and Parmesan cheese, Caesar dressing and green onions, all baked inside a hand-rolled crust. It costs $3.99, the price since July 2022, when it went up from $2.99. It is big enough that many people split it.",
+
+  "key_facts": [
+    "$3.99 at the Costco food court",
+    "Price rose from $2.99 to $3.99 in July 2022",
+    "Filled with chicken breast, bacon, three cheeses, Caesar dressing and green onions",
+    "Big portion, often shared by two",
+    "Most U.S. food courts require a Costco membership"
+  ],
+
+  "body": [
+    {
+      "heading": "What's inside a Chicken Bake",
+      "text": "A Chicken Bake is a long, rolled pastry made from the same kind of dough Costco uses for its food court pizza. Inside are strips of chicken breast, smoky bacon, mozzarella, provolone and Parmesan cheese, creamy Caesar dressing and green onions. It is baked until the outside is golden. Think of it as a chicken Caesar salad in a hot, handheld pastry."
+    },
+    {
+      "heading": "How much it costs",
+      "text": "The Chicken Bake costs $3.99. It was $2.99 for years, until Costco raised it by a dollar in July 2022 as part of a nationwide food court price update. The same update raised the price of a fountain soda, while the famous $1.50 hot dog combo stayed the same."
+    },
+    {
+      "heading": "How big it is",
+      "text": "The Chicken Bake is large, weighing roughly three-quarters of a pound, and it is often big enough for two people to share. It is also rich and filling, so check Costco's posted nutrition information if you are counting calories. Third-party guides put it at around 770 calories."
+    },
+    {
+      "heading": "Can you buy it frozen?",
+      "text": "Costco has sold frozen chicken bakes in its freezer aisle, so you can heat them at home. Fans are split on them, and some say the frozen version doesn't taste quite like the fresh one from the food court. Availability depends on your warehouse."
+    },
+    {
+      "heading": "Do you need a membership?",
+      "text": "At most U.S. warehouses, you need an active Costco membership to buy from the food court, including the Chicken Bake. For every food court price, including pizza and the hot dog combo, see our Costco Food Court menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "How much is a Costco Chicken Bake?", "a": "$3.99 at the food court." },
+    { "q": "When did the Costco Chicken Bake go up in price?", "a": "In July 2022, from $2.99 to $3.99." },
+    { "q": "What is in a Costco Chicken Bake?", "a": "Chicken breast strips, bacon, mozzarella, provolone and Parmesan cheese, Caesar dressing and green onions in a baked, hand-rolled crust." },
+    { "q": "Is a Costco Chicken Bake enough for two people?", "a": "Often, yes. It is large and filling, and many people split it." },
+    { "q": "Can you buy Costco Chicken Bakes frozen?", "a": "Costco has sold frozen chicken bakes in its freezer aisle, but availability varies by warehouse." }
+  ],
+
+  "internal_links": [
+    { "label": "Costco Food Court Menu With Prices", "slug": "costco-food-court-menu" },
+    { "label": "Is the Costco Hot Dog Still $1.50?", "slug": "costco-hot-dog-price" },
+    { "label": "Calorie Calculator", "slug": "calorie-calculator" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "$2.99 to $3.99 in July 2022, national update, soda raised at the same time: Los Angeles Times via AOL/TODAY (July 2022), Business Insider via Audacy/Salon. Ingredients (chicken breast strips, mozzarella, provolone, parmesan, bacon, Caesar dressing, green onions, hand-rolled crust): Audacy/CBS. Made with pizza dough: Hip2Save, CostcoGuides. Often big enough to split; frozen freezer-aisle version and fan disagreement: Fox News Digital. ~12-12.8 oz and ~770 calories: CostcoGuides (third-party). Still $3.99 in 2026: CostcoGuides, Krazy Coupon Lady 2026 food court list. Membership needed at most U.S. locations: Cox Media Group. Checked Nov 14, 2026.",
+    "accuracy": "Calories marked as third-party. Note: Scripps wording on chicken bake year was ambiguous; the 2022 date is confirmed by LA Times/BI coverage.",
+    "keyword_notes": "'costco chicken bake' 32k KD 0."
+  }
+}

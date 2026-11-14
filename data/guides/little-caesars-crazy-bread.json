@@ -1,0 +1,75 @@
+{
+  "slug": "little-caesars-crazy-bread",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Little Caesars",
+  "brand_slug": "little-caesars-menu",
+  "cover_hint": "Reuse the Little Caesars menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Little Caesars Crazy Bread: Price, Calories & Crazy Sauce",
+    "meta_description": "Crazy Bread is Little Caesars' eight buttery garlic breadsticks topped with Parmesan, about $3.99. Price, calories, Crazy Sauce and Stuffed Crazy Bread.",
+    "h1": "What Is Little Caesars Crazy Bread?",
+    "primary_keyword": "little caesars crazy bread",
+    "keyword_volume": 4300,
+    "keyword_kd": 0
+  },
+
+  "question": "What Is Little Caesars Crazy Bread?",
+
+  "quick_answer": "Crazy Bread is Little Caesars' signature side: eight soft breadsticks brushed with buttery garlic flavor and sprinkled with Parmesan cheese. An order usually costs about $3.99, or a little more as a Crazy Combo with a cup of Crazy Sauce, Little Caesars' marinara dip. Each breadstick is about 100 calories, so a full order is around 800.",
+
+  "key_facts": [
+    "8 breadsticks with buttery garlic flavor and Parmesan",
+    "About $3.99 at many stores; prices vary",
+    "Crazy Sauce is a marinara dipping sauce",
+    "About 100 calories per breadstick, 800 per order",
+    "Contains wheat, milk and soy"
+  ],
+
+  "body": [
+    {
+      "heading": "What Crazy Bread is",
+      "text": "Crazy Bread is a bag of eight breadsticks made from Little Caesars' pizza dough. After baking, they are brushed with a buttery garlic topping and sprinkled with Parmesan cheese. They are soft rather than crunchy, and they are usually ready to grab like the Hot-N-Ready pizzas. Crazy Bread is one of the chain's best-known items and is often added to pizza orders."
+    },
+    {
+      "heading": "How much Crazy Bread costs",
+      "text": "At many Little Caesars stores, an eight-piece order of Crazy Bread costs about $3.99, and the Crazy Combo, which adds a cup of Crazy Sauce, costs a little more. Prices vary by location. Crazy Bread is also part of combo deals, such as the Hot-N-Ready Classic Combo with a pizza and a 2-liter drink. The Little Caesars app shows your store's exact prices and any coupons."
+    },
+    {
+      "heading": "What Crazy Sauce is",
+      "text": "Crazy Sauce is Little Caesars' marinara dipping sauce, made for Crazy Bread. It is a tomato sauce seasoned with herbs and served cold in a cup. You can order it on its own or get it with Crazy Bread in a Crazy Combo."
+    },
+    {
+      "heading": "Crazy Bread calories and allergens",
+      "text": "Each breadstick has about 100 calories, so a full order of eight comes to around 800 calories, before any dipping sauce. Crazy Bread contains wheat, milk and soy, so it isn't suitable for those allergies. Check Little Caesars' nutrition guide for the latest numbers."
+    },
+    {
+      "heading": "Stuffed Crazy Bread",
+      "text": "Little Caesars also sells Stuffed Crazy Bread, which is three larger breadsticks stuffed with cheese and served with Crazy Sauce. It is much richer: an order is around 980 calories. It has come and gone as a limited-time item, so availability varies by store."
+    }
+  ],
+
+  "faqs": [
+    { "q": "How much is Crazy Bread at Little Caesars?", "a": "About $3.99 for eight breadsticks at many stores. Prices vary by location." },
+    { "q": "How many pieces of Crazy Bread come in an order?", "a": "Eight breadsticks." },
+    { "q": "What is Crazy Sauce?", "a": "Little Caesars' marinara dipping sauce, served cold with Crazy Bread." },
+    { "q": "How many calories are in Little Caesars Crazy Bread?", "a": "About 100 per breadstick, or around 800 for a full order of eight." },
+    { "q": "Does Crazy Bread have cheese?", "a": "It is topped with Parmesan, but it isn't stuffed. Stuffed Crazy Bread is the cheese-filled version." }
+  ],
+
+  "internal_links": [
+    { "label": "Little Caesars Menu With Prices", "slug": "little-caesars-menu" },
+    { "label": "Is the Little Caesars Hot-N-Ready Still $5?", "slug": "little-caesars-hot-n-ready-price" },
+    { "label": "What Is Papa John's Garlic Sauce?", "slug": "papa-johns-garlic-sauce" },
+    { "label": "Calorie Calculator", "slug": "calorie-calculator" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "'Eight buttery garlic flavored bread sticks, sprinkled with parmesan cheese' and Stuffed Crazy Bread = three pieces stuffed with cheese plus Crazy Sauce: Little Caesars menu text on DoorDash. $3.99 for 8 / 800 calories: SixStoreys (Aug 2026), Menupedia (2026), site's own Little Caesars menu page. Crazy Combo ~$3.99 vs Crazy Bread $3.25 at one store: Mobile Cuisine (shows prices vary). 100 cal per stick, allergens gluten/milk/soy/wheat, same dough as pizza: nutrition aggregator (dmcoffee) and Nutrola. Crazy Sauce marinara served cold, herbs: ShopFood. Stuffed Crazy Bread 980 calories: FatSecret / The Impulsive Buy; limited-time at launch: Fast Food Post. Checked Nov 14, 2026.",
+    "accuracy": "Allergen line from third-party data; points readers to Little Caesars nutrition guide. Crazy Sauce calorie figures conflict across sources (30-90), so none given.",
+    "keyword_notes": "'little caesars crazy bread' 4.3k KD 0."
+  }
+}
