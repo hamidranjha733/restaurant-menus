@@ -1,0 +1,75 @@
+{
+  "slug": "steak-n-shake-beef-tallow-fries",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Steak 'n Shake",
+  "brand_slug": "steak-n-shake-menu",
+  "cover_hint": "Reuse the Steak 'n Shake menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Does Steak 'n Shake Use Beef Tallow? Fries Explained",
+    "meta_description": "Yes. Steak 'n Shake fries its shoestring fries in 100% beef tallow at all locations since early 2025. What changed, what's fried in it and who it affects.",
+    "h1": "Does Steak 'n Shake Fry in Beef Tallow?",
+    "primary_keyword": "steak n shake beef tallow",
+    "keyword_volume": 450,
+    "keyword_kd": 0
+  },
+
+  "question": "Does Steak 'n Shake Fry in Beef Tallow?",
+
+  "quick_answer": "Yes. Steak 'n Shake switched from vegetable oil to 100% beef tallow for its shoestring fries at all of its roughly 400 U.S. restaurants by early 2025, and later used tallow for its onion rings and chicken tenders too. Beef tallow is rendered beef fat, so the fries are no longer vegetarian.",
+
+  "key_facts": [
+    "Announced January 16, 2025; all locations switched by about March 1, 2025",
+    "Fries, onion rings and chicken tenders are cooked in beef tallow",
+    "Replaced vegetable (seed) oil",
+    "Not suitable for vegetarians",
+    "Steak 'n Shake was the first major chain to switch back to tallow"
+  ],
+
+  "body": [
+    {
+      "heading": "What changed at Steak 'n Shake",
+      "text": "On January 16, 2025, Steak 'n Shake announced it would fry its shoestring fries in 100% all-natural beef tallow instead of vegetable oil. The switch rolled out state by state and reached all locations around March 1, 2025. By late March, the chain said its fries, onion rings and chicken tenders were all cooked in tallow. Its menu now calls them Beef Tallow Fries."
+    },
+    {
+      "heading": "What beef tallow is",
+      "text": "Beef tallow is fat rendered from beef. It is solid at room temperature, a bit like butter, and handles high frying temperatures well. Fast-food chains used it widely until around 1990, when McDonald's and others moved to vegetable oil amid concern about saturated fat. Tallow has more saturated fat than oils like canola or peanut oil, which is also what gives fries a richer flavor."
+    },
+    {
+      "heading": "Why Steak 'n Shake switched",
+      "text": "Steak 'n Shake said it wanted the best-tasting, most authentic fries, noting that the earliest fries were cooked in tallow. Executives said the company had wanted to switch for years but needed a supplier that could provide additive-free tallow at scale. The move came as Health Secretary Robert F. Kennedy Jr. was urging restaurants to drop seed oils, and the chain promoted the change with a nod to him. Health groups such as the American Heart Association say there is no reason to avoid seed oils, so the health debate is far from settled."
+    },
+    {
+      "heading": "Are the fries vegetarian?",
+      "text": "No. Because they are fried in beef fat, Steak 'n Shake's fries, onion rings and tenders are not vegetarian or vegan. The company has said plainly that vegetarians should look elsewhere for fries."
+    },
+    {
+      "heading": "Other chains that use beef tallow",
+      "text": "Steak 'n Shake was the first big chain to switch back, but some others already used tallow for at least some fried foods, including Buffalo Wild Wings and Outback Steakhouse. Smaller chains like Fry the Coop and Burger Boss have built their menus around it too. For Steak 'n Shake's prices, including the fries, see our Steak 'n Shake menu page."
+    }
+  ],
+
+  "faqs": [
+    { "q": "Does Steak 'n Shake use beef tallow?", "a": "Yes. Since early 2025, all locations fry their fries, onion rings and chicken tenders in 100% beef tallow." },
+    { "q": "When did Steak 'n Shake switch to beef tallow?", "a": "It announced the change on January 16, 2025, and all locations had switched by about March 1, 2025." },
+    { "q": "Are Steak 'n Shake fries vegetarian?", "a": "No. They are fried in beef tallow, which is beef fat." },
+    { "q": "What did Steak 'n Shake use before beef tallow?", "a": "Vegetable oil." },
+    { "q": "Is beef tallow healthier than seed oil?", "a": "That is debated. Tallow is higher in saturated fat, and the American Heart Association says there is no reason to avoid seed oils." }
+  ],
+
+  "internal_links": [
+    { "label": "Steak 'n Shake Menu With Prices", "slug": "steak-n-shake-menu" },
+    { "label": "Buffalo Wild Wings Sauces Guide", "slug": "buffalo-wild-wings-sauces" },
+    { "label": "Why Is Five Guys So Expensive?", "slug": "why-is-five-guys-so-expensive" },
+    { "label": "Culver's Menu With Prices", "slug": "culvers-menu" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Jan 16, 2025 announcement, 100% all-natural beef tallow, all locations by end of Feb 2025, previously vegetable oil, more than 400 locations, no longer vegetarian: Tasting Table and Chowhound (first major chain to switch back). Rollout state by state, 'By March 1 ALL locations', RFK Jr. nod: K-LOVE, Benzinga, Fox 13. Fries, onion rings and chicken tenders in tallow as of late March 2025, McDonald's switch in 1990, Fry the Coop and Burger Boss: QSR Magazine. Supplier of additive-free tallow, Biglari: Benzinga, Fox 13. American Heart Association 'no reason' to avoid seed oils: Fox 13. 'Vegetarians should eat fries elsewhere' (Dan Edwards): Nexstar/NewsNation. BWW and Outback already used tallow: Eat This, Not That (also lists Popeyes, Smashburger). Tallow definition (solid at room temp): Mayo Clinic via K-LOVE. Checked Nov 14, 2026.",
+    "accuracy": "Political angle kept neutral: company reasoning, RFK Jr. context, and AHA counterpoint all included. Not re-verified whether any 2026 menu change reversed tallow; site's menu page lists 'Beef Tallow Fries'.",
+    "keyword_notes": "'steak n shake beef tallow' 450 + 'steak n shake fries' 700 + 'steak n shake beef tallow fries' 150."
+  }
+}

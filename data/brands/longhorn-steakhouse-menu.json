@@ -54,7 +54,7 @@
       "category": "Chicken, Seafood & Ribs",
       "intro": "Grilled chicken, salmon and fall-off-the-bone ribs.",
       "items": [
-        { "name": "Parmesan Crusted Chicken (9 oz)", "size": "9 oz", "price": "$17.99", "calories": "900", "desc": "Grilled chicken topped with a parmesan crust (12 oz $19.99)" },
+        { "name": "Parmesan Crusted Chicken (9 oz)", "size": "9 oz", "price": "$17.99", "calories": "650", "desc": "Grilled chicken topped with a parmesan crust (12 oz $19.99)" },
         { "name": "LongHorn Salmon (7 oz)", "size": "7 oz", "price": "$19.79", "calories": "700", "desc": "Fire-grilled seasoned salmon (10 oz $22.29)" },
         { "name": "Baby Back Ribs (Half Rack)", "size": "half rack", "price": "$18.99", "calories": "", "desc": "Fall-off-the-bone ribs with BBQ sauce (full rack $26.99)" },
         { "name": "Hand-Breaded Chicken Tenders", "size": "", "price": "$16.99", "calories": "", "desc": "Crispy hand-breaded chicken tenders" }
@@ -117,7 +117,7 @@
     },
     {
       "q": "How many calories are in a LongHorn steak?",
-      "a": "A 7 oz Renegade Sirloin is about 340 calories and a Flo's Filet about 520, while the 20 oz Outlaw Ribeye is around 1,570. Parmesan Crusted Chicken is about 900, and the Texas Tonion appetizer is around 1,560 for the whole thing."
+      "a": "A 7 oz Renegade Sirloin is about 340 calories and a Flo's Filet about 520, while the 20 oz Outlaw Ribeye is around 1,570. Parmesan Crusted Chicken is about 650 (9 oz), and the Texas Tonion appetizer is around 1,560 for the whole thing."
     },
     {
       "q": "What are the most popular items at LongHorn Steakhouse?",

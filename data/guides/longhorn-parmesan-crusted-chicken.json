@@ -1,0 +1,70 @@
+{
+  "slug": "longhorn-parmesan-crusted-chicken",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "LongHorn Steakhouse",
+  "brand_slug": "longhorn-steakhouse-menu",
+  "cover_hint": "Reuse the LongHorn Steakhouse menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "LongHorn Parmesan Crusted Chicken: Price, Calories & Sizes",
+    "meta_description": "LongHorn's Parmesan Crusted Chicken is grilled chicken under a creamy, crunchy Parmesan and garlic crust. Sizes, price, calories and what's in the crust.",
+    "h1": "What Is LongHorn's Parmesan Crusted Chicken?",
+    "primary_keyword": "longhorn parmesan crusted chicken",
+    "keyword_volume": 3800,
+    "keyword_kd": 2
+  },
+
+  "question": "What Is LongHorn's Parmesan Crusted Chicken?",
+
+  "quick_answer": "Parmesan Crusted Chicken is one of LongHorn Steakhouse's most popular non-steak dishes: fresh grilled chicken breast topped with a creamy, crunchy Parmesan and garlic cheese crust. It comes in a 9 oz portion (about 650 calories) and a 12 oz portion (about 1,120 calories), served with sides. Expect to pay roughly $18 to $20, depending on size and location.",
+
+  "key_facts": [
+    "Grilled chicken breast with a creamy, crunchy Parmesan-garlic crust",
+    "9 oz (about 650 cal) or 12 oz (about 1,120 cal)",
+    "About $18 to $20; price varies by location",
+    "Comes with sides",
+    "Also available as a combo with a sirloin at many locations"
+  ],
+
+  "body": [
+    {
+      "heading": "What it is",
+      "text": "LongHorn describes it as fresh, juicy grilled chicken topped with its signature creamy, crunchy Parmesan and garlic cheese crust. The result is tender chicken under a rich, golden cheese topping. It is a good pick at LongHorn for people who don't want steak, and it is one of the chain's best-known dishes."
+    },
+    {
+      "heading": "Sizes and calories",
+      "text": "LongHorn's menu lists the Parmesan Crusted Chicken in two sizes: 9 oz at about 650 calories and 12 oz at about 1,120 calories, before sides. Most of the extra calories come from the cheesy crust, so the larger portion adds up fast. Check LongHorn's nutrition guide for current numbers."
+    },
+    {
+      "heading": "How much it costs",
+      "text": "The Parmesan Crusted Chicken usually costs about $18 for the 9 oz and about $20 for the 12 oz, including sides, though prices vary by location. Many LongHorns also offer it as part of a steak combo, paired with a 6 oz Renegade Sirloin. For the rest of LongHorn's prices, see our LongHorn Steakhouse menu page."
+    },
+    {
+      "heading": "What's in the crust",
+      "text": "LongHorn hasn't published its recipe. Copycat versions usually top marinated, grilled chicken with a mix of Parmesan and other melting cheeses, garlic, a creamy base like ranch dressing or cream, and panko breadcrumbs for crunch, then broil it until golden."
+    }
+  ],
+
+  "faqs": [
+    { "q": "How many calories are in LongHorn's Parmesan Crusted Chicken?", "a": "About 650 for the 9 oz portion and about 1,120 for the 12 oz, before sides." },
+    { "q": "How much is the Parmesan Crusted Chicken at LongHorn?", "a": "Roughly $18 to $20 depending on size and location." },
+    { "q": "What is on LongHorn's Parmesan Crusted Chicken?", "a": "A creamy, crunchy Parmesan and garlic cheese crust on top of a grilled chicken breast." },
+    { "q": "Can you get Parmesan Crusted Chicken with a steak?", "a": "Yes. Many LongHorn locations offer it as a combo with a 6 oz Renegade Sirloin." }
+  ],
+
+  "internal_links": [
+    { "label": "LongHorn Steakhouse Menu With Prices", "slug": "longhorn-steakhouse-menu" },
+    { "label": "What Is Outback's Bloomin' Onion?", "slug": "what-is-a-bloomin-onion" },
+    { "label": "Does Texas Roadhouse Take Reservations?", "slug": "does-texas-roadhouse-take-reservations" },
+    { "label": "Calorie Calculator", "slug": "calorie-calculator" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Menu description ('fresh, juicy, grilled chicken... creamy, crunchy Parmesan and garlic cheese crust'), 9 oz 650 cal / 12 oz 1,120 cal: LongHorn menu text reproduced on AutoReserve listings. 1120 cal and 'Choose 2' combo with Renegade Sirloin 6 oz: LongHorn PDF menu (media.longhornsteakhouse.com). 6 oz Parmesan Crusted Chicken in sirloin combo: AutoReserve menu copy. Prices: site's LongHorn menu page ($17.99 9 oz / $19.99 12 oz). Copycat ingredients: CopyKat. Site's LongHorn menu page had 900 cal for 9 oz (USDA aggregator figure); updated to 650 in the same commit to match LongHorn's menu. Checked Nov 14, 2026.",
+    "accuracy": "Calories per LongHorn menu listings; sides excluded.",
+    "keyword_notes": "'longhorn parmesan crusted chicken' 3.8k KD 2. 'longhorn steakhouse reservations' 1.7k KD 0 is a good next LongHorn topic."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "dennys-grand-slam",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Denny's",
+  "brand_slug": "dennys-menu",
+  "cover_hint": "Reuse the Denny's menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-14",
+
+  "seo": {
+    "meta_title": "Denny's Grand Slam: What's In It, Price & History",
+    "meta_description": "The Original Grand Slam is Denny's signature breakfast of pancakes, eggs, bacon and sausage, about $12 to $13. What you get, prices and how it started in 1977.",
+    "h1": "What Is Denny's Grand Slam?",
+    "primary_keyword": "dennys grand slam",
+    "keyword_volume": 1800,
+    "keyword_kd": 0
+  },
+
+  "question": "What Is Denny's Grand Slam?",
+
+  "quick_answer": "The Original Grand Slam is Denny's signature breakfast: two buttermilk pancakes, two eggs, two bacon strips and two sausage links. It usually costs about $12 to $13, depending on location, and Denny's serves it all day. It was created in 1977 at a Denny's in Atlanta as a tribute to baseball legend Hank Aaron, and its four parts are a nod to the four bases.",
+
+  "key_facts": [
+    "Two pancakes, two eggs, two bacon strips and two sausage links",
+    "About $12 to $13 for the Original Grand Slam; prices vary",
+    "Build Your Own Slam lets you pick four items",
+    "Created in 1977 in Atlanta to honor Hank Aaron",
+    "Served all day at Denny's"
+  ],
+
+  "body": [
+    {
+      "heading": "What comes in the Original Grand Slam",
+      "text": "The Original Grand Slam is a full diner breakfast on one plate: two buttermilk pancakes, two eggs cooked your way, two strips of bacon and two sausage links. It comes to about 740 calories before syrup and butter. Because Denny's serves breakfast at all hours, you can order it for dinner too."
+    },
+    {
+      "heading": "How much a Grand Slam costs",
+      "text": "The Original Grand Slam costs about $12 to $13 at most Denny's, and prices vary by location. The Build Your Own Slam, where you pick any four breakfast items, is around $11 to $12. If you want something cheaper, the Everyday Value Slam starts around $5.99 at participating restaurants. For every Denny's price, see our Denny's menu page."
+    },
+    {
+      "heading": "The other Slams",
+      "text": "The Grand Slam idea has grown into a whole family of Slams. The Lumberjack Slam adds ham, hash browns and toast for a bigger plate, the All-American Slam is built around an omelette, and the French Toast Slam swaps pancakes for French toast. There is also a Jr. Grand Slam for kids, and Denny's regularly adds seasonal pancake Slams."
+    },
+    {
+      "heading": "How the Grand Slam started",
+      "text": "Denny's introduced the Grand Slam in 1977 at a restaurant in Atlanta, Georgia, as a tribute to local hero Hank Aaron, the Braves slugger who broke Babe Ruth's career home run record. Like a grand slam in baseball, it has four parts: pancakes, eggs, bacon and sausage. When it launched, it cost $1.99. It has been Denny's best-known dish ever since."
+    }
+  ],
+
+  "faqs": [
+    { "q": "What comes with a Denny's Grand Slam?", "a": "Two buttermilk pancakes, two eggs, two bacon strips and two sausage links." },
+    { "q": "How much is a Grand Slam at Denny's?", "a": "About $12 to $13 for the Original Grand Slam, depending on location." },
+    { "q": "Why is it called a Grand Slam?", "a": "It was created in 1977 to honor baseball great Hank Aaron. Its four parts stand for the four bases in a grand slam." },
+    { "q": "Can you get a Grand Slam any time?", "a": "Yes. Denny's serves breakfast all day, so the Grand Slam is available at any hour the restaurant is open." },
+    { "q": "What is the Build Your Own Slam?", "a": "A Slam where you pick any four breakfast items, such as pancakes, eggs, hash browns, bacon or sausage, for one price." }
+  ],
+
+  "internal_links": [
+    { "label": "Denny's Menu With Prices", "slug": "dennys-menu" },
+    { "label": "IHOP Kids Eat Free Guide", "slug": "ihop-kids-eat-free" },
+    { "label": "Why Is Waffle House Always Open?", "slug": "why-is-waffle-house-always-open" },
+    { "label": "Cracker Barrel Thanksgiving Guide", "slug": "cracker-barrel-thanksgiving" }
+  ],
+
+  "_data_notes": {
+    "fact_source": "Introduced 1977, inspired by baseball: Denny's blog (Apr 10, 2026) and Denny's news release (Aug 19, 2026). Atlanta, tribute to Hank Aaron: Mashed (citing NYT), Tasting Table, The Daily Meal. Four items mimicking four bases (pancakes, eggs, bacon, sausage): Tasting Table. 2 eggs, 2 bacon, 2 sausage, 2 pancakes: Menupedia. $1.99 at launch and $12.99 on Denny's website: Mashed 'Rise and Fall of Denny's' (Menupedia says 99 cents; Mashed/KMPT say $1.99 — used $1.99). Prices ($12.79 Original, $11.99 BYO, $5.99 Everyday Value Slam), 740 cal, other Slams: site's own Denny's menu page. Breakfast all day: site's Denny's menu page FAQ. Checked Nov 14, 2026.",
+    "accuracy": "Price given as a range. Launch price sources conflict (99 cents vs $1.99); page uses $1.99 (two sources).",
+    "keyword_notes": "'dennys grand slam' 1.8k + 'grand slam dennys' 600, KD 0."
+  }
+}
