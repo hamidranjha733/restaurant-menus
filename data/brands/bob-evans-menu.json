@@ -12,7 +12,7 @@
   },
   "seo": {
     "meta_title": "Bob Evans Menu With Prices (2026)",
-    "meta_description": "Bob Evans menu with prices for 2026: Farmer's Choice breakfasts, hotcakes, pot roast, country-fried steak, burgers, family meals and pies.",
+    "meta_description": "Bob Evans menu with prices for 2026: Farmer's Choice breakfasts, budget plates, pot roast, country-fried steak, burgers and family meals.",
     "h1": "Bob Evans Menu With Prices (2026)",
     "primary_keyword": "bob evans menu with prices",
     "keyword_volume": 1900,
@@ -25,7 +25,7 @@
   "highlights": [
     {
       "strong": "Breakfast all day",
-      "label": "sausage gravy and hotcakes"
+      "label": "farm-style breakfast plates"
     },
     {
       "strong": "Farmer's Choice",
@@ -40,7 +40,7 @@
       "label": "feed up to six"
     }
   ],
-  "hot_deal": "Bob Evans value: the smaller Dinner Bell Plates and budget breakfasts like the Mini Sampler (about $5.99) and Sausage Gravy & Biscuits (about $6.99) are the cheapest ways to eat. Family meals that feed up to six work out to about $6 to $9 a person, and seasonal pies are sold whole to go.",
+  "hot_deal": "Bob Evans value: the smaller Dinner Bell Plates and budget breakfasts like the Mini Sampler (about $5.99) and Sausage Gravy & Biscuits (about $6.99) are the cheapest ways to eat. Family meals that feed up to six work out to about $6 to $9 a person.",
   "menu": [
     {
       "category": "Breakfast Plates",
@@ -65,7 +65,7 @@
           "size": "",
           "price": "$11.99",
           "calories": "",
-          "desc": "A bigger egg plate with meat and sides"
+          "desc": "An egg-focused breakfast plate"
         },
         {
           "name": "Country-Fried Steak & Eggs",
@@ -86,7 +86,7 @@
           "size": "",
           "price": "$13.39",
           "calories": "",
-          "desc": "Eggs, meats, hotcakes and sides"
+          "desc": "A bigger combination breakfast plate"
         },
         {
           "name": "The Whole Hog",
@@ -304,7 +304,7 @@
     },
     {
       "q": "What is Bob Evans known for?",
-      "a": "Its farm-style breakfasts, sausage gravy and biscuits, hotcakes and homestyle dinners like pot roast."
+      "a": "Its farm-style breakfasts, sausage gravy and biscuits and homestyle dinners like pot roast."
     }
   ],
   "internal_links": [
