@@ -1,5 +1,6 @@
 import { CONTACT_EMAIL, NAV, SITE_NAME, SITE_TAGLINE } from "@/site.config";
 import type { Crumb } from "@/lib/seo";
+import { INFO_PAGES, infoPath } from "@/lib/info-pages";
 
 export function SiteHeader() {
   return (
@@ -37,6 +38,13 @@ export function SiteFooter() {
             </>
           ) : null}
         </p>
+        <nav aria-label="Site information" className="footer-links small">
+          {INFO_PAGES.map((p) => (
+            <a key={p.slug} href={infoPath(p.slug)}>
+              {p.label}
+            </a>
+          ))}
+        </nav>
       </div>
     </footer>
   );

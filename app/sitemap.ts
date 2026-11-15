@@ -3,6 +3,7 @@ import { MENU_BASE } from "@/site.config";
 import { brandPath, categoryPath, getActiveCategories, getBrands } from "@/lib/brands";
 import { GUIDES_BASE, getGuides, guidePath } from "@/lib/guides";
 import { absoluteUrl } from "@/lib/seo";
+import { INFO_PAGES, infoPath } from "@/lib/info-pages";
 
 export const dynamic = "force-static";
 
@@ -23,5 +24,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...brands.map((b) => ({ url: absoluteUrl(brandPath(b.slug)), lastModified: fullDate(b.last_updated) })),
     ...(guides.length ? [{ url: absoluteUrl(`${GUIDES_BASE}/`), lastModified: guides.map((g) => fullDate(g.last_updated)).sort().at(-1) }] : []),
     ...guides.map((g) => ({ url: absoluteUrl(guidePath(g.slug)), lastModified: fullDate(g.last_updated) })),
+    ...INFO_PAGES.map((p) => ({ url: absoluteUrl(infoPath(p.slug)), lastModified: p.updated })),
   ];
 }

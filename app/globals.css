@@ -116,6 +116,35 @@ main.wrap {
   padding: 1.5rem 0;
 }
 
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.1rem;
+  margin-top: 0.6rem;
+}
+
+.footer-links a {
+  color: inherit;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+/* About, policies */
+.info-page {
+  max-width: 46rem;
+  padding-bottom: 2rem;
+}
+
+.info-page ul {
+  padding-left: 1.2rem;
+}
+
+.info-page li + li {
+  margin-top: 0.35rem;
+}
+
 /* Breadcrumbs */
 .breadcrumbs ol {
   list-style: none;
