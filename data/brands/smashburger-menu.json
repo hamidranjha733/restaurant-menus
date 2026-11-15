@@ -1,0 +1,277 @@
+{
+  "slug": "smashburger-menu",
+  "brand": "Smashburger",
+  "site_category": "Burgers & Shakes",
+  "url_path": "/menu/smashburger-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/19247562/pexels-photo-19247562.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Smashburger style smashed cheeseburger with crispy edges",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-19247562",
+    "_verify_note": "Reused the shake-shack hero photo as a placeholder. Swap for a unique, unbranded photo before launch."
+  },
+  "seo": {
+    "meta_title": "Smashburger Menu With Prices (2026)",
+    "meta_description": "Smashburger menu with prices for 2026: the Classic Smash, doubles, Bacon Stack, chicken, value menu, fries and shakes.",
+    "h1": "Smashburger Menu With Prices (2026)",
+    "primary_keyword": "smashburger menu with prices",
+    "keyword_volume": 600,
+    "keyword_kd": 0
+  },
+  "last_updated": "2026-11",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Calories are left blank unless confirmed. Last updated November 2026.",
+  "intro": "Smashburger is the Denver-born burger chain that smashes Certified Angus Beef patties on a hot griddle for crispy edges. The menu covers single and double smash burgers, chicken sandwiches, a Smash Everyday Value menu, fries and shakes. Below is the Smashburger menu with prices for 2026.",
+  "quick_answer": "At Smashburger, a Classic Smash is about $8.99 and a Double Classic Smash about $11.99. Specialty singles like the Bacon Stack, BBQ Bacon and Colorado Smash run about $10.49 to $11.49, and doubles about $13.49 to $15. The Smash Everyday Value menu starts at $4.99 at many locations. Fries are about $5. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Classic Smash",
+      "label": "the signature burger"
+    },
+    {
+      "strong": "Doubles",
+      "label": "two smashed patties"
+    },
+    {
+      "strong": "Value menu",
+      "label": "from $4.99"
+    },
+    {
+      "strong": "Fries & shakes",
+      "label": "on the side"
+    }
+  ],
+  "hot_deal": "Smashburger value: the Smash Everyday Value menu has selected burgers, a chicken burger and an Angus hot dog starting at $4.99 at many participating locations. Doubles cost about $3 more than singles, so they're the best upgrade for big appetites.",
+  "menu": [
+    {
+      "category": "Smash Burgers (Single)",
+      "intro": "One smashed Certified Angus Beef patty.",
+      "items": [
+        {
+          "name": "Classic Smash",
+          "size": "",
+          "price": "$8.99",
+          "calories": "",
+          "desc": "American cheese, lettuce, tomato, onion, pickles, ketchup and Smash Sauce"
+        },
+        {
+          "name": "All-American Smash",
+          "size": "",
+          "price": "$7.86",
+          "calories": "",
+          "desc": "American cheese, onions, pickles, ketchup and mustard"
+        },
+        {
+          "name": "Colorado Smash",
+          "size": "",
+          "price": "$10.49",
+          "calories": "",
+          "desc": "A Colorado-themed specialty burger"
+        },
+        {
+          "name": "Bacon Stack Smash",
+          "size": "",
+          "price": "$10.99",
+          "calories": "",
+          "desc": "Stacked applewood bacon and cheese"
+        },
+        {
+          "name": "BBQ Bacon Smash",
+          "size": "",
+          "price": "$10.99",
+          "calories": "",
+          "desc": "BBQ sauce, bacon and cheddar"
+        },
+        {
+          "name": "Spicy Jalapeño Smash",
+          "size": "",
+          "price": "$10.99",
+          "calories": "",
+          "desc": "Jalapeños and spicy toppings"
+        },
+        {
+          "name": "Truffle Mushroom Smash",
+          "size": "",
+          "price": "$11.49",
+          "calories": "",
+          "desc": "Truffle mayo, mushrooms and Swiss"
+        }
+      ]
+    },
+    {
+      "category": "Smash Burgers (Double)",
+      "intro": "Two smashed patties.",
+      "items": [
+        {
+          "name": "Double All-American Smash",
+          "size": "",
+          "price": "$10.99",
+          "calories": "",
+          "desc": "Two patties, All-American toppings"
+        },
+        {
+          "name": "Double Classic Smash",
+          "size": "",
+          "price": "$11.99",
+          "calories": "",
+          "desc": "Two patties with Classic toppings"
+        },
+        {
+          "name": "Double BBQ Bacon Smash",
+          "size": "",
+          "price": "$14.15",
+          "calories": "",
+          "desc": "Two patties, BBQ, bacon and cheddar"
+        },
+        {
+          "name": "Double Colorado Smash",
+          "size": "",
+          "price": "$14.75",
+          "calories": "",
+          "desc": "Two patties, Colorado toppings"
+        },
+        {
+          "name": "Double Bacon Stack Smash",
+          "size": "",
+          "price": "$15.11",
+          "calories": "",
+          "desc": "Two patties with stacked bacon"
+        }
+      ]
+    },
+    {
+      "category": "Chicken & Veggie",
+      "intro": "Not in the mood for beef.",
+      "items": [
+        {
+          "name": "Chicken Smash Burger",
+          "size": "",
+          "price": "$9.49",
+          "calories": "",
+          "desc": "Chicken burger"
+        },
+        {
+          "name": "Double Chicken Smash Burger",
+          "size": "",
+          "price": "$12.99",
+          "calories": "",
+          "desc": "Two chicken patties"
+        },
+        {
+          "name": "Veggie Smash",
+          "size": "",
+          "price": "$10.61",
+          "calories": "",
+          "desc": "Meatless burger"
+        }
+      ]
+    },
+    {
+      "category": "Value, Sides & Drinks",
+      "intro": "",
+      "items": [
+        {
+          "name": "Smash Everyday Value items",
+          "size": "",
+          "price": "$4.99",
+          "calories": "",
+          "desc": "Starting price at many participating locations"
+        },
+        {
+          "name": "Fries",
+          "size": "",
+          "price": "$5.03",
+          "calories": "",
+          "desc": "Regular fries"
+        },
+        {
+          "name": "Fountain Drink",
+          "size": "",
+          "price": "$3.95",
+          "calories": "",
+          "desc": "Regular fountain drink"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Smash Burgers at Home",
+    "intro": "Want crispy-edged smash burgers at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🍔",
+        "name": "Burger Smasher",
+        "blurb": "Presses patties thin for a crispy crust.",
+        "amazon_search": "burger smasher press"
+      },
+      {
+        "icon": "🔥",
+        "name": "Cast Iron Griddle",
+        "blurb": "Gets hot enough for a proper sear.",
+        "amazon_search": "cast iron griddle"
+      },
+      {
+        "icon": "🥄",
+        "name": "Stiff Spatula",
+        "blurb": "For scraping up the crispy edges.",
+        "amazon_search": "stainless steel burger spatula"
+      },
+      {
+        "icon": "🍟",
+        "name": "Air Fryer",
+        "blurb": "For crispy fries.",
+        "amazon_search": "air fryer"
+      }
+    ]
+  },
+  "popular_items": [
+    "Classic Smash",
+    "Double Classic Smash",
+    "Bacon Stack Smash",
+    "Truffle Mushroom Smash",
+    "Fries"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a Classic Smash at Smashburger?",
+      "a": "About $8.99 for a single and $11.99 for a Double Classic Smash. Prices vary by location."
+    },
+    {
+      "q": "Does Smashburger have a value menu?",
+      "a": "Yes. The Smash Everyday Value menu starts at $4.99 at many participating locations."
+    },
+    {
+      "q": "How much is a Smashburger meal?",
+      "a": "A Classic Smash with fries and a drink is about $18 before tax."
+    },
+    {
+      "q": "What is on a Classic Smash?",
+      "a": "American cheese, lettuce, tomato, onion, pickles, ketchup and Smash Sauce on a toasted bun."
+    },
+    {
+      "q": "What makes Smashburger different?",
+      "a": "The patties are smashed on a hot griddle, which gives them crispy, caramelized edges."
+    }
+  ],
+  "internal_links": [
+    "five-guys-menu",
+    "shake-shack-menu",
+    "in-n-out-menu",
+    "steak-n-shake-menu",
+    "red-robin-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Burgers & Shakes > Smashburger."
+  },
+  "_data_notes": {
+    "price_source": "Prices from established menu-prices publications cross-checked against each other (US pricing; vary by location). Real listed values at time of writing. Classic, Double Classic, doubles and value menu from thepricer.org (Denver example, 2026); specialty singles from quickonechinesedelivery.com; All-American, chicken and veggie from thefoodxp.com.",
+    "calories": "Left blank.",
+    "accuracy": "Denver delivery prices may run higher than in-store. Prices vary by location.",
+    "keyword_notes": "smashburger menu 5.1K KD22; smashburger menu with prices 600 KD0.",
+    "hero_image": "Placeholder reused from Shake Shack page."
+  }
+}

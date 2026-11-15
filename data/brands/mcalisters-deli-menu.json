@@ -1,0 +1,249 @@
+{
+  "slug": "mcalisters-deli-menu",
+  "brand": "McAlister's Deli",
+  "site_category": "Pizza Coffee & Subs",
+  "url_path": "/menu/mcalisters-deli-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/17301619/pexels-photo-17301619.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "McAlister's Deli style club sandwich with turkey, ham and bacon",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-17301619",
+    "_verify_note": "Reused the jasons-deli hero photo as a placeholder. Swap for a unique, unbranded photo before launch."
+  },
+  "seo": {
+    "meta_title": "McAlister's Deli Menu With Prices (2026)",
+    "meta_description": "McAlister's Deli menu with prices for 2026: the McAlister's Club, Giant Spuds, Choose Two, salads, soups, kids meals and Famous Sweet Tea.",
+    "h1": "McAlister's Deli Menu With Prices (2026)",
+    "primary_keyword": "mcalister's menu",
+    "keyword_volume": 8700,
+    "keyword_kd": 0
+  },
+  "last_updated": "2026-11",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Calories are left blank unless confirmed. Last updated November 2026.",
+  "intro": "McAlister's Deli is the Mississippi-born deli chain known for its Famous Sweet Tea, the McAlister's Club and its Giant Spuds, huge baked potatoes piled with toppings. The menu also covers sandwiches, salads, soups and a Choose Two combo. Below is the McAlister's Deli menu with prices for 2026.",
+  "quick_answer": "At McAlister's Deli, the McAlister's Club is about $13.89 and the King Club about $16.59. Giant Spuds run about $10.49 for a Cheese Spud to $14.19 for the Spud Max. A regular Famous Sweet Tea is about $2.29 to $2.99, and a gallon is about $12.68 for catering. Kids meals start around $5.99. Prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Famous Sweet Tea",
+      "label": "the signature drink"
+    },
+    {
+      "strong": "McAlister's Club",
+      "label": "the best-selling sandwich"
+    },
+    {
+      "strong": "Giant Spuds",
+      "label": "loaded baked potatoes"
+    },
+    {
+      "strong": "Choose Two",
+      "label": "half-and-half combos"
+    }
+  ],
+  "hot_deal": "McAlister's value: the Choose Two lets you pair half portions of a sandwich, spud, salad or soup, and a Tea Tumbler gets you cheap refills. For groups, a gallon of sweet tea serves about eight, and the catering Spud Bar starts around $7.29 a person.",
+  "menu": [
+    {
+      "category": "Club Sandwiches",
+      "intro": "Stacked deli clubs.",
+      "items": [
+        {
+          "name": "McAlister's Club",
+          "size": "",
+          "price": "$13.89",
+          "calories": "",
+          "desc": "Smoked turkey, Black Forest ham, bacon, cheddar, Swiss, spring mix, tomato, mayo and Honey Mustard"
+        },
+        {
+          "name": "King Club",
+          "size": "",
+          "price": "$16.59",
+          "calories": "",
+          "desc": "A bigger, extra-stacked club"
+        }
+      ]
+    },
+    {
+      "category": "Giant Spuds",
+      "intro": "A loaded Idaho potato, McAlister's signature.",
+      "items": [
+        {
+          "name": "Cheese Spud",
+          "size": "",
+          "price": "$10.49",
+          "calories": "",
+          "desc": "Cheddar-jack, with butter spread and sour cream"
+        },
+        {
+          "name": "Bacon Spud",
+          "size": "",
+          "price": "$11.69",
+          "calories": "",
+          "desc": "Bacon and cheddar-jack"
+        },
+        {
+          "name": "Veggie Spud",
+          "size": "",
+          "price": "$12.39",
+          "calories": "",
+          "desc": "Spinach, broccoli, red onions, roasted peppers and cheese dip"
+        },
+        {
+          "name": "Chicken Bacon Ranch Spud",
+          "size": "",
+          "price": "$14.09",
+          "calories": "",
+          "desc": "Grilled chicken, bacon, cheddar-jack, ranch and green onions"
+        },
+        {
+          "name": "Spud Max",
+          "size": "",
+          "price": "$14.19",
+          "calories": "",
+          "desc": "Ham, turkey, bacon, cheddar-jack, green onion and black olives"
+        }
+      ]
+    },
+    {
+      "category": "Sweet Tea & Drinks",
+      "intro": "McAlister's Famous Sweet Tea.",
+      "items": [
+        {
+          "name": "Famous Sweet Tea",
+          "size": "regular",
+          "price": "$2.29 – $2.99",
+          "calories": "",
+          "desc": "Regular size, sweet or unsweet"
+        },
+        {
+          "name": "Large Sweet Tea",
+          "size": "large",
+          "price": "$2.79",
+          "calories": "",
+          "desc": "32 oz"
+        },
+        {
+          "name": "Lemonade",
+          "size": "",
+          "price": "$2.49 – $2.99",
+          "calories": "",
+          "desc": "Regular or large"
+        },
+        {
+          "name": "Gallon of Sweet Tea",
+          "size": "gallon",
+          "price": "$12.68",
+          "calories": "",
+          "desc": "Serves about 8, catering price"
+        }
+      ]
+    },
+    {
+      "category": "Kids & Catering",
+      "intro": "For kids and groups.",
+      "items": [
+        {
+          "name": "Kids Meal",
+          "size": "",
+          "price": "$5.99",
+          "calories": "",
+          "desc": "Kids meals start around this price"
+        },
+        {
+          "name": "Spud Bar (catering)",
+          "size": "",
+          "price": "$7.29",
+          "calories": "",
+          "desc": "Per person, base toppings"
+        },
+        {
+          "name": "McAlister's Club Box (catering)",
+          "size": "",
+          "price": "$11.79",
+          "calories": "",
+          "desc": "Boxed lunch, each"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make McAlister's-Style Favorites at Home",
+    "intro": "Want spuds and sweet tea at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🥔",
+        "name": "Potato Baker",
+        "blurb": "For big, fluffy baked potatoes.",
+        "amazon_search": "microwave potato baker"
+      },
+      {
+        "icon": "🫖",
+        "name": "Iced Tea Maker",
+        "blurb": "For Southern sweet tea by the pitcher.",
+        "amazon_search": "iced tea maker"
+      },
+      {
+        "icon": "🥪",
+        "name": "Panini Press",
+        "blurb": "For warm deli sandwiches.",
+        "amazon_search": "panini press"
+      },
+      {
+        "icon": "🧀",
+        "name": "Cheese Grater",
+        "blurb": "For cheddar-jack topping.",
+        "amazon_search": "box cheese grater"
+      }
+    ]
+  },
+  "popular_items": [
+    "McAlister's Club",
+    "Spud Max",
+    "Famous Sweet Tea",
+    "Chicken Bacon Ranch Spud",
+    "Choose Two"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a McAlister's Club?",
+      "a": "The McAlister's Club is about $13.89, and the King Club about $16.59. Prices vary by location."
+    },
+    {
+      "q": "How much is sweet tea at McAlister's?",
+      "a": "A regular Famous Sweet Tea is about $2.29 to $2.99, and a gallon for catering is about $12.68."
+    },
+    {
+      "q": "How much is a Giant Spud at McAlister's?",
+      "a": "Giant Spuds run about $10.49 for a Cheese Spud up to about $14.19 for the Spud Max."
+    },
+    {
+      "q": "What is Choose Two at McAlister's?",
+      "a": "It lets you pair two half portions, such as a half sandwich with a cup of soup or a half spud."
+    },
+    {
+      "q": "What is McAlister's known for?",
+      "a": "Its Famous Sweet Tea, the McAlister's Club and its loaded Giant Spuds."
+    }
+  ],
+  "internal_links": [
+    "jasons-deli-menu",
+    "panera-menu",
+    "newks-eatery-menu",
+    "jersey-mikes-menu",
+    "firehouse-subs-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Pizza Coffee & Subs > McAlister's Deli."
+  },
+  "_data_notes": {
+    "price_source": "Prices from established menu-prices publications cross-checked against each other (US pricing; vary by location). Real listed values at time of writing. Sandwiches and spuds from recipemenubook.com (2026); tea from restaurantmenuprices.org; catering from ZeroCater (ezCater data, 2026).",
+    "calories": "Left blank.",
+    "accuracy": "Older listings show much lower spud prices ($5–$8); current 2026 listings used. Prices vary by location.",
+    "keyword_notes": "mcalister's menu 8.7K KD0; mcalister's deli menu 5.3K KD0.",
+    "hero_image": "Placeholder reused from Jason's Deli page."
+  }
+}

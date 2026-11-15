@@ -1,0 +1,201 @@
+{
+  "slug": "cinnabon-menu",
+  "brand": "Cinnabon",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/cinnabon-menu/",
+  "seo": {
+    "meta_title": "Cinnabon Menu With Prices (2026)",
+    "meta_description": "Cinnabon menu with prices for 2026: the Classic Roll, MiniBon, BonBites, Center of the Roll, Caramel PecanBon, CinnaPacks and drinks.",
+    "h1": "Cinnabon Menu With Prices (2026)",
+    "primary_keyword": "cinnabon menu",
+    "keyword_volume": 2500,
+    "keyword_kd": 0
+  },
+  "last_updated": "2026-11",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Cinnabon bakeries are mostly franchised, and airport and travel-center prices run higher. Calories are left blank unless confirmed. Last updated November 2026.",
+  "intro": "Cinnabon is the mall and airport bakery famous for its giant cinnamon rolls made with Makara cinnamon and cream cheese frosting. The menu runs from the Classic Roll to the smaller MiniBon, bite-size BonBites, the gooey Center of the Roll and take-home CinnaPacks. Below is the Cinnabon menu with prices for 2026.",
+  "quick_answer": "At Cinnabon, a Classic Roll is about $6.39 to $7.99, a MiniBon about $4.79 to $5.59 and four BonBites about $5.29 to $6.79. The Center of the Roll is about $5.49 to $7.09. CinnaPacks to take home start around $19.99. Cinnabon doesn't publish a national price list, so prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Classic Roll",
+      "label": "880 calories"
+    },
+    {
+      "strong": "MiniBon",
+      "label": "the smaller roll, 350 cal"
+    },
+    {
+      "strong": "BonBites",
+      "label": "four bite-size bons"
+    },
+    {
+      "strong": "CinnaPacks",
+      "label": "rolls to take home"
+    }
+  ],
+  "hot_deal": "Cinnabon value: the MiniBon saves about $1.50 over a Classic Roll, and CinnaPacks are cheaper per roll than buying singles.",
+  "menu": [
+    {
+      "category": "Cinnamon Rolls",
+      "intro": "Made with Makara cinnamon and cream cheese frosting.",
+      "items": [
+        {
+          "name": "Classic Roll",
+          "size": "",
+          "price": "$6.39 – $7.99",
+          "calories": "880",
+          "desc": "The original Cinnabon roll"
+        },
+        {
+          "name": "Caramel PecanBon",
+          "size": "",
+          "price": "$6.89",
+          "calories": "",
+          "desc": "Classic Roll topped with caramel and pecans"
+        },
+        {
+          "name": "MiniBon",
+          "size": "",
+          "price": "$4.79 – $5.59",
+          "calories": "350",
+          "desc": "A smaller Classic Roll"
+        },
+        {
+          "name": "BonBites (4)",
+          "size": "",
+          "price": "$5.29 – $6.79",
+          "calories": "",
+          "desc": "Four bite-size bons"
+        }
+      ]
+    },
+    {
+      "category": "Quick Bites",
+      "intro": "",
+      "items": [
+        {
+          "name": "Center of the Roll",
+          "size": "",
+          "price": "$5.49 – $7.09",
+          "calories": "",
+          "desc": "The gooey center of a Classic Roll"
+        },
+        {
+          "name": "CinnaSweeties",
+          "size": "",
+          "price": "$5.69",
+          "calories": "",
+          "desc": "Cinnamon sugar bites"
+        }
+      ]
+    },
+    {
+      "category": "CinnaPacks",
+      "intro": "To take home or share.",
+      "items": [
+        {
+          "name": "BonBites CinnaPack",
+          "size": "",
+          "price": "$19.99",
+          "calories": "",
+          "desc": "Pack of BonBites"
+        },
+        {
+          "name": "Classic Roll CinnaPack",
+          "size": "",
+          "price": "$22.99",
+          "calories": "",
+          "desc": "Pack of Classic Rolls"
+        },
+        {
+          "name": "MiniBon CinnaPack",
+          "size": "",
+          "price": "$25.99",
+          "calories": "",
+          "desc": "Pack of MiniBons"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Cinnamon Rolls at Home",
+    "intro": "Want Cinnabon-style rolls at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🌀",
+        "name": "Cinnamon Roll Kit",
+        "blurb": "Easy dough for gooey rolls.",
+        "amazon_search": "cinnamon roll baking kit"
+      },
+      {
+        "icon": "🍥",
+        "name": "Makara Cinnamon",
+        "blurb": "The cinnamon variety Cinnabon uses.",
+        "amazon_search": "makara cinnamon"
+      },
+      {
+        "icon": "🧁",
+        "name": "Cream Cheese Frosting",
+        "blurb": "The finishing touch.",
+        "amazon_search": "cream cheese frosting"
+      },
+      {
+        "icon": "🍳",
+        "name": "9x13 Baking Pan",
+        "blurb": "Fits a full batch.",
+        "amazon_search": "9x13 baking pan"
+      }
+    ]
+  },
+  "popular_items": [
+    "Classic Roll",
+    "MiniBon",
+    "BonBites",
+    "Center of the Roll",
+    "Caramel PecanBon"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a Cinnabon Classic Roll?",
+      "a": "About $6.39 to $7.99, depending on location. Airport and delivery prices run higher."
+    },
+    {
+      "q": "How many calories are in a Cinnabon Classic Roll?",
+      "a": "About 880 calories. The MiniBon has about 350."
+    },
+    {
+      "q": "What is the cheapest thing at Cinnabon?",
+      "a": "The MiniBon, at about $4.79 to $5.59, is the cheapest roll."
+    },
+    {
+      "q": "Why do Cinnabon prices vary?",
+      "a": "Most Cinnabon bakeries are franchised, and owners set prices based on rent and local costs."
+    },
+    {
+      "q": "What is the Center of the Roll?",
+      "a": "It's the soft, gooey center of a Classic Roll, served on its own."
+    }
+  ],
+  "internal_links": [
+    "auntie-annes-menu",
+    "krispy-kreme-menu",
+    "dunkin-menu",
+    "starbucks-menu",
+    "baskin-robbins-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Cinnabon."
+  },
+  "_data_notes": {
+    "price_source": "Prices from established menu-prices publications cross-checked against each other (US pricing; vary by location). Real listed values at time of writing. Low end from menuomics.com (HotCouponWorld 2026 list); high end from phmenuz.com / fastfoodmenuprices.com (Columbus, OH delivery, July 2026). CinnaPacks from phmenuz.com.",
+    "calories": "Classic Roll 880 and MiniBon 350 agree across several sources.",
+    "accuracy": "Franchisee pricing; ranges shown.",
+    "keyword_notes": "cinnabon menu 2.5K KD0; cinnabon prices 500 KD0.",
+    "hero_image": "No hero yet; add an unbranded cinnamon roll photo before launch."
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "slug": "bob-evans-menu",
+  "brand": "Bob Evans",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/bob-evans-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/1698441/pexels-photo-1698441.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Bob Evans style country breakfast plate with eggs, sausage and hotcakes",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-1698441",
+    "_verify_note": "Reused the dennys hero photo as a placeholder. Swap for a unique, unbranded photo before launch."
+  },
+  "seo": {
+    "meta_title": "Bob Evans Menu With Prices (2026)",
+    "meta_description": "Bob Evans menu with prices for 2026: Farmer's Choice breakfasts, hotcakes, pot roast, country-fried steak, burgers, family meals and pies.",
+    "h1": "Bob Evans Menu With Prices (2026)",
+    "primary_keyword": "bob evans menu with prices",
+    "keyword_volume": 1900,
+    "keyword_kd": 2
+  },
+  "last_updated": "2026-11",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Calories are left blank unless confirmed. Last updated November 2026.",
+  "intro": "Bob Evans is the Ohio-born family restaurant chain that grew out of a farm sausage business, serving breakfast all day alongside homestyle lunches and dinners like pot roast, country-fried steak and turkey and dressing. It runs about 440 restaurants, mostly in the Midwest and East. Below is the Bob Evans menu with prices for 2026.",
+  "quick_answer": "At Bob Evans, a Rise & Shine breakfast is about $10.79, The Original Farmer's Choice about $11.79 and The Whole Hog about $14.99. Dinner plates such as Fork-Tender Pot Roast ($15.19) and the Country-Fried Steak platter ($14.39) come with two sides. Family meals that feed up to six run about $34 to $56. Breakfast is served all day, and prices vary by location.",
+  "highlights": [
+    {
+      "strong": "Breakfast all day",
+      "label": "sausage gravy and hotcakes"
+    },
+    {
+      "strong": "Farmer's Choice",
+      "label": "build-your-own plate"
+    },
+    {
+      "strong": "Pot roast",
+      "label": "the dinner classic"
+    },
+    {
+      "strong": "Family meals",
+      "label": "feed up to six"
+    }
+  ],
+  "hot_deal": "Bob Evans value: the smaller Dinner Bell Plates and budget breakfasts like the Mini Sampler (about $5.99) and Sausage Gravy & Biscuits (about $6.99) are the cheapest ways to eat. Family meals that feed up to six work out to about $6 to $9 a person, and seasonal pies are sold whole to go.",
+  "menu": [
+    {
+      "category": "Breakfast Plates",
+      "intro": "Served all day, with home fries or hash browns and bread.",
+      "items": [
+        {
+          "name": "Rise & Shine",
+          "size": "",
+          "price": "$10.79",
+          "calories": "",
+          "desc": "Two eggs, choice of breakfast meat, home fries and bread"
+        },
+        {
+          "name": "The Original Farmer's Choice",
+          "size": "",
+          "price": "$11.79",
+          "calories": "",
+          "desc": "Build your own plate from Bob Evans farm favorites"
+        },
+        {
+          "name": "The Big Egg Breakfast",
+          "size": "",
+          "price": "$11.99",
+          "calories": "",
+          "desc": "A bigger egg plate with meat and sides"
+        },
+        {
+          "name": "Country-Fried Steak & Eggs",
+          "size": "",
+          "price": "$12.69",
+          "calories": "",
+          "desc": "Country-fried steak with sausage gravy and eggs"
+        },
+        {
+          "name": "Homestead Farmer",
+          "size": "",
+          "price": "$12.89",
+          "calories": "",
+          "desc": "A hearty farm-style breakfast plate"
+        },
+        {
+          "name": "The Everything Breakfast",
+          "size": "",
+          "price": "$13.39",
+          "calories": "",
+          "desc": "Eggs, meats, hotcakes and sides"
+        },
+        {
+          "name": "The Whole Hog",
+          "size": "",
+          "price": "$14.99",
+          "calories": "",
+          "desc": "The biggest breakfast plate on the menu"
+        }
+      ]
+    },
+    {
+      "category": "Budget Breakfasts",
+      "intro": "Smaller plates at a lower price.",
+      "items": [
+        {
+          "name": "Mini Sampler",
+          "size": "",
+          "price": "$5.99 – $8.89",
+          "calories": "",
+          "desc": "A small sampler breakfast"
+        },
+        {
+          "name": "Sausage Gravy & Biscuits",
+          "size": "",
+          "price": "$6.99 – $8.89",
+          "calories": "",
+          "desc": "Buttermilk biscuits with Bob Evans sausage gravy"
+        },
+        {
+          "name": "Country Biscuit Breakfast",
+          "size": "",
+          "price": "$7.99 – $10.19",
+          "calories": "",
+          "desc": "Biscuit breakfast plate"
+        },
+        {
+          "name": "Buttermilk Breakfast Sandwich",
+          "size": "",
+          "price": "$7.99 – $11.49",
+          "calories": "",
+          "desc": "Egg and meat on a buttermilk biscuit"
+        },
+        {
+          "name": "Cinna-Biscuits",
+          "size": "",
+          "price": "$4.59 – $6.39",
+          "calories": "700",
+          "desc": "Cinnamon biscuits with icing"
+        },
+        {
+          "name": "Double Meat Breakfast Tacos",
+          "size": "",
+          "price": "$8.99",
+          "calories": "",
+          "desc": "Breakfast tacos with two meats"
+        }
+      ]
+    },
+    {
+      "category": "Dinners",
+      "intro": "Homestyle entrées with sides; prices rise with extra sides.",
+      "items": [
+        {
+          "name": "Hand-Breaded Chicken Tenders",
+          "size": "",
+          "price": "$8.89",
+          "calories": "",
+          "desc": "Dinner Bell Plate portion"
+        },
+        {
+          "name": "Country-Fried Steak Platter",
+          "size": "",
+          "price": "$14.39",
+          "calories": "",
+          "desc": "Country-fried steak with gravy and two sides"
+        },
+        {
+          "name": "Lemon Garlic Chicken",
+          "size": "",
+          "price": "$13.89 – $20.39",
+          "calories": "",
+          "desc": "Grilled chicken with lemon garlic sauce"
+        },
+        {
+          "name": "Fork-Tender Pot Roast",
+          "size": "",
+          "price": "$15.19",
+          "calories": "",
+          "desc": "Slow-roasted pot roast with two sides"
+        },
+        {
+          "name": "Hand-Breaded Fried Chicken",
+          "size": "",
+          "price": "$12.69",
+          "calories": "",
+          "desc": "Fried chicken dinner"
+        }
+      ]
+    },
+    {
+      "category": "Burgers & Sandwiches",
+      "intro": "Served with a side.",
+      "items": [
+        {
+          "name": "Cheeseburger",
+          "size": "",
+          "price": "$11.79",
+          "calories": "",
+          "desc": "Classic cheeseburger"
+        },
+        {
+          "name": "Buffalo Chicken Sandwich",
+          "size": "",
+          "price": "$12.09",
+          "calories": "",
+          "desc": "Crispy chicken with buffalo sauce"
+        },
+        {
+          "name": "All American BLT",
+          "size": "",
+          "price": "$12.09",
+          "calories": "",
+          "desc": "Bacon, lettuce and tomato"
+        }
+      ]
+    },
+    {
+      "category": "Family Meals",
+      "intro": "Feed up to six; prices vary by location.",
+      "items": [
+        {
+          "name": "Country-Fried Steak Family Meal",
+          "size": "",
+          "price": "$33.99",
+          "calories": "",
+          "desc": "Feeds up to 6"
+        },
+        {
+          "name": "Slow-Roasted Turkey & Dressing Family Meal",
+          "size": "",
+          "price": "$48.99",
+          "calories": "",
+          "desc": "Feeds up to 6"
+        },
+        {
+          "name": "Hand-Breaded Fried Chicken Family Meal",
+          "size": "",
+          "price": "$55.99",
+          "calories": "",
+          "desc": "Feeds up to 6"
+        },
+        {
+          "name": "Fork-Tender Pot Roast Family Meal",
+          "size": "",
+          "price": "$55.99",
+          "calories": "",
+          "desc": "Feeds up to 6"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Bob Evans-Style Breakfast at Home",
+    "intro": "Want a country breakfast at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🍳",
+        "name": "Cast Iron Skillet",
+        "blurb": "For eggs, sausage and home fries.",
+        "amazon_search": "cast iron skillet 12 inch"
+      },
+      {
+        "icon": "🥞",
+        "name": "Griddle",
+        "blurb": "For a stack of hotcakes.",
+        "amazon_search": "electric griddle pancakes"
+      },
+      {
+        "icon": "🥣",
+        "name": "Biscuit Cutter",
+        "blurb": "For homemade buttermilk biscuits.",
+        "amazon_search": "biscuit cutter set"
+      },
+      {
+        "icon": "🌭",
+        "name": "Sausage Gravy Mix",
+        "blurb": "The base for biscuits and gravy.",
+        "amazon_search": "country sausage gravy mix"
+      }
+    ]
+  },
+  "popular_items": [
+    "The Original Farmer's Choice",
+    "Rise & Shine",
+    "Sausage Gravy & Biscuits",
+    "Fork-Tender Pot Roast",
+    "Country-Fried Steak"
+  ],
+  "faqs": [
+    {
+      "q": "How much is breakfast at Bob Evans?",
+      "a": "A Rise & Shine breakfast is about $10.79 and The Original Farmer's Choice about $11.79. Budget plates like the Mini Sampler start around $5.99. Prices vary by location."
+    },
+    {
+      "q": "Does Bob Evans serve breakfast all day?",
+      "a": "Yes. Bob Evans serves its breakfast menu all day."
+    },
+    {
+      "q": "How much is the pot roast at Bob Evans?",
+      "a": "The Fork-Tender Pot Roast dinner is about $15.19 with two sides, and the pot roast family meal is about $55.99."
+    },
+    {
+      "q": "How much are Bob Evans family meals?",
+      "a": "Family meals that feed up to six run about $34 to $56, depending on the entrée."
+    },
+    {
+      "q": "What is Bob Evans known for?",
+      "a": "Its farm-style breakfasts, sausage gravy and biscuits, hotcakes and homestyle dinners like pot roast."
+    }
+  ],
+  "internal_links": [
+    "cracker-barrel-menu",
+    "dennys-menu",
+    "ihop-menu",
+    "first-watch-menu",
+    "waffle-house-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Bob Evans."
+  },
+  "_data_notes": {
+    "price_source": "Prices from established menu-prices publications cross-checked against each other (US pricing; vary by location). Real listed values at time of writing. Breakfast and dinner prices from menupricebook.com (Oct 2026); budget breakfast ranges from menus-info.com; burgers, family meals and Hand-Breaded Fried Chicken from omakaserockford.com.",
+    "calories": "Only Cinna-Biscuits (700) shown, from one listing; others blank.",
+    "accuracy": "Sources disagree (e.g. Farmer's Choice $11.79 to $16.49); lower-end listed prices used, ranges shown where sources split. About 440 restaurants per menupricebook.",
+    "keyword_notes": "bob evans menu 18K KD10; bob evans menu with prices 1.9K KD2; bob evans prices 100.",
+    "hero_image": "Placeholder reused from Denny's page."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "slug": "wetzels-pretzels-menu",
+  "brand": "Wetzel's Pretzels",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/wetzels-pretzels-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/12101105/pexels-photo-12101105.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Wetzel's Pretzels style buttered soft pretzel with salt",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-12101105",
+    "_verify_note": "Reused the auntie-annes hero photo as a placeholder. Swap for a unique, unbranded photo before launch."
+  },
+  "seo": {
+    "meta_title": "Wetzel's Pretzels Menu With Prices (2026)",
+    "meta_description": "Wetzel's Pretzels menu with prices for 2026: the Original, Wetzel Bitz, Wetzel Dog, cheese pretzels, dips and fresh lemonade.",
+    "h1": "Wetzel's Pretzels Menu With Prices (2026)",
+    "primary_keyword": "wetzel pretzel menu",
+    "keyword_volume": 800,
+    "keyword_kd": 1
+  },
+  "last_updated": "2026-11",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Theme park and airport locations charge more. Calories are left blank unless confirmed. Last updated November 2026.",
+  "intro": "Wetzel's Pretzels is the mall pretzel chain founded in 1994 by Rick Wetzel and Bill Phelps, known for hand-rolled soft pretzels, bite-size Wetzel Bitz, the Wetzel Dog (an all-beef hot dog wrapped in pretzel) and fresh and frozen lemonade. Below is the Wetzel's Pretzels menu with prices for 2026.",
+  "quick_answer": "At Wetzel's Pretzels, an Original Pretzel is about $7.99, Wetzel Bitz about $9.59 and the Wetzel Dog about $9.59. Cheese pretzels and Pizza Bitz run about $9.50 to $10.50, and dips are about $2.50. A 32 oz lemonade is about $6.89. Prices are lower at some malls and higher in theme parks and airports.",
+  "highlights": [
+    {
+      "strong": "Original Pretzel",
+      "label": "hand-rolled, buttered and salted"
+    },
+    {
+      "strong": "Wetzel Bitz",
+      "label": "bite-size pretzels"
+    },
+    {
+      "strong": "Wetzel Dog",
+      "label": "hot dog wrapped in pretzel"
+    },
+    {
+      "strong": "Fresh lemonade",
+      "label": "original or strawberry"
+    }
+  ],
+  "hot_deal": "Wetzel's value: Bitz are the best pick for sharing, and the Original Pretzel is the lowest-priced item. Check the Wetzel's app for current deals.",
+  "menu": [
+    {
+      "category": "Pretzels",
+      "intro": "Hand-rolled and baked fresh.",
+      "items": [
+        {
+          "name": "Original Pretzel",
+          "size": "",
+          "price": "$7.99",
+          "calories": "",
+          "desc": "Butter and salt"
+        },
+        {
+          "name": "Flavored Pretzel",
+          "size": "",
+          "price": "$8.50",
+          "calories": "",
+          "desc": "Sinful Cinnamon or Almond Crunch"
+        },
+        {
+          "name": "Baked Cheese Pretzel",
+          "size": "",
+          "price": "$9.50",
+          "calories": "",
+          "desc": "Cheese Meltdown, Pepperoni Twist or Jalaroni"
+        }
+      ]
+    },
+    {
+      "category": "Bitz",
+      "intro": "Bite-size pretzels.",
+      "items": [
+        {
+          "name": "Wetzel Bitz",
+          "size": "",
+          "price": "$9.59",
+          "calories": "",
+          "desc": "Butter and salt"
+        },
+        {
+          "name": "Almond Crunch Bitz",
+          "size": "",
+          "price": "$10.39",
+          "calories": "",
+          "desc": "Tossed in sweet, salty almond crunch"
+        },
+        {
+          "name": "Pizza Bitz",
+          "size": "",
+          "price": "$10.50",
+          "calories": "",
+          "desc": "With pepperoni and cheese"
+        }
+      ]
+    },
+    {
+      "category": "Dogs",
+      "intro": "All-beef hot dogs wrapped in pretzel.",
+      "items": [
+        {
+          "name": "Wetzel Dog",
+          "size": "",
+          "price": "$9.59",
+          "calories": "",
+          "desc": "All-beef hot dog wrapped in pretzel"
+        },
+        {
+          "name": "Cheese Dog",
+          "size": "",
+          "price": "$10.00",
+          "calories": "",
+          "desc": "Wetzel Dog with cheese"
+        },
+        {
+          "name": "Dog Bites",
+          "size": "",
+          "price": "$10.50",
+          "calories": "",
+          "desc": "Bite-size pretzel dogs"
+        },
+        {
+          "name": "Cheesy Dog Bites",
+          "size": "",
+          "price": "$11.50",
+          "calories": "",
+          "desc": "Dog Bites with cheese"
+        }
+      ]
+    },
+    {
+      "category": "Dips & Drinks",
+      "intro": "",
+      "items": [
+        {
+          "name": "Pretzel Dip",
+          "size": "",
+          "price": "$2.50",
+          "calories": "",
+          "desc": "Cheddar, jalapeño cheese, caramel, pizza sauce, glaze or cream cheese"
+        },
+        {
+          "name": "Fresh Lemonade",
+          "size": "32 oz",
+          "price": "$6.89",
+          "calories": "",
+          "desc": "32 oz, original or strawberry"
+        },
+        {
+          "name": "Frozen Lemonade",
+          "size": "",
+          "price": "$8.50",
+          "calories": "",
+          "desc": "Original or strawberry"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Soft Pretzels at Home",
+    "intro": "Want Wetzel's-style pretzels at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🥨",
+        "name": "Soft Pretzel Mix",
+        "blurb": "For hand-rolled pretzels.",
+        "amazon_search": "soft pretzel mix"
+      },
+      {
+        "icon": "🧂",
+        "name": "Pretzel Salt",
+        "blurb": "Coarse salt topping.",
+        "amazon_search": "pretzel salt coarse"
+      },
+      {
+        "icon": "🌭",
+        "name": "Pretzel Dog Kit",
+        "blurb": "Wrap hot dogs in dough.",
+        "amazon_search": "pretzel dog kit"
+      },
+      {
+        "icon": "🍋",
+        "name": "Lemon Squeezer",
+        "blurb": "For fresh lemonade.",
+        "amazon_search": "lemon squeezer"
+      }
+    ]
+  },
+  "popular_items": [
+    "Original Pretzel",
+    "Wetzel Bitz",
+    "Wetzel Dog",
+    "Pizza Bitz",
+    "Fresh Lemonade"
+  ],
+  "faqs": [
+    {
+      "q": "How much is an Original Pretzel at Wetzel's?",
+      "a": "About $7.99 at many locations; some malls charge less and theme parks more."
+    },
+    {
+      "q": "What is a Wetzel Dog?",
+      "a": "An all-beef hot dog wrapped in fresh-baked pretzel dough, about $9.59."
+    },
+    {
+      "q": "What are Wetzel Bitz?",
+      "a": "Bite-size pretzel pieces, about $9.59, brushed with butter and salt."
+    },
+    {
+      "q": "How much is lemonade at Wetzel's Pretzels?",
+      "a": "A 32 oz fresh lemonade is about $6.89; frozen lemonade is about $8.50."
+    },
+    {
+      "q": "Who founded Wetzel's Pretzels?",
+      "a": "Rick Wetzel and Bill Phelps founded it in 1994."
+    }
+  ],
+  "internal_links": [
+    "auntie-annes-menu",
+    "cinnabon-menu",
+    "baskin-robbins-menu",
+    "cold-stone-creamery-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Wetzel's Pretzels."
+  },
+  "_data_notes": {
+    "price_source": "Prices from established menu-prices publications cross-checked against each other (US pricing; vary by location). Real listed values at time of writing. Original, Bitz, Almond Crunch Bitz, Wetzel Dog and lemonade from PriceListo (aggregated from 139 locations); flavored and cheese pretzels, Pizza Bitz, dogs, dips and frozen lemonade from Disney Springs menu (themouseforless.com), which runs higher.",
+    "calories": "Left blank.",
+    "accuracy": "Theme-park prices used for some items; flagged in disclaimer. Founders from Wikipedia.",
+    "keyword_notes": "wetzel pretzel menu 800 KD1; wetzel's pretzels menu 500 KD0.",
+    "hero_image": "Placeholder reused from Auntie Anne's page."
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "slug": "cold-stone-creamery-menu",
+  "brand": "Cold Stone Creamery",
+  "site_category": "Coffee & Drinks",
+  "url_path": "/menu/cold-stone-creamery-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/1006190/pexels-photo-1006190.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Cold Stone Creamery style ice cream with mix-ins in a cup",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-1006190",
+    "_verify_note": "Reused the baskin-robbins hero photo as a placeholder. Swap for a unique, unbranded photo before launch."
+  },
+  "seo": {
+    "meta_title": "Cold Stone Creamery Menu With Prices (2026)",
+    "meta_description": "Cold Stone Creamery prices for 2026: Like It, Love It and Gotta Have It sizes, Signature Creations, Create Your Own, shakes and ice cream cakes.",
+    "h1": "Cold Stone Creamery Menu With Prices (2026)",
+    "primary_keyword": "cold stone prices",
+    "keyword_volume": 1400,
+    "keyword_kd": 5
+  },
+  "last_updated": "2026-11",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Cold Stone stores are franchised and set their own prices. Calories are left blank unless confirmed. Last updated November 2026.",
+  "intro": "Cold Stone Creamery is the ice cream chain where mix-ins are folded into your ice cream on a frozen granite stone. Sizes are called Like It (about 5 oz), Love It (about 8 oz) and Gotta Have It (about 12 oz), and the menu covers Signature Creations, Create Your Own, shakes, smoothies and ice cream cakes. Below are Cold Stone prices for 2026.",
+  "quick_answer": "At Cold Stone Creamery, a Signature Creation costs about $5.00 to $6.29 for a Like It, $5.25 to $7.08 for a Love It and $5.75 to $8.25 for a Gotta Have It. Create Your Own starts at about $4.00 with the first mix-in free; extra mix-ins are about $0.75 to $0.90. Shakes are about $5.00 to $5.75, and ice cream cakes start around $24. Prices vary by store.",
+  "highlights": [
+    {
+      "strong": "Like It · Love It · Gotta Have It",
+      "label": "the three sizes"
+    },
+    {
+      "strong": "Signature Creations",
+      "label": "Cold Stone's set combos"
+    },
+    {
+      "strong": "First mix-in free",
+      "label": "on Create Your Own"
+    },
+    {
+      "strong": "Ice cream cakes",
+      "label": "from about $24"
+    }
+  ],
+  "hot_deal": "Cold Stone value: Create Your Own includes one free mix-in, so it's often cheaper than a Signature Creation. Check the Cold Stone app for current deals.",
+  "menu": [
+    {
+      "category": "Signature Creations",
+      "intro": "Set combinations mixed on the frozen stone.",
+      "items": [
+        {
+          "name": "Like It",
+          "size": "Like It",
+          "price": "$5.00 – $6.29",
+          "calories": "",
+          "desc": "About 5 oz"
+        },
+        {
+          "name": "Love It",
+          "size": "Love It",
+          "price": "$5.25 – $7.08",
+          "calories": "",
+          "desc": "About 8 oz, the most popular size"
+        },
+        {
+          "name": "Gotta Have It",
+          "size": "Gotta Have It",
+          "price": "$5.75 – $8.25",
+          "calories": "",
+          "desc": "About 12 oz"
+        }
+      ]
+    },
+    {
+      "category": "Create Your Own",
+      "intro": "Pick your ice cream and mix-ins; first mix-in free.",
+      "items": [
+        {
+          "name": "Like It",
+          "size": "Like It",
+          "price": "$4.00 – $5.99",
+          "calories": "",
+          "desc": "About 5 oz"
+        },
+        {
+          "name": "Love It",
+          "size": "Love It",
+          "price": "$4.25 – $6.99",
+          "calories": "",
+          "desc": "About 8 oz"
+        },
+        {
+          "name": "Gotta Have It",
+          "size": "Gotta Have It",
+          "price": "$4.75 – $7.99",
+          "calories": "",
+          "desc": "About 12 oz"
+        },
+        {
+          "name": "Extra Mix-In",
+          "size": "",
+          "price": "+$0.75",
+          "calories": "",
+          "desc": "Each mix-in after the first"
+        }
+      ]
+    },
+    {
+      "category": "Shakes & Smoothies",
+      "intro": "Blended with real ice cream or fruit.",
+      "items": [
+        {
+          "name": "Shake",
+          "size": "",
+          "price": "$5.00 / $5.75",
+          "calories": "",
+          "desc": "Like It / Love It"
+        },
+        {
+          "name": "Smoothie",
+          "size": "",
+          "price": "$5.00 / $5.75",
+          "calories": "",
+          "desc": "Like It / Love It"
+        }
+      ]
+    },
+    {
+      "category": "Ice Cream Cakes",
+      "intro": "",
+      "items": [
+        {
+          "name": "Ice Cream Cake",
+          "size": "",
+          "price": "$24",
+          "calories": "",
+          "desc": "Starting price for a round cake"
+        },
+        {
+          "name": "Rectangle Cake (Large)",
+          "size": "",
+          "price": "$62",
+          "calories": "",
+          "desc": "For parties"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Make Cold Stone-Style Ice Cream at Home",
+    "intro": "Want mix-in ice cream at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🪨",
+        "name": "Cold Stone Slab",
+        "blurb": "Mix in toppings like the stores do.",
+        "amazon_search": "cold stone ice cream slab"
+      },
+      {
+        "icon": "🍨",
+        "name": "Ice Cream Maker",
+        "blurb": "For homemade sweet cream.",
+        "amazon_search": "ice cream maker"
+      },
+      {
+        "icon": "🥄",
+        "name": "Ice Cream Spade",
+        "blurb": "For folding in mix-ins.",
+        "amazon_search": "ice cream spade"
+      },
+      {
+        "icon": "🍫",
+        "name": "Candy Mix-Ins",
+        "blurb": "Brownie bites, sprinkles and more.",
+        "amazon_search": "ice cream topping variety pack"
+      }
+    ]
+  },
+  "popular_items": [
+    "Founder's Favorite",
+    "Apple Pie a la Cold Stone",
+    "Cake Batter n' Shake",
+    "Milk & OREO Cookies Shake",
+    "Ice Cream Cakes"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a Love It at Cold Stone?",
+      "a": "A Love It Signature Creation is about $5.25 to $7.08, depending on the store."
+    },
+    {
+      "q": "What are Cold Stone sizes?",
+      "a": "Like It (about 5 oz), Love It (about 8 oz) and Gotta Have It (about 12 oz)."
+    },
+    {
+      "q": "Is the first mix-in free at Cold Stone?",
+      "a": "Yes, on Create Your Own the first mix-in is free; extras are about $0.75 to $0.90 each."
+    },
+    {
+      "q": "How much is a Cold Stone shake?",
+      "a": "About $5.00 for a Like It and $5.75 for a Love It."
+    },
+    {
+      "q": "How much is a Cold Stone ice cream cake?",
+      "a": "Cakes start around $24, and a large rectangle cake is about $62."
+    }
+  ],
+  "internal_links": [
+    "baskin-robbins-menu",
+    "dairy-queen-menu",
+    "krispy-kreme-menu",
+    "cinnabon-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Coffee & Drinks > Cold Stone Creamery."
+  },
+  "_data_notes": {
+    "price_source": "Prices from established menu-prices publications cross-checked against each other (US pricing; vary by location). Real listed values at time of writing. Ranges from menupricesnow.com (2026); top-end Gotta Have It ($8.25) from coldstonecreamerymenu.com; base franchise list ($5.00/$5.25/$5.75, shakes $5.00/$5.75) from everymenuprices.com.",
+    "calories": "Left blank.",
+    "accuracy": "Franchised; wide ranges shown. Popular items are Cold Stone signature creation names; prices not attached to them.",
+    "keyword_notes": "cold stone menu 1.8K KD0; cold stone prices 1.4K KD5.",
+    "hero_image": "Placeholder reused from Baskin-Robbins page."
+  }
+}

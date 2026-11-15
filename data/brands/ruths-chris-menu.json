@@ -1,0 +1,250 @@
+{
+  "slug": "ruths-chris-menu",
+  "brand": "Ruth's Chris Steak House",
+  "site_category": "Breakfast & Dining",
+  "url_path": "/menu/ruths-chris-menu/",
+  "hero_image": {
+    "url": "https://images.pexels.com/photos/6166801/pexels-photo-6166801.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "Ruth's Chris style sizzling steak with butter on a hot plate",
+    "credit": "Photo via Pexels (free license)",
+    "source": "pexels-6166801",
+    "_verify_note": "Reused the longhorn-steakhouse hero photo as a placeholder. Swap for a unique, unbranded photo before launch."
+  },
+  "seo": {
+    "meta_title": "Ruth's Chris Menu With Prices (2026)",
+    "meta_description": "Ruth's Chris Steak House menu with prices for 2026: filet, ribeye, cowboy ribeye, tomahawk, appetizers, sides and the prix fixe.",
+    "h1": "Ruth's Chris Steak House Menu With Prices (2026)",
+    "primary_keyword": "ruth's chris menu",
+    "keyword_volume": 2700,
+    "keyword_kd": 1
+  },
+  "last_updated": "2026-11",
+  "price_disclaimer": "Prices are approximate, are provided as a guide only, and may vary by location. Steakhouse prices vary a lot by city. Calories are left blank unless confirmed. Last updated November 2026.",
+  "intro": "Ruth's Chris Steak House is the upscale steakhouse chain famous for USDA Prime steaks broiled at high heat and served sizzling on a 500-degree plate with butter. The menu is à la carte, so steaks, sides and starters are ordered separately, and sides are family-style. Below is the Ruth's Chris menu with prices for 2026.",
+  "quick_answer": "At Ruth's Chris, a Petite Filet is about $56, the 11 oz Filet about $62 and the 16 oz Ribeye about $70. Larger cuts include the Cowboy Ribeye (about $87), Porterhouse for Two (about $123) and Tomahawk Ribeye (about $165). Sides are about $14 to $15 each and serve the table. Prices vary noticeably by city.",
+  "highlights": [
+    {
+      "strong": "Sizzling steaks",
+      "label": "served on a 500° plate"
+    },
+    {
+      "strong": "USDA Prime",
+      "label": "ribeye and strip"
+    },
+    {
+      "strong": "À la carte",
+      "label": "sides sold separately"
+    },
+    {
+      "strong": "Prix fixe",
+      "label": "seasonal three-course menu"
+    }
+  ],
+  "hot_deal": "Ruth's Chris value: the seasonal prix fixe menu bundles a starter, entrée, side and dessert, typically around $60 to $79 a person. Sides are family-style, so two or three are enough for a table of four.",
+  "menu": [
+    {
+      "category": "Signature Steaks",
+      "intro": "USDA Prime and corn-fed beef, served sizzling.",
+      "items": [
+        {
+          "name": "Petite Filet",
+          "size": "",
+          "price": "$56",
+          "calories": "",
+          "desc": "Smaller filet, about 8 oz"
+        },
+        {
+          "name": "Filet",
+          "size": "11 oz",
+          "price": "$62",
+          "calories": "",
+          "desc": "Corn-fed midwestern beef, 11 oz"
+        },
+        {
+          "name": "Ribeye",
+          "size": "16 oz",
+          "price": "$70",
+          "calories": "",
+          "desc": "USDA Prime, 16 oz"
+        },
+        {
+          "name": "Bone-In New York Strip",
+          "size": "",
+          "price": "$74",
+          "calories": "",
+          "desc": "USDA Prime strip on the bone"
+        },
+        {
+          "name": "Bone-In Filet",
+          "size": "",
+          "price": "$84",
+          "calories": "",
+          "desc": "Filet on the bone"
+        },
+        {
+          "name": "Cowboy Ribeye",
+          "size": "",
+          "price": "$87",
+          "calories": "",
+          "desc": "Bone-in ribeye"
+        },
+        {
+          "name": "Porterhouse for Two",
+          "size": "",
+          "price": "$123",
+          "calories": "",
+          "desc": "Strip and filet on the bone, for sharing"
+        },
+        {
+          "name": "Tomahawk Ribeye",
+          "size": "",
+          "price": "$165",
+          "calories": "",
+          "desc": "Long-bone ribeye, about 40 oz"
+        }
+      ]
+    },
+    {
+      "category": "Appetizers & Entrées",
+      "intro": "",
+      "items": [
+        {
+          "name": "Barbecued Shrimp",
+          "size": "",
+          "price": "$22",
+          "calories": "",
+          "desc": "New Orleans-style shrimp"
+        },
+        {
+          "name": "Spicy Shrimp",
+          "size": "",
+          "price": "$25",
+          "calories": "",
+          "desc": "Crispy shrimp in a spicy sauce"
+        },
+        {
+          "name": "Stuffed Chicken Breast",
+          "size": "",
+          "price": "$39",
+          "calories": "",
+          "desc": "Oven-roasted chicken with garlic herb cheese"
+        }
+      ]
+    },
+    {
+      "category": "Potatoes & Signature Sides",
+      "intro": "Family-style, meant for sharing.",
+      "items": [
+        {
+          "name": "Creamed Spinach",
+          "size": "",
+          "price": "$15",
+          "calories": "",
+          "desc": "A steakhouse classic"
+        },
+        {
+          "name": "Sweet Potato Casserole",
+          "size": "",
+          "price": "$15",
+          "calories": "",
+          "desc": "With pecan crust"
+        },
+        {
+          "name": "Garlic Mashed Potatoes",
+          "size": "",
+          "price": "$14 – $15",
+          "calories": "",
+          "desc": "Family-style"
+        },
+        {
+          "name": "Potatoes Au Gratin",
+          "size": "",
+          "price": "$14 – $15",
+          "calories": "",
+          "desc": "Family-style"
+        }
+      ]
+    }
+  ],
+  "make_at_home": {
+    "title": "Cook a Steakhouse Dinner at Home",
+    "intro": "Want a sizzling steak at home? These picks help.",
+    "cards": [
+      {
+        "icon": "🥩",
+        "name": "Cast Iron Skillet",
+        "blurb": "For a hard sear on thick steaks.",
+        "amazon_search": "cast iron skillet 12 inch"
+      },
+      {
+        "icon": "🌡️",
+        "name": "Meat Thermometer",
+        "blurb": "Hit medium-rare every time.",
+        "amazon_search": "instant read meat thermometer"
+      },
+      {
+        "icon": "🍽️",
+        "name": "Sizzle Platter",
+        "blurb": "Serve it sizzling like a steakhouse.",
+        "amazon_search": "sizzling steak plate"
+      },
+      {
+        "icon": "🧈",
+        "name": "Butter Dish",
+        "blurb": "For finishing with butter.",
+        "amazon_search": "butter dish with lid"
+      }
+    ]
+  },
+  "popular_items": [
+    "Filet",
+    "Ribeye",
+    "Cowboy Ribeye",
+    "Creamed Spinach",
+    "Sweet Potato Casserole"
+  ],
+  "faqs": [
+    {
+      "q": "How much is a filet at Ruth's Chris?",
+      "a": "The 11 oz Filet is about $62 and the Petite Filet about $56. Prices vary by city."
+    },
+    {
+      "q": "How much is a ribeye at Ruth's Chris?",
+      "a": "The 16 oz Ribeye is about $70, and the Cowboy Ribeye about $87."
+    },
+    {
+      "q": "Do Ruth's Chris steaks come with sides?",
+      "a": "No. The menu is à la carte; sides are about $14 to $15 each and are sized to share."
+    },
+    {
+      "q": "Does Ruth's Chris have a prix fixe menu?",
+      "a": "It runs a seasonal three-course menu, typically about $60 to $79 per person."
+    },
+    {
+      "q": "Why do Ruth's Chris steaks sizzle?",
+      "a": "They're broiled at very high heat and served on a 500-degree plate with butter."
+    }
+  ],
+  "internal_links": [
+    "steak-48-menu",
+    "longhorn-steakhouse-menu",
+    "outback-steakhouse-menu",
+    "peter-luger-menu",
+    "texas-roadhouse-menu"
+  ],
+  "schema": {
+    "types": [
+      "Menu",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "note": "Generate Menu schema from the menu array, FAQPage schema from the faqs array, and BreadcrumbList Home > Menus > Breakfast & Dining > Ruth's Chris Steak House."
+  },
+  "_data_notes": {
+    "price_source": "Prices from established menu-prices publications cross-checked against each other (US pricing; vary by location). Real listed values at time of writing. Steaks and sides from ruthchrismenu.us (2026 US base prices); appetizers and stuffed chicken from fastfoodmenuprices.com (July 2026).",
+    "calories": "Ruth's Chris prints calories, but they were not verified from the official menu this session; left blank.",
+    "accuracy": "Steak prices differ widely between sources and cities ($46 to $73 for a filet). Mid-range national figures used. Always show disclaimer.",
+    "keyword_notes": "ruth chris menu 5.1K KD5; ruth's chris menu 2.7K KD1.",
+    "hero_image": "Placeholder reused from LongHorn page."
+  }
+}
