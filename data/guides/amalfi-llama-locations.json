@@ -1,0 +1,90 @@
+{
+  "slug": "amalfi-llama-locations",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "The Amalfi Llama",
+  "brand_slug": "amalfi-llama-menu",
+  "cover_hint": "Reuse the The Amalfi Llama menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-15",
+  "seo": {
+    "meta_title": "The Amalfi Llama: Locations, Hours and What It Is",
+    "meta_description": "The Amalfi Llama is a live-fire Italian and Patagonian restaurant with locations in Aventura, Florida, and San Diego's UTC. Addresses and what to expect.",
+    "h1": "The Amalfi Llama Locations",
+    "primary_keyword": "amalfi llama san diego",
+    "keyword_volume": 100,
+    "keyword_kd": 1
+  },
+  "question": "Where Is The Amalfi Llama?",
+  "quick_answer": "The Amalfi Llama has two locations. The first opened in early 2024 at Esplanade at Aventura, 19505 Biscayne Blvd. in Aventura, Florida, next to Aventura Mall. The second opened in March 2024 at The Collection at UTC, 4575 La Jolla Village Drive in San Diego. Both serve the same mix of live-fire Patagonian-style grilling and Italian food, from wood-fire pizza and handmade pasta to steaks and chops.",
+  "key_facts": [
+    "Aventura, FL: 19505 Biscayne Blvd. (Esplanade at Aventura)",
+    "San Diego, CA: 4575 La Jolla Village Dr. (The Collection at UTC)",
+    "Live-fire Patagonian grilling meets Italian",
+    "From Eureka! Restaurant Group and Grupo Carolo",
+    "Aventura phone: (305) 726-0226"
+  ],
+  "body": [
+    {
+      "heading": "What The Amalfi Llama is",
+      "text": "The Amalfi Llama blends two styles: the live-fire grilling of Patagonia, in South America, and the food of Italy's Mediterranean coast. A big wood-fire grill is the centerpiece, and the menu runs from focaccia and wood-fire pizzas to handmade pasta, prime steaks, chops and seafood. The wine list leans on Argentina, Italy and the United States. The llama in the name shows up in the decor, including Peruvian llama tassels."
+    },
+    {
+      "heading": "Who owns it",
+      "text": "The Amalfi Llama comes from a partnership between California's Eureka! Restaurant Group and Mexico City's Grupo Carolo Hospitality. Eduardo Gomez is CEO of both groups. Together they run more than 50 restaurants in the U.S. and Mexico City."
+    },
+    {
+      "heading": "Aventura, Florida",
+      "text": "The first Amalfi Llama opened at Esplanade at Aventura, an open-air shopping and dining center beside Aventura Mall, at 19505 Biscayne Blvd. It was planned for December 2023 and was reported open by late January 2024. The space is about 9,600 square feet, with bars, a private dining room and covered outdoor seating. The phone number is (305) 726-0226."
+    },
+    {
+      "heading": "San Diego",
+      "text": "The second location opened on March 25, 2024, at The Collection at UTC, 4575 La Jolla Village Drive in San Diego's University City area. Its opening hours were listed as 11 a.m. to 11 p.m. Sunday through Wednesday and 11 a.m. to midnight Thursday through Saturday. Hours can change, so check before you go."
+    },
+    {
+      "heading": "Prices",
+      "text": "The Amalfi Llama is upscale. On our latest check, pastas run about $26 to $60, wood-fire pizzas $24 to $31 and steaks and chops $49 to $82. See our Amalfi Llama menu for the full list."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is The Amalfi Llama?",
+      "a": "In Aventura, Florida, at 19505 Biscayne Blvd., and in San Diego at 4575 La Jolla Village Drive."
+    },
+    {
+      "q": "What kind of food does The Amalfi Llama serve?",
+      "a": "Italian dishes like pizza and pasta alongside Patagonian-style live-fire steaks and seafood."
+    },
+    {
+      "q": "Who owns The Amalfi Llama?",
+      "a": "Eureka! Restaurant Group and Grupo Carolo Hospitality, led by CEO Eduardo Gomez."
+    },
+    {
+      "q": "When did The Amalfi Llama San Diego open?",
+      "a": "On March 25, 2024, at The Collection at UTC."
+    },
+    {
+      "q": "Is The Amalfi Llama expensive?",
+      "a": "Yes. Most pastas are $26 or more, and steaks run about $49 to $82."
+    }
+  ],
+  "internal_links": [
+    {
+      "label": "The Amalfi Llama Menu",
+      "slug": "amalfi-llama-menu"
+    },
+    {
+      "label": "Cheesecake Factory Menu",
+      "slug": "cheesecake-factory-menu"
+    },
+    {
+      "label": "Steak 48 Dress Code",
+      "slug": "steak-48-dress-code"
+    }
+  ],
+  "_data_notes": {
+    "fact_source": "Florida YIMBY (Esplanade at Aventura, 19505 Biscayne Blvd, 9,595 sq ft; Eduardo Gomez CEO; wine from Argentina, Italy, US; drop-down shades; private dining; 56 restaurants); Miami New Times (December opening planned; next is San Diego); Restaurant Hospitality Jan 30 2024 (opened near Miami; Patagonian and Mediterranean); Aventura Mall dining page (phone 305-726-0226; live-fire steakhouse + Italian); WhatNow San Diego (opened March 25 at The Collection at UTC, 4575 La Jolla Village Dr; hours Sun-Wed 11-11, Thu-Sat 11-midnight; 57+ restaurants); Broward Palm Beach New Times (Peruvian llama tassel accents, wood-fire grill); AOL/Miami Herald (next to Aventura Mall at Esplanade). Prices from brand page.",
+    "accuracy": "No 2026 news found confirming status; both locations assumed open, guide says check hours. San Diego opening year 2024 inferred from WhatNow date context and Restaurant Hospitality (second location slated that spring).",
+    "keyword_notes": "amalfi llama san diego 100 KD1; amalfi llama aventura 50."
+  }
+}

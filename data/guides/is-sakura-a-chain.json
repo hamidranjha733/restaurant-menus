@@ -1,0 +1,86 @@
+{
+  "slug": "is-sakura-a-chain",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Sakura Japanese Steakhouse",
+  "brand_slug": "sakura-menu",
+  "cover_hint": "Reuse the Sakura Japanese Steakhouse menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-15",
+  "seo": {
+    "meta_title": "Is Sakura Japanese Steakhouse a Chain? Sakura Hibachi Guide",
+    "meta_description": "Sakura is a Virginia-born hibachi chain founded in 1988, but many unrelated restaurants also use the name. How to tell them apart and what hibachi costs.",
+    "h1": "Is Sakura Japanese Steakhouse a Chain?",
+    "primary_keyword": "sakura hibachi",
+    "keyword_volume": 1900,
+    "keyword_kd": 0
+  },
+  "question": "Is Sakura Japanese Steakhouse a Chain?",
+  "quick_answer": "Partly. There is a Sakura Japanese Steak & Seafood House chain, founded in 1988 by Marc Ha in Fredericksburg, Virginia, with about 20 locations mainly in Virginia, Maryland and New Jersey, plus a few in California. But \"Sakura,\" which means cherry blossom in Japanese, is also one of the most common names for independent hibachi and sushi restaurants across the U.S., and most of those have no connection to the chain. Menus and prices vary from one Sakura to the next.",
+  "key_facts": [
+    "Sakura chain founded in 1988 by Marc Ha",
+    "First restaurant: Fredericksburg, Virginia",
+    "About 20 chain locations, mostly VA, MD and NJ",
+    "Many unrelated restaurants share the name",
+    "Hibachi dinners usually include soup and salad"
+  ],
+  "body": [
+    {
+      "heading": "The Sakura chain",
+      "text": "Sakura Japanese Steak & Seafood House was founded in 1988 by Marc Ha, who opened his first restaurant in Fredericksburg, Virginia, with just seven hibachi tables. The chain grew to around 19 to 20 locations, mostly in Virginia, Maryland and New Jersey, and has also expanded to California. Its restaurants offer teppanyaki tables, a sushi bar and a traditional Japanese menu, though the menu varies by location. A Sakura location in Camden County, New Jersey, opened more recently."
+    },
+    {
+      "heading": "Why there are so many Sakuras",
+      "text": "Sakura is the Japanese word for cherry blossom, a symbol of Japan, so it's a popular name for Japanese restaurants. You'll find independent restaurants called Sakura Japanese Steakhouse, Sakura Hibachi or Sakura Garden in places like North Dakota, Texas, Ohio and Connecticut. These are usually locally owned and have their own menus and prices, even if their names and hibachi shows look similar."
+    },
+    {
+      "heading": "How to tell if your Sakura is part of the chain",
+      "text": "Check the restaurant's website. Chain locations usually mention Marc Ha or the 1988 Fredericksburg origin, and they're concentrated in the Mid-Atlantic. A Sakura outside those states, with its own standalone website or no website, is most likely independent. Gift cards and promotions usually only work within the same owner's restaurants."
+    },
+    {
+      "heading": "What a Sakura hibachi dinner includes",
+      "text": "At most Sakura restaurants, a hibachi dinner is cooked on a flat-top grill at your table by a chef who puts on a show, and it comes with soup, salad, grilled vegetables and fried rice or noodles. Typical prices on a representative Sakura menu are about $16.99 for hibachi chicken, $23.99 for steak and $25.99 for filet mignon, with combination dinners from about $24.99 to $51. Sushi rolls run about $6 to $13. See our Sakura menu for a full price list."
+    },
+    {
+      "heading": "Similar hibachi restaurants",
+      "text": "If you don't have a Sakura nearby, Benihana is the best-known national hibachi chain. Many towns also have independent hibachi steakhouses. Prices and portions at independent restaurants vary, so check the local menu."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Sakura Japanese Steakhouse a chain?",
+      "a": "There is a Sakura chain founded in 1988, but many restaurants named Sakura are unrelated independents."
+    },
+    {
+      "q": "Who owns the Sakura chain?",
+      "a": "Founder and president Marc Ha started the chain in Fredericksburg, Virginia, in 1988."
+    },
+    {
+      "q": "Where are Sakura chain locations?",
+      "a": "Mostly in Virginia, Maryland and New Jersey, with a few in California."
+    },
+    {
+      "q": "What does Sakura mean?",
+      "a": "Sakura means cherry blossom in Japanese."
+    },
+    {
+      "q": "How much is hibachi at Sakura?",
+      "a": "On a typical menu, hibachi chicken is about $16.99 and steak about $23.99, with soup and salad included. Prices vary by restaurant."
+    }
+  ],
+  "internal_links": [
+    {
+      "label": "Sakura Menu",
+      "slug": "sakura-menu"
+    },
+    {
+      "label": "Benihana Menu",
+      "slug": "benihana-menu"
+    }
+  ],
+  "_data_notes": {
+    "fact_source": "Grand Forks Herald local listing / Westminster MD (founded 1988 by president Marc Ha; first in Fredericksburg VA with 7 hibachi tables); FCNP 2009 (19 locations MD, VA, NJ); Fair Lakes (more than 20 locations, expanded to west coast); Eat This (founded Fredericksburg 1988, 19 locations, sushi bar and teppan, menu varies by location); NJ.com via AOL (Camden County opening; other locations MD, VA, CA); frankiapp (La Cañada CA chain listing); unrelated: Dickinson ND, Grand Forks visitor listing, Pearland TX (Community Impact), Wheelersburg OH, Sakura Garden Hamden CT. Prices from brand page.",
+    "accuracy": "Grand Forks/Dickinson Sakuras assumed independent based on location; guide says 'usually' and 'most'. Camden County opening year 2026 from AOL article — date not explicit; softened? Kept 'newer'. Kobe/Kani as examples are generic hibachi names.",
+    "keyword_notes": "sakura hibachi 1.9K KD0."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "beauty-and-essex-nyc",
+  "type": "guide",
+  "category": "Restaurant Guides",
+  "brand": "Beauty & Essex (New York)",
+  "brand_slug": "beauty-essex-new-york-menu",
+  "cover_hint": "Reuse the Beauty & Essex (New York) menu hero.",
+  "byline": "USA Food Menu Editorial",
+  "last_updated": "2026-11-15",
+  "seo": {
+    "meta_title": "Beauty & Essex NYC: Pawn Shop Entrance, Hours, Dress Code",
+    "meta_description": "Beauty & Essex NYC sits behind a pawn shop at 146 Essex St on the Lower East Side. Hours, reservations, dress code and what to order before you go.",
+    "h1": "Beauty & Essex NYC: What to Know Before You Go",
+    "primary_keyword": "beauty and essex nyc",
+    "keyword_volume": 6700,
+    "keyword_kd": 2
+  },
+  "question": "What Should You Know Before Going to Beauty & Essex NYC?",
+  "quick_answer": "Beauty & Essex NYC is a shared-plates restaurant and lounge at 146 Essex Street on the Lower East Side, between Stanton and Rivington streets. It opened in 2010 and is known for its hidden entrance through a pawn shop storefront. OpenTable lists it as open for dinner daily from 5 to 10 p.m., with a smart casual dress code and a typical spend of $31 to $50 per person before drinks. Reservations are recommended, and the closest subway stop is Delancey St–Essex St.",
+  "key_facts": [
+    "146 Essex St, Lower East Side",
+    "Opened 2010; chef Chris Santos; Tao Group",
+    "Hidden entrance through a pawn shop",
+    "Dress code: smart casual",
+    "Subway: F, J, M, Z to Delancey St–Essex St"
+  ],
+  "body": [
+    {
+      "heading": "The pawn shop entrance",
+      "text": "From the street, Beauty & Essex looks like a small pawn shop. Walk through it and you reach a large, glamorous restaurant and lounge, which is a big part of the fun. The name comes from the neighborhood: the restaurant sits on Essex Street on the Lower East Side, and the beauty is what's hidden behind the shop."
+    },
+    {
+      "heading": "Hours and reservations",
+      "text": "OpenTable lists dinner daily from 5 to 10 p.m., and Tao Group's site shows later closing on some nights, such as 11 p.m. on Thursday, so check the night you plan to go. Beauty & Essex is popular for birthdays and groups, so book ahead, particularly on weekends. Reservations are on OpenTable, and the restaurant's phone number is (212) 614-0146. It also has private rooms for events."
+    },
+    {
+      "heading": "Dress code",
+      "text": "The dress code is listed as smart casual. Nice jeans with a dressier top are fine, but athletic wear isn't a good fit for the room. Weekend nights draw a dressed-up crowd."
+    },
+    {
+      "heading": "What to order",
+      "text": "The menu is creative American food meant for sharing, from chef Chris Santos. Popular plates include tuna poke wonton tacos, ricotta meatballs and lobster mac and cheese, along with flatbreads, larger plates and desserts. The cocktail list is a big draw too. Most groups order several small plates and a couple of larger dishes. See our Beauty & Essex New York menu for more."
+    },
+    {
+      "heading": "Brunch and the Las Vegas sibling",
+      "text": "Beauty & Essex has served weekend brunch in New York in the past, and diners still mention brunch in reviews, but hours change, so confirm on OpenTable before planning around it. The brand also has a location at The Cosmopolitan in Las Vegas, which opened in 2016 with the same pawn shop entrance."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Beauty & Essex in NYC?",
+      "a": "At 146 Essex Street on the Lower East Side, between Stanton and Rivington streets."
+    },
+    {
+      "q": "Is there really a pawn shop at Beauty & Essex?",
+      "a": "Yes. You enter through a pawn shop storefront to reach the restaurant behind it."
+    },
+    {
+      "q": "What is the dress code at Beauty & Essex NYC?",
+      "a": "Smart casual. Nice jeans are fine; skip athletic wear."
+    },
+    {
+      "q": "How much does Beauty & Essex NYC cost?",
+      "a": "OpenTable lists it at $31 to $50 per person, before drinks, tax and tip."
+    },
+    {
+      "q": "Who owns Beauty & Essex?",
+      "a": "It's part of Tao Group, with chef Chris Santos running the kitchen."
+    }
+  ],
+  "internal_links": [
+    {
+      "label": "Beauty & Essex New York Menu",
+      "slug": "beauty-essex-new-york-menu"
+    },
+    {
+      "label": "Beauty & Essex Las Vegas Dress Code",
+      "slug": "beauty-and-essex-las-vegas-dress-code"
+    },
+    {
+      "label": "Beauty & Essex Las Vegas Menu",
+      "slug": "beauty-essex-las-vegas-menu"
+    }
+  ],
+  "_data_notes": {
+    "fact_source": "OpenTable listing (146 Essex St; Stanton & Rivington; daily 5-10pm; $31-$50; Smart Casual; Chris Santos; phone (212) 614-0146; F/J/M/Z to Delancey/Essex; private party facilities; diner review mentions brunch); taogroup.com contact page (Tue-Wed 5-10pm, Thu 5-11pm; pawn shop; Tao Group venue); mapstr (opened 2010; guidebook listed weekend brunch 11:30-3); vegasfoodandfun (NYC 2010, LV 2016); our brand page (dishes).",
+    "accuracy": "Hours differ between OpenTable and Tao site; both described. Brunch hedged as past/confirm. Name explanation is descriptive, not sourced as official.",
+    "keyword_notes": "beauty and essex nyc 6.7K KD2 (brand-ish); beauty and essex dress code 200 KD2."
+  }
+}
